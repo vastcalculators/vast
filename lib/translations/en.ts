@@ -5120,6 +5120,13 @@ export const enTranslations = {
       desc: "Solve division problems online in seconds. Accurate, simple, and reliable, use our Division Calculator today.",
       heading: "Division Calculator",
 
+      dividend: "Dividend",
+      divisor: "Divisor",
+
+      result: "Division Result",
+
+      resultExplain: "Division is calculated by dividing the dividend by the divisor. The divisor must not be zero, as division by zero is undefined.",
+
 
       tocTitle: "Table of Contents",
       tocwhat: "What Is a Division Calculator?",
@@ -5165,8 +5172,8 @@ export const enTranslations = {
       whyformulacontent: "When division results in values smaller than one or non-whole numbers, the calculator uses decimal division. The process stays the same, but the quotient extends beyond the decimal point. In decimal division, the calculator adjusts the dividend and divisor equally to remove decimals. This keeps the division accurate and preserves mathematical accuracy throughout the calculation.",
 
       fractiontitle: "Fraction Division Method",
-      fractionformula:"Fraction Division = First Fraction × Reciprocal of Second Fraction",
-      fractionformulaend:"For fraction division, the calculator uses a standard math rule. It multiplies the first fraction by the reciprocal of the second fraction. This method allows the calculator to handle fractional inputs smoothly and deliver correct results during complex arithmetic operations.",
+      fractionformula: "Fraction Division = First Fraction × Reciprocal of Second Fraction",
+      fractionformulaend: "For fraction division, the calculator uses a standard math rule. It multiplies the first fraction by the reciprocal of the second fraction. This method allows the calculator to handle fractional inputs smoothly and deliver correct results during complex arithmetic operations.",
 
       resultstitle: "How the Calculator Ensures Accurate Results",
       resultscontent: "The math division calculator applies the correct formula based on the input type. It checks whether the numbers require long division, decimal handling, or fraction rules. Each step follows fixed math logic to maintain consistency. Division results often lead to decimal values. When users need to continue working with those values, they may refine or convert them further using tools like the Decimal Calculator.",

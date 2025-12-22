@@ -5101,6 +5101,97 @@ export const frTranslations = {
     ]
   },
 
+  division: {
+  metaTitle: "Calculatrice de Division Instantanée – Résolvez en Secondes",
+  metaDescription: "Résolvez des problèmes de division en ligne en quelques secondes. Précise, simple et fiable, utilisez notre Calculatrice de Division dès aujourd'hui.",
+  title: "Calculatrice de Division",
+  desc: "Résolvez des problèmes de division en ligne en quelques secondes. Précise, simple et fiable, utilisez notre Calculatrice de Division dès aujourd'hui.",
+  heading: "Calculatrice de Division",
+
+  dividend: "Dividende",
+  divisor: "Diviseur",
+
+  result: "Résultat de la Division",
+
+  resultExplain: "La division se calcule en divisant le dividende par le diviseur. Le diviseur ne doit pas être zéro, car la division par zéro n'est pas définie.",
+
+  tocTitle: "Table des Matières",
+  tocwhat: "Qu'est-ce qu'une Calculatrice de Division ?",
+  tocunderstanding: "Comprendre la Division en Termes Simples",
+  tochow: "Comment Fonctionne la Calculatrice de Division",
+  tocformula: "Formule de la Calculatrice de Division",
+  tocfraction: "Méthode de Division des Fractions",
+  tocresults: "Comment la Calculatrice Assure des Résultats Précis",
+
+  introTitle: "À Propos de la Calculatrice de Division",
+
+  whatTitle: "Qu'est-ce qu'une Calculatrice de Division ?",
+  whatContent: "Une calculatrice de division est un outil qui aide à diviser un nombre par un autre et à afficher le résultat clairement. La division est l'une des quatre opérations arithmétiques de base utilisées dans les mathématiques quotidiennes. Elle répond à la question combien de fois un nombre tient dans un autre.",
+  whatContent2: "Cette calculatrice fonctionne comme une calculatrice de division pour les nombres entiers, les décimales et les fractions. Elle fournit des résultats rapides tout en maintenant la précision mathématique, ce qui la rend utile pour les étudiants, les professionnels et toute personne travaillant avec des nombres.",
+
+  understandingTitle: "Comprendre la Division en Termes Simples",
+  understandingContent: "La division comporte trois parties principales : le dividende, le diviseur et le résultat. Le dividende est le nombre à diviser. Le diviseur est le nombre utilisé pour le diviser. La réponse est appelée quotient, et parfois il y a un reste.",
+  understandingcontent2: "Par exemple, lorsque l'on divise 17 par 5, le quotient est 3 et le reste est 2. Une calculatrice de quotient et une calculatrice de reste aident à afficher les deux valeurs clairement, surtout lorsque la division ne donne pas un nombre entier.",
+
+  howtitle: "Comment Fonctionne la Calculatrice de Division",
+  howcontent: "Cet outil de division en ligne suit les règles mathématiques standard pour garantir des résultats corrects. Tout d'abord, il vérifie le dividende et le diviseur. Ensuite, il applique la méthode de division correcte selon le type d'entrée. Pour les nombres entiers, il peut utiliser la méthode de la division longue. Pour les décimales, il effectue la division décimale. Pour les fractions, il applique les règles de division des fractions. La calculatrice traite chaque étape avec soin pour fournir un calcul numérique clair et fiable sans effort manuel.",
+
+  whentousetitle: "Quand Utiliser une Calculatrice de Division",
+  whentousecontent: "Une calculatrice mathématique de division est utile pour résoudre les devoirs, vérifier les réponses ou travailler avec des nombres réels tels que budgets, mesures ou moyennes. Elle aide à éviter les erreurs pouvant survenir lors de la division manuelle. La division conduit souvent à des résultats décimaux, surtout lorsque le quotient n'est pas un nombre entier. Dans de tels cas, les utilisateurs peuvent continuer les calculs ou les comparaisons en utilisant des outils comme le ",
+  interlink: "Calculatrice Décimale.",
+
+  imageurl: "/Division-Calculator.jpg",
+  imagealttext: "Division Calculator",
+
+  formulaTitle: "Formule de la Calculatrice de Division",
+
+  mainFormulatitle: "Formule de Division de Base Expliquée",
+  mainformula: "Quotient = Dividende ÷ Diviseur",
+  mainformulaend: "Le dividende est le nombre que vous souhaitez diviser. Le diviseur est le nombre par lequel vous divisez. Le résultat de cette opération s'appelle le quotient. Cette formule constitue la base de tous les calculs numériques basés sur la division en mathématiques. Lorsque le dividende n'est pas divisible uniformément par le diviseur, un reste apparaît. Ce reste montre ce qui reste après la fin du processus de division.",
+
+  howtoTitle: "Comment Fonctionne la Méthode de Division Longue",
+  howtocontent: "La méthode de division longue décompose la division en petites étapes faciles. Tout d'abord, le diviseur est comparé au premier chiffre ou groupe de chiffres du dividende. Ensuite, le quotient est construit étape par étape tout en soustrayant les résultats partiels. Cette méthode aide à afficher clairement le quotient et le reste. Une calculatrice de division longue suit la même logique mais effectue chaque étape instantanément, ce qui réduit les erreurs et fait gagner du temps.",
+
+  whyformulatitle: "Formule de Division Décimale",
+  whyformulacontent: "Lorsque la division donne des valeurs inférieures à un ou des nombres non entiers, la calculatrice utilise la division décimale. Le processus reste le même, mais le quotient s'étend au-delà du point décimal. Dans la division décimale, la calculatrice ajuste le dividende et le diviseur de manière égale pour supprimer les décimales. Cela maintient la division précise et préserve l'exactitude mathématique tout au long du calcul.",
+
+  fractiontitle: "Méthode de Division des Fractions",
+  fractionformula: "Division des Fractions = Première Fraction × Réciproque de la Deuxième Fraction",
+  fractionformulaend: "Pour la division des fractions, la calculatrice utilise une règle mathématique standard. Elle multiplie la première fraction par le réciproque de la deuxième fraction. Cette méthode permet à la calculatrice de traiter les entrées fractionnaires sans problème et de fournir des résultats corrects lors d'opérations arithmétiques complexes.",
+
+  resultstitle: "Comment la Calculatrice Assure des Résultats Précis",
+  resultscontent: "La calculatrice mathématique de division applique la formule correcte selon le type d'entrée. Elle vérifie si les nombres nécessitent une division longue, une gestion des décimales ou des règles de fractions. Chaque étape suit une logique mathématique fixe pour maintenir la cohérence. Les résultats de la division conduisent souvent à des valeurs décimales. Lorsque les utilisateurs doivent continuer à travailler avec ces valeurs, ils peuvent les affiner ou les convertir davantage en utilisant des outils comme la Calculatrice Décimale.",
+
+  faqTitle: "Questions Fréquemment Posées",
+  faq: [
+    {
+      q: "Que fait une calculatrice de division ?",
+      a: "Une calculatrice de division divise un nombre par un autre et affiche le résultat clairement. Elle affiche le quotient et, si nécessaire, le reste. Cela aide les utilisateurs à comprendre comment les nombres se divisent sans effectuer de étapes manuelles."
+    },
+    {
+      q: "Quelle est la différence entre quotient et reste ?",
+      a: "Le quotient est le résultat principal d'une division. Le reste est ce qui reste lorsque le dividende n'est pas divisible uniformément par le diviseur. Par exemple, diviser 17 par 5 donne un quotient de 3 et un reste de 2."
+    },
+    {
+      q: "Cette calculatrice peut-elle gérer la division longue ?",
+      a: "Oui, cette calculatrice prend en charge la méthode de division longue. Elle suit la même logique étape par étape enseignée dans les cours de mathématiques, mais effectue le calcul instantanément et affiche des résultats précis."
+    },
+    {
+      q: "La calculatrice fonctionne-t-elle avec des décimales ?",
+      a: "Oui, la calculatrice prend en charge la division décimale. Lorsque la division ne se termine pas par un nombre entier, elle affiche clairement les valeurs décimales tout en maintenant la précision mathématique à chaque étape."
+    },
+    {
+      q: "Puis-je diviser des fractions avec cette calculatrice ?",
+      a: "Oui, la calculatrice prend en charge la division des fractions. Elle applique des règles arithmétiques standard pour diviser correctement les fractions, ce qui la rend utile pour les devoirs et la résolution pratique de problèmes."
+    },
+    {
+      q: "Pourquoi la division est-elle importante en arithmétique de base ?",
+      a: "La division est une partie fondamentale des opérations arithmétiques. Elle aide à partager des quantités, trouver des moyennes et résoudre des problèmes de la vie réelle liés aux mesures, aux finances et à l'analyse des données."
+    }
+  ]
+},
+
+
 
   },
 

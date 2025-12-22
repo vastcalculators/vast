@@ -236,6 +236,25 @@ Digital Root: ${n}
   `.trim();
 },
 
+division: (inputs: Record<string, any>) => {
+  const dividend = Number(inputs.dividend);
+  const divisor = Number(inputs.divisor);
+
+  if (isNaN(dividend) || isNaN(divisor)) {
+    return "0 | Invalid input";
+  }
+
+  if (divisor === 0) {
+    return "Undefined | Division by zero";
+  }
+
+  const result = dividend / divisor;
+
+  return `
+Result: ${result}
+  `.trim();
+},
+
 
 
 };

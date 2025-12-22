@@ -5036,6 +5036,97 @@ export const trTranslations = {
     ]
   },
 
+  division: {
+  metaTitle: "Anında Bölme Hesaplayıcı – Saniyeler İçinde Çözün",
+  metaDescription: "Bölme problemlerini çevrimiçi olarak saniyeler içinde çözün. Doğru, basit ve güvenilir, Bölme Hesaplayıcımızı bugün kullanın.",
+  title: "Bölme Hesaplayıcı",
+  desc: "Bölme problemlerini çevrimiçi olarak saniyeler içinde çözün. Doğru, basit ve güvenilir, Bölme Hesaplayıcımızı bugün kullanın.",
+  heading: "Bölme Hesaplayıcı",
+
+  dividend: "Bölünen",
+  divisor: "Bölen",
+
+  result: "Bölme Sonucu",
+
+  resultExplain: "Bölme, bölünenin bölen ile bölünmesiyle hesaplanır. Bölen sıfır olmamalıdır, çünkü sıfıra bölme tanımsızdır.",
+
+  tocTitle: "İçindekiler",
+  tocwhat: "Bölme Hesaplayıcı Nedir?",
+  tocunderstanding: "Bölmeyi Basit Terimlerle Anlamak",
+  tochow: "Bölme Hesaplayıcı Nasıl Çalışır",
+  tocformula: "Bölme Hesaplayıcı Formülü",
+  tocfraction: "Kesir Bölme Yöntemi",
+  tocresults: "Hesaplayıcı Doğru Sonuçları Nasıl Sağlar",
+
+  introTitle: "Bölme Hesaplayıcı Hakkında",
+
+  whatTitle: "Bölme Hesaplayıcı Nedir?",
+  whatContent: "Bölme Hesaplayıcı, bir sayıyı başka bir sayıya bölmeye ve sonucu net bir şekilde göstermeye yardımcı olan bir araçtır. Bölme, günlük matematikte kullanılan dört temel aritmetik işlemden biridir. Bir sayının diğerine kaç kez sığdığını gösterir.",
+  whatContent2: "Bu hesaplayıcı, tam sayılar, ondalık sayılar ve kesirler için bir bölme hesaplayıcısı olarak çalışır. Matematiksel doğruluğu korurken hızlı sonuçlar verir, bu da onu öğrenciler, profesyoneller ve sayılarla çalışan herkes için faydalı kılar.",
+
+  understandingTitle: "Bölmeyi Basit Terimlerle Anlamak",
+  understandingContent: "Bölme üç ana bölümden oluşur: bölünen, bölen ve sonuç. Bölünen, bölünen sayıdır. Bölen, bölmek için kullanılan sayıdır. Sonuca bölüm denir ve bazen kalıntı da vardır.",
+  understandingcontent2: "Örneğin, 17'yi 5'e böldüğümüzde, bölüm 3 ve kalıntı 2 olur. Bir bölüm hesaplayıcı ve kalıntı hesaplayıcı, özellikle bölme tam sayı sonucu vermediğinde, her iki değeri net bir şekilde göstermeye yardımcı olur.",
+
+  howtitle: "Bölme Hesaplayıcı Nasıl Çalışır",
+  howcontent: "Bu çevrimiçi bölme aracı, doğru sonuçları sağlamak için standart matematik kurallarını takip eder. Önce bölünen ve böleni kontrol eder. Ardından, giriş türüne göre doğru bölme yöntemini uygular. Tam sayılar için uzun bölme yöntemi kullanabilir. Ondalık sayılar için ondalık bölme yapar. Kesirler için kesir bölme kurallarını uygular. Hesaplayıcı, manuel çaba gerektirmeden temiz ve güvenilir sayısal hesaplama sağlamak için her adımı dikkatlice işler.",
+
+  whentousetitle: "Bölme Hesaplayıcı Ne Zaman Kullanılır",
+  whentousecontent: "Bir matematik bölme hesaplayıcı, ödevleri çözerken, cevapları kontrol ederken veya bütçe, ölçümler veya ortalamalar gibi gerçek yaşam sayılarıyla çalışırken kullanışlıdır. Manuel bölme sırasında oluşabilecek hatalardan kaçınmaya yardımcı olur. Bölme genellikle ondalık sonuçlarla ilişkilidir, özellikle bölüm tam sayı değilse. Bu gibi durumlarda, kullanıcılar hesaplamalarına veya karşılaştırmalarına aşağıdaki araçları kullanarak devam edebilir: ",
+  interlink: "Ondalık Hesaplayıcı.",
+
+  imageurl: "/Division-Calculator.jpg",
+  imagealttext: "Division Calculator",
+
+  formulaTitle: "Bölme Hesaplayıcı Formülü",
+
+  mainFormulatitle: "Temel Bölme Formülü Açıklaması",
+  mainformula: "Bölüm = Bölünen ÷ Bölen",
+  mainformulaend: "Bölünen, bölmek istediğiniz sayıdır. Bölen, bölmek için kullandığınız sayıdır. Bu işlemin sonucu bölüm olarak adlandırılır. Bu formül, matematikte tüm bölme tabanlı sayısal hesaplamaların temelini oluşturur. Bölünen, bölen tarafından tam bölünemezse, bir kalıntı oluşur. Bu kalıntı, bölme işlemi tamamlandıktan sonra geriye kalan miktarı gösterir.",
+
+  howtoTitle: "Uzun Bölme Yöntemi Nasıl Çalışır",
+  howtocontent: "Uzun bölme yöntemi, bölmeyi küçük ve kolay adımlara böler. Önce, bölen bölünenin ilk rakamı veya rakam grubuyla karşılaştırılır. Ardından bölüm adım adım oluşturulur ve kısmi sonuçlar çıkarılır. Bu yöntem, bölüm ve kalıntıyı net bir şekilde göstermeye yardımcı olur. Uzun bölme hesaplayıcı aynı mantığı takip eder, ancak her adımı anında gerçekleştirir, hataları azaltır ve zaman kazandırır.",
+
+  whyformulatitle: "Ondalık Bölme Formülü",
+  whyformulacontent: "Bölme 1’den küçük veya tam sayı olmayan değerler verdiğinde, hesaplayıcı ondalık bölme kullanır. Süreç aynı kalır, ancak bölüm ondalık noktanın ötesine uzanır. Ondalık bölmede, hesaplayıcı ondalık sayıları kaldırmak için bölüneni ve böleni eşit şekilde ayarlar. Bu, bölmeyi doğru tutar ve hesaplama boyunca matematiksel doğruluğu korur.",
+
+  fractiontitle: "Kesir Bölme Yöntemi",
+  fractionformula: "Kesir Bölme = Birinci Kesir × İkinci Kesrin Ters Çevrimi",
+  fractionformulaend: "Kesir bölme için hesaplayıcı standart bir matematik kuralı kullanır. İlk kesri ikinci kesrin tersiyle çarpar. Bu yöntem, hesaplayıcının kesirli girişleri sorunsuz şekilde işlemesine ve karmaşık aritmetik işlemler sırasında doğru sonuçlar vermesine olanak tanır.",
+
+  resultstitle: "Hesaplayıcı Doğru Sonuçları Nasıl Sağlar",
+  resultscontent: "Matematik bölme hesaplayıcı, giriş türüne göre doğru formülü uygular. Sayıların uzun bölme, ondalık işleme veya kesir kurallarına ihtiyaç duyup duymadığını kontrol eder. Her adım tutarlılığı korumak için sabit matematik mantığını takip eder. Bölme sonuçları genellikle ondalık değerler verir. Kullanıcıların bu değerlerle çalışmaya devam etmesi gerektiğinde, onları Ondalık Hesaplayıcı gibi araçları kullanarak daha da iyileştirebilir veya dönüştürebilirler.",
+
+  faqTitle: "Sıkça Sorulan Sorular",
+  faq: [
+    {
+      q: "Bölme hesaplayıcı ne yapar?",
+      a: "Bölme hesaplayıcı, bir sayıyı başka bir sayıya böler ve sonucu net bir şekilde gösterir. Bölümü ve gerektiğinde kalıntıyı gösterir. Bu, kullanıcıların sayılar bölünürken nasıl ayrıldığını anlamalarına yardımcı olur, manuel adımlar yapmadan."
+    },
+    {
+      q: "Bölüm ve kalıntı arasındaki fark nedir?",
+      a: "Bölüm, bölmenin ana sonucudur. Kalıntı, bölünen, bölen tarafından tam bölünmediğinde geriye kalan değerdir. Örneğin, 17'yi 5'e böldüğümüzde bölüm 3 ve kalıntı 2 olur."
+    },
+    {
+      q: "Bu hesaplayıcı uzun bölmeyi yapabilir mi?",
+      a: "Evet, bu hesaplayıcı uzun bölme yöntemini destekler. Matematik derslerinde öğretilen aynı adım adım mantığı izler, ancak hesaplamayı anında tamamlar ve doğru sonuçları gösterir."
+    },
+    {
+      q: "Hesaplayıcı ondalık sayılarla çalışıyor mu?",
+      a: "Evet, hesaplayıcı ondalık bölmeyi destekler. Bölme tam sayı ile bitmediğinde, ondalık değerleri net bir şekilde gösterir ve her adımda matematiksel doğruluğu korur."
+    },
+    {
+      q: "Bu hesaplayıcı ile kesir bölebilir miyim?",
+      a: "Evet, hesaplayıcı kesir bölmeyi destekler. Kesirleri doğru şekilde bölmek için standart aritmetik kurallarını uygular, ödevler ve pratik problem çözme için faydalıdır."
+    },
+    {
+      q: "Bölme temel aritmetikte neden önemlidir?",
+      a: "Bölme, aritmetik işlemlerin temel bir parçasıdır. Miktarları paylaşmaya, ortalamaları bulmaya ve ölçüm, finans ve veri analizi ile ilgili gerçek hayattaki problemleri çözmeye yardımcı olur."
+    }
+  ]
+},
+
+
 
   },
 

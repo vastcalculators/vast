@@ -5078,6 +5078,97 @@ export const deTranslations = {
     ]
   },
 
+  division: {
+  metaTitle: "Sofortiger Divisionsrechner – In Sekunden lösen",
+  metaDescription: "Lösen Sie Divisionsaufgaben online in Sekunden. Genau, einfach und zuverlässig – nutzen Sie noch heute unseren Divisionsrechner.",
+  title: "Divisionsrechner",
+  desc: "Lösen Sie Divisionsaufgaben online in Sekunden. Genau, einfach und zuverlässig – nutzen Sie noch heute unseren Divisionsrechner.",
+  heading: "Divisionsrechner",
+
+  dividend: "Dividend",
+  divisor: "Divisor",
+
+  result: "Divisionsergebnis",
+
+  resultExplain: "Die Division wird berechnet, indem der Dividend durch den Divisor geteilt wird. Der Divisor darf nicht null sein, da eine Division durch null nicht definiert ist.",
+
+  tocTitle: "Inhaltsverzeichnis",
+  tocwhat: "Was ist ein Divisionsrechner?",
+  tocunderstanding: "Division einfach erklärt",
+  tochow: "Wie der Divisionsrechner funktioniert",
+  tocformula: "Formel des Divisionsrechners",
+  tocfraction: "Methode zur Division von Brüchen",
+  tocresults: "Wie der Rechner genaue Ergebnisse sicherstellt",
+
+  introTitle: "Über den Divisionsrechner",
+
+  whatTitle: "Was ist ein Divisionsrechner?",
+  whatContent: "Ein Divisionsrechner ist ein Werkzeug, das dabei hilft, eine Zahl durch eine andere zu teilen und das Ergebnis übersichtlich anzuzeigen. Die Division ist eine der vier grundlegenden arithmetischen Operationen, die in der alltäglichen Mathematik verwendet werden. Sie beantwortet die Frage, wie oft eine Zahl in eine andere passt.",
+  whatContent2: "Dieser Rechner funktioniert als Zahlen-Divisionsrechner für ganze Zahlen, Dezimalzahlen und Brüche. Er liefert schnelle Ergebnisse bei gleichbleibender mathematischer Genauigkeit und ist daher nützlich für Schüler, Berufstätige und alle, die mit Zahlen arbeiten.",
+
+  understandingTitle: "Division einfach erklärt",
+  understandingContent: "Die Division besteht aus drei Hauptteilen: dem Dividend, dem Divisor und dem Ergebnis. Der Dividend ist die Zahl, die geteilt wird. Der Divisor ist die Zahl, durch die geteilt wird. Das Ergebnis wird Quotient genannt, und manchmal gibt es einen Rest.",
+  understandingcontent2: "Zum Beispiel ergibt die Division von 17 durch 5 einen Quotienten von 3 und einen Rest von 2. Ein Quotientenrechner und ein Restrechner helfen dabei, beide Werte klar darzustellen, insbesondere wenn die Division kein ganzzahliges Ergebnis liefert.",
+
+  howtitle: "Wie der Divisionsrechner funktioniert",
+  howcontent: "Dieses Online-Divisionswerkzeug folgt den standardmäßigen mathematischen Regeln, um korrekte Ergebnisse sicherzustellen. Zuerst überprüft es den Dividend und den Divisor. Anschließend wendet es die passende Divisionsmethode basierend auf dem Eingabetyp an. Für ganze Zahlen kann die schriftliche Division verwendet werden. Für Dezimalzahlen wird die Dezimaldivision durchgeführt. Für Brüche werden die Regeln der Bruchdivision angewendet. Der Rechner verarbeitet jeden Schritt sorgfältig, um eine saubere und zuverlässige numerische Berechnung ohne manuellen Aufwand zu liefern.",
+
+  whentousetitle: "Wann man einen Divisionsrechner verwenden sollte",
+  whentousecontent: "Ein mathematischer Divisionsrechner ist nützlich beim Lösen von Hausaufgaben, beim Überprüfen von Antworten oder beim Arbeiten mit Zahlen aus dem Alltag wie Budgets, Messungen oder Durchschnittswerten. Er hilft, Fehler zu vermeiden, die bei manueller Division auftreten können. Division führt häufig zu dezimalen Ergebnissen, insbesondere wenn der Quotient keine ganze Zahl ist. In solchen Fällen können Benutzer Berechnungen oder Vergleiche mit Tools wie dem ",
+  interlink: "Dezimalrechner.",
+
+  imageurl: "/Division-Calculator.jpg",
+  imagealttext: "Division Calculator",
+
+  formulaTitle: "Formel des Divisionsrechners",
+
+  mainFormulatitle: "Grundlegende Divisionsformel erklärt",
+  mainformula: "Quotient = Dividend ÷ Divisor",
+  mainformulaend: "Der Dividend ist die Zahl, die Sie teilen möchten. Der Divisor ist die Zahl, durch die Sie teilen. Das Ergebnis dieser Operation wird Quotient genannt. Diese Formel bildet die Grundlage aller divisionsbasierten numerischen Berechnungen in der Mathematik. Wenn der Dividend nicht gleichmäßig durch den Divisor teilbar ist, entsteht ein Rest. Dieser Rest zeigt, was nach Abschluss des Divisionsprozesses übrig bleibt.",
+
+  howtoTitle: "Wie die Methode der schriftlichen Division funktioniert",
+  howtocontent: "Die Methode der schriftlichen Division zerlegt die Division in kleine, leicht verständliche Schritte. Zuerst wird der Divisor mit der ersten Ziffer oder Zifferngruppe des Dividenden verglichen. Anschließend wird der Quotient schrittweise aufgebaut, während Zwischenergebnisse subtrahiert werden. Diese Methode hilft, sowohl den Quotienten als auch den Rest klar darzustellen. Ein Rechner für schriftliche Division folgt derselben Logik, führt jedoch jeden Schritt sofort aus, was Fehler reduziert und Zeit spart.",
+
+  whyformulatitle: "Formel der Dezimaldivision",
+  whyformulacontent: "Wenn die Division zu Werten kleiner als eins oder zu nicht ganzzahligen Ergebnissen führt, verwendet der Rechner die Dezimaldivision. Der Prozess bleibt gleich, aber der Quotient setzt sich hinter dem Dezimalpunkt fort. Bei der Dezimaldivision passt der Rechner Dividend und Divisor gleichermaßen an, um Dezimalstellen zu entfernen. Dadurch bleibt die Division genau und die mathematische Genauigkeit während der gesamten Berechnung erhalten.",
+
+  fractiontitle: "Methode zur Division von Brüchen",
+  fractionformula: "Bruchdivision = Erster Bruch × Kehrwert des zweiten Bruchs",
+  fractionformulaend: "Bei der Bruchdivision verwendet der Rechner eine standardmäßige mathematische Regel. Er multipliziert den ersten Bruch mit dem Kehrwert des zweiten Bruchs. Diese Methode ermöglicht es dem Rechner, Bruchwerte reibungslos zu verarbeiten und korrekte Ergebnisse bei komplexen arithmetischen Operationen zu liefern.",
+
+  resultstitle: "Wie der Rechner genaue Ergebnisse sicherstellt",
+  resultscontent: "Der mathematische Divisionsrechner wendet die korrekte Formel basierend auf dem Eingabetyp an. Er prüft, ob die Zahlen eine schriftliche Division, eine Dezimalverarbeitung oder Bruchregeln erfordern. Jeder Schritt folgt einer festen mathematischen Logik, um Konsistenz zu gewährleisten. Divisionsergebnisse führen häufig zu Dezimalwerten. Wenn Benutzer mit diesen Werten weiterarbeiten müssen, können sie diese mithilfe von Tools wie dem Dezimalrechner weiter verfeinern oder umwandeln.",
+
+  faqTitle: "Häufig gestellte Fragen",
+  faq: [
+    {
+      q: "Was macht ein Divisionsrechner?",
+      a: "Ein Divisionsrechner teilt eine Zahl durch eine andere und zeigt das Ergebnis übersichtlich an. Er stellt den Quotienten und bei Bedarf den Rest dar. Dies hilft Benutzern zu verstehen, wie Zahlen bei der Division aufgeteilt werden, ohne manuelle Schritte auszuführen."
+    },
+    {
+      q: "Was ist der Unterschied zwischen Quotient und Rest?",
+      a: "Der Quotient ist das Hauptergebnis einer Division. Der Rest ist das, was übrig bleibt, wenn der Dividend nicht gleichmäßig durch den Divisor teilbar ist. Zum Beispiel ergibt die Division von 17 durch 5 einen Quotienten von 3 und einen Rest von 2."
+    },
+    {
+      q: "Kann dieser Rechner die schriftliche Division durchführen?",
+      a: "Ja, dieser Rechner unterstützt die Methode der schriftlichen Division. Er folgt derselben schrittweisen Logik, die im Mathematikunterricht gelehrt wird, führt die Berechnung jedoch sofort aus und zeigt genaue Ergebnisse an."
+    },
+    {
+      q: "Funktioniert der Rechner mit Dezimalzahlen?",
+      a: "Ja, der Rechner unterstützt die Dezimaldivision. Wenn die Division nicht in einer ganzen Zahl endet, zeigt er Dezimalwerte übersichtlich an und bewahrt dabei in jedem Schritt die mathematische Genauigkeit."
+    },
+    {
+      q: "Kann ich mit diesem Rechner Brüche dividieren?",
+      a: "Ja, der Rechner unterstützt die Division von Brüchen. Er wendet standardmäßige arithmetische Regeln an, um Brüche korrekt zu dividieren, was ihn für Hausaufgaben und praktische Problemlösungen nützlich macht"
+    },
+    {
+      q: "Warum ist die Division in der Grundrechenart wichtig?",
+      a: "Die Division ist ein zentraler Bestandteil der arithmetischen Operationen. Sie hilft beim Aufteilen von Mengen, beim Finden von Durchschnittswerten und beim Lösen realer Probleme in den Bereichen Messung, Finanzen und Datenanalyse."
+    }
+  ]
+},
+
+
   },
 
   footer: {

@@ -5114,6 +5114,97 @@ export const esTranslations = {
     ]
   },
 
+  division: {
+  metaTitle: "Calculadora de División Instantánea – Resuelve en Segundos",
+  metaDescription: "Resuelve problemas de división en línea en segundos. Precisa, simple y confiable, usa nuestra Calculadora de División hoy.",
+  title: "Calculadora de División",
+  desc: "Resuelve problemas de división en línea en segundos. Precisa, simple y confiable, usa nuestra Calculadora de División hoy.",
+  heading: "Calculadora de División",
+
+  dividend: "Dividendo",
+  divisor: "Divisor",
+
+  result: "Resultado de la División",
+
+  resultExplain: "La división se calcula dividiendo el dividendo entre el divisor. El divisor no debe ser cero, ya que la división entre cero no está definida.",
+
+  tocTitle: "Tabla de Contenidos",
+  tocwhat: "¿Qué es una Calculadora de División?",
+  tocunderstanding: "Comprender la División en Términos Simples",
+  tochow: "Cómo Funciona la Calculadora de División",
+  tocformula: "Fórmula de la Calculadora de División",
+  tocfraction: "Método de División de Fracciones",
+  tocresults: "Cómo la Calculadora Garantiza Resultados Precisos",
+
+  introTitle: "Acerca de la Calculadora de División",
+
+  whatTitle: "¿Qué es una Calculadora de División?",
+  whatContent: "Una Calculadora de División es una herramienta que ayuda a dividir un número entre otro y mostrar el resultado de forma clara. La división es una de las cuatro operaciones aritméticas básicas utilizadas en las matemáticas cotidianas. Responde cuántas veces un número cabe dentro de otro.",
+  whatContent2: "Esta calculadora funciona como una calculadora para dividir números enteros, decimales y fracciones. Ofrece resultados rápidos manteniendo la precisión matemática, lo que la hace útil para estudiantes, profesionales y cualquier persona que trabaje con números.",
+
+  understandingTitle: "Comprender la División en Términos Simples",
+  understandingContent: "La división consta de tres partes principales: el dividendo, el divisor y el resultado. El dividendo es el número que se divide. El divisor es el número que se utiliza para dividirlo. La respuesta se llama cociente, y a veces hay un residuo.",
+  understandingcontent2: "Por ejemplo, al dividir 17 entre 5, el cociente es 3 y el residuo es 2. Una calculadora de cociente y una calculadora de residuo ayudan a mostrar ambos valores claramente, especialmente cuando la división no da como resultado un número entero.",
+
+  howtitle: "Cómo Funciona la Calculadora de División",
+  howcontent: "Esta herramienta de división en línea sigue las reglas matemáticas estándar para garantizar resultados correctos. Primero, verifica el dividendo y el divisor. Luego aplica el método de división correcto según el tipo de entrada. Para números enteros, puede usar el método de división larga. Para decimales, realiza división decimal. Para fracciones, aplica las reglas de división de fracciones. La calculadora procesa cada paso cuidadosamente para ofrecer un cálculo numérico limpio y confiable sin esfuerzo manual.",
+
+  whentousetitle: "Cuándo Usar una Calculadora de División",
+  whentousecontent: "Una calculadora matemática de división es útil para resolver tareas, verificar respuestas o trabajar con números de la vida real como presupuestos, mediciones o promedios. Ayuda a evitar errores que pueden ocurrir durante la división manual. La división a menudo conduce a resultados decimales, especialmente cuando el cociente no es un número entero. En tales casos, los usuarios pueden continuar los cálculos o comparaciones utilizando herramientas como la ",
+  interlink: "Calculadora Decimal.",
+
+  imageurl: "/Division-Calculator.jpg",
+  imagealttext: "Division Calculator",
+
+  formulaTitle: "Fórmula de la Calculadora de División",
+
+  mainFormulatitle: "Fórmula Básica de División Explicada",
+  mainformula: "Cociente = Dividendo ÷ Divisor",
+  mainformulaend: "El dividendo es el número que deseas dividir. El divisor es el número por el cual divides. El resultado de esta operación se llama cociente. Esta fórmula constituye la base de todos los cálculos numéricos basados en la división en matemáticas. Cuando el dividendo no se divide de manera uniforme entre el divisor, aparece un residuo. Este residuo muestra lo que queda después de que finaliza el proceso de división.",
+
+  howtoTitle: "Cómo Funciona el Método de División Larga",
+  howtocontent: "El método de división larga divide la operación en pasos pequeños y fáciles. Primero, el divisor se compara con el primer dígito o grupo de dígitos del dividendo. Luego, el cociente se construye paso a paso mientras se restan resultados parciales. Este método ayuda a mostrar claramente tanto el cociente como el residuo. Una calculadora de división larga sigue la misma lógica pero realiza cada paso instantáneamente, lo que reduce errores y ahorra tiempo.",
+
+  whyformulatitle: "Fórmula de División Decimal",
+  whyformulacontent: "Cuando la división da como resultado valores menores que uno o números no enteros, la calculadora utiliza la división decimal. El proceso sigue siendo el mismo, pero el cociente se extiende más allá del punto decimal. En la división decimal, la calculadora ajusta el dividendo y el divisor por igual para eliminar los decimales. Esto mantiene la división precisa y conserva la exactitud matemática durante todo el cálculo.",
+
+  fractiontitle: "Método de División de Fracciones",
+  fractionformula: "División de Fracciones = Primera Fracción × Recíproco de la Segunda Fracción",
+  fractionformulaend: "Para la división de fracciones, la calculadora utiliza una regla matemática estándar. Multiplica la primera fracción por el recíproco de la segunda fracción. Este método permite que la calculadora maneje entradas fraccionarias sin problemas y ofrezca resultados correctos durante operaciones aritméticas complejas.",
+
+  resultstitle: "Cómo la Calculadora Garantiza Resultados Precisos",
+  resultscontent: "La calculadora matemática de división aplica la fórmula correcta según el tipo de entrada. Verifica si los números requieren división larga, manejo de decimales o reglas de fracciones. Cada paso sigue una lógica matemática fija para mantener la coherencia. Los resultados de la división a menudo conducen a valores decimales. Cuando los usuarios necesitan seguir trabajando con esos valores, pueden refinarlos o convertirlos aún más utilizando herramientas como la Calculadora Decimal.",
+
+  faqTitle: "Preguntas Frecuentes",
+  faq: [
+    {
+      q: "¿Qué hace una calculadora de división?",
+      a: "Una calculadora de división divide un número entre otro y muestra el resultado claramente. Muestra el cociente y, cuando es necesario, el residuo. Esto ayuda a los usuarios a comprender cómo se dividen los números sin realizar pasos manuales."
+    },
+    {
+      q: "¿Cuál es la diferencia entre cociente y residuo?",
+      a: "El cociente es el resultado principal de una división. El residuo es lo que queda cuando el dividendo no se divide de manera uniforme entre el divisor. Por ejemplo, dividir 17 entre 5 da un cociente de 3 y un residuo de 2."
+    },
+    {
+      q: "¿Puede esta calculadora manejar la división larga?",
+      a: "Sí, esta calculadora admite el método de división larga. Sigue la misma lógica paso a paso que se enseña en las clases de matemáticas, pero completa el cálculo instantáneamente y muestra resultados precisos."
+    },
+    {
+      q: "¿La calculadora funciona con decimales?",
+      a: "Sí, la calculadora admite la división decimal. Cuando la división no termina en un número entero, muestra valores decimales claramente mientras mantiene la precisión matemática en cada paso."
+    },
+    {
+      q: "¿Puedo dividir fracciones usando esta calculadora?",
+      a: "Sí, la calculadora admite la división de fracciones. Aplica reglas aritméticas estándar para dividir fracciones correctamente, lo que la hace útil para tareas y resolución práctica de problemas"
+    },
+    {
+      q: "¿Por qué es importante la división en la aritmética básica?",
+      a: "La división es una parte fundamental de las operaciones aritméticas. Ayuda a compartir cantidades, encontrar promedios y resolver problemas de la vida real relacionados con mediciones, finanzas y análisis de datos."
+    }
+  ]
+},
+
+
   },
 
   footer: {

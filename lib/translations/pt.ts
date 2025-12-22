@@ -5055,6 +5055,97 @@ export const ptTranslations = {
     ]
   },
 
+  division: {
+  metaTitle: "Calculadora de Divisão Instantânea – Resolva em Segundos",
+  metaDescription: "Resolva problemas de divisão online em segundos. Precisa, simples e confiável, use nossa Calculadora de Divisão hoje.",
+  title: "Calculadora de Divisão",
+  desc: "Resolva problemas de divisão online em segundos. Precisa, simples e confiável, use nossa Calculadora de Divisão hoje.",
+  heading: "Calculadora de Divisão",
+
+  dividend: "Dividendo",
+  divisor: "Divisor",
+
+  result: "Resultado da Divisão",
+
+  resultExplain: "A divisão é calculada dividindo o dividendo pelo divisor. O divisor não deve ser zero, pois a divisão por zero é indefinida.",
+
+  tocTitle: "Índice",
+  tocwhat: "O Que é uma Calculadora de Divisão?",
+  tocunderstanding: "Entendendo a Divisão em Termos Simples",
+  tochow: "Como Funciona a Calculadora de Divisão",
+  tocformula: "Fórmula da Calculadora de Divisão",
+  tocfraction: "Método de Divisão de Frações",
+  tocresults: "Como a Calculadora Garante Resultados Precisos",
+
+  introTitle: "Sobre a Calculadora de Divisão",
+
+  whatTitle: "O Que é uma Calculadora de Divisão?",
+  whatContent: "Uma Calculadora de Divisão é uma ferramenta que ajuda a dividir um número por outro e mostrar o resultado claramente. A divisão é uma das quatro operações aritméticas básicas usadas na matemática do dia a dia. Ela responde quantas vezes um número cabe em outro.",
+  whatContent2: "Esta calculadora funciona como uma calculadora de divisão para números inteiros, decimais e frações. Ela fornece resultados rápidos mantendo a precisão matemática, tornando-a útil para estudantes, profissionais e qualquer pessoa que trabalhe com números.",
+
+  understandingTitle: "Entendendo a Divisão em Termos Simples",
+  understandingContent: "A divisão envolve três partes principais: o dividendo, o divisor e o resultado. O dividendo é o número que está sendo dividido. O divisor é o número usado para dividi-lo. A resposta é chamada quociente e, às vezes, há um resto.",
+  understandingcontent2: "Por exemplo, ao dividir 17 por 5, o quociente é 3 e o resto é 2. Um calculador de quociente e um calculador de resto ajudam a mostrar ambos os valores claramente, especialmente quando a divisão não resulta em um número inteiro.",
+
+  howtitle: "Como Funciona a Calculadora de Divisão",
+  howcontent: "Esta ferramenta de divisão online segue regras matemáticas padrão para garantir resultados corretos. Primeiro, verifica o dividendo e o divisor. Em seguida, aplica o método de divisão correto com base no tipo de entrada. Para números inteiros, pode usar o método da divisão longa. Para decimais, realiza a divisão decimal. Para frações, aplica regras de divisão de frações. A calculadora processa cada etapa cuidadosamente para fornecer um cálculo numérico limpo e confiável sem esforço manual.",
+
+  whentousetitle: "Quando Usar uma Calculadora de Divisão",
+  whentousecontent: "Uma calculadora matemática de divisão é útil ao resolver tarefas, verificar respostas ou trabalhar com números da vida real, como orçamentos, medidas ou médias. Ela ajuda a evitar erros que podem ocorrer durante a divisão manual. A divisão frequentemente resulta em valores decimais, especialmente quando o quociente não é um número inteiro. Nesses casos, os usuários podem continuar os cálculos ou comparações usando ferramentas como a ",
+  interlink: "Calculadora Decimal.",
+
+  imageurl: "/Division-Calculator.jpg",
+  imagealttext: "Division Calculator",
+
+  formulaTitle: "Fórmula da Calculadora de Divisão",
+
+  mainFormulatitle: "Fórmula Básica de Divisão Explicada",
+  mainformula: "Quociente = Dividendo ÷ Divisor",
+  mainformulaend: "O dividendo é o número que você deseja dividir. O divisor é o número pelo qual você divide. O resultado desta operação é chamado quociente. Esta fórmula forma a base de todos os cálculos numéricos baseados em divisão na matemática. Quando o dividendo não é divisível uniformemente pelo divisor, aparece um resto. Esse resto mostra o que sobra após o processo de divisão ser concluído.",
+
+  howtoTitle: "Como Funciona o Método da Divisão Longa",
+  howtocontent: "O método da divisão longa divide a divisão em etapas pequenas e fáceis. Primeiro, o divisor é comparado com o primeiro dígito ou grupo de dígitos do dividendo. Em seguida, o quociente é construído passo a passo enquanto subtrai os resultados parciais. Este método ajuda a mostrar claramente tanto o quociente quanto o resto. Uma calculadora de divisão longa segue a mesma lógica, mas executa cada etapa instantaneamente, reduzindo erros e economizando tempo.",
+
+  whyformulatitle: "Fórmula de Divisão Decimal",
+  whyformulacontent: "Quando a divisão resulta em valores menores que um ou números não inteiros, a calculadora usa divisão decimal. O processo permanece o mesmo, mas o quociente se estende além do ponto decimal. Na divisão decimal, a calculadora ajusta o dividendo e o divisor igualmente para remover decimais. Isso mantém a divisão precisa e preserva a precisão matemática durante todo o cálculo.",
+
+  fractiontitle: "Método de Divisão de Frações",
+  fractionformula: "Divisão de Frações = Primeira Fração × Recíproco da Segunda Fração",
+  fractionformulaend: "Para a divisão de frações, a calculadora usa uma regra matemática padrão. Ela multiplica a primeira fração pelo recíproco da segunda fração. Este método permite que a calculadora manipule entradas fracionárias de forma suave e forneça resultados corretos durante operações aritméticas complexas.",
+
+  resultstitle: "Como a Calculadora Garante Resultados Precisos",
+  resultscontent: "A calculadora matemática de divisão aplica a fórmula correta com base no tipo de entrada. Verifica se os números requerem divisão longa, manipulação decimal ou regras de frações. Cada etapa segue uma lógica matemática fixa para manter a consistência. Os resultados da divisão frequentemente levam a valores decimais. Quando os usuários precisam continuar trabalhando com esses valores, eles podem refiná-los ou convertê-los ainda mais usando ferramentas como a Calculadora Decimal.",
+
+  faqTitle: "Perguntas Frequentes",
+  faq: [
+    {
+      q: "O que faz uma calculadora de divisão?",
+      a: "Uma calculadora de divisão divide um número por outro e mostra o resultado claramente. Ela exibe o quociente e, quando necessário, o resto. Isso ajuda os usuários a entender como os números se dividem durante a divisão sem realizar etapas manuais."
+    },
+    {
+      q: "Qual é a diferença entre quociente e resto?",
+      a: "O quociente é o resultado principal de uma divisão. O resto é o que sobra quando o dividendo não é divisível uniformemente pelo divisor. Por exemplo, dividir 17 por 5 dá um quociente de 3 e um resto de 2."
+    },
+    {
+      q: "Esta calculadora pode lidar com a divisão longa?",
+      a: "Sim, esta calculadora suporta o método da divisão longa. Ela segue a mesma lógica passo a passo ensinada nas aulas de matemática, mas completa o cálculo instantaneamente e mostra resultados precisos."
+    },
+    {
+      q: "A calculadora funciona com decimais?",
+      a: "Sim, a calculadora suporta divisão decimal. Quando a divisão não termina em um número inteiro, ela mostra valores decimais claramente, mantendo a precisão matemática em cada etapa."
+    },
+    {
+      q: "Posso dividir frações usando esta calculadora?",
+      a: "Sim, a calculadora suporta divisão de frações. Ela aplica regras aritméticas padrão para dividir frações corretamente, tornando-a útil para tarefas de casa e resolução prática de problemas."
+    },
+    {
+      q: "Por que a divisão é importante na aritmética básica?",
+      a: "A divisão é uma parte central das operações aritméticas. Ela ajuda a compartilhar quantidades, encontrar médias e resolver problemas da vida real envolvendo medições, finanças e análise de dados."
+    }
+  ]
+},
+
+
 
   },
 
