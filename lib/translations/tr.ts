@@ -5126,6 +5126,95 @@ export const trTranslations = {
   ]
 },
 
+// Turkish (tr)
+decimal: {
+      metaTitle: "Çevrimiçi Ondalık Hesaplayıcı – Basit Matematik Aracı",
+      metaDescription: "Ondalık sayıları anında doğru sonuçlarla hesaplayın. Toplayın, çıkarın, çarpın veya bölün, şimdi Ondalık Hesaplayıcıyı kullanın",
+      title: "Ondalık Hesaplayıcı",
+      desc: "Ondalık sayıları anında doğru sonuçlarla hesaplayın. Toplayın, çıkarın, çarpın veya bölün, şimdi Ondalık Hesaplayıcıyı kullanın",
+      heading: "Ondalık Hesaplayıcı",
+
+      firstNumber: "İlk Ondalık Sayı",
+      operation: "İşlem",
+      secondNumber: "İkinci Ondalık Sayı",
+      decimalPlaces: "Ondalık Basamaklar",
+
+      result: "Hesaplama Sonucu",
+      resultExplain: "Sonuç, iki ondalık sayı arasındaki seçilen aritmetik işleme göre hesaplanır ve belirtilen ondalık basamak sayısına yuvarlanır.",
+
+      tocTitle: "İçindekiler",
+      tocwhat: "Ondalık Hesaplayıcı Nedir?",
+      tocunderstanding: "Ondalık Sayıları ve Basamak Değerini Anlama",
+      tochow: "Ondalık Hesaplayıcı Nasıl Çalışır",
+      tocformula: "Temel Ondalık İşlemler Açıklandı",
+      tocfraction: "Ondalık Bölme Formülü",
+      tocresults: "Yuvarlama Kuralları ve Önemli Basamaklar",
+
+      introTitle: "Ondalık Hesaplayıcı Hakkında",
+
+      whatTitle: "Ondalık Hesaplayıcı Nedir?",
+      whatContent: "Ondalık hesaplayıcı, ondalık sayıları açık ve doğru bir şekilde kullanarak hesaplamalar yapmak için tasarlanmış bir araçtır. Ondalık sayılar, günlük matematik, finans, ölçümler ve veri işleme için kullanılan on tabanlı sayı sisteminin bir parçasıdır. Bu hesaplayıcı, kullanıcıların manuel hatalar yapmadan ondalıklarla çalışmasına yardımcı olur.",
+      whatContent2: "Bir ondalık matematik hesaplayıcısı olarak, toplama, çıkarma, çarpma ve bölme gibi yaygın görevleri destekler. Öğrenciler, profesyoneller ve sayısal hesaplamalardan hızlı ve doğru sonuçlar almak isteyen herkes için faydalıdır.",
+
+      understandingTitle: "Ondalık Sayıları ve Basamak Değerini Anlama",
+      understandingContent: "Ondalık sayılar, her basamağın onda birler, yüzde birler veya binde birler gibi belirli bir pozisyonu temsil ettiği basamak değerine dayanır. Bu yapı, özellikle tam sayılar yeterli olmadığında, ondalıkları hassas değerler için kullanışlı kılar.",
+      understandingcontent2: "Bir ondalık sayı hesaplayıcı, bu basamak değerlerini doğru şekilde işler. Hesaplamalar sırasında uygun taşıma ve ödünç alma kurallarını uygular, bu da sonuçlarda hassasiyet ve doğruluğu korumaya yardımcı olur.",
+
+      howtitle: "Ondalık Hesaplayıcı Nasıl Çalışır",
+      howcontent: "Bu çevrimiçi ondalık hesaplayıcı, işlemleri gerçekleştirmeden önce ondalık noktaları hizalayarak girişleri işler. Toplama ve çıkarma için basamak değerlerini eşleştirir. Çarpma ve bölme için standart ondalık aritmetik kurallarını takip eder. Hesaplayıcı ayrıca kesirleri ondalığa dönüştürmeyi destekler, bu da kullanıcıların sayı biçimleri arasında kolayca geçiş yapmasını sağlar. Gerekli olduğunda, yuvarlama kurallarını uygular ve anlamlı ve temiz çıktılar sunmak için önemli basamakları dikkate alır.",
+
+      whentousetitle: "Ondalık Hesaplayıcıyı Ne Zaman ve Neden Kullanmalı",
+      whentousecontent: "Ondalık aritmetik hesaplayıcı, ölçümler, fiyatlar, ortalamalar veya bilimsel verilerle çalışırken faydalıdır. Birçok ondalık basamak içeren manuel hesaplamalarda sıkça meydana gelen hataları azaltır. Ondalık hesaplamalar genellikle bölme sonuçlarıyla ilişkilidir, özellikle bölüm tam sayıları aştığında. Bu durumlarda kullanıcılar bölme ile başlayabilir ve ardından şu araç gibi araçları kullanarak hassas hesaplamalara devam edebilir: ",
+      interlink: "Bölme Hesaplayıcı.",
+
+      imageurl: "/Decimal-Calculator.jpg",
+      imagealttext: "Decimal Calculator",
+
+      formulaTitle: "Ondalık Hesaplayıcı Formülü",
+
+      mainFormulatitle: "Temel Ondalık İşlemler Açıklandı",
+      mainformulaend: "Ondalık hesaplamalar, tam sayı matematiği ile aynı kuralları takip eder, ancak ondalık noktaların dikkatlice işlenmesini gerektirir. Bir ondalık işlemler aracı, basamak değerlerini hizalayarak toplama, çıkarma, çarpma ve bölme gibi standart matematiksel işlemleri uygular. Her durumda, hesaplayıcı ondalıkları on tabanlı sayı sistemi içinde sayılar olarak ele alır. Bu, farklı hesaplamalarda sonuçların tutarlı ve anlaşılması kolay olmasını sağlar.",
+
+      howtoTitle: "Ondalık Toplama ve Çıkarma için Formül Mantığı",
+      howtocontent: "Ondalık sayıları toplarken veya çıkarırken, hesaplayıcı sayıları ondalık noktalarına göre hizalar. Her basamak daha sonra basamak değerine göre eklenir veya çıkarılır. Örneğin, 6,20’den 3,75 çıkarırken, hesaplayıcı önce ondalıkları hizalar. Ardından gerekli yerlerde taşıma ve ödünç alma kurallarını uygular. Bu süreç yaygın hataları önler ve sonuçların doğru olmasını sağlar.",
+
+      whyformulatitle: "Ondalık Çarpma Yöntemi",
+      whyformulacontent: "Ondalık çarpma, işlemi basitleştirmek için geçici olarak ondalık noktaları kaldırır. Hesaplayıcı, her iki sayıda da toplam ondalık basamak sayısını sayar. Bunları tam sayılar olarak çarptıktan sonra, ondalık noktayı sonuca geri yerleştirir. Bu yöntem, özellikle küçük değerlerle veya tekrarlayan hesaplamalarla çalışırken hassasiyet ve doğruluğu korumaya yardımcı olur.",
+
+      fractiontitle: "Ondalık Bölme Formülü",
+      fractionformulacontent: "Ondalık bölme açık bir kurala uyar. Hesaplayıcı, böleni ondalıksız hale getirmek için hem bölünenin hem de bölenin ondalık noktasını aynı miktarda kaydırır. Bu, problemi daha basit bir bölme işlemi haline getirir. Bölme tamamlandıktan sonra, sonuç doğru ondalık konumunu yansıtır. Bu yaklaşım, özellikle uzun ondalık değerlerle çalışırken temiz ve güvenilir çıktı sağlar.",
+
+      resultstitle: "Yuvarlama Kuralları ve Önemli Basamaklar",
+      resultscontent: "Hesaplamalar tamamlandıktan sonra, hesaplayıcı standart matematik kurallarına göre yuvarlama kurallarını uygulayabilir. Ayrıca sonuçların anlamlı kalması ve aşırı uzun olmaması için önemli basamaklara dikkat eder. Ondalık sonuçlar genellikle bölme problemlerinden gelir. Kullanıcılar bölme ile başlayıp hassas ondalık işleme ihtiyaç duyduğunda, Bölme Hesaplayıcı gibi araçları kullanarak hesaplamalara devam edebilirler.",
+
+      faqTitle: "Sık Sorulan Sorular",
+      faq: [
+        {
+          q: "Ondalık hesaplayıcı ne için kullanılır?",
+          a: "Ondalık hesaplayıcı, ondalık sayıları kullanarak matematik işlemleri yapmaya yardımcı olur. Ondalık basamakları doğru tutarak toplama, çıkarma, çarpma ve bölmeyi destekler. Bu, para, ölçümler veya veri içeren günlük hesaplamalar için faydalıdır."
+        },
+        {
+          q: "Ondalık hesaplamalarda basamak değeri neden önemlidir?",
+          a: "Basamak değeri, bir ondalık sayıdaki her rakamın konumunu belirler, örneğin onda birler veya yüzde birler. Basamak değerinin doğru şekilde işlenmesi, özellikle toplama ve çıkarma sırasında hizalama önemli olduğunda, sonuçların doğru kalmasını sağlar."
+        },
+        {
+          q: "Bu hesaplayıcı çok küçük ondalık sayılarla çalışabilir mi?",
+          a: "Evet, hesaplayıcı hem küçük hem de büyük ondalık sayılarla çalışır. Sayılar çok sayıda ondalık basamağa sahip olsa bile hassasiyeti korumak için sabit aritmetik kurallarına uyar."
+        },
+        {
+          q: "Hesaplayıcı yuvarlamayı nasıl yönetir?",
+          a: "Hesaplayıcı, hesaplamaları tamamladıktan sonra standart yuvarlama kurallarını uygular. Değerleri yalnızca gerektiğinde yuvarlar ve önemli basamakları dikkate alır, böylece sonuçlar anlamlı ve yanıltıcı olmaz."
+        },
+        {
+          q: "Kesirleri ondalığa dönüştürme destekleniyor mu?",
+          a: "Evet, hesaplayıcı işlemleri gerçekleştirmeden önce kesirleri ondalığa dönüştürebilir. Bu, kullanıcıların tek bir sayı formatı ile çalışmasına ve manuel dönüştürme hatalarından kaçınmasına yardımcı olur."
+        },
+        {
+          q: "Ondalık hesaplamalar gerçek hayatta neden önemlidir?",
+          a: "Ondalık hesaplamalar fiyatlandırma, ölçümler, ortalamalar ve bilimsel verilerde kullanılır. Doğru ondalık matematik daha iyi kararlar alınmasına ve günlük sayısal görevlerde hataların azaltılmasına yardımcı olur."
+        }
+      ]
+    }
 
 
   },

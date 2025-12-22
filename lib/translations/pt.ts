@@ -5145,6 +5145,95 @@ export const ptTranslations = {
   ]
 },
 
+// Portuguese (pt)
+decimal: {
+      metaTitle: "Calculadora Decimal Online – Ferramenta Matemática Simples",
+      metaDescription: "Calcule decimais instantaneamente com resultados precisos. Adicione, subtraia, multiplique ou divida, use agora a Calculadora Decimal",
+      title: "Calculadora Decimal",
+      desc: "Calcule decimais instantaneamente com resultados precisos. Adicione, subtraia, multiplique ou divida, use agora a Calculadora Decimal",
+      heading: "Calculadora Decimal",
+
+      firstNumber: "Primeiro Número Decimal",
+      operation: "Operação",
+      secondNumber: "Segundo Número Decimal",
+      decimalPlaces: "Casas Decimais",
+
+      result: "Resultado do Cálculo",
+      resultExplain: "O resultado é calculado com base na operação aritmética selecionada entre os dois números decimais, arredondado para o número especificado de casas decimais.",
+
+      tocTitle: "Tabela de Conteúdos",
+      tocwhat: "O Que é uma Calculadora Decimal?",
+      tocunderstanding: "Compreendendo Números Decimais e Valor Posicional",
+      tochow: "Como Funciona a Calculadora Decimal",
+      tocformula: "Operações Decimais Básicas Explicadas",
+      tocfraction: "Fórmula de Divisão Decimal",
+      tocresults: "Regras de Arredondamento e Dígitos Significativos",
+
+      introTitle: "Sobre a Calculadora Decimal",
+
+      whatTitle: "O Que é uma Calculadora Decimal?",
+      whatContent: "Uma calculadora decimal é uma ferramenta projetada para realizar cálculos usando números decimais com clareza e precisão. Números decimais fazem parte do sistema de numeração base-10, usado em matemática cotidiana, finanças, medições e manipulação de dados. Esta calculadora ajuda os usuários a trabalhar com decimais sem erros manuais.",
+      whatContent2: "Como uma calculadora matemática decimal, suporta tarefas comuns como adição, subtração, multiplicação e divisão. É útil para estudantes, profissionais e qualquer pessoa que precise de resultados rápidos e precisos de cálculos numéricos.",
+
+      understandingTitle: "Compreendendo Números Decimais e Valor Posicional",
+      understandingContent: "Números decimais dependem do valor posicional, onde cada dígito representa uma posição específica como décimos, centésimos ou milésimos. Esta estrutura torna os decimais úteis para valores precisos, especialmente quando números inteiros não são suficientes.",
+      understandingcontent2: "Uma calculadora de números decimais lida corretamente com esses valores posicionais. Aplica regras apropriadas de transporte e empréstimo durante os cálculos, ajudando a manter a precisão e exatidão dos resultados.",
+
+      howtitle: "Como Funciona a Calculadora Decimal",
+      howcontent: "Esta calculadora decimal online processa entradas alinhando os pontos decimais antes de realizar as operações. Para adição e subtração, ela combina os valores posicionais. Para multiplicação e divisão, segue as regras aritméticas decimais padrão. A calculadora também suporta a conversão de frações para decimais, ajudando os usuários a alternar facilmente entre os formatos de números. Quando necessário, aplica regras de arredondamento e respeita os dígitos significativos para apresentar saídas limpas e significativas.",
+
+      whentousetitle: "Quando e Por Que Usar uma Calculadora Decimal",
+      whentousecontent: "Uma calculadora aritmética decimal é útil ao trabalhar com medições, preços, médias ou dados científicos. Reduz o risco de erros que frequentemente ocorrem em cálculos manuais envolvendo muitos decimais. Os cálculos decimais frequentemente se conectam a resultados de divisão, especialmente quando os quocientes se estendem além de números inteiros. Nesses casos, os usuários podem começar com a divisão e depois continuar cálculos precisos usando ferramentas como ",
+      interlink: "Calculadora de Divisão.",
+
+      imageurl: "/Decimal-Calculator.jpg",
+      imagealttext: "Decimal Calculator",
+
+      formulaTitle: "Fórmula da Calculadora Decimal",
+
+      mainFormulatitle: "Operações Decimais Básicas Explicadas",
+      mainformulaend: "Os cálculos decimais seguem as mesmas regras da matemática com números inteiros, mas requerem manuseio cuidadoso dos pontos decimais. Uma ferramenta de operações decimais aplica operações matemáticas padrão como adição, subtração, multiplicação e divisão, mantendo os valores posicionais alinhados. Em todos os casos, a calculadora trata decimais como números dentro do sistema de numeração base-10, garantindo que os resultados permaneçam consistentes e fáceis de entender em diferentes cálculos.",
+
+      howtoTitle: "Lógica da Fórmula para Adição e Subtração de Decimais",
+      howtocontent: "Ao adicionar ou subtrair decimais, a calculadora alinha os números pelos pontos decimais. Cada dígito é então adicionado ou subtraído com base em seu valor posicional. Por exemplo, ao subtrair 3,75 de 6,20, a calculadora alinha primeiro os decimais. Em seguida, aplica regras de transporte e empréstimo conforme necessário. Este processo evita erros comuns e mantém os resultados precisos.",
+
+      whyformulatitle: "Método de Multiplicação Decimal",
+      whyformulacontent: "A multiplicação decimal remove temporariamente os pontos decimais para simplificar a operação. A calculadora conta o número total de casas decimais em ambos os números. Após multiplicá-los como números inteiros, ela coloca o ponto decimal de volta no resultado. Este método ajuda a manter precisão e exatidão, especialmente ao trabalhar com valores pequenos ou cálculos repetidos.",
+
+      fractiontitle: "Fórmula de Divisão Decimal",
+      fractionformulacontent: "A divisão decimal segue uma regra clara. A calculadora desloca o ponto decimal no dividendo e no divisor pela mesma quantidade para remover decimais do divisor. Isso transforma o problema em uma operação de divisão mais simples. Uma vez que a divisão é concluída, o resultado reflete a colocação decimal correta. Esta abordagem garante uma saída limpa e confiável durante cálculos numéricos, especialmente ao lidar com valores decimais longos.",
+
+      resultstitle: "Regras de Arredondamento e Dígitos Significativos",
+      resultscontent: "Após concluir os cálculos, a calculadora pode aplicar regras de arredondamento com base nas convenções matemáticas padrão. Também respeita os dígitos significativos para que os resultados permaneçam significativos e não excessivamente longos. Os resultados decimais frequentemente vêm de problemas de divisão. Quando os usuários começam com a divisão e precisam de manipulação decimal precisa, podem continuar os cálculos usando ferramentas como a Calculadora de Divisão.",
+
+      faqTitle: "Perguntas Frequentes",
+      faq: [
+        {
+          q: "Para que é usada uma calculadora decimal?",
+          a: "Uma calculadora decimal ajuda a realizar operações matemáticas usando números decimais. Suporta adição, subtração, multiplicação e divisão, mantendo os decimais precisos. Isso a torna útil para cálculos diários envolvendo dinheiro, medições ou dados."
+        },
+        {
+          q: "Por que o valor posicional é importante nos cálculos decimais?",
+          a: "O valor posicional define a posição de cada dígito em um número decimal, como décimos ou centésimos. O manuseio correto do valor posicional garante que os resultados permaneçam precisos, especialmente durante adição e subtração, onde o alinhamento é importante."
+        },
+        {
+          q: "Esta calculadora pode lidar com números decimais muito pequenos?",
+          a: "Sim, a calculadora funciona com números decimais pequenos e grandes. Segue regras aritméticas fixas para manter a precisão, mesmo quando os números têm muitas casas decimais."
+        },
+        {
+          q: "Como a calculadora gerencia o arredondamento?",
+          a: "A calculadora aplica regras de arredondamento padrão após concluir os cálculos. Arredonda valores apenas quando necessário e respeita os dígitos significativos para que os resultados permaneçam significativos e não enganosos."
+        },
+        {
+          q: "A conversão de frações para decimais é suportada?",
+          a: "Sim, a calculadora pode converter frações em decimais antes de realizar cálculos. Isso ajuda os usuários a trabalhar com um único formato de número e evitar erros de conversão manual."
+        },
+        {
+          q: "Por que os cálculos decimais são importantes na vida real?",
+          a: "Os cálculos decimais são usados em preços, medições, médias e dados científicos. A matemática decimal precisa apoia melhores decisões e reduz erros em tarefas numéricas diárias."
+        }
+      ]
+    }
 
 
   },

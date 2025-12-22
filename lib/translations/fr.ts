@@ -5192,6 +5192,97 @@ export const frTranslations = {
 },
 
 
+// French (fr)
+decimal: {
+      metaTitle: "Calculatrice Décimale en Ligne – Outil Mathématique Simple",
+      metaDescription: "Calculez les décimales instantanément avec des résultats précis. Additionnez, soustrayez, multipliez ou divisez, utilisez la Calculatrice Décimale maintenant",
+      title: "Calculatrice Décimale",
+      desc: "Calculez les décimales instantanément avec des résultats précis. Additionnez, soustrayez, multipliez ou divisez, utilisez la Calculatrice Décimale maintenant",
+      heading: "Calculatrice Décimale",
+
+      firstNumber: "Premier Nombre Décimal",
+      operation: "Opération",
+      secondNumber: "Deuxième Nombre Décimal",
+      decimalPlaces: "Décimales",
+
+      result: "Résultat du Calcul",
+      resultExplain: "Le résultat est calculé en fonction de l'opération arithmétique sélectionnée entre les deux nombres décimaux, arrondi au nombre de décimales spécifié.",
+
+      tocTitle: "Table des Matières",
+      tocwhat: "Qu'est-ce qu'une Calculatrice Décimale ?",
+      tocunderstanding: "Comprendre les Nombres Décimaux et la Valeur de Position",
+      tochow: "Comment Fonctionne la Calculatrice Décimale",
+      tocformula: "Opérations Décimales de Base Expliquées",
+      tocfraction: "Formule de Division Décimale",
+      tocresults: "Règles d'Arrondi et Chiffres Significatifs",
+
+      introTitle: "À propos de la Calculatrice Décimale",
+
+      whatTitle: "Qu'est-ce qu'une Calculatrice Décimale ?",
+      whatContent: "Une calculatrice décimale est un outil conçu pour effectuer des calculs avec des nombres décimaux de manière claire et précise. Les nombres décimaux font partie du système de numération en base 10, utilisé dans les mathématiques quotidiennes, les finances, les mesures et le traitement des données. Cette calculatrice aide les utilisateurs à travailler avec des décimales sans erreurs manuelles.",
+      whatContent2: "En tant que calculatrice mathématique décimale, elle prend en charge les tâches courantes telles que l'addition, la soustraction, la multiplication et la division. Elle est utile pour les étudiants, les professionnels et toute personne ayant besoin de résultats rapides et précis à partir de calculs numériques.",
+
+      understandingTitle: "Comprendre les Nombres Décimaux et la Valeur de Position",
+      understandingContent: "Les nombres décimaux reposent sur la valeur de position, où chaque chiffre représente une position spécifique comme les dixièmes, centièmes ou millièmes. Cette structure rend les décimales utiles pour des valeurs précises, surtout lorsque les nombres entiers ne suffisent pas.",
+      understandingcontent2: "Une calculatrice de nombres décimaux gère correctement ces valeurs de position. Elle applique les règles de retenue et d'emprunt appropriées pendant les calculs, ce qui aide à maintenir la précision et l'exactitude des résultats.",
+
+      howtitle: "Comment Fonctionne la Calculatrice Décimale",
+      howcontent: "Cette calculatrice décimale en ligne traite les entrées en alignant les points décimaux avant d'effectuer les opérations. Pour l'addition et la soustraction, elle aligne les valeurs de position. Pour la multiplication et la division, elle suit les règles arithmétiques décimales standard. La calculatrice prend également en charge la conversion des fractions en décimales, ce qui aide les utilisateurs à passer facilement d'une forme de nombre à une autre. Si nécessaire, elle applique les règles d'arrondi et respecte les chiffres significatifs pour présenter des résultats clairs et significatifs.",
+
+      whentousetitle: "Quand et Pourquoi Utiliser une Calculatrice Décimale",
+      whentousecontent: "Une calculatrice arithmétique décimale est utile lors du travail avec des mesures, des prix, des moyennes ou des données scientifiques. Elle réduit le risque d'erreurs qui se produisent souvent dans les calculs manuels impliquant de nombreux chiffres décimaux. Les calculs décimaux sont souvent liés aux résultats de division, surtout lorsque les quotients dépassent les nombres entiers. Dans de tels cas, les utilisateurs peuvent commencer par la division, puis continuer les calculs précis en utilisant des outils comme ",
+      interlink: "Calculatrice de Division.",
+
+      imageurl: "/Decimal-Calculator.jpg",
+      imagealttext: "Decimal Calculator",
+
+      formulaTitle: "Formule de la Calculatrice Décimale",
+
+      mainFormulatitle: "Opérations Décimales de Base Expliquées",
+      mainformulaend: "Les calculs décimaux suivent les mêmes règles que les mathématiques sur les nombres entiers, mais nécessitent une manipulation attentive des points décimaux. Un outil d'opérations décimales applique les opérations mathématiques standard telles que l'addition, la soustraction, la multiplication et la division tout en maintenant l'alignement des valeurs de position. Dans tous les cas, la calculatrice considère les décimales comme des nombres dans le système de numération en base 10. Cela garantit que les résultats restent cohérents et faciles à comprendre dans différents calculs.",
+
+      howtoTitle: "Logique de la Formule pour l'Addition et la Soustraction des Décimales",
+      howtocontent: "Lors de l'addition ou de la soustraction de décimales, la calculatrice aligne les nombres selon leurs points décimaux. Chaque chiffre est ensuite additionné ou soustrait en fonction de sa valeur de position. Par exemple, lors de la soustraction de 3,75 de 6,20, la calculatrice aligne d'abord les décimales. Elle applique ensuite les règles de retenue et d'emprunt si nécessaire. Ce processus évite les erreurs courantes et maintient la précision des résultats.",
+
+      whyformulatitle: "Méthode de Multiplication Décimale",
+      whyformulacontent: "La multiplication décimale supprime temporairement les points décimaux pour simplifier l'opération. La calculatrice compte le nombre total de décimales dans les deux nombres. Après les avoir multipliés comme des nombres entiers, elle replace le point décimal dans le résultat. Cette méthode aide à maintenir la précision et l'exactitude, surtout lorsqu'on travaille avec de petites valeurs ou des calculs répétés.",
+
+      fractiontitle: "Formule de Division Décimale",
+      fractionformulacontent: "La division décimale suit une règle claire. La calculatrice déplace le point décimal dans le dividende et le diviseur du même montant pour supprimer les décimales du diviseur. Cela transforme le problème en une opération de division plus simple. Une fois la division terminée, le résultat reflète la position décimale correcte. Cette approche assure une sortie propre et fiable lors des calculs numériques, surtout lorsqu'on traite de longues valeurs décimales.",
+
+      resultstitle: "Règles d'Arrondi et Chiffres Significatifs",
+      resultscontent: "Après avoir terminé les calculs, la calculatrice peut appliquer les règles d'arrondi basées sur les conventions mathématiques standard. Elle respecte également les chiffres significatifs afin que les résultats restent significatifs et pas excessivement longs. Les résultats décimaux proviennent souvent de problèmes de division. Lorsque les utilisateurs commencent par la division et ont ensuite besoin d'une manipulation décimale précise, ils peuvent continuer les calculs à l'aide d'outils comme la Calculatrice de Division.",
+
+      faqTitle: "Questions Fréquemment Posées",
+      faq: [
+        {
+          q: "À quoi sert une calculatrice décimale ?",
+          a: "Une calculatrice décimale aide à effectuer des opérations mathématiques avec des nombres décimaux. Elle prend en charge l'addition, la soustraction, la multiplication et la division tout en maintenant les décimales précises. Cela la rend utile pour les calculs quotidiens impliquant de l'argent, des mesures ou des données."
+        },
+        {
+          q: "Pourquoi la valeur de position est-elle importante dans les calculs décimaux ?",
+          a: "La valeur de position définit la position de chaque chiffre dans un nombre décimal, comme les dixièmes ou les centièmes. La manipulation correcte de la valeur de position garantit que les résultats restent précis, surtout lors de l'addition et de la soustraction où l'alignement est important."
+        },
+        {
+          q: "Cette calculatrice peut-elle gérer des nombres décimaux très petits ?",
+          a: "Oui, la calculatrice fonctionne avec des nombres décimaux petits et grands. Elle suit des règles arithmétiques fixes pour maintenir la précision, même lorsque les nombres ont de nombreuses décimales."
+        },
+        {
+          q: "Comment la calculatrice gère-t-elle l'arrondi ?",
+          a: "La calculatrice applique les règles standard d'arrondi après avoir terminé les calculs. Elle arrondit les valeurs uniquement si nécessaire et respecte les chiffres significatifs pour que les résultats restent pertinents et non trompeurs."
+        },
+        {
+          q: "La conversion des fractions en décimales est-elle prise en charge ?",
+          a: "Oui, la calculatrice peut convertir les fractions en décimales avant de réaliser les calculs. Cela aide les utilisateurs à travailler avec un seul format de nombre et à éviter les erreurs de conversion manuelles."
+        },
+        {
+          q: "Pourquoi les calculs décimaux sont-ils importants dans la vie réelle ?",
+          a: "Les calculs décimaux sont utilisés pour les prix, les mesures, les moyennes et les données scientifiques. Les mathématiques décimales précises permettent de prendre de meilleures décisions et réduisent les erreurs dans les tâches numériques quotidiennes."
+        }
+      ]
+    }
+
+
 
   },
 

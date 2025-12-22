@@ -5159,6 +5159,97 @@ export const itTranslations = {
   ]
 },
 
+// Italian (it)
+decimal: {
+      metaTitle: "Calcolatrice Decimale Online – Strumento Matematico Semplice",
+      metaDescription: "Calcola i decimali istantaneamente con risultati precisi. Aggiungi, sottrai, moltiplica o dividi, usa ora la Calcolatrice Decimale",
+      title: "Calcolatrice Decimale",
+      desc: "Calcola i decimali istantaneamente con risultati precisi. Aggiungi, sottrai, moltiplica o dividi, usa ora la Calcolatrice Decimale",
+      heading: "Calcolatrice Decimale",
+
+      firstNumber: "Primo Numero Decimale",
+      operation: "Operazione",
+      secondNumber: "Secondo Numero Decimale",
+      decimalPlaces: "Cifre Decimali",
+
+      result: "Risultato del Calcolo",
+      resultExplain: "Il risultato viene calcolato in base all'operazione aritmetica selezionata tra i due numeri decimali, arrotondato al numero di cifre decimali specificato.",
+
+      tocTitle: "Indice dei Contenuti",
+      tocwhat: "Cos'è una Calcolatrice Decimale?",
+      tocunderstanding: "Comprendere i Numeri Decimali e il Valore Posizionale",
+      tochow: "Come Funziona la Calcolatrice Decimale",
+      tocformula: "Operazioni Decimali di Base Spiegate",
+      tocfraction: "Formula di Divisione Decimale",
+      tocresults: "Regole di Arrotondamento e Cifre Significative",
+
+      introTitle: "Informazioni sulla Calcolatrice Decimale",
+
+      whatTitle: "Cos'è una Calcolatrice Decimale?",
+      whatContent: "Una calcolatrice decimale è uno strumento progettato per eseguire calcoli utilizzando numeri decimali con chiarezza e precisione. I numeri decimali fanno parte del sistema numerico base-10, utilizzato nella matematica quotidiana, finanza, misurazioni e gestione dei dati. Questa calcolatrice aiuta gli utenti a lavorare con i decimali senza errori manuali.",
+      whatContent2: "Come calcolatrice matematica decimale, supporta attività comuni come addizione, sottrazione, moltiplicazione e divisione. È utile per studenti, professionisti e chiunque abbia bisogno di risultati rapidi e accurati da calcoli numerici.",
+
+      understandingTitle: "Comprendere i Numeri Decimali e il Valore Posizionale",
+      understandingContent: "I numeri decimali si basano sul valore posizionale, dove ogni cifra rappresenta una posizione specifica come decimi, centesimi o millesimi. Questa struttura rende i decimali utili per valori precisi, specialmente quando i numeri interi non sono sufficienti.",
+      understandingcontent2: "Una calcolatrice di numeri decimali gestisce correttamente questi valori posizionali. Applica le regole corrette di riporto e prestito durante i calcoli, aiutando a mantenere precisione e accuratezza nei risultati.",
+
+      howtitle: "Come Funziona la Calcolatrice Decimale",
+      howcontent: "Questa calcolatrice decimale online elabora gli input allineando i punti decimali prima di eseguire le operazioni. Per addizione e sottrazione, allinea i valori posizionali. Per moltiplicazione e divisione, segue le regole aritmetiche decimali standard. La calcolatrice supporta anche la conversione di frazioni in decimali, aiutando gli utenti a passare facilmente tra le forme numeriche. Quando necessario, applica le regole di arrotondamento e rispetta le cifre significative per presentare risultati chiari e significativi.",
+
+      whentousetitle: "Quando e Perché Usare una Calcolatrice Decimale",
+      whentousecontent: "Una calcolatrice aritmetica decimale è utile quando si lavora con misure, prezzi, medie o dati scientifici. Riduce il rischio di errori che spesso si verificano nei calcoli manuali con molti decimali. I calcoli decimali sono spesso collegati ai risultati delle divisioni, specialmente quando i quozienti superano i numeri interi. In tali casi, gli utenti possono iniziare con la divisione e poi continuare i calcoli precisi utilizzando strumenti come ",
+      interlink: "Calcolatrice Divisione.",
+
+      imageurl: "/Decimal-Calculator.jpg",
+      imagealttext: "Decimal Calculator",
+
+      formulaTitle: "Formula della Calcolatrice Decimale",
+
+      mainFormulatitle: "Operazioni Decimali di Base Spiegate",
+      mainformulaend: "I calcoli decimali seguono le stesse regole della matematica con numeri interi, ma richiedono un'attenta gestione dei punti decimali. Uno strumento per operazioni decimali applica operazioni matematiche standard come addizione, sottrazione, moltiplicazione e divisione mantenendo allineati i valori posizionali. In tutti i casi, la calcolatrice tratta i decimali come numeri all'interno del sistema numerico base-10, garantendo risultati coerenti e facili da comprendere in calcoli diversi.",
+
+      howtoTitle: "Logica della Formula per Sommare e Sottrarre Decimali",
+      howtocontent: "Quando si sommano o sottraggono decimali, la calcolatrice allinea i numeri in base ai punti decimali. Ogni cifra viene quindi aggiunta o sottratta in base al suo valore posizionale. Ad esempio, sottraendo 3,75 da 6,20, la calcolatrice allinea prima i decimali. Applica poi le regole di riporto e prestito dove necessario. Questo processo previene errori comuni e mantiene i risultati accurati.",
+
+      whyformulatitle: "Metodo di Moltiplicazione Decimale",
+      whyformulacontent: "La moltiplicazione decimale rimuove temporaneamente i punti decimali per semplificare l'operazione. La calcolatrice conta il numero totale di decimali in entrambi i numeri. Dopo averli moltiplicati come numeri interi, reinserisce il punto decimale nel risultato. Questo metodo aiuta a mantenere precisione e accuratezza, specialmente con valori piccoli o calcoli ripetuti.",
+
+      fractiontitle: "Formula di Divisione Decimale",
+      fractionformulacontent: "La divisione decimale segue una regola chiara. La calcolatrice sposta il punto decimale sia nel dividendo che nel divisore della stessa quantità per rimuovere i decimali dal divisore. Questo trasforma il problema in un'operazione di divisione più semplice. Una volta completata la divisione, il risultato riflette la posizione decimale corretta. Questo approccio garantisce un output pulito e affidabile durante i calcoli numerici, specialmente con valori decimali lunghi.",
+
+      resultstitle: "Regole di Arrotondamento e Cifre Significative",
+      resultscontent: "Dopo aver completato i calcoli, la calcolatrice può applicare le regole di arrotondamento basate sulle convenzioni matematiche standard. Rispetta anche le cifre significative in modo che i risultati rimangano significativi e non eccessivamente lunghi. I risultati decimali spesso derivano da problemi di divisione. Quando gli utenti iniziano con la divisione e hanno bisogno di un'elaborazione decimale precisa, possono continuare i calcoli utilizzando strumenti come la Calcolatrice Divisione.",
+
+      faqTitle: "Domande Frequenti",
+      faq: [
+        {
+          q: "A cosa serve una calcolatrice decimale?",
+          a: "Una calcolatrice decimale aiuta a eseguire operazioni matematiche utilizzando numeri decimali. Supporta addizione, sottrazione, moltiplicazione e divisione mantenendo accurati i decimali. Questo la rende utile per calcoli quotidiani che coinvolgono denaro, misure o dati."
+        },
+        {
+          q: "Perché il valore posizionale è importante nei calcoli decimali?",
+          a: "Il valore posizionale definisce la posizione di ciascuna cifra in un numero decimale, come decimi o centesimi. Una gestione corretta del valore posizionale garantisce risultati accurati, soprattutto durante addizione e sottrazione dove l'allineamento è importante."
+        },
+        {
+          q: "Questa calcolatrice può gestire numeri decimali molto piccoli?",
+          a: "Sì, la calcolatrice funziona con numeri decimali sia piccoli che grandi. Segue regole aritmetiche fisse per mantenere la precisione, anche quando i numeri hanno molte cifre decimali."
+        },
+        {
+          q: "Come gestisce la calcolatrice l'arrotondamento?",
+          a: "La calcolatrice applica regole standard di arrotondamento dopo aver completato i calcoli. Arrotonda i valori solo se necessario e rispetta le cifre significative in modo che i risultati rimangano significativi e non fuorvianti."
+        },
+        {
+          q: "La conversione di frazioni in decimali è supportata?",
+          a: "Sì, la calcolatrice può convertire frazioni in decimali prima di eseguire i calcoli. Questo aiuta gli utenti a lavorare con un formato numerico unico e a evitare errori di conversione manuale."
+        },
+        {
+          q: "Perché i calcoli decimali sono importanti nella vita reale?",
+          a: "I calcoli decimali sono utilizzati nei prezzi, nelle misurazioni, nelle medie e nei dati scientifici. Una matematica decimale accurata supporta decisioni migliori e riduce gli errori nelle attività numeriche quotidiane."
+        }
+      ]
+    }
+
+
 
   },
 

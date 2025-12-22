@@ -1219,4 +1219,141 @@ export const mathsCalculators: Calculator[] = [
     ]
   },
 
+  {
+    slug: "decimal-calculator",
+    metaTitleKey: "maths.decimal.metaTitle",
+    metaDescriptionKey: "maths.decimal.metaDescription",
+    titleKey: "maths.decimal.title",
+    category: "maths",
+    descriptionKey: "maths.decimal.desc",
+    heading: "maths.decimal.heading",
+    formulaId: "decimal",
+
+    inputs: [
+      {
+        label: "maths.decimal.firstNumber",
+        name: "firstNumber",
+        type: "number",
+        placeholder: "Enter first decimal number"
+      },
+      {
+        label: "maths.decimal.operation",
+        name: "operation",
+        type: "select",
+        options: [
+          { value: "add", label: "Addition (+)" },
+          { value: "subtract", label: "Subtraction (−)" },
+          { value: "multiply", label: "Multiplication (×)" },
+          { value: "divide", label: "Division (÷)" },
+        ]
+      },
+      {
+        label: "maths.decimal.secondNumber",
+        name: "secondNumber",
+        type: "number",
+        placeholder: "Enter second decimal number"
+      },
+      {
+        label: "maths.decimal.decimalPlaces",
+        name: "decimalPlaces",
+        type: "number",
+        min: 0,
+        max: 10,
+      },
+    ],
+
+    result: {
+      label: "maths.decimal.result",
+      explainKey: "maths.decimal.resultExplain",
+    },
+
+    tocheading: "maths.decimal.tocTitle",
+
+    toc: [
+      { id: "what", labelKey: "maths.decimal.tocwhat" },
+      { id: "understanding", labelKey: "maths.decimal.tocunderstanding" },
+      { id: "how", labelKey: "maths.decimal.tochow" },
+      { id: "formula", labelKey: "maths.decimal.tocformula" },
+      { id: "division", labelKey: "maths.decimal.tocfraction" },
+      { id: "rounding", labelKey: "maths.decimal.tocresults" },
+    ],
+
+    sections: [
+      {
+        id: "intro",
+        titleKey: "maths.decimal.introTitle",
+        subsections: [
+          {
+            id: "what",
+            titleKey: "maths.decimal.whatTitle",
+            contentKey: "maths.decimal.whatContent",
+            contentKey2: "maths.decimal.whatContent2",
+          },
+          {
+            id: "understanding",
+            titleKey: "maths.decimal.understandingTitle",
+            contentKey: "maths.decimal.understandingContent",
+            contentKey2: "maths.decimal.understandingcontent2",
+          },
+          {
+            id: "how",
+            titleKey: "maths.decimal.howtitle",
+            contentKey: "maths.decimal.howcontent",
+          },
+          {
+            id: "when-to-use",
+            titleKey: "maths.decimal.whentousetitle",
+            linkparacontent: "maths.decimal.whentousecontent",
+            linkparaKey: "maths.decimal.interlink",
+            linkparaslug: "division-calculator",
+            imageKey: "maths.decimal.imageurl",
+            imageAltKey: "maths.decimal.imagealttext",
+          },
+        ]
+      },
+
+      {
+        id: "formula",
+        titleKey: "maths.decimal.formulaTitle",
+        subsections: [
+          {
+            id: "basic-operations",
+            titleKey: "maths.decimal.mainFormulatitle",
+            contentKey: "maths.decimal.mainformulaend",
+          },
+          {
+            id: "addition-subtraction",
+            titleKey: "maths.decimal.howtoTitle",
+            contentKey: "maths.decimal.howtocontent",
+          },
+          {
+            id: "multiplication",
+            titleKey: "maths.decimal.whyformulatitle",
+            contentKey: "maths.decimal.whyformulacontent",
+          },
+          {
+            id: "division",
+            titleKey: "maths.decimal.fractiontitle",
+            contentKey: "maths.decimal.fractionformulacontent",
+          },
+          {
+            id: "rounding",
+            titleKey: "maths.decimal.resultstitle",
+            contentKey: "maths.decimal.resultscontent",
+          },
+        ]
+      },
+    ],
+
+    faqTitleKey: "maths.decimal.faqTitle",
+    faqs: [
+      { qKey: "maths.decimal.faq.0.q", aKey: "maths.decimal.faq.0.a" },
+      { qKey: "maths.decimal.faq.1.q", aKey: "maths.decimal.faq.1.a" },
+      { qKey: "maths.decimal.faq.2.q", aKey: "maths.decimal.faq.2.a" },
+      { qKey: "maths.decimal.faq.3.q", aKey: "maths.decimal.faq.3.a" },
+      { qKey: "maths.decimal.faq.4.q", aKey: "maths.decimal.faq.4.a" },
+      { qKey: "maths.decimal.faq.5.q", aKey: "maths.decimal.faq.5.a" },
+    ]
+  },
+
 ]

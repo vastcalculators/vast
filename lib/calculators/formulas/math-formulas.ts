@@ -255,6 +255,41 @@ Result: ${result}
   `.trim();
 },
 
+decimalCalculator: (inputs: Record<string, any>) => {
+  const first = Number(inputs.firstNumber);
+  const second = Number(inputs.secondNumber);
+  const operation = String(inputs.operation || "add");
+  const decimalPlaces = Number(inputs.decimalPlaces) || 2;
+
+  if (isNaN(first) || isNaN(second)) {
+    return "0 | Invalid input";
+  }
+
+  let result: number;
+
+  switch (operation) {
+    case "add":
+      result = first + second;
+      break;
+    case "subtract":
+      result = first - second;
+      break;
+    case "multiply":
+      result = first * second;
+      break;
+    case "divide":
+      if (second === 0) return "∞ | Division by zero";
+      result = first / second;
+      break;
+    default:
+      return "0 | Invalid operation";
+  }
+
+  return `
+Result: ${result.toFixed(decimalPlaces)}
+  `.trim();
+},
+
 
 
 };

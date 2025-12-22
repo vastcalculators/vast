@@ -5169,6 +5169,96 @@ export const deTranslations = {
 },
 
 
+decimal: {
+      metaTitle: "Online-Dezimalrechner – Einfaches Mathematik-Tool",
+      metaDescription: "Berechnen Sie Dezimalzahlen sofort mit genauen Ergebnissen. Addieren, subtrahieren, multiplizieren oder dividieren Sie jetzt mit dem Dezimalrechner",
+      title: "Dezimalrechner",
+      desc: "Berechnen Sie Dezimalzahlen sofort mit genauen Ergebnissen. Addieren, subtrahieren, multiplizieren oder dividieren Sie jetzt mit dem Dezimalrechner",
+      heading: "Dezimalrechner",
+
+      firstNumber: "Erste Dezimalzahl",
+      operation: "Operation",
+      secondNumber: "Zweite Dezimalzahl",
+      decimalPlaces: "Dezimalstellen",
+
+      result: "Berechnungsergebnis",
+      resultExplain: "Das Ergebnis wird basierend auf der gewählten arithmetischen Operation zwischen den beiden Dezimalzahlen berechnet und auf die angegebene Anzahl von Dezimalstellen gerundet.",
+
+      tocTitle: "Inhaltsverzeichnis",
+      tocwhat: "Was ist ein Dezimalrechner?",
+      tocunderstanding: "Dezimalzahlen und Stellenwert verstehen",
+      tochow: "Wie der Dezimalrechner funktioniert",
+      tocformula: "Grundlegende Dezimaloperationen erklärt",
+      tocfraction: "Formel für Dezimaldivision",
+      tocresults: "Rundungsregeln und signifikante Stellen",
+
+      introTitle: "Über den Dezimalrechner",
+
+      whatTitle: "Was ist ein Dezimalrechner?",
+      whatContent: "Ein Dezimalrechner ist ein Werkzeug, das entwickelt wurde, um Berechnungen mit Dezimalzahlen klar und präzise durchzuführen. Dezimalzahlen sind Teil des Dezimalsystems (Basis-10), das in der täglichen Mathematik, im Finanzwesen, bei Messungen und der Datenverarbeitung verwendet wird. Dieser Rechner hilft Benutzern, mit Dezimalzahlen ohne manuelle Fehler zu arbeiten.",
+      whatContent2: "Als mathematischer Dezimalrechner unterstützt er gängige Aufgaben wie Addition, Subtraktion, Multiplikation und Division. Er ist nützlich für Studenten, Fachleute und alle, die schnelle und genaue Ergebnisse bei numerischen Berechnungen benötigen.",
+
+      understandingTitle: "Dezimalzahlen und Stellenwert verstehen",
+      understandingContent: "Dezimalzahlen basieren auf dem Stellenwert, wobei jede Ziffer eine bestimmte Position wie Zehntel, Hundertstel oder Tausendstel darstellt. Diese Struktur macht Dezimalzahlen für präzise Werte nützlich, insbesondere wenn ganze Zahlen nicht ausreichen.",
+      understandingcontent2: "Ein Dezimalrechner behandelt diese Stellenwerte korrekt. Er wendet die richtigen Übertrags- und Entleihregeln während der Berechnungen an, um Präzision und Genauigkeit der Ergebnisse zu gewährleisten.",
+
+      howtitle: "Wie der Dezimalrechner funktioniert",
+      howcontent: "Dieser Online-Dezimalrechner verarbeitet Eingaben, indem er Dezimalpunkte vor der Durchführung von Operationen ausrichtet. Bei Addition und Subtraktion werden die Stellenwerte abgeglichen. Bei Multiplikation und Division folgt er den Standardregeln der Dezimalarithmetik. Der Rechner unterstützt auch die Umwandlung von Brüchen in Dezimalzahlen, was Benutzern den einfachen Wechsel zwischen Zahlenformen ermöglicht. Bei Bedarf wendet er Rundungsregeln an und respektiert signifikante Stellen, um klare und aussagekräftige Ergebnisse zu liefern.",
+
+      whentousetitle: "Wann und warum einen Dezimalrechner verwenden",
+      whentousecontent: "Ein Dezimalrechner ist hilfreich bei Messungen, Preisen, Durchschnitten oder wissenschaftlichen Daten. Er reduziert das Risiko von Fehlern, die bei manuellen Berechnungen mit vielen Dezimalstellen häufig auftreten. Dezimalberechnungen hängen oft mit Divisionsergebnissen zusammen, insbesondere wenn Quotienten über ganze Zahlen hinausgehen. In solchen Fällen können Benutzer mit der Division beginnen und dann präzise Berechnungen mit Tools wie dem ",
+      interlink: "Divisionsrechner fortsetzen.",
+
+      imageurl: "/Decimal-Calculator.jpg",
+      imagealttext: "Decimal Calculator",
+
+      formulaTitle: "Formel des Dezimalrechners",
+
+      mainFormulatitle: "Grundlegende Dezimaloperationen erklärt",
+      mainformulaend: "Dezimalberechnungen folgen denselben Regeln wie Ganzzahlarithmetik, erfordern jedoch sorgfältige Handhabung der Dezimalpunkte. Ein Dezimaloperationstool wendet Standardmathematikoperationen wie Addition, Subtraktion, Multiplikation und Division an, während die Stellenwerte ausgerichtet bleiben. In allen Fällen behandelt der Rechner Dezimalzahlen als Zahlen innerhalb des Basis-10-Systems, was konsistente und leicht verständliche Ergebnisse über verschiedene Berechnungen hinweg gewährleistet.",
+
+      howtoTitle: "Formellogik zum Addieren und Subtrahieren von Dezimalzahlen",
+      howtocontent: "Beim Addieren oder Subtrahieren von Dezimalzahlen richtet der Rechner die Zahlen nach ihren Dezimalpunkten aus. Jede Ziffer wird dann basierend auf ihrem Stellenwert addiert oder subtrahiert. Zum Beispiel, wenn 3,75 von 6,20 subtrahiert wird, richtet der Rechner zuerst die Dezimalstellen aus. Danach wendet er bei Bedarf Übertrags- und Entleihregeln an. Dieser Prozess verhindert häufige Fehler und hält die Ergebnisse genau.",
+
+      whyformulatitle: "Methode der Dezimalmultiplikation",
+      whyformulacontent: "Die Dezimalmultiplikation entfernt vorübergehend die Dezimalpunkte, um die Operation zu vereinfachen. Der Rechner zählt die Gesamtzahl der Dezimalstellen in beiden Zahlen. Nach der Multiplikation als Ganzzahlen wird der Dezimalpunkt wieder in das Ergebnis eingefügt. Diese Methode hilft, Präzision und Genauigkeit zu erhalten, insbesondere bei kleinen Werten oder wiederholten Berechnungen.",
+
+      fractiontitle: "Formel für Dezimaldivision",
+      fractionformulacontent: "Die Dezimaldivision folgt einer klaren Regel. Der Rechner verschiebt den Dezimalpunkt im Dividend und Divisor um denselben Betrag, um Dezimalstellen im Divisor zu entfernen. Dadurch wird das Problem zu einer einfacheren Division. Nach Abschluss der Division spiegelt das Ergebnis die korrekte Dezimalposition wider. Dieser Ansatz gewährleistet sauberes und zuverlässiges Ergebnis bei numerischen Berechnungen, insbesondere bei langen Dezimalwerten.",
+
+      resultstitle: "Rundungsregeln und signifikante Stellen",
+      resultscontent: "Nach Abschluss der Berechnungen kann der Rechner Rundungsregeln gemäß den Standard-Mathematik-Konventionen anwenden. Er respektiert auch signifikante Stellen, sodass die Ergebnisse sinnvoll bleiben und nicht zu lang erscheinen. Dezimalergebnisse stammen oft aus Divisionen. Wenn Benutzer mit der Division beginnen und dann eine präzise Dezimalbehandlung benötigen, können sie Berechnungen mit Tools wie dem Divisionsrechner fortsetzen.",
+
+      faqTitle: "Häufig gestellte Fragen",
+      faq: [
+        {
+          q: "Wofür wird ein Dezimalrechner verwendet?",
+          a: "Ein Dezimalrechner hilft bei mathematischen Operationen mit Dezimalzahlen. Er unterstützt Addition, Subtraktion, Multiplikation und Division und hält die Dezimalstellen genau ein. Dies macht ihn nützlich für tägliche Berechnungen mit Geld, Messungen oder Daten."
+        },
+        {
+          q: "Warum ist der Stellenwert in Dezimalberechnungen wichtig?",
+          a: "Der Stellenwert definiert die Position jeder Ziffer in einer Dezimalzahl, z. B. Zehntel oder Hundertstel. Die korrekte Handhabung des Stellenwerts stellt sicher, dass die Ergebnisse genau bleiben, insbesondere bei Addition und Subtraktion, wo die Ausrichtung wichtig ist."
+        },
+        {
+          q: "Kann dieser Rechner sehr kleine Dezimalzahlen verarbeiten?",
+          a: "Ja, der Rechner arbeitet sowohl mit kleinen als auch großen Dezimalzahlen. Er folgt festen Rechenregeln, um die Genauigkeit zu wahren, selbst wenn Zahlen viele Dezimalstellen enthalten."
+        },
+        {
+          q: "Wie verwaltet der Rechner das Runden?",
+          a: "Der Rechner wendet nach Abschluss der Berechnungen Standard-Rundungsregeln an. Er rundet nur bei Bedarf und respektiert signifikante Stellen, damit die Ergebnisse sinnvoll bleiben und nicht irreführend sind."
+        },
+        {
+          q: "Wird die Umwandlung von Bruch in Dezimal unterstützt?",
+          a: "Ja, der Rechner kann Brüche vor der Berechnung in Dezimalzahlen umwandeln. Dies hilft Benutzern, mit einem einheitlichen Zahlenformat zu arbeiten und manuelle Umrechnungsfehler zu vermeiden."
+        },
+        {
+          q: "Warum sind Dezimalberechnungen im realen Leben wichtig?",
+          a: "Dezimalberechnungen werden bei Preisen, Messungen, Durchschnitten und wissenschaftlichen Daten verwendet. Genaues Rechnen mit Dezimalzahlen unterstützt bessere Entscheidungen und reduziert Fehler bei alltäglichen numerischen Aufgaben."
+        }
+      ]
+    },
+
+
   },
 
   footer: {

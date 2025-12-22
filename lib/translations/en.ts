@@ -5206,6 +5206,100 @@ export const enTranslations = {
         }
       ]
     },
+
+    decimal: {
+      metaTitle: "Online Decimal Calculator – Simple Math Tool",
+      metaDescription: "Calculate decimals instantly with accurate results. Add, subtract, multiply, or divide, use the Decimal Calculator now",
+      title: "Decimal Calculator",
+      desc: "Calculate decimals instantly with accurate results. Add, subtract, multiply, or divide, use the Decimal Calculator now",
+      heading: "Decimal Calculator",
+
+      firstNumber: "First Decimal Number",
+      operation: "Operation",
+      secondNumber: "Second Decimal Number",
+      decimalPlaces: "Decimal Places",
+
+      result: "Calculation Result",
+      resultExplain: "The result is calculated based on the selected arithmetic operation between the two decimal numbers, rounded to the specified number of decimal places.",
+
+
+
+      tocTitle: "Table of Contents",
+      tocwhat: "What Is a Decimal Calculator?",
+      tocunderstanding: "Understanding Decimal Numbers and Place Value",
+      tochow: "How the Decimal Calculator Works",
+      tocformula: "Basic Decimal Operations Explained",
+      tocfraction: "Decimal Division Formula",
+      tocresults: "Rounding Rules and Significant Digits",
+
+      introTitle: "About the Decimal Calculator",
+
+
+      whatTitle: "What Is a Decimal Calculator?",
+      whatContent: "A Decimal Calculator is a tool designed to perform calculations using decimal numbers with clarity and precision. Decimal numbers are part of the base-10 number system, which is used in everyday math, finance, measurements, and data handling. This calculator helps users work with decimals without manual errors.",
+      whatContent2: "As a decimal math calculator, it supports common tasks like addition, subtraction, multiplication, and division. It is useful for students, professionals, and anyone who needs fast and accurate results from numerical computation.",
+
+      understandingTitle: "Understanding Decimal Numbers and Place Value",
+      understandingContent: "Decimal numbers rely on place value, where each digit represents a specific position such as tenths, hundredths, or thousandths. This structure makes decimals useful for precise values, especially when whole numbers are not enough.",
+      understandingcontent2: "A decimal number calculator handles these place values correctly. It applies proper carry and borrow rules during calculations, which helps maintain precision and accuracy in results.",
+
+
+      howtitle: "How the Decimal Calculator Works",
+      howcontent: "This online decimal calculator processes inputs by aligning decimal points before performing operations. For addition and subtraction, it matches place values. For multiplication and division, it follows standard decimal arithmetic rules. The calculator also supports fraction to decimal conversion, which helps users switch between number forms easily. When needed, it applies rounding rules and respects significant digits to present clean and meaningful outputs.",
+
+      whentousetitle: "When and Why to Use a Decimal Calculator",
+      whentousecontent: "A decimal arithmetic calculator is helpful when working with measurements, prices, averages, or scientific data. It reduces the risk of mistakes that often occur in manual calculations involving many decimal places. Decimal calculations often connect with division results, especially when quotients extend beyond whole numbers. In such cases, users may begin with division and then continue precise calculations using tools like the ",
+      interlink: "Division Calculator.",
+
+      imageurl: "/Decimal-Calculator.jpg",
+      imagealttext: "Decimal Calculator",
+
+      formulaTitle: "Decimal Calculator Formula",
+
+      mainFormulatitle: "Basic Decimal Operations Explained",
+      mainformulaend: "Decimal calculations follow the same rules as whole-number math, but they require careful handling of decimal points. A decimal operations tool applies standard mathematical operations such as addition, subtraction, multiplication, and division while keeping place values aligned. In all cases, the calculator treats decimals as numbers within the base-10 number system. This ensures results remain consistent and easy to understand across different calculations.",
+
+      howtoTitle: " Formula Logic for Adding and Subtracting Decimals",
+      howtocontent: "When adding or subtracting decimals, the calculator aligns numbers by their decimal points. Each digit is then added or subtracted based on its place value. For example, when subtracting 3.75 from 6.20, the calculator lines up the decimals first. It then applies carry and borrow rules where needed. This process prevents common errors and keeps results accurate.",
+
+
+      whyformulatitle: "Decimal Multiplication Method",
+      whyformulacontent: "Decimal multiplication removes decimal points temporarily to simplify the operation. The calculator counts the total number of decimal places in both numbers. After multiplying them as whole numbers, it places the decimal point back into the result. This method helps maintain precision and accuracy, especially when working with small values or repeated calculations.",
+
+      fractiontitle: "Decimal Division Formula",
+      fractionformulacontent: "Decimal division follows a clear rule. The calculator shifts the decimal point in both the dividend and divisor by the same amount to remove decimals from the divisor. This turns the problem into a simpler division operation. Once the division is complete, the result reflects the correct decimal placement. This approach ensures clean and reliable output during numerical computation, especially when dealing with long decimal values.",
+
+      resultstitle: "Rounding Rules and Significant Digits",
+      resultscontent: "After completing calculations, the calculator may apply rounding rules based on standard math conventions. It also respects significant digits so results remain meaningful rather than overly long. Decimal results often come from division problems. When users begin with division and then need precise decimal handling, they may continue calculations using tools like the Division Calculator.",
+
+      faqTitle: "Frequently Asked Questions",
+      faq: [
+        {
+          q: "What is a decimal calculator used for?",
+          a: "A decimal calculator helps perform math operations using decimal numbers. It supports addition, subtraction, multiplication, and division while keeping decimal places accurate. This makes it useful for daily calculations involving money, measurements, or data."
+        },
+        {
+          q: "Why is place value important in decimal calculations?",
+          a: "Place value defines the position of each digit in a decimal number, such as tenths or hundredths. Correct place value handling ensures that results stay accurate, especially during addition and subtraction where alignment matters."
+        },
+        {
+          q: "Can this calculator handle very small decimal numbers?",
+          a: "Yes, the calculator works with both small and large decimal numbers. It follows fixed arithmetic rules to maintain precision, even when numbers have many decimal places."
+        },
+        {
+          q: "How does the calculator manage rounding?",
+          a: "The calculator applies standard rounding rules after completing calculations. It rounds values only when needed and respects significant digits so results remain meaningful and not misleading."
+        },
+        {
+          q: "Is fraction to decimal conversion supported?",
+          a: "Yes, the calculator can convert fractions into decimals before performing calculations. This helps users work with a single number format and avoid manual conversion errors."
+        },
+        {
+          q: "Why are decimal calculations important in real life?",
+          a: "Decimal calculations are used in pricing, measurements, averages, and scientific data. Accurate decimal math supports better decisions and reduces mistakes in everyday numerical tasks"
+        }
+      ]
+    },
   },
 
   footer: {
