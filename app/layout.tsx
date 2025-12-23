@@ -1,7 +1,6 @@
 import type React from "react";
 import type { Metadata } from "next";
 import { Manrope } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
 import { type Locale, locales, defaultLocale } from "@/lib/i18n";
 
