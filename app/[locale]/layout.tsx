@@ -7,7 +7,7 @@ import { type Locale, locales } from "@/lib/i18n"
 import BackToTop from "@/components/BackToTop"
 import { Analytics } from "@vercel/analytics/next"
 import Script from "next/script"
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 export const dynamic = "force-static";
 
 interface LayoutProps {
@@ -85,7 +85,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
           `}
       </Script>
       <Analytics />
-
+      <SpeedInsights/>
 
       <body>
         <div className="flex min-h-screen flex-col">
