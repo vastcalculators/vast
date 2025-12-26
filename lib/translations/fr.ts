@@ -71,7 +71,14 @@ export const frTranslations = {
       metaDescription:
         "Calculatrices mathématiques gratuites pour l'algèbre, la géométrie, la trigonométrie, le calcul et les statistiques. Résolvez des équations, calculez des valeurs et simplifiez les étapes instantanément.",
     },
-
+    sports: {
+      metaTitle: "Calculateurs sportifs – Tous les outils de calcul sportif en ligne",
+      name: "Calculateurs sportifs",
+      description:
+        "Suivez vos performances et votre condition physique grâce à nos calculateurs sportifs. Que vous calculiez votre allure de course, estimiez les calories brûlées ou planifiiez votre programme d’entraînement, VastCalculator vous aide à rester au sommet de votre forme.",
+      metaDescription:
+        "Calculateurs sportifs gratuits pour calculer les scores, les statistiques, les données de fitness et les résultats de performance pour tous les types de sports en ligne.",
+    },
     all: "Toutes les Calculatrices",
   },
   categoriespage: {
@@ -5015,185 +5022,183 @@ export const frTranslations = {
     },
 
     digitalroot: {
-    metaTitle: "Calculateur de Racine Numérique Instantané – Résultats Rapides",
-    metaDescription: "Obtenez la racine numérique de n’importe quel nombre en quelques secondes. Résultats simples, clairs et précis—essayez le Calculateur de Racine Numérique dès aujourd’hui.",
-    title: "Calculateur de Racine Numérique",
-    desc: "Obtenez la racine numérique de n’importe quel nombre en quelques secondes. Résultats simples, clairs et précis—essayez le Calculateur de Racine Numérique dès aujourd’hui.",
-    heading: "Calculateur de Racine Numérique",
+      metaTitle: "Calculateur de Racine Numérique Instantané – Résultats Rapides",
+      metaDescription: "Obtenez la racine numérique de n’importe quel nombre en quelques secondes. Résultats simples, clairs et précis—essayez le Calculateur de Racine Numérique dès aujourd’hui.",
+      title: "Calculateur de Racine Numérique",
+      desc: "Obtenez la racine numérique de n’importe quel nombre en quelques secondes. Résultats simples, clairs et précis—essayez le Calculateur de Racine Numérique dès aujourd’hui.",
+      heading: "Calculateur de Racine Numérique",
 
-    number: "Nombre",
+      number: "Nombre",
 
-    result: "Résultat de la Racine Numérique",
-    digitalRoot: "Racine Numérique",
+      result: "Résultat de la Racine Numérique",
+      digitalRoot: "Racine Numérique",
 
-    resultExplain:
-      "La racine numérique est calculée en additionnant à plusieurs reprises les chiffres d’un nombre jusqu’à obtenir une valeur à un seul chiffre.",
+      resultExplain:
+        "La racine numérique est calculée en additionnant à plusieurs reprises les chiffres d’un nombre jusqu’à obtenir une valeur à un seul chiffre.",
 
-    tocTitle: "Table des Matières",
-    tocwhat: "Qu’est-ce qu’un Calculateur de Racine Numérique ?",
-    tocunderstanding: "Comment Fonctionne le Concept de Racine Numérique",
-    tochow: "Comment Fonctionne ce Calculateur de Racine Numérique",
-    tocformula: "Formule du Calculateur de Racine Numérique",
-    tocmainformula: "Méthode Modulo 9 pour la Racine Numérique",
-    tocwhy: "Pourquoi la Formule Produit des Résultats Précis",
+      tocTitle: "Table des Matières",
+      tocwhat: "Qu’est-ce qu’un Calculateur de Racine Numérique ?",
+      tocunderstanding: "Comment Fonctionne le Concept de Racine Numérique",
+      tochow: "Comment Fonctionne ce Calculateur de Racine Numérique",
+      tocformula: "Formule du Calculateur de Racine Numérique",
+      tocmainformula: "Méthode Modulo 9 pour la Racine Numérique",
+      tocwhy: "Pourquoi la Formule Produit des Résultats Précis",
 
-    introTitle: "À Propos du Calculateur de Racine Numérique",
+      introTitle: "À Propos du Calculateur de Racine Numérique",
 
-    whatTitle: "Qu’est-ce qu’un Calculateur de Racine Numérique ?",
-    whatContent: "Un Calculateur de Racine Numérique vous aide à réduire n’importe quel nombre à un seul chiffre en additionnant ses chiffres à plusieurs reprises. Ce chiffre final est appelé la racine numérique. Par exemple, si vous commencez avec 456, la somme des chiffres est 4 + 5 + 6 = 15, puis 1 + 5 = 6. Le résultat, 6, est la racine numérique.",
-    whatContent2: "Ce type d’outil de recherche de racine numérique est utile pour des vérifications rapides, l’apprentissage du comportement des nombres et la compréhension des concepts de base de la théorie des nombres. Il fonctionne avec tous les nombres en base 10 et produit un résultat à un seul chiffre reflétant des modèles numériques sous-jacents.",
+      whatTitle: "Qu’est-ce qu’un Calculateur de Racine Numérique ?",
+      whatContent: "Un Calculateur de Racine Numérique vous aide à réduire n’importe quel nombre à un seul chiffre en additionnant ses chiffres à plusieurs reprises. Ce chiffre final est appelé la racine numérique. Par exemple, si vous commencez avec 456, la somme des chiffres est 4 + 5 + 6 = 15, puis 1 + 5 = 6. Le résultat, 6, est la racine numérique.",
+      whatContent2: "Ce type d’outil de recherche de racine numérique est utile pour des vérifications rapides, l’apprentissage du comportement des nombres et la compréhension des concepts de base de la théorie des nombres. Il fonctionne avec tous les nombres en base 10 et produit un résultat à un seul chiffre reflétant des modèles numériques sous-jacents.",
 
-    understandingTitle: "Comment Fonctionne le Concept de Racine Numérique",
-    understandingContent: "La racine numérique repose sur l’addition répétée des chiffres jusqu’à ce qu’il ne reste qu’un seul chiffre. Ce processus est également appelé réduction numérique. Il constitue la base de nombreux modèles mathématiques utilisés dans les vérifications arithmétiques et le calcul mental.",
-    understandingcontent2: "Derrière cette méthode se trouve un calcul algorithmique explicite lié à l’opération modulo, en particulier modulo 9. Pour cette raison, les racines numériques apparaissent souvent dans l’apprentissage des mathématiques, les étapes de vérification et les propriétés arithmétiques liées aux sommes et aux multiples.",
+      understandingTitle: "Comment Fonctionne le Concept de Racine Numérique",
+      understandingContent: "La racine numérique repose sur l’addition répétée des chiffres jusqu’à ce qu’il ne reste qu’un seul chiffre. Ce processus est également appelé réduction numérique. Il constitue la base de nombreux modèles mathématiques utilisés dans les vérifications arithmétiques et le calcul mental.",
+      understandingcontent2: "Derrière cette méthode se trouve un calcul algorithmique explicite lié à l’opération modulo, en particulier modulo 9. Pour cette raison, les racines numériques apparaissent souvent dans l’apprentissage des mathématiques, les étapes de vérification et les propriétés arithmétiques liées aux sommes et aux multiples.",
 
-    howtitle: "Comment Fonctionne ce Calculateur de Racine Numérique",
-    howcontent: "Ce calculateur de somme des chiffres lit le nombre saisi et le divise en chiffres individuels. Il additionne ensuite les chiffres. Si le résultat comporte plus d’un chiffre, le calculateur répète le processus jusqu’à obtenir un seul chiffre. Cette approche fait de l’outil à la fois un calculateur de somme répétée des chiffres et un calculateur de somme numérique. Il aide les utilisateurs à comprendre comment les nombres se comportent lorsqu’ils sont réduits et pourquoi certaines sommes se répètent de manière prévisible.",
+      howtitle: "Comment Fonctionne ce Calculateur de Racine Numérique",
+      howcontent: "Ce calculateur de somme des chiffres lit le nombre saisi et le divise en chiffres individuels. Il additionne ensuite les chiffres. Si le résultat comporte plus d’un chiffre, le calculateur répète le processus jusqu’à obtenir un seul chiffre. Cette approche fait de l’outil à la fois un calculateur de somme répétée des chiffres et un calculateur de somme numérique. Il aide les utilisateurs à comprendre comment les nombres se comportent lorsqu’ils sont réduits et pourquoi certaines sommes se répètent de manière prévisible.",
 
-    whentousetitle: "Quand et Pourquoi Utiliser un Calculateur de Racine Numérique",
-    whentousecontent: "Un calculateur mathématique de chiffres est utile pour vérifier des calculs, apprendre des raccourcis ou explorer le comportement des nombres. Les racines numériques sont souvent utilisées dans des étapes de vérification de base, des études de numérologie et la reconnaissance de motifs. Pour une résolution de problèmes numériques plus large, les racines numériques fonctionnent souvent avec d’autres concepts mathématiques. Elles aident à confirmer les résultats et soutiennent des vérifications rapides après des opérations complexes, et des outils comme le",
-    interlink: "Calculateur de Racine Cubique",
+      whentousetitle: "Quand et Pourquoi Utiliser un Calculateur de Racine Numérique",
+      whentousecontent: "Un calculateur mathématique de chiffres est utile pour vérifier des calculs, apprendre des raccourcis ou explorer le comportement des nombres. Les racines numériques sont souvent utilisées dans des étapes de vérification de base, des études de numérologie et la reconnaissance de motifs. Pour une résolution de problèmes numériques plus large, les racines numériques fonctionnent souvent avec d’autres concepts mathématiques. Elles aident à confirmer les résultats et soutiennent des vérifications rapides après des opérations complexes, et des outils comme le",
+      interlink: "Calculateur de Racine Cubique",
 
-    imageurl: "/Digital-Root-Calculator.jpg",
-    imagealttext: "Digital root calculator",
+      imageurl: "/Digital-Root-Calculator.jpg",
+      imagealttext: "Digital root calculator",
 
-    formulaTitle: "Formule du Calculateur de Racine Numérique",
-    formulasubtitle: "Formule de Base de la Racine Numérique Expliquée",
-    formulasubcontent: "La racine numérique d’un nombre est obtenue en additionnant ses chiffres à plusieurs reprises jusqu’à ce qu’il ne reste qu’un seul chiffre. Ce processus est basé sur l’addition répétée et s’applique à tous les nombres en base 10. L’objectif est toujours un résultat à un seul chiffre entre 1 et 9, sauf si le nombre d’origine est zéro. Par exemple, si le nombre est 789, la somme des chiffres est 7 + 8 + 9 = 24. Comme ce résultat comporte deux chiffres, le processus se répète comme suit : 2 + 4 = 6. La valeur finale, 6, est la racine numérique.",
+      formulaTitle: "Formule du Calculateur de Racine Numérique",
+      formulasubtitle: "Formule de Base de la Racine Numérique Expliquée",
+      formulasubcontent: "La racine numérique d’un nombre est obtenue en additionnant ses chiffres à plusieurs reprises jusqu’à ce qu’il ne reste qu’un seul chiffre. Ce processus est basé sur l’addition répétée et s’applique à tous les nombres en base 10. L’objectif est toujours un résultat à un seul chiffre entre 1 et 9, sauf si le nombre d’origine est zéro. Par exemple, si le nombre est 789, la somme des chiffres est 7 + 8 + 9 = 24. Comme ce résultat comporte deux chiffres, le processus se répète comme suit : 2 + 4 = 6. La valeur finale, 6, est la racine numérique.",
 
-    mainFormulatitle: "Méthode Modulo 9 pour la Racine Numérique",
-    mainFormulacontent: "Les racines numériques sont également fortement liées à l’opération modulo, en particulier modulo 9. En théorie des nombres, tout nombre réduit à l’aide de modulo 9 produit le même résultat que sa racine numérique, sauf lorsque le résultat est égal à neuf au lieu de 0.",
-    mainformula: "Digital Root = 1 + (Number − 1) mod 9",
-    mainformulaend: "Cette méthode explique pourquoi les racines numériques se répètent en cycles et forment des modèles mathématiques clairs. Elle montre également comment les racines numériques sont liées à des propriétés arithmétiques plus profondes des nombres",
+      mainFormulatitle: "Méthode Modulo 9 pour la Racine Numérique",
+      mainFormulacontent: "Les racines numériques sont également fortement liées à l’opération modulo, en particulier modulo 9. En théorie des nombres, tout nombre réduit à l’aide de modulo 9 produit le même résultat que sa racine numérique, sauf lorsque le résultat est égal à neuf au lieu de 0.",
+      mainformula: "Digital Root = 1 + (Number − 1) mod 9",
+      mainformulaend: "Cette méthode explique pourquoi les racines numériques se répètent en cycles et forment des modèles mathématiques clairs. Elle montre également comment les racines numériques sont liées à des propriétés arithmétiques plus profondes des nombres",
 
-    stepTitle: "Logique de Calcul Étape par Étape Utilisée par le Calculateur",
-    stepcontent: "Le calculateur de somme des chiffres suit un processus fiable et simple. D’abord, il sépare le nombre en chiffres individuels. Ensuite, il les additionne. Si la somme comporte plus d’un chiffre, le calculateur répète l’addition. Ce calcul algorithmique se poursuit jusqu’à ce qu’il ne reste qu’un seul chiffre. Comme les étapes sont claires et fixes, le calculateur fournit des résultats cohérents pour les petites et grandes valeurs",
+      stepTitle: "Logique de Calcul Étape par Étape Utilisée par le Calculateur",
+      stepcontent: "Le calculateur de somme des chiffres suit un processus fiable et simple. D’abord, il sépare le nombre en chiffres individuels. Ensuite, il les additionne. Si la somme comporte plus d’un chiffre, le calculateur répète l’addition. Ce calcul algorithmique se poursuit jusqu’à ce qu’il ne reste qu’un seul chiffre. Comme les étapes sont claires et fixes, le calculateur fournit des résultats cohérents pour les petites et grandes valeurs",
 
-    whyformulatitle: "Pourquoi la Formule Produit des Résultats Précis",
-    whyformulacontent: "La méthode de la racine numérique fonctionne parce qu’elle repose sur des règles numériques stables plutôt que sur des estimations. Chaque étape suit une logique mathématique définie, ce qui rend le résultat prévisible et fiable. C’est pourquoi les racines numériques sont souvent utilisées pour des vérifications rapides et des étapes de validation. Lorsque les racines numériques apparaissent aux côtés d’autres opérations mathématiques, elles aident à confirmer si les résultats précédents sont cohérents. Dans des flux de travail plus larges, les utilisateurs peuvent vérifier les résultats des calculs basés sur des puissances, puis poursuivre l’analyse avec des outils comme le Calculateur de Racine Cubique.",
+      whyformulatitle: "Pourquoi la Formule Produit des Résultats Précis",
+      whyformulacontent: "La méthode de la racine numérique fonctionne parce qu’elle repose sur des règles numériques stables plutôt que sur des estimations. Chaque étape suit une logique mathématique définie, ce qui rend le résultat prévisible et fiable. C’est pourquoi les racines numériques sont souvent utilisées pour des vérifications rapides et des étapes de validation. Lorsque les racines numériques apparaissent aux côtés d’autres opérations mathématiques, elles aident à confirmer si les résultats précédents sont cohérents. Dans des flux de travail plus larges, les utilisateurs peuvent vérifier les résultats des calculs basés sur des puissances, puis poursuivre l’analyse avec des outils comme le Calculateur de Racine Cubique.",
 
-    faqTitle: "Questions Fréquemment Posées",
-    faq: [
-      {
-        q: "Qu’est-ce qu’une racine numérique en termes simples ?",
-        a: "Une racine numérique est le dernier chiffre unique obtenu après avoir additionné tous les chiffres d’un nombre encore et encore. Ce processus se poursuit jusqu’à ce qu’il ne reste qu’un seul chiffre. Elle aide à montrer des motifs de base dans les nombres et est souvent utilisée pour des vérifications rapides."
-      },
-      {
-        q: "En quoi la racine numérique est-elle différente d’une somme normale des chiffres ?",
-        a: "Une somme normale des chiffres additionne les chiffres une seule fois. Une racine numérique va plus loin en répétant l’addition jusqu’à ce qu’un résultat à un seul chiffre apparaisse. Cette étape supplémentaire la rend utile pour la réduction numérique et l’analyse des motifs."
-      },
-      {
-        q: "La méthode de la racine numérique fonctionne-t-elle pour les grands nombres ?",
-        a: "Oui, la méthode de la racine numérique fonctionne aussi bien pour les petits que pour les très grands nombres. Comme elle repose sur un calcul algorithmique et des règles fixes, la taille du nombre n’affecte pas la précision. Le calculateur gère facilement les grandes entrées."
-      },
-      {
-        q: "Pourquoi utilise-t-on le modulo 9 dans les calculs de racine numérique ?",
-        a: "Les racines numériques sont étroitement liées au concept de calculateur modulo 9. En théorie des nombres, réduire un nombre à l’aide de modulo 9 donne le même résultat que sa racine numérique dans la plupart des cas. Cela explique pourquoi les racines numériques se répètent en cycles prévisibles"
-      },
-      {
-        q: "Les racines numériques sont-elles utilisées en dehors des mathématiques de base ?",
-        a: "Oui, les racines numériques apparaissent dans des exercices d’apprentissage, le calcul mental et les méthodes de calculateur de numérologie. Elles aident également à vérifier le travail arithmétique et à comprendre les motifs mathématiques à travers les nombres."
-      },
-      {
-        q: "Ce calculateur de racine numérique peut-il être utilisé avec d’autres outils mathématiques ?",
-        a: "Oui, les racines numériques soutiennent souvent d’autres calculs en servant d’étape de vérification rapide. Après avoir travaillé avec des racines, des puissances ou des équations, les utilisateurs peuvent poursuivre l’analyse numérique avec des outils comme le Calculateur de Racine Cubique."
-      }
-    ]
-  },
-
-  division: {
-  metaTitle: "Calculatrice de Division Instantanée – Résolvez en Secondes",
-  metaDescription: "Résolvez des problèmes de division en ligne en quelques secondes. Précise, simple et fiable, utilisez notre Calculatrice de Division dès aujourd'hui.",
-  title: "Calculatrice de Division",
-  desc: "Résolvez des problèmes de division en ligne en quelques secondes. Précise, simple et fiable, utilisez notre Calculatrice de Division dès aujourd'hui.",
-  heading: "Calculatrice de Division",
-
-  dividend: "Dividende",
-  divisor: "Diviseur",
-
-  result: "Résultat de la Division",
-
-  resultExplain: "La division se calcule en divisant le dividende par le diviseur. Le diviseur ne doit pas être zéro, car la division par zéro n'est pas définie.",
-
-  tocTitle: "Table des Matières",
-  tocwhat: "Qu'est-ce qu'une Calculatrice de Division ?",
-  tocunderstanding: "Comprendre la Division en Termes Simples",
-  tochow: "Comment Fonctionne la Calculatrice de Division",
-  tocformula: "Formule de la Calculatrice de Division",
-  tocfraction: "Méthode de Division des Fractions",
-  tocresults: "Comment la Calculatrice Assure des Résultats Précis",
-
-  introTitle: "À Propos de la Calculatrice de Division",
-
-  whatTitle: "Qu'est-ce qu'une Calculatrice de Division ?",
-  whatContent: "Une calculatrice de division est un outil qui aide à diviser un nombre par un autre et à afficher le résultat clairement. La division est l'une des quatre opérations arithmétiques de base utilisées dans les mathématiques quotidiennes. Elle répond à la question combien de fois un nombre tient dans un autre.",
-  whatContent2: "Cette calculatrice fonctionne comme une calculatrice de division pour les nombres entiers, les décimales et les fractions. Elle fournit des résultats rapides tout en maintenant la précision mathématique, ce qui la rend utile pour les étudiants, les professionnels et toute personne travaillant avec des nombres.",
-
-  understandingTitle: "Comprendre la Division en Termes Simples",
-  understandingContent: "La division comporte trois parties principales : le dividende, le diviseur et le résultat. Le dividende est le nombre à diviser. Le diviseur est le nombre utilisé pour le diviser. La réponse est appelée quotient, et parfois il y a un reste.",
-  understandingcontent2: "Par exemple, lorsque l'on divise 17 par 5, le quotient est 3 et le reste est 2. Une calculatrice de quotient et une calculatrice de reste aident à afficher les deux valeurs clairement, surtout lorsque la division ne donne pas un nombre entier.",
-
-  howtitle: "Comment Fonctionne la Calculatrice de Division",
-  howcontent: "Cet outil de division en ligne suit les règles mathématiques standard pour garantir des résultats corrects. Tout d'abord, il vérifie le dividende et le diviseur. Ensuite, il applique la méthode de division correcte selon le type d'entrée. Pour les nombres entiers, il peut utiliser la méthode de la division longue. Pour les décimales, il effectue la division décimale. Pour les fractions, il applique les règles de division des fractions. La calculatrice traite chaque étape avec soin pour fournir un calcul numérique clair et fiable sans effort manuel.",
-
-  whentousetitle: "Quand Utiliser une Calculatrice de Division",
-  whentousecontent: "Une calculatrice mathématique de division est utile pour résoudre les devoirs, vérifier les réponses ou travailler avec des nombres réels tels que budgets, mesures ou moyennes. Elle aide à éviter les erreurs pouvant survenir lors de la division manuelle. La division conduit souvent à des résultats décimaux, surtout lorsque le quotient n'est pas un nombre entier. Dans de tels cas, les utilisateurs peuvent continuer les calculs ou les comparaisons en utilisant des outils comme le ",
-  interlink: "Calculatrice Décimale.",
-
-  imageurl: "/Division-Calculator.jpg",
-  imagealttext: "Division Calculator",
-
-  formulaTitle: "Formule de la Calculatrice de Division",
-
-  mainFormulatitle: "Formule de Division de Base Expliquée",
-  mainformula: "Quotient = Dividende ÷ Diviseur",
-  mainformulaend: "Le dividende est le nombre que vous souhaitez diviser. Le diviseur est le nombre par lequel vous divisez. Le résultat de cette opération s'appelle le quotient. Cette formule constitue la base de tous les calculs numériques basés sur la division en mathématiques. Lorsque le dividende n'est pas divisible uniformément par le diviseur, un reste apparaît. Ce reste montre ce qui reste après la fin du processus de division.",
-
-  howtoTitle: "Comment Fonctionne la Méthode de Division Longue",
-  howtocontent: "La méthode de division longue décompose la division en petites étapes faciles. Tout d'abord, le diviseur est comparé au premier chiffre ou groupe de chiffres du dividende. Ensuite, le quotient est construit étape par étape tout en soustrayant les résultats partiels. Cette méthode aide à afficher clairement le quotient et le reste. Une calculatrice de division longue suit la même logique mais effectue chaque étape instantanément, ce qui réduit les erreurs et fait gagner du temps.",
-
-  whyformulatitle: "Formule de Division Décimale",
-  whyformulacontent: "Lorsque la division donne des valeurs inférieures à un ou des nombres non entiers, la calculatrice utilise la division décimale. Le processus reste le même, mais le quotient s'étend au-delà du point décimal. Dans la division décimale, la calculatrice ajuste le dividende et le diviseur de manière égale pour supprimer les décimales. Cela maintient la division précise et préserve l'exactitude mathématique tout au long du calcul.",
-
-  fractiontitle: "Méthode de Division des Fractions",
-  fractionformula: "Division des Fractions = Première Fraction × Réciproque de la Deuxième Fraction",
-  fractionformulaend: "Pour la division des fractions, la calculatrice utilise une règle mathématique standard. Elle multiplie la première fraction par le réciproque de la deuxième fraction. Cette méthode permet à la calculatrice de traiter les entrées fractionnaires sans problème et de fournir des résultats corrects lors d'opérations arithmétiques complexes.",
-
-  resultstitle: "Comment la Calculatrice Assure des Résultats Précis",
-  resultscontent: "La calculatrice mathématique de division applique la formule correcte selon le type d'entrée. Elle vérifie si les nombres nécessitent une division longue, une gestion des décimales ou des règles de fractions. Chaque étape suit une logique mathématique fixe pour maintenir la cohérence. Les résultats de la division conduisent souvent à des valeurs décimales. Lorsque les utilisateurs doivent continuer à travailler avec ces valeurs, ils peuvent les affiner ou les convertir davantage en utilisant des outils comme la Calculatrice Décimale.",
-
-  faqTitle: "Questions Fréquemment Posées",
-  faq: [
-    {
-      q: "Que fait une calculatrice de division ?",
-      a: "Une calculatrice de division divise un nombre par un autre et affiche le résultat clairement. Elle affiche le quotient et, si nécessaire, le reste. Cela aide les utilisateurs à comprendre comment les nombres se divisent sans effectuer de étapes manuelles."
+      faqTitle: "Questions Fréquemment Posées",
+      faq: [
+        {
+          q: "Qu’est-ce qu’une racine numérique en termes simples ?",
+          a: "Une racine numérique est le dernier chiffre unique obtenu après avoir additionné tous les chiffres d’un nombre encore et encore. Ce processus se poursuit jusqu’à ce qu’il ne reste qu’un seul chiffre. Elle aide à montrer des motifs de base dans les nombres et est souvent utilisée pour des vérifications rapides."
+        },
+        {
+          q: "En quoi la racine numérique est-elle différente d’une somme normale des chiffres ?",
+          a: "Une somme normale des chiffres additionne les chiffres une seule fois. Une racine numérique va plus loin en répétant l’addition jusqu’à ce qu’un résultat à un seul chiffre apparaisse. Cette étape supplémentaire la rend utile pour la réduction numérique et l’analyse des motifs."
+        },
+        {
+          q: "La méthode de la racine numérique fonctionne-t-elle pour les grands nombres ?",
+          a: "Oui, la méthode de la racine numérique fonctionne aussi bien pour les petits que pour les très grands nombres. Comme elle repose sur un calcul algorithmique et des règles fixes, la taille du nombre n’affecte pas la précision. Le calculateur gère facilement les grandes entrées."
+        },
+        {
+          q: "Pourquoi utilise-t-on le modulo 9 dans les calculs de racine numérique ?",
+          a: "Les racines numériques sont étroitement liées au concept de calculateur modulo 9. En théorie des nombres, réduire un nombre à l’aide de modulo 9 donne le même résultat que sa racine numérique dans la plupart des cas. Cela explique pourquoi les racines numériques se répètent en cycles prévisibles"
+        },
+        {
+          q: "Les racines numériques sont-elles utilisées en dehors des mathématiques de base ?",
+          a: "Oui, les racines numériques apparaissent dans des exercices d’apprentissage, le calcul mental et les méthodes de calculateur de numérologie. Elles aident également à vérifier le travail arithmétique et à comprendre les motifs mathématiques à travers les nombres."
+        },
+        {
+          q: "Ce calculateur de racine numérique peut-il être utilisé avec d’autres outils mathématiques ?",
+          a: "Oui, les racines numériques soutiennent souvent d’autres calculs en servant d’étape de vérification rapide. Après avoir travaillé avec des racines, des puissances ou des équations, les utilisateurs peuvent poursuivre l’analyse numérique avec des outils comme le Calculateur de Racine Cubique."
+        }
+      ]
     },
-    {
-      q: "Quelle est la différence entre quotient et reste ?",
-      a: "Le quotient est le résultat principal d'une division. Le reste est ce qui reste lorsque le dividende n'est pas divisible uniformément par le diviseur. Par exemple, diviser 17 par 5 donne un quotient de 3 et un reste de 2."
-    },
-    {
-      q: "Cette calculatrice peut-elle gérer la division longue ?",
-      a: "Oui, cette calculatrice prend en charge la méthode de division longue. Elle suit la même logique étape par étape enseignée dans les cours de mathématiques, mais effectue le calcul instantanément et affiche des résultats précis."
-    },
-    {
-      q: "La calculatrice fonctionne-t-elle avec des décimales ?",
-      a: "Oui, la calculatrice prend en charge la division décimale. Lorsque la division ne se termine pas par un nombre entier, elle affiche clairement les valeurs décimales tout en maintenant la précision mathématique à chaque étape."
-    },
-    {
-      q: "Puis-je diviser des fractions avec cette calculatrice ?",
-      a: "Oui, la calculatrice prend en charge la division des fractions. Elle applique des règles arithmétiques standard pour diviser correctement les fractions, ce qui la rend utile pour les devoirs et la résolution pratique de problèmes."
-    },
-    {
-      q: "Pourquoi la division est-elle importante en arithmétique de base ?",
-      a: "La division est une partie fondamentale des opérations arithmétiques. Elle aide à partager des quantités, trouver des moyennes et résoudre des problèmes de la vie réelle liés aux mesures, aux finances et à l'analyse des données."
-    }
-  ]
-},
 
+    division: {
+      metaTitle: "Calculatrice de Division Instantanée – Résolvez en Secondes",
+      metaDescription: "Résolvez des problèmes de division en ligne en quelques secondes. Précise, simple et fiable, utilisez notre Calculatrice de Division dès aujourd'hui.",
+      title: "Calculatrice de Division",
+      desc: "Résolvez des problèmes de division en ligne en quelques secondes. Précise, simple et fiable, utilisez notre Calculatrice de Division dès aujourd'hui.",
+      heading: "Calculatrice de Division",
 
-// French (fr)
-decimal: {
+      dividend: "Dividende",
+      divisor: "Diviseur",
+
+      result: "Résultat de la Division",
+
+      resultExplain: "La division se calcule en divisant le dividende par le diviseur. Le diviseur ne doit pas être zéro, car la division par zéro n'est pas définie.",
+
+      tocTitle: "Table des Matières",
+      tocwhat: "Qu'est-ce qu'une Calculatrice de Division ?",
+      tocunderstanding: "Comprendre la Division en Termes Simples",
+      tochow: "Comment Fonctionne la Calculatrice de Division",
+      tocformula: "Formule de la Calculatrice de Division",
+      tocfraction: "Méthode de Division des Fractions",
+      tocresults: "Comment la Calculatrice Assure des Résultats Précis",
+
+      introTitle: "À Propos de la Calculatrice de Division",
+
+      whatTitle: "Qu'est-ce qu'une Calculatrice de Division ?",
+      whatContent: "Une calculatrice de division est un outil qui aide à diviser un nombre par un autre et à afficher le résultat clairement. La division est l'une des quatre opérations arithmétiques de base utilisées dans les mathématiques quotidiennes. Elle répond à la question combien de fois un nombre tient dans un autre.",
+      whatContent2: "Cette calculatrice fonctionne comme une calculatrice de division pour les nombres entiers, les décimales et les fractions. Elle fournit des résultats rapides tout en maintenant la précision mathématique, ce qui la rend utile pour les étudiants, les professionnels et toute personne travaillant avec des nombres.",
+
+      understandingTitle: "Comprendre la Division en Termes Simples",
+      understandingContent: "La division comporte trois parties principales : le dividende, le diviseur et le résultat. Le dividende est le nombre à diviser. Le diviseur est le nombre utilisé pour le diviser. La réponse est appelée quotient, et parfois il y a un reste.",
+      understandingcontent2: "Par exemple, lorsque l'on divise 17 par 5, le quotient est 3 et le reste est 2. Une calculatrice de quotient et une calculatrice de reste aident à afficher les deux valeurs clairement, surtout lorsque la division ne donne pas un nombre entier.",
+
+      howtitle: "Comment Fonctionne la Calculatrice de Division",
+      howcontent: "Cet outil de division en ligne suit les règles mathématiques standard pour garantir des résultats corrects. Tout d'abord, il vérifie le dividende et le diviseur. Ensuite, il applique la méthode de division correcte selon le type d'entrée. Pour les nombres entiers, il peut utiliser la méthode de la division longue. Pour les décimales, il effectue la division décimale. Pour les fractions, il applique les règles de division des fractions. La calculatrice traite chaque étape avec soin pour fournir un calcul numérique clair et fiable sans effort manuel.",
+
+      whentousetitle: "Quand Utiliser une Calculatrice de Division",
+      whentousecontent: "Une calculatrice mathématique de division est utile pour résoudre les devoirs, vérifier les réponses ou travailler avec des nombres réels tels que budgets, mesures ou moyennes. Elle aide à éviter les erreurs pouvant survenir lors de la division manuelle. La division conduit souvent à des résultats décimaux, surtout lorsque le quotient n'est pas un nombre entier. Dans de tels cas, les utilisateurs peuvent continuer les calculs ou les comparaisons en utilisant des outils comme le ",
+      interlink: "Calculatrice Décimale.",
+
+      imageurl: "/Division-Calculator.jpg",
+      imagealttext: "Division Calculator",
+
+      formulaTitle: "Formule de la Calculatrice de Division",
+
+      mainFormulatitle: "Formule de Division de Base Expliquée",
+      mainformula: "Quotient = Dividende ÷ Diviseur",
+      mainformulaend: "Le dividende est le nombre que vous souhaitez diviser. Le diviseur est le nombre par lequel vous divisez. Le résultat de cette opération s'appelle le quotient. Cette formule constitue la base de tous les calculs numériques basés sur la division en mathématiques. Lorsque le dividende n'est pas divisible uniformément par le diviseur, un reste apparaît. Ce reste montre ce qui reste après la fin du processus de division.",
+
+      howtoTitle: "Comment Fonctionne la Méthode de Division Longue",
+      howtocontent: "La méthode de division longue décompose la division en petites étapes faciles. Tout d'abord, le diviseur est comparé au premier chiffre ou groupe de chiffres du dividende. Ensuite, le quotient est construit étape par étape tout en soustrayant les résultats partiels. Cette méthode aide à afficher clairement le quotient et le reste. Une calculatrice de division longue suit la même logique mais effectue chaque étape instantanément, ce qui réduit les erreurs et fait gagner du temps.",
+
+      whyformulatitle: "Formule de Division Décimale",
+      whyformulacontent: "Lorsque la division donne des valeurs inférieures à un ou des nombres non entiers, la calculatrice utilise la division décimale. Le processus reste le même, mais le quotient s'étend au-delà du point décimal. Dans la division décimale, la calculatrice ajuste le dividende et le diviseur de manière égale pour supprimer les décimales. Cela maintient la division précise et préserve l'exactitude mathématique tout au long du calcul.",
+
+      fractiontitle: "Méthode de Division des Fractions",
+      fractionformula: "Division des Fractions = Première Fraction × Réciproque de la Deuxième Fraction",
+      fractionformulaend: "Pour la division des fractions, la calculatrice utilise une règle mathématique standard. Elle multiplie la première fraction par le réciproque de la deuxième fraction. Cette méthode permet à la calculatrice de traiter les entrées fractionnaires sans problème et de fournir des résultats corrects lors d'opérations arithmétiques complexes.",
+
+      resultstitle: "Comment la Calculatrice Assure des Résultats Précis",
+      resultscontent: "La calculatrice mathématique de division applique la formule correcte selon le type d'entrée. Elle vérifie si les nombres nécessitent une division longue, une gestion des décimales ou des règles de fractions. Chaque étape suit une logique mathématique fixe pour maintenir la cohérence. Les résultats de la division conduisent souvent à des valeurs décimales. Lorsque les utilisateurs doivent continuer à travailler avec ces valeurs, ils peuvent les affiner ou les convertir davantage en utilisant des outils comme la Calculatrice Décimale.",
+
+      faqTitle: "Questions Fréquemment Posées",
+      faq: [
+        {
+          q: "Que fait une calculatrice de division ?",
+          a: "Une calculatrice de division divise un nombre par un autre et affiche le résultat clairement. Elle affiche le quotient et, si nécessaire, le reste. Cela aide les utilisateurs à comprendre comment les nombres se divisent sans effectuer de étapes manuelles."
+        },
+        {
+          q: "Quelle est la différence entre quotient et reste ?",
+          a: "Le quotient est le résultat principal d'une division. Le reste est ce qui reste lorsque le dividende n'est pas divisible uniformément par le diviseur. Par exemple, diviser 17 par 5 donne un quotient de 3 et un reste de 2."
+        },
+        {
+          q: "Cette calculatrice peut-elle gérer la division longue ?",
+          a: "Oui, cette calculatrice prend en charge la méthode de division longue. Elle suit la même logique étape par étape enseignée dans les cours de mathématiques, mais effectue le calcul instantanément et affiche des résultats précis."
+        },
+        {
+          q: "La calculatrice fonctionne-t-elle avec des décimales ?",
+          a: "Oui, la calculatrice prend en charge la division décimale. Lorsque la division ne se termine pas par un nombre entier, elle affiche clairement les valeurs décimales tout en maintenant la précision mathématique à chaque étape."
+        },
+        {
+          q: "Puis-je diviser des fractions avec cette calculatrice ?",
+          a: "Oui, la calculatrice prend en charge la division des fractions. Elle applique des règles arithmétiques standard pour diviser correctement les fractions, ce qui la rend utile pour les devoirs et la résolution pratique de problèmes."
+        },
+        {
+          q: "Pourquoi la division est-elle importante en arithmétique de base ?",
+          a: "La division est une partie fondamentale des opérations arithmétiques. Elle aide à partager des quantités, trouver des moyennes et résoudre des problèmes de la vie réelle liés aux mesures, aux finances et à l'analyse des données."
+        }
+      ]
+    },
+    // French (fr)
+    decimal: {
       metaTitle: "Calculatrice Décimale en Ligne – Outil Mathématique Simple",
       metaDescription: "Calculez les décimales instantanément avec des résultats précis. Additionnez, soustrayez, multipliez ou divisez, utilisez la Calculatrice Décimale maintenant",
       title: "Calculatrice Décimale",
@@ -5282,8 +5287,100 @@ decimal: {
       ]
     }
 
+  },
 
+  sports: {
+    batting: {
+      metaTitle: "Calculateur de moyenne au bâton – Vérifiez vos statistiques rapidement",
+      metaDescription: "Suivez instantanément vos performances au bâton. Obtenez des moyennes claires et précises grâce à notre calculateur de moyenne au bâton facile à utiliser.",
+      title: "Calculateur de moyenne au bâton",
+      desc: "Suivez instantanément vos performances au bâton. Obtenez des moyennes claires et précises grâce à notre calculateur de moyenne au bâton facile à utiliser.",
+      heading: "Calculateur de moyenne au bâton",
+      hits: "Coups sûrs",
+      atBats: "Présences au bâton",
+      result: "Résultat de la moyenne au bâton",
+      battingAverage: "Moyenne au bâton",
+      resultExplain: "La moyenne au bâton est calculée en divisant le nombre total de coups sûrs par le nombre total de présences officielles au bâton. Cette valeur représente la fréquence à laquelle un joueur réussit un coup sûr par présence officielle au bâton.",
+      tocTitle: "Table des matières",
+      tocwhat: "Qu’est-ce qu’un calculateur de moyenne au bâton au baseball ?",
+      tocunderstanding: "Comprendre la moyenne au bâton au baseball",
+      tocformula: "Formule du calculateur de moyenne au bâton",
+      tochowhits: "Comment les coups sûrs et les présences au bâton sont comptés",
+      tocstepbystep: "Logique de calcul étape par étape utilisée par le calculateur",
 
+      introTitle: "À propos du calculateur de moyenne au bâton",
+      whattitle: "Qu’est-ce qu’un calculateur de moyenne au bâton au baseball ?",
+      whatContent1: "Un calculateur de moyenne au bâton au baseball aide à mesurer la fréquence à laquelle un joueur réussit un coup sûr lors des présences officielles au bâton. Au baseball, la moyenne au bâton est l’une des statistiques les plus couramment utilisées pour évaluer la régularité d’un frappeur. Elle montre le succès d’un joueur lorsqu’il se présente au bâton.",
+      whatContent2: "Ce calculateur est conçu pour les fans de baseball aux États-Unis, les joueurs et les analystes qui souhaitent des résultats rapides et précis. Au lieu de calculs manuels, il fournit une valeur claire de la moyenne au bâton conforme aux règles officielles de pointage du baseball.",
+
+      understandingtitle: "Comprendre la moyenne au bâton au baseball",
+      understandingpara1: "Au baseball, la moyenne au bâton se concentre uniquement sur les coups sûrs et les présences au bâton. Elle n’inclut pas les buts sur balles, les coups par lancer ni les sacrifices. Cela permet de garder la statistique propre et centrée sur la performance réelle de frappe.",
+      understandingpara2: "Par exemple, si un joueur enregistre 30 coups sûrs en 100 présences au bâton, la moyenne au bâton est de .300. Ce format facilite la comparaison des joueurs entre équipes, saisons et ligues lors de l’analyse des tendances globales de performance.",
+
+      howtitle: "Comment fonctionne le calculateur de moyenne au bâton au baseball",
+      howpara1: "Ce calculateur utilise une méthode simple et précise. Vous saisissez le nombre total de coups sûrs et le nombre total de présences au bâton. L’outil divise les coups sûrs par les présences au bâton et affiche le résultat sous forme décimale, qui est le format standard au baseball.",
+      howpara2: "Parce qu’il suit la logique officielle de pointage, le calculateur fonctionne pour le baseball des jeunes, du lycée, universitaire et professionnel. Il aide les utilisateurs à éviter les erreurs de calcul et maintient une analyse des performances cohérente.",
+
+      whytitle: "Pourquoi la moyenne au bâton est importante dans l’analyse du baseball",
+      whypara1: "La moyenne au bâton aide à montrer la fiabilité d’un frappeur au fil du temps. Bien qu’elle ne mesure pas la puissance ni la discipline au bâton, elle reste une statistique clé pour comparer la capacité de contact. Les entraîneurs et les analystes examinent souvent la moyenne au bâton en parallèle avec d’autres indicateurs lors des évaluations de matchs et de saisons.",
+      whypara2: "Dans l’analyse de performance basée sur les chiffres, les moyennes sont parfois associées à des validations ou à des vérifications de seuils lors des examens statistiques, avec le soutien d’outils tels que le ",
+      whylink: "Calculateur de nombre magique.",
+
+      imageUrl: "/Batting-Average-Calculator.jpg",
+      imageAlt: "Batting Average Calculator",
+
+      formulaTitle: "Formule du calculateur de moyenne au bâton",
+      formulaIntro: "Au baseball, la moyenne au bâton suit une formule fixe et largement acceptée. Elle mesure la fréquence à laquelle un joueur réussit un coup sûr lors des présences officielles au bâton.",
+      mainFormula: "Moyenne au bâton = Coups sûrs ÷ Présences au bâton",
+      mainformulatext: "Seules deux valeurs comptent dans cette formule. Les coups sûrs incluent les simples, doubles, triples et coups de circuit. Les présences au bâton incluent les apparitions au marbre où le frappeur a une chance de frapper, à l’exclusion des buts sur balles, des coups par lancer et des sacrifices. Cela permet de concentrer le calcul sur la capacité pure de frappe.",
+      howhitsTitle: "Comment les coups sûrs et les présences au bâton sont comptés",
+      howhitstext1: "Un coup sûr est compté lorsque le frappeur atteint une base en toute sécurité après avoir frappé la balle en territoire réglementaire. Chaque présence officielle au bâton donne au joueur une occasion d’enregistrer un coup sûr. Les buts sur balles et certains autres résultats ne comptent pas comme des présences au bâton, c’est pourquoi ils n’affectent pas la moyenne au bâton.",
+      howhitstext2: "Cette séparation claire fait de la moyenne au bâton un indicateur fiable de la régularité du contact. Elle évite de gonfler ou de réduire les résultats en raison d’apparitions au marbre qui n’impliquent pas de frappe réelle.",
+      stepTitle: "Logique de calcul étape par étape utilisée par le calculateur",
+      stepList: [
+        "Prendre le nombre total de coups sûrs",
+        "Prendre le nombre total de présences au bâton",
+        "Diviser les coups sûrs par les présences au bâton",
+        "Afficher le résultat sous forme de valeur décimale",
+      ],
+      stepEnd: "Par exemple, 45 coups sûrs divisés par 150 présences au bâton donnent 0.300. Le calculateur formate cela correctement pour correspondre à la présentation standard des statistiques de baseball.",
+
+      decimaltitle: "Format décimal et arrondi de la moyenne au bâton",
+      decimalcontent1: "Les moyennes au bâton au baseball sont affichées sous forme de décimales, généralement arrondies à trois chiffres. Le calculateur applique des règles d’arrondi standard afin que le résultat reste précis et conforme aux pratiques officielles de pointage.",
+      decimalcontent2: "Cette précision est importante lors de la comparaison de joueurs ayant des niveaux de performance similaires, en particulier sur de longues saisons où de petites différences peuvent être significatives.",
+
+      performancetitle: "Utilisation de la moyenne au bâton dans l’évaluation des performances",
+      performancecontent1: "La moyenne au bâton aide à identifier la fréquence à laquelle un joueur réussit au marbre, mais elle fonctionne mieux lorsqu’elle est utilisée avec d’autres indicateurs. Les analystes l’examinent souvent en parallèle avec les mesures de présence sur base et de puissance pour comprendre la valeur offensive globale.",
+      performancecontent2: "Lors des examens statistiques, les moyennes font parfois partie de vérifications numériques plus larges et de seuils à la fin des évaluations, soutenues par des outils tels que le Calculateur de nombre magique.",
+
+      faqTitle: "Questions fréquemment posées",
+      faq: [
+        {
+          q: "Qu’est-ce que la moyenne au bâton au baseball ?",
+          a: "La moyenne au bâton au baseball montre la fréquence à laquelle un joueur réussit un coup sûr lors des présences officielles au bâton. Elle est calculée en divisant le nombre total de coups sûrs par le nombre total de présences au bâton. Le résultat apparaît sous forme décimale, comme .275 ou .300, ce qui rend la comparaison entre les joueurs simple et claire."
+        },
+        {
+          q: " Qu’est-ce qui compte comme un coup sûr dans la moyenne au bâton ?",
+          a: "Un coup sûr inclut les simples, doubles, triples et coups de circuit. Chaque fois qu’un frappeur atteint une base en toute sécurité en frappant la balle en territoire réglementaire, cela compte comme un coup sûr. Les erreurs des joueurs de champ ne comptent pas comme des coups sûrs."
+        },
+        {
+          q: "Les buts sur balles sont-ils inclus dans la moyenne au bâton ?",
+          a: "Non, les buts sur balles ne sont pas inclus. Ils ne comptent ni comme coups sûrs ni comme présences au bâton, et n’ont donc aucun effet sur la moyenne au bâton. Cette règle permet de garder la statistique centrée uniquement sur le succès de frappe plutôt que sur la discipline au marbre."
+        },
+        {
+          q: "Combien de décimales sont utilisées pour la moyenne au bâton ?",
+          a: "Les moyennes au bâton sont généralement affichées avec trois décimales. Par exemple, une valeur calculée de 0.2865 est arrondie à .287. Ce format standard aide à maintenir la cohérence entre les feuilles de pointage et les statistiques des joueurs."
+        },
+        {
+          q: "La moyenne au bâton suffit-elle pour juger la performance d’un frappeur ?",
+          a: "La moyenne au bâton montre la régularité mais ne mesure ni la puissance ni la capacité à atteindre les bases. Les entraîneurs et les analystes l’examinent souvent avec d’autres statistiques afin d’obtenir une image plus complète de la performance offensive sur une saison."
+        },
+        {
+          q: "Ce calculateur peut-il être utilisé avec d’autres outils d’analyse du baseball ?",
+          a: "Oui, les calculs de moyenne au bâton apparaissent souvent dans le cadre d’examens statistiques plus larges. Après l’évaluation de la performance des joueurs, les analystes peuvent appliquer des vérifications numériques supplémentaires pour identifier des modèles ou des seuils à la fin de l’analyse à l’aide d’outils tels que le Calculateur de nombre magique."
+        },
+      ]
+    },
   },
 
 

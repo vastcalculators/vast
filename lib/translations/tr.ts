@@ -66,7 +66,14 @@ export const trTranslations = {
       metaDescription:
         "Cebir, geometri, trigonomometri, kalkülüs ve istatistik için ücretsiz matematik hesaplayıcıları. Denklemleri çözün, değerleri hesaplayın ve adımları anında basitleştirin.",
     },
-
+    sports: {
+      metaTitle: "Spor Hesaplayıcıları – Tüm Spor Hesaplama Araçları Online",
+      name: "Spor Hesaplayıcıları",
+      description:
+        "Spor hesaplayıcılarımızla performansınızı ve kondisyonunuzu takip edin. İster koşu temponuzu hesaplayın, ister yakılan kalorileri tahmin edin ya da antrenman programınızı planlayın, VastCalculator oyununuzun zirvesinde kalmanıza yardımcı olur.",
+      metaDescription:
+        "Tüm spor türleri için skorları, istatistikleri, fitness verilerini ve performans sonuçlarını hesaplamak üzere ücretsiz spor hesaplayıcıları online.",
+    },
     all: "Tüm Hesaplayıcılar",
   },
   categoriespage: {
@@ -4950,184 +4957,184 @@ export const trTranslations = {
     },
 
     digitalroot: {
-    metaTitle: "Anında Dijital Kök Hesaplayıcı – Hızlı Sonuçlar",
-    metaDescription: "Herhangi bir sayının dijital kökünü saniyeler içinde alın. Basit, net ve doğru sonuçlar—Dijital Kök Hesaplayıcıyı bugün deneyin.",
-    title: "Dijital Kök Hesaplayıcı",
-    desc: "Herhangi bir sayının dijital kökünü saniyeler içinde alın. Basit, net ve doğru sonuçlar—Dijital Kök Hesaplayıcıyı bugün deneyin.",
-    heading: "Dijital Kök Hesaplayıcı",
+      metaTitle: "Anında Dijital Kök Hesaplayıcı – Hızlı Sonuçlar",
+      metaDescription: "Herhangi bir sayının dijital kökünü saniyeler içinde alın. Basit, net ve doğru sonuçlar—Dijital Kök Hesaplayıcıyı bugün deneyin.",
+      title: "Dijital Kök Hesaplayıcı",
+      desc: "Herhangi bir sayının dijital kökünü saniyeler içinde alın. Basit, net ve doğru sonuçlar—Dijital Kök Hesaplayıcıyı bugün deneyin.",
+      heading: "Dijital Kök Hesaplayıcı",
 
-    number: "Sayı",
+      number: "Sayı",
 
-    result: "Dijital Kök Sonucu",
-    digitalRoot: "Dijital Kök",
+      result: "Dijital Kök Sonucu",
+      digitalRoot: "Dijital Kök",
 
-    resultExplain:
-      "Dijital kök, bir sayıdaki rakamlar tek haneli bir değere ulaşana kadar tekrar tekrar toplanarak hesaplanır.",
+      resultExplain:
+        "Dijital kök, bir sayıdaki rakamlar tek haneli bir değere ulaşana kadar tekrar tekrar toplanarak hesaplanır.",
 
-    tocTitle: "İçindekiler",
-    tocwhat: "Dijital Kök Hesaplayıcı Nedir?",
-    tocunderstanding: "Dijital Kök Kavramı Nasıl Çalışır",
-    tochow: "Bu Dijital Kök Hesaplayıcı Nasıl Çalışır",
-    tocformula: "Dijital Kök Hesaplayıcı Formülü",
-    tocmainformula: "Dijital Kök İçin Mod 9 Yöntemi",
-    tocwhy: "Formül Neden Doğru Sonuç Verir",
+      tocTitle: "İçindekiler",
+      tocwhat: "Dijital Kök Hesaplayıcı Nedir?",
+      tocunderstanding: "Dijital Kök Kavramı Nasıl Çalışır",
+      tochow: "Bu Dijital Kök Hesaplayıcı Nasıl Çalışır",
+      tocformula: "Dijital Kök Hesaplayıcı Formülü",
+      tocmainformula: "Dijital Kök İçin Mod 9 Yöntemi",
+      tocwhy: "Formül Neden Doğru Sonuç Verir",
 
-    introTitle: "Dijital Kök Hesaplayıcı Hakkında",
+      introTitle: "Dijital Kök Hesaplayıcı Hakkında",
 
-    whatTitle: "Dijital Kök Hesaplayıcı Nedir?",
-    whatContent: "Dijital Kök Hesaplayıcı, herhangi bir sayıyı rakamlarını tekrar tekrar toplayarak tek bir rakama indirmenize yardımcı olur. Bu son rakama dijital kök denir. Örneğin, 456 ile başlarsanız, rakamların toplamı 4 + 5 + 6 = 15 ve sonra 1 + 5 = 6 olur. Sonuç, 6, dijital köktür.",
-    whatContent2: "Bu tür bir dijital kök bulucu, hızlı kontroller, sayı davranışını öğrenme ve temel sayı teorisi kavramlarını anlama için faydalıdır. Tüm 10 tabanlı sayılarda çalışır ve temel rakamsal desenleri yansıtan tek haneli bir sonuç üretir.",
+      whatTitle: "Dijital Kök Hesaplayıcı Nedir?",
+      whatContent: "Dijital Kök Hesaplayıcı, herhangi bir sayıyı rakamlarını tekrar tekrar toplayarak tek bir rakama indirmenize yardımcı olur. Bu son rakama dijital kök denir. Örneğin, 456 ile başlarsanız, rakamların toplamı 4 + 5 + 6 = 15 ve sonra 1 + 5 = 6 olur. Sonuç, 6, dijital köktür.",
+      whatContent2: "Bu tür bir dijital kök bulucu, hızlı kontroller, sayı davranışını öğrenme ve temel sayı teorisi kavramlarını anlama için faydalıdır. Tüm 10 tabanlı sayılarda çalışır ve temel rakamsal desenleri yansıtan tek haneli bir sonuç üretir.",
 
-    understandingTitle: "Dijital Kök Kavramı Nasıl Çalışır",
-    understandingContent: "Dijital kök, yalnızca bir rakam kalana kadar rakamların tekrar tekrar toplanmasına dayanır. Bu işleme sayısal azaltma da denir. Aritmetik kontroller ve zihinsel matematikte kullanılan birçok matematiksel desenin temelini oluşturur.",
-    understandingcontent2: "Bu yöntemin arkasında, özellikle mod 9 modülüne bağlı açık bir algoritmik hesaplama vardır. Bu nedenle dijital kökler, matematik öğrenimi, doğrulama adımları ve toplamlar ile katlarla ilgili aritmetik özelliklerde sıkça görünür.",
+      understandingTitle: "Dijital Kök Kavramı Nasıl Çalışır",
+      understandingContent: "Dijital kök, yalnızca bir rakam kalana kadar rakamların tekrar tekrar toplanmasına dayanır. Bu işleme sayısal azaltma da denir. Aritmetik kontroller ve zihinsel matematikte kullanılan birçok matematiksel desenin temelini oluşturur.",
+      understandingcontent2: "Bu yöntemin arkasında, özellikle mod 9 modülüne bağlı açık bir algoritmik hesaplama vardır. Bu nedenle dijital kökler, matematik öğrenimi, doğrulama adımları ve toplamlar ile katlarla ilgili aritmetik özelliklerde sıkça görünür.",
 
-    howtitle: "Bu Dijital Kök Hesaplayıcı Nasıl Çalışır",
-    howcontent: "Bu sayı rakamları toplamı hesaplayıcı, giriş sayısını okur ve onu bireysel rakamlara böler. Daha sonra rakamları toplar. Sonuç birden fazla rakam içeriyorsa, hesaplayıcı tek bir rakama ulaşana kadar işlemi tekrarlar. Bu yaklaşım, aracı hem tekrar eden rakam toplamı hesaplayıcısı hem de dijital toplam hesaplayıcısı yapar. Kullanıcılara sayılar azaltıldığında nasıl davrandığını ve belirli toplamların neden öngörülebilir şekilde tekrarlandığını anlamalarına yardımcı olur.",
+      howtitle: "Bu Dijital Kök Hesaplayıcı Nasıl Çalışır",
+      howcontent: "Bu sayı rakamları toplamı hesaplayıcı, giriş sayısını okur ve onu bireysel rakamlara böler. Daha sonra rakamları toplar. Sonuç birden fazla rakam içeriyorsa, hesaplayıcı tek bir rakama ulaşana kadar işlemi tekrarlar. Bu yaklaşım, aracı hem tekrar eden rakam toplamı hesaplayıcısı hem de dijital toplam hesaplayıcısı yapar. Kullanıcılara sayılar azaltıldığında nasıl davrandığını ve belirli toplamların neden öngörülebilir şekilde tekrarlandığını anlamalarına yardımcı olur.",
 
-    whentousetitle: "Dijital Kök Hesaplayıcıyı Ne Zaman ve Neden Kullanmalı",
-    whentousecontent: "Bir matematik rakam hesaplayıcı, hesaplamaları kontrol ederken, kısayollar öğrenirken veya sayı davranışını incelerken faydalıdır. Dijital kökler, genellikle temel doğrulama adımlarında, numeroloji çalışmalarında ve desen tanımada kullanılır. Daha geniş sayı temelli problem çözme için, dijital kökler genellikle diğer matematiksel kavramlarla birlikte çalışır. Sonuçları doğrulamada yardımcı olur ve karmaşık işlemler sonrası hızlı kontrolleri destekler; ve araçlar gibi",
-    interlink: "Küp Kök Hesaplayıcı",
+      whentousetitle: "Dijital Kök Hesaplayıcıyı Ne Zaman ve Neden Kullanmalı",
+      whentousecontent: "Bir matematik rakam hesaplayıcı, hesaplamaları kontrol ederken, kısayollar öğrenirken veya sayı davranışını incelerken faydalıdır. Dijital kökler, genellikle temel doğrulama adımlarında, numeroloji çalışmalarında ve desen tanımada kullanılır. Daha geniş sayı temelli problem çözme için, dijital kökler genellikle diğer matematiksel kavramlarla birlikte çalışır. Sonuçları doğrulamada yardımcı olur ve karmaşık işlemler sonrası hızlı kontrolleri destekler; ve araçlar gibi",
+      interlink: "Küp Kök Hesaplayıcı",
 
-    imageurl: "/Digital-Root-Calculator.jpg",
-    imagealttext: "Digital root calculator",
+      imageurl: "/Digital-Root-Calculator.jpg",
+      imagealttext: "Digital root calculator",
 
-    formulaTitle: "Dijital Kök Hesaplayıcı Formülü",
-    formulasubtitle: "Temel Dijital Kök Formülü Açıklaması",
-    formulasubcontent: "Bir sayının dijital kökü, rakamları tek bir rakam kalana kadar tekrar tekrar toplanarak elde edilir. Bu süreç, tekrarlanan toplama temeline dayanır ve tüm 10 tabanlı sayılara uygulanır. Amaç her zaman 1 ile 9 arasında tek haneli bir sonuçtur; orijinal sayı sıfır değilse. Örneğin, sayı 789 ise, rakamların toplamı 7 + 8 + 9 = 24 olur. Bu sonuç iki haneli olduğundan işlem 2 + 4 = 6 olarak tekrar edilir. Nihai değer, 6, dijital köktür.",
+      formulaTitle: "Dijital Kök Hesaplayıcı Formülü",
+      formulasubtitle: "Temel Dijital Kök Formülü Açıklaması",
+      formulasubcontent: "Bir sayının dijital kökü, rakamları tek bir rakam kalana kadar tekrar tekrar toplanarak elde edilir. Bu süreç, tekrarlanan toplama temeline dayanır ve tüm 10 tabanlı sayılara uygulanır. Amaç her zaman 1 ile 9 arasında tek haneli bir sonuçtur; orijinal sayı sıfır değilse. Örneğin, sayı 789 ise, rakamların toplamı 7 + 8 + 9 = 24 olur. Bu sonuç iki haneli olduğundan işlem 2 + 4 = 6 olarak tekrar edilir. Nihai değer, 6, dijital köktür.",
 
-    mainFormulatitle: "Dijital Kök İçin Mod 9 Yöntemi",
-    mainFormulacontent: "Dijital kökler ayrıca mod işlemiyle, özellikle mod 9 ile güçlü bir şekilde bağlantılıdır. Sayı teorisinde, mod 9 kullanılarak indirilen herhangi bir sayı, dijital kökü ile aynı sonucu verir; yalnızca sonuç 0 yerine dokuz olduğunda istisna olur.",
-    mainformula: "Digital Root = 1 + (Number − 1) mod 9",
-    mainformulaend: "Bu yöntem, dijital köklerin neden döngüler halinde tekrarlandığını ve net matematiksel desenler oluşturduğunu açıklar. Ayrıca dijital köklerin sayıların daha derin aritmetik özellikleriyle nasıl ilişkili olduğunu gösterir.",
+      mainFormulatitle: "Dijital Kök İçin Mod 9 Yöntemi",
+      mainFormulacontent: "Dijital kökler ayrıca mod işlemiyle, özellikle mod 9 ile güçlü bir şekilde bağlantılıdır. Sayı teorisinde, mod 9 kullanılarak indirilen herhangi bir sayı, dijital kökü ile aynı sonucu verir; yalnızca sonuç 0 yerine dokuz olduğunda istisna olur.",
+      mainformula: "Digital Root = 1 + (Number − 1) mod 9",
+      mainformulaend: "Bu yöntem, dijital köklerin neden döngüler halinde tekrarlandığını ve net matematiksel desenler oluşturduğunu açıklar. Ayrıca dijital köklerin sayıların daha derin aritmetik özellikleriyle nasıl ilişkili olduğunu gösterir.",
 
-    stepTitle: "Hesaplayıcının Kullandığı Adım Adım Hesaplama Mantığı",
-    stepcontent: "Sayı rakamları toplamı hesaplayıcı, güvenilir ve basit bir süreç izler. İlk olarak sayıyı bireysel rakamlara ayırır. Sonra bunları toplar. Eğer toplam birden fazla rakam içeriyorsa, hesaplayıcı eklemeyi tekrarlar. Bu algoritmik hesaplama, yalnızca bir rakam kalana kadar devam eder. Adımlar net ve sabit olduğundan, hesaplayıcı küçük ve büyük değerler için tutarlı sonuçlar verir.",
+      stepTitle: "Hesaplayıcının Kullandığı Adım Adım Hesaplama Mantığı",
+      stepcontent: "Sayı rakamları toplamı hesaplayıcı, güvenilir ve basit bir süreç izler. İlk olarak sayıyı bireysel rakamlara ayırır. Sonra bunları toplar. Eğer toplam birden fazla rakam içeriyorsa, hesaplayıcı eklemeyi tekrarlar. Bu algoritmik hesaplama, yalnızca bir rakam kalana kadar devam eder. Adımlar net ve sabit olduğundan, hesaplayıcı küçük ve büyük değerler için tutarlı sonuçlar verir.",
 
-    whyformulatitle: "Formül Neden Doğru Sonuç Verir",
-    whyformulacontent: "Dijital kök yöntemi, tahmine değil, sabit sayı kurallarına dayanır. Her adım tanımlı bir matematiksel mantığı takip eder, bu da sonucu öngörülebilir ve güvenilir kılar. Bu nedenle dijital kökler, hızlı kontroller ve doğrulama adımlarında sıkça kullanılır. Dijital kökler diğer matematiksel işlemlerle birlikte göründüğünde, önceki sonuçların mantıklı olup olmadığını doğrulamaya yardımcı olur. Daha geniş iş akışlarında kullanıcılar, üs tabanlı hesaplamalardan sonra analizlerine Küp Kök Hesaplayıcı gibi araçlarla devam edebilirler.",
+      whyformulatitle: "Formül Neden Doğru Sonuç Verir",
+      whyformulacontent: "Dijital kök yöntemi, tahmine değil, sabit sayı kurallarına dayanır. Her adım tanımlı bir matematiksel mantığı takip eder, bu da sonucu öngörülebilir ve güvenilir kılar. Bu nedenle dijital kökler, hızlı kontroller ve doğrulama adımlarında sıkça kullanılır. Dijital kökler diğer matematiksel işlemlerle birlikte göründüğünde, önceki sonuçların mantıklı olup olmadığını doğrulamaya yardımcı olur. Daha geniş iş akışlarında kullanıcılar, üs tabanlı hesaplamalardan sonra analizlerine Küp Kök Hesaplayıcı gibi araçlarla devam edebilirler.",
 
-    faqTitle: "Sık Sorulan Sorular",
-    faq: [
-      {
-        q: "Basit terimlerle dijital kök nedir?",
-        a: "Dijital kök, bir sayının tüm rakamları tekrar tekrar toplandıktan sonra elde ettiğiniz son tek basamaklı sayıdır. Bu işlem, yalnızca bir rakam kalana kadar devam eder. Sayılardaki temel desenleri göstermeye yardımcı olur ve genellikle hızlı kontroller için kullanılır."
-      },
-      {
-        q: "Dijital kök normal rakam toplamından nasıl farklıdır?",
-        a: "Normal rakam toplamı, rakamları yalnızca bir kez toplar. Dijital kök, tek basamaklı bir sonuç görünene kadar toplama işlemine devam eder. Bu ekstra adım, sayısal azaltma ve desen analizinde faydalıdır."
-      },
-      {
-        q: "Dijital kök yöntemi büyük sayılar için çalışır mı?",
-        a: "Evet, dijital kök yöntemi hem küçük hem de çok büyük sayılar için çalışır. Algoritmik hesaplamaya ve sabit kurallara dayandığından, sayının boyutu doğruluğu etkilemez. Hesaplayıcı büyük girişleri sorunsuz şekilde işler."
-      },
-      {
-        q: "Dijital kök hesaplamalarında neden mod 9 kullanılır?",
-        a: "Dijital kökler, mod 9 hesaplayıcı konsepti ile yakından ilişkilidir. Sayı teorisinde, mod 9 kullanılarak indirilen bir sayı, çoğu durumda dijital kökü ile aynı sonucu verir. Bu, dijital köklerin öngörülebilir döngülerde neden tekrarlandığını açıklar."
-      },
-      {
-        q: "Dijital kökler temel matematiğin dışında kullanılır mı?",
-        a: "Evet, dijital kökler öğrenme alıştırmalarında, zihinsel matematikte ve numeroloji hesaplama yöntemlerinde ortaya çıkar. Ayrıca aritmetik çalışmaların kontrol edilmesine ve sayılar arasındaki matematiksel desenlerin anlaşılmasına yardımcı olur."
-      },
-      {
-        q: "Bu dijital kök hesaplayıcı diğer matematik araçlarıyla kullanılabilir mi?",
-        a: "Evet, dijital kökler genellikle hızlı doğrulama adımı olarak diğer hesaplamaları destekler. Kökler, üsler veya denklemler ile çalıştıktan sonra kullanıcılar, Küp Kök Hesaplayıcı gibi araçlarla sayı analizine devam edebilirler."
-      }
-    ]
-  },
-
-  division: {
-  metaTitle: "Anında Bölme Hesaplayıcı – Saniyeler İçinde Çözün",
-  metaDescription: "Bölme problemlerini çevrimiçi olarak saniyeler içinde çözün. Doğru, basit ve güvenilir, Bölme Hesaplayıcımızı bugün kullanın.",
-  title: "Bölme Hesaplayıcı",
-  desc: "Bölme problemlerini çevrimiçi olarak saniyeler içinde çözün. Doğru, basit ve güvenilir, Bölme Hesaplayıcımızı bugün kullanın.",
-  heading: "Bölme Hesaplayıcı",
-
-  dividend: "Bölünen",
-  divisor: "Bölen",
-
-  result: "Bölme Sonucu",
-
-  resultExplain: "Bölme, bölünenin bölen ile bölünmesiyle hesaplanır. Bölen sıfır olmamalıdır, çünkü sıfıra bölme tanımsızdır.",
-
-  tocTitle: "İçindekiler",
-  tocwhat: "Bölme Hesaplayıcı Nedir?",
-  tocunderstanding: "Bölmeyi Basit Terimlerle Anlamak",
-  tochow: "Bölme Hesaplayıcı Nasıl Çalışır",
-  tocformula: "Bölme Hesaplayıcı Formülü",
-  tocfraction: "Kesir Bölme Yöntemi",
-  tocresults: "Hesaplayıcı Doğru Sonuçları Nasıl Sağlar",
-
-  introTitle: "Bölme Hesaplayıcı Hakkında",
-
-  whatTitle: "Bölme Hesaplayıcı Nedir?",
-  whatContent: "Bölme Hesaplayıcı, bir sayıyı başka bir sayıya bölmeye ve sonucu net bir şekilde göstermeye yardımcı olan bir araçtır. Bölme, günlük matematikte kullanılan dört temel aritmetik işlemden biridir. Bir sayının diğerine kaç kez sığdığını gösterir.",
-  whatContent2: "Bu hesaplayıcı, tam sayılar, ondalık sayılar ve kesirler için bir bölme hesaplayıcısı olarak çalışır. Matematiksel doğruluğu korurken hızlı sonuçlar verir, bu da onu öğrenciler, profesyoneller ve sayılarla çalışan herkes için faydalı kılar.",
-
-  understandingTitle: "Bölmeyi Basit Terimlerle Anlamak",
-  understandingContent: "Bölme üç ana bölümden oluşur: bölünen, bölen ve sonuç. Bölünen, bölünen sayıdır. Bölen, bölmek için kullanılan sayıdır. Sonuca bölüm denir ve bazen kalıntı da vardır.",
-  understandingcontent2: "Örneğin, 17'yi 5'e böldüğümüzde, bölüm 3 ve kalıntı 2 olur. Bir bölüm hesaplayıcı ve kalıntı hesaplayıcı, özellikle bölme tam sayı sonucu vermediğinde, her iki değeri net bir şekilde göstermeye yardımcı olur.",
-
-  howtitle: "Bölme Hesaplayıcı Nasıl Çalışır",
-  howcontent: "Bu çevrimiçi bölme aracı, doğru sonuçları sağlamak için standart matematik kurallarını takip eder. Önce bölünen ve böleni kontrol eder. Ardından, giriş türüne göre doğru bölme yöntemini uygular. Tam sayılar için uzun bölme yöntemi kullanabilir. Ondalık sayılar için ondalık bölme yapar. Kesirler için kesir bölme kurallarını uygular. Hesaplayıcı, manuel çaba gerektirmeden temiz ve güvenilir sayısal hesaplama sağlamak için her adımı dikkatlice işler.",
-
-  whentousetitle: "Bölme Hesaplayıcı Ne Zaman Kullanılır",
-  whentousecontent: "Bir matematik bölme hesaplayıcı, ödevleri çözerken, cevapları kontrol ederken veya bütçe, ölçümler veya ortalamalar gibi gerçek yaşam sayılarıyla çalışırken kullanışlıdır. Manuel bölme sırasında oluşabilecek hatalardan kaçınmaya yardımcı olur. Bölme genellikle ondalık sonuçlarla ilişkilidir, özellikle bölüm tam sayı değilse. Bu gibi durumlarda, kullanıcılar hesaplamalarına veya karşılaştırmalarına aşağıdaki araçları kullanarak devam edebilir: ",
-  interlink: "Ondalık Hesaplayıcı.",
-
-  imageurl: "/Division-Calculator.jpg",
-  imagealttext: "Division Calculator",
-
-  formulaTitle: "Bölme Hesaplayıcı Formülü",
-
-  mainFormulatitle: "Temel Bölme Formülü Açıklaması",
-  mainformula: "Bölüm = Bölünen ÷ Bölen",
-  mainformulaend: "Bölünen, bölmek istediğiniz sayıdır. Bölen, bölmek için kullandığınız sayıdır. Bu işlemin sonucu bölüm olarak adlandırılır. Bu formül, matematikte tüm bölme tabanlı sayısal hesaplamaların temelini oluşturur. Bölünen, bölen tarafından tam bölünemezse, bir kalıntı oluşur. Bu kalıntı, bölme işlemi tamamlandıktan sonra geriye kalan miktarı gösterir.",
-
-  howtoTitle: "Uzun Bölme Yöntemi Nasıl Çalışır",
-  howtocontent: "Uzun bölme yöntemi, bölmeyi küçük ve kolay adımlara böler. Önce, bölen bölünenin ilk rakamı veya rakam grubuyla karşılaştırılır. Ardından bölüm adım adım oluşturulur ve kısmi sonuçlar çıkarılır. Bu yöntem, bölüm ve kalıntıyı net bir şekilde göstermeye yardımcı olur. Uzun bölme hesaplayıcı aynı mantığı takip eder, ancak her adımı anında gerçekleştirir, hataları azaltır ve zaman kazandırır.",
-
-  whyformulatitle: "Ondalık Bölme Formülü",
-  whyformulacontent: "Bölme 1’den küçük veya tam sayı olmayan değerler verdiğinde, hesaplayıcı ondalık bölme kullanır. Süreç aynı kalır, ancak bölüm ondalık noktanın ötesine uzanır. Ondalık bölmede, hesaplayıcı ondalık sayıları kaldırmak için bölüneni ve böleni eşit şekilde ayarlar. Bu, bölmeyi doğru tutar ve hesaplama boyunca matematiksel doğruluğu korur.",
-
-  fractiontitle: "Kesir Bölme Yöntemi",
-  fractionformula: "Kesir Bölme = Birinci Kesir × İkinci Kesrin Ters Çevrimi",
-  fractionformulaend: "Kesir bölme için hesaplayıcı standart bir matematik kuralı kullanır. İlk kesri ikinci kesrin tersiyle çarpar. Bu yöntem, hesaplayıcının kesirli girişleri sorunsuz şekilde işlemesine ve karmaşık aritmetik işlemler sırasında doğru sonuçlar vermesine olanak tanır.",
-
-  resultstitle: "Hesaplayıcı Doğru Sonuçları Nasıl Sağlar",
-  resultscontent: "Matematik bölme hesaplayıcı, giriş türüne göre doğru formülü uygular. Sayıların uzun bölme, ondalık işleme veya kesir kurallarına ihtiyaç duyup duymadığını kontrol eder. Her adım tutarlılığı korumak için sabit matematik mantığını takip eder. Bölme sonuçları genellikle ondalık değerler verir. Kullanıcıların bu değerlerle çalışmaya devam etmesi gerektiğinde, onları Ondalık Hesaplayıcı gibi araçları kullanarak daha da iyileştirebilir veya dönüştürebilirler.",
-
-  faqTitle: "Sıkça Sorulan Sorular",
-  faq: [
-    {
-      q: "Bölme hesaplayıcı ne yapar?",
-      a: "Bölme hesaplayıcı, bir sayıyı başka bir sayıya böler ve sonucu net bir şekilde gösterir. Bölümü ve gerektiğinde kalıntıyı gösterir. Bu, kullanıcıların sayılar bölünürken nasıl ayrıldığını anlamalarına yardımcı olur, manuel adımlar yapmadan."
+      faqTitle: "Sık Sorulan Sorular",
+      faq: [
+        {
+          q: "Basit terimlerle dijital kök nedir?",
+          a: "Dijital kök, bir sayının tüm rakamları tekrar tekrar toplandıktan sonra elde ettiğiniz son tek basamaklı sayıdır. Bu işlem, yalnızca bir rakam kalana kadar devam eder. Sayılardaki temel desenleri göstermeye yardımcı olur ve genellikle hızlı kontroller için kullanılır."
+        },
+        {
+          q: "Dijital kök normal rakam toplamından nasıl farklıdır?",
+          a: "Normal rakam toplamı, rakamları yalnızca bir kez toplar. Dijital kök, tek basamaklı bir sonuç görünene kadar toplama işlemine devam eder. Bu ekstra adım, sayısal azaltma ve desen analizinde faydalıdır."
+        },
+        {
+          q: "Dijital kök yöntemi büyük sayılar için çalışır mı?",
+          a: "Evet, dijital kök yöntemi hem küçük hem de çok büyük sayılar için çalışır. Algoritmik hesaplamaya ve sabit kurallara dayandığından, sayının boyutu doğruluğu etkilemez. Hesaplayıcı büyük girişleri sorunsuz şekilde işler."
+        },
+        {
+          q: "Dijital kök hesaplamalarında neden mod 9 kullanılır?",
+          a: "Dijital kökler, mod 9 hesaplayıcı konsepti ile yakından ilişkilidir. Sayı teorisinde, mod 9 kullanılarak indirilen bir sayı, çoğu durumda dijital kökü ile aynı sonucu verir. Bu, dijital köklerin öngörülebilir döngülerde neden tekrarlandığını açıklar."
+        },
+        {
+          q: "Dijital kökler temel matematiğin dışında kullanılır mı?",
+          a: "Evet, dijital kökler öğrenme alıştırmalarında, zihinsel matematikte ve numeroloji hesaplama yöntemlerinde ortaya çıkar. Ayrıca aritmetik çalışmaların kontrol edilmesine ve sayılar arasındaki matematiksel desenlerin anlaşılmasına yardımcı olur."
+        },
+        {
+          q: "Bu dijital kök hesaplayıcı diğer matematik araçlarıyla kullanılabilir mi?",
+          a: "Evet, dijital kökler genellikle hızlı doğrulama adımı olarak diğer hesaplamaları destekler. Kökler, üsler veya denklemler ile çalıştıktan sonra kullanıcılar, Küp Kök Hesaplayıcı gibi araçlarla sayı analizine devam edebilirler."
+        }
+      ]
     },
-    {
-      q: "Bölüm ve kalıntı arasındaki fark nedir?",
-      a: "Bölüm, bölmenin ana sonucudur. Kalıntı, bölünen, bölen tarafından tam bölünmediğinde geriye kalan değerdir. Örneğin, 17'yi 5'e böldüğümüzde bölüm 3 ve kalıntı 2 olur."
-    },
-    {
-      q: "Bu hesaplayıcı uzun bölmeyi yapabilir mi?",
-      a: "Evet, bu hesaplayıcı uzun bölme yöntemini destekler. Matematik derslerinde öğretilen aynı adım adım mantığı izler, ancak hesaplamayı anında tamamlar ve doğru sonuçları gösterir."
-    },
-    {
-      q: "Hesaplayıcı ondalık sayılarla çalışıyor mu?",
-      a: "Evet, hesaplayıcı ondalık bölmeyi destekler. Bölme tam sayı ile bitmediğinde, ondalık değerleri net bir şekilde gösterir ve her adımda matematiksel doğruluğu korur."
-    },
-    {
-      q: "Bu hesaplayıcı ile kesir bölebilir miyim?",
-      a: "Evet, hesaplayıcı kesir bölmeyi destekler. Kesirleri doğru şekilde bölmek için standart aritmetik kurallarını uygular, ödevler ve pratik problem çözme için faydalıdır."
-    },
-    {
-      q: "Bölme temel aritmetikte neden önemlidir?",
-      a: "Bölme, aritmetik işlemlerin temel bir parçasıdır. Miktarları paylaşmaya, ortalamaları bulmaya ve ölçüm, finans ve veri analizi ile ilgili gerçek hayattaki problemleri çözmeye yardımcı olur."
-    }
-  ]
-},
 
-// Turkish (tr)
-decimal: {
+    division: {
+      metaTitle: "Anında Bölme Hesaplayıcı – Saniyeler İçinde Çözün",
+      metaDescription: "Bölme problemlerini çevrimiçi olarak saniyeler içinde çözün. Doğru, basit ve güvenilir, Bölme Hesaplayıcımızı bugün kullanın.",
+      title: "Bölme Hesaplayıcı",
+      desc: "Bölme problemlerini çevrimiçi olarak saniyeler içinde çözün. Doğru, basit ve güvenilir, Bölme Hesaplayıcımızı bugün kullanın.",
+      heading: "Bölme Hesaplayıcı",
+
+      dividend: "Bölünen",
+      divisor: "Bölen",
+
+      result: "Bölme Sonucu",
+
+      resultExplain: "Bölme, bölünenin bölen ile bölünmesiyle hesaplanır. Bölen sıfır olmamalıdır, çünkü sıfıra bölme tanımsızdır.",
+
+      tocTitle: "İçindekiler",
+      tocwhat: "Bölme Hesaplayıcı Nedir?",
+      tocunderstanding: "Bölmeyi Basit Terimlerle Anlamak",
+      tochow: "Bölme Hesaplayıcı Nasıl Çalışır",
+      tocformula: "Bölme Hesaplayıcı Formülü",
+      tocfraction: "Kesir Bölme Yöntemi",
+      tocresults: "Hesaplayıcı Doğru Sonuçları Nasıl Sağlar",
+
+      introTitle: "Bölme Hesaplayıcı Hakkında",
+
+      whatTitle: "Bölme Hesaplayıcı Nedir?",
+      whatContent: "Bölme Hesaplayıcı, bir sayıyı başka bir sayıya bölmeye ve sonucu net bir şekilde göstermeye yardımcı olan bir araçtır. Bölme, günlük matematikte kullanılan dört temel aritmetik işlemden biridir. Bir sayının diğerine kaç kez sığdığını gösterir.",
+      whatContent2: "Bu hesaplayıcı, tam sayılar, ondalık sayılar ve kesirler için bir bölme hesaplayıcısı olarak çalışır. Matematiksel doğruluğu korurken hızlı sonuçlar verir, bu da onu öğrenciler, profesyoneller ve sayılarla çalışan herkes için faydalı kılar.",
+
+      understandingTitle: "Bölmeyi Basit Terimlerle Anlamak",
+      understandingContent: "Bölme üç ana bölümden oluşur: bölünen, bölen ve sonuç. Bölünen, bölünen sayıdır. Bölen, bölmek için kullanılan sayıdır. Sonuca bölüm denir ve bazen kalıntı da vardır.",
+      understandingcontent2: "Örneğin, 17'yi 5'e böldüğümüzde, bölüm 3 ve kalıntı 2 olur. Bir bölüm hesaplayıcı ve kalıntı hesaplayıcı, özellikle bölme tam sayı sonucu vermediğinde, her iki değeri net bir şekilde göstermeye yardımcı olur.",
+
+      howtitle: "Bölme Hesaplayıcı Nasıl Çalışır",
+      howcontent: "Bu çevrimiçi bölme aracı, doğru sonuçları sağlamak için standart matematik kurallarını takip eder. Önce bölünen ve böleni kontrol eder. Ardından, giriş türüne göre doğru bölme yöntemini uygular. Tam sayılar için uzun bölme yöntemi kullanabilir. Ondalık sayılar için ondalık bölme yapar. Kesirler için kesir bölme kurallarını uygular. Hesaplayıcı, manuel çaba gerektirmeden temiz ve güvenilir sayısal hesaplama sağlamak için her adımı dikkatlice işler.",
+
+      whentousetitle: "Bölme Hesaplayıcı Ne Zaman Kullanılır",
+      whentousecontent: "Bir matematik bölme hesaplayıcı, ödevleri çözerken, cevapları kontrol ederken veya bütçe, ölçümler veya ortalamalar gibi gerçek yaşam sayılarıyla çalışırken kullanışlıdır. Manuel bölme sırasında oluşabilecek hatalardan kaçınmaya yardımcı olur. Bölme genellikle ondalık sonuçlarla ilişkilidir, özellikle bölüm tam sayı değilse. Bu gibi durumlarda, kullanıcılar hesaplamalarına veya karşılaştırmalarına aşağıdaki araçları kullanarak devam edebilir: ",
+      interlink: "Ondalık Hesaplayıcı.",
+
+      imageurl: "/Division-Calculator.jpg",
+      imagealttext: "Division Calculator",
+
+      formulaTitle: "Bölme Hesaplayıcı Formülü",
+
+      mainFormulatitle: "Temel Bölme Formülü Açıklaması",
+      mainformula: "Bölüm = Bölünen ÷ Bölen",
+      mainformulaend: "Bölünen, bölmek istediğiniz sayıdır. Bölen, bölmek için kullandığınız sayıdır. Bu işlemin sonucu bölüm olarak adlandırılır. Bu formül, matematikte tüm bölme tabanlı sayısal hesaplamaların temelini oluşturur. Bölünen, bölen tarafından tam bölünemezse, bir kalıntı oluşur. Bu kalıntı, bölme işlemi tamamlandıktan sonra geriye kalan miktarı gösterir.",
+
+      howtoTitle: "Uzun Bölme Yöntemi Nasıl Çalışır",
+      howtocontent: "Uzun bölme yöntemi, bölmeyi küçük ve kolay adımlara böler. Önce, bölen bölünenin ilk rakamı veya rakam grubuyla karşılaştırılır. Ardından bölüm adım adım oluşturulur ve kısmi sonuçlar çıkarılır. Bu yöntem, bölüm ve kalıntıyı net bir şekilde göstermeye yardımcı olur. Uzun bölme hesaplayıcı aynı mantığı takip eder, ancak her adımı anında gerçekleştirir, hataları azaltır ve zaman kazandırır.",
+
+      whyformulatitle: "Ondalık Bölme Formülü",
+      whyformulacontent: "Bölme 1’den küçük veya tam sayı olmayan değerler verdiğinde, hesaplayıcı ondalık bölme kullanır. Süreç aynı kalır, ancak bölüm ondalık noktanın ötesine uzanır. Ondalık bölmede, hesaplayıcı ondalık sayıları kaldırmak için bölüneni ve böleni eşit şekilde ayarlar. Bu, bölmeyi doğru tutar ve hesaplama boyunca matematiksel doğruluğu korur.",
+
+      fractiontitle: "Kesir Bölme Yöntemi",
+      fractionformula: "Kesir Bölme = Birinci Kesir × İkinci Kesrin Ters Çevrimi",
+      fractionformulaend: "Kesir bölme için hesaplayıcı standart bir matematik kuralı kullanır. İlk kesri ikinci kesrin tersiyle çarpar. Bu yöntem, hesaplayıcının kesirli girişleri sorunsuz şekilde işlemesine ve karmaşık aritmetik işlemler sırasında doğru sonuçlar vermesine olanak tanır.",
+
+      resultstitle: "Hesaplayıcı Doğru Sonuçları Nasıl Sağlar",
+      resultscontent: "Matematik bölme hesaplayıcı, giriş türüne göre doğru formülü uygular. Sayıların uzun bölme, ondalık işleme veya kesir kurallarına ihtiyaç duyup duymadığını kontrol eder. Her adım tutarlılığı korumak için sabit matematik mantığını takip eder. Bölme sonuçları genellikle ondalık değerler verir. Kullanıcıların bu değerlerle çalışmaya devam etmesi gerektiğinde, onları Ondalık Hesaplayıcı gibi araçları kullanarak daha da iyileştirebilir veya dönüştürebilirler.",
+
+      faqTitle: "Sıkça Sorulan Sorular",
+      faq: [
+        {
+          q: "Bölme hesaplayıcı ne yapar?",
+          a: "Bölme hesaplayıcı, bir sayıyı başka bir sayıya böler ve sonucu net bir şekilde gösterir. Bölümü ve gerektiğinde kalıntıyı gösterir. Bu, kullanıcıların sayılar bölünürken nasıl ayrıldığını anlamalarına yardımcı olur, manuel adımlar yapmadan."
+        },
+        {
+          q: "Bölüm ve kalıntı arasındaki fark nedir?",
+          a: "Bölüm, bölmenin ana sonucudur. Kalıntı, bölünen, bölen tarafından tam bölünmediğinde geriye kalan değerdir. Örneğin, 17'yi 5'e böldüğümüzde bölüm 3 ve kalıntı 2 olur."
+        },
+        {
+          q: "Bu hesaplayıcı uzun bölmeyi yapabilir mi?",
+          a: "Evet, bu hesaplayıcı uzun bölme yöntemini destekler. Matematik derslerinde öğretilen aynı adım adım mantığı izler, ancak hesaplamayı anında tamamlar ve doğru sonuçları gösterir."
+        },
+        {
+          q: "Hesaplayıcı ondalık sayılarla çalışıyor mu?",
+          a: "Evet, hesaplayıcı ondalık bölmeyi destekler. Bölme tam sayı ile bitmediğinde, ondalık değerleri net bir şekilde gösterir ve her adımda matematiksel doğruluğu korur."
+        },
+        {
+          q: "Bu hesaplayıcı ile kesir bölebilir miyim?",
+          a: "Evet, hesaplayıcı kesir bölmeyi destekler. Kesirleri doğru şekilde bölmek için standart aritmetik kurallarını uygular, ödevler ve pratik problem çözme için faydalıdır."
+        },
+        {
+          q: "Bölme temel aritmetikte neden önemlidir?",
+          a: "Bölme, aritmetik işlemlerin temel bir parçasıdır. Miktarları paylaşmaya, ortalamaları bulmaya ve ölçüm, finans ve veri analizi ile ilgili gerçek hayattaki problemleri çözmeye yardımcı olur."
+        }
+      ]
+    },
+
+    // Turkish (tr)
+    decimal: {
       metaTitle: "Çevrimiçi Ondalık Hesaplayıcı – Basit Matematik Aracı",
       metaDescription: "Ondalık sayıları anında doğru sonuçlarla hesaplayın. Toplayın, çıkarın, çarpın veya bölün, şimdi Ondalık Hesaplayıcıyı kullanın",
       title: "Ondalık Hesaplayıcı",
@@ -5216,6 +5223,102 @@ decimal: {
       ]
     }
 
+
+  },
+
+   sports: {
+
+ batting: {
+  metaTitle: "Vuruş Ortalaması Hesaplayıcı – İstatistiklerinizi Hızlıca Kontrol Edin",
+  metaDescription: "Vuruş performansınızı anında takip edin. Kolay Vuruş Ortalaması Hesaplayıcımız ile net ve doğru ortalamalar elde edin.",
+  title: "Vuruş Ortalaması Hesaplayıcı",
+  desc: "Vuruş performansınızı anında takip edin. Kolay Vuruş Ortalaması Hesaplayıcımız ile net ve doğru ortalamalar elde edin.",
+  heading: "Vuruş Ortalaması Hesaplayıcı",
+  hits: "Vuruşlar",
+  atBats: "Vuruş Denemeleri",
+  result: "Vuruş Ortalaması Sonucu",
+  battingAverage: "Vuruş Ortalaması",
+  resultExplain: "Vuruş ortalaması, toplam vuruş sayısının toplam vuruş denemesi sayısına bölünmesiyle hesaplanır. Bu değer, bir oyuncunun her resmi vuruş denemesinde ne sıklıkla vuruş yaptığına karşılık gelir.",
+  tocTitle: "İçindekiler",
+  tocwhat: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nedir?",
+  tocunderstanding: "Beyzbolda Vuruş Ortalamasını Anlamak",
+  tocformula: "Vuruş Ortalaması Hesaplayıcı Formülü",
+  tochowhits: "Vuruşlar ve Vuruş Denemeleri Nasıl Sayılır",
+  tocstepbystep: "Hesaplayıcı Tarafından Kullanılan Adım Adım Hesaplama Mantığı",
+
+  introTitle: "Vuruş Ortalaması Hesaplayıcısı Hakkında",
+  whattitle: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nedir?",
+  whatContent1: "Bir Beyzbol Vuruş Ortalaması Hesaplayıcısı, bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını ölçmeye yardımcı olur. Beyzbolda vuruş ortalaması, bir vurucunun tutarlılığını değerlendirmek için kullanılan en yaygın istatistiklerden biridir. Bir oyuncunun plakaya geldiğinde ne kadar başarılı olduğunu gösterir.",
+  whatContent2: "Bu hesaplayıcı, hızlı ve doğru sonuçlar isteyen ABD’li beyzbol hayranları, oyuncular ve analistler için tasarlanmıştır. Manuel hesaplama yerine, resmi beyzbol skor kurallarını izleyen net bir vuruş ortalaması değeri sunar.",
+
+  understandingtitle: "Beyzbolda Vuruş Ortalamasını Anlamak",
+  understandingpara1: "Beyzbolda vuruş ortalaması yalnızca vuruşlara ve vuruş denemelerine odaklanır. Walk’lar, isabet eden atışlar veya fedakarlık vuruşları dahil edilmez. Bu, istatistiği temiz tutar ve gerçek vuruş performansına odaklar.",
+  understandingpara2: "Örneğin, bir oyuncu 100 vuruş denemesinde 30 vuruş kaydederse, vuruş ortalaması .300 olur. Bu format, genel performans eğilimlerini incelerken oyuncuları takımlar, sezonlar ve ligler arasında karşılaştırmayı kolaylaştırır.",
+
+  howtitle: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nasıl Çalışır",
+  howpara1: "Bu hesaplayıcı basit ve doğru bir yöntem kullanır. Toplam vuruş sayısını ve toplam vuruş denemesi sayısını girersiniz. Araç, vuruşları vuruş denemelerine böler ve sonucu beyzbolda standart format olan ondalık sayı olarak gösterir.",
+  howpara2: "Resmi skor mantığını takip ettiği için, hesaplayıcı gençlik beyzbolu, lise, üniversite ve profesyonel seviyeler için çalışır. Kullanıcıların hesaplama hatalarından kaçınmasına yardımcı olur ve performans analizini tutarlı tutar.",
+
+  whytitle: "Beyzbol Analizinde Vuruş Ortalaması Neden Önemlidir",
+  whypara1: "Vuruş ortalaması, bir vurucunun zaman içinde ne kadar güvenilir olduğunu göstermeye yardımcı olur. Gücü veya plaka disiplinini ölçmese de, temas yeteneğini karşılaştırmak için temel bir istatistik olmaya devam eder. Koçlar ve analistler, maç ve sezon değerlendirmeleri sırasında vuruş ortalamasını diğer metriklerle birlikte inceler.",
+  whypara2: "Sayıya dayalı performans analizinde, ortalamalar bazen istatistiksel incelemeler sırasında doğrulama veya eşik kontrolleriyle eşleştirilir ve ",
+  whylink: "Sihirli Sayı Hesaplayıcısı.",
+
+  imageUrl: "/Batting-Average-Calculator.jpg",
+  imageAlt: "Batting Average Calculator",
+
+  formulaTitle: "Vuruş Ortalaması Hesaplayıcı Formülü",
+  formulaIntro: "Beyzbolda vuruş ortalaması sabit ve yaygın olarak kabul edilen bir formülü takip eder. Bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını ölçer.",
+  mainFormula: "Vuruş Ortalaması = Vuruşlar ÷ Vuruş Denemeleri",
+  mainformulatext: "Bu formülde yalnızca iki değer önemlidir. Vuruşlar tekler, çiftler, üçlüler ve home run’ları içerir. Vuruş denemeleri, walk’lar, isabet eden atışlar ve fedakarlıklar hariç olmak üzere, vurucunun topa vurma şansına sahip olduğu plaka görünümlerini içerir. Bu, hesaplamayı saf vuruş yeteneğine odaklar.",
+  howhitsTitle: "Vuruşlar ve Vuruş Denemeleri Nasıl Sayılır",
+  howhitstext1: "Bir vuruş, vurucunun topu adil saha içine vurarak güvenli şekilde base’e ulaşmasıyla sayılır. Her resmi vuruş denemesi, oyuncuya bir vuruş kaydetme fırsatı verir. Walk’lar ve bazı diğer sonuçlar vuruş denemesi sayılmaz, bu nedenle vuruş ortalamasını etkilemez.",
+  howhitstext2: "Bu net ayrım, vuruş ortalamasını temas tutarlılığının güvenilir bir göstergesi haline getirir. Gerçek vuruş içermeyen plaka görünümlerinin sonuçları şişirmesini veya düşürmesini önler.",
+  stepTitle: "Hesaplayıcı Tarafından Kullanılan Adım Adım Hesaplama Mantığı",
+  stepList: [
+    "Toplam vuruş sayısını alın",
+    "Toplam vuruş denemesi sayısını alın",
+    "Vuruşları vuruş denemelerine bölün",
+    "Sonucu ondalık değer olarak gösterin",
+  ],
+  stepEnd: "Örneğin, 45 vuruşun 150 vuruş denemesine bölünmesi 0.300 eder. Hesaplayıcı bunu standart beyzbol istatistik sunumuna uyacak şekilde doğru biçimde formatlar.",
+
+  decimaltitle: "Vuruş Ortalamasında Ondalık Format ve Yuvarlama",
+  decimalcontent1: "Beyzbol vuruş ortalamaları ondalık olarak gösterilir ve genellikle üç basamağa yuvarlanır. Hesaplayıcı, sonucun doğru kalması ve resmi skor tutma uygulamalarıyla tutarlı olması için standart yuvarlama kurallarını uygular.",
+  decimalcontent2: "Bu hassasiyet, özellikle küçük farkların anlamlı olabildiği uzun sezonlar boyunca benzer performans seviyelerine sahip oyuncuları karşılaştırırken önemlidir.",
+
+  performancetitle: "Performans Değerlendirmesinde Vuruş Ortalamasının Kullanımı",
+  performancecontent1: "Vuruş ortalaması, bir oyuncunun plakada ne sıklıkla başarılı olduğunu belirlemeye yardımcı olur, ancak diğer metriklerle birlikte kullanıldığında en iyi sonucu verir. Analistler, genel hücum değerini anlamak için bunu sıklıkla on-base ve slugging ölçümleriyle birlikte inceler.",
+  performancecontent2: "İstatistiksel incelemeler sırasında, ortalamalar bazen değerlendirmelerin sonunda daha geniş sayısal kontrollerin ve eşiklerin bir parçası olur ve Sihirli Sayı Hesaplayıcısı gibi araçlarla desteklenir.",
+
+  faqTitle: "Sıkça Sorulan Sorular",
+  faq: [
+    {
+      q: "Beyzbolda vuruş ortalaması nedir?",
+      a: "Beyzbolda vuruş ortalaması, bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını gösterir. Toplam vuruş sayısının toplam vuruş denemesi sayısına bölünmesiyle hesaplanır. Sonuç .275 veya .300 gibi ondalık olarak görünür ve oyuncular arasında karşılaştırmayı basit ve net hale getirir."
+    },
+    {
+      q: "Vuruş ortalamasında ne vuruş olarak sayılır?",
+      a: "Bir vuruş; tekler, çiftler, üçlüler ve home run’ları içerir. Vurucunun topu adil saha içine vurarak güvenli şekilde base’e ulaştığı her durumda vuruş olarak sayılır. Savunma oyuncularının hataları vuruş olarak sayılmaz."
+    },
+    {
+      q: "Walk’lar vuruş ortalamasına dahil midir?",
+      a: "Hayır, walk’lar dahil edilmez. Walk’lar ne vuruş ne de vuruş denemesi olarak sayılır, bu nedenle vuruş ortalamasını etkilemez. Bu kural, istatistiğin plaka disiplininden ziyade yalnızca vuruş başarısına odaklanmasını sağlar."
+    },
+    {
+      q: "Vuruş ortalamasında kaç ondalık basamak kullanılır?",
+      a: "Vuruş ortalamaları genellikle üç ondalık basamakla gösterilir. Örneğin, hesaplanan 0.2865 değeri .287 olarak yuvarlanır. Bu standart format, skor kartları ve oyuncu istatistikleri arasında tutarlılığı korumaya yardımcı olur."
+    },
+    {
+      q: "Vuruş ortalaması bir vurucunun performansını değerlendirmek için yeterli midir?",
+      a: "Vuruş ortalaması tutarlılığı gösterir ancak gücü veya base’e çıkma yeteneğini ölçmez. Koçlar ve analistler, sezon boyunca hücum performansının daha eksiksiz bir resmini elde etmek için bunu genellikle diğer istatistiklerle birlikte inceler."
+    },
+    {
+      q: "Bu hesaplayıcı diğer beyzbol analiz araçlarıyla kullanılabilir mi?",
+      a: "Evet, vuruş ortalaması hesaplamaları genellikle daha geniş istatistiksel incelemelerin bir parçası olarak yer alır. Oyuncu performansı değerlendirildikten sonra, analistler analiz sonunda desenleri veya eşikleri belirlemek için Sihirli Sayı Hesaplayıcısı gibi araçlarla ek sayısal kontroller uygulayabilir."
+    },
+  ]
+},
 
   },
 

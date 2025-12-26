@@ -3,6 +3,7 @@ import { financeCalculators } from "./finance-calculators"
 import type { Calculator, CalculatorCategory } from "./types"
 import { educationCalculators } from "./education-calculators"
 import {  mathsCalculators } from "./math-calculators"
+import { sportsCalculators } from "./sports-calculators"
 
 export type { Calculator, CalculatorInput, CalculatorSection } from "./types"
 
@@ -38,6 +39,14 @@ export const allCalculatorCategories: CalculatorCategory[] = [
     name: "categories.math.name",
     calculators: mathsCalculators,
     description: "categories.math.description"
+  },
+  {
+    id: "sports",
+    metaTitle: "categories.sports.metaTitle",
+    metaDescription: "categories.sports.metaDescription",
+    name: "categories.sports.name",
+    calculators: sportsCalculators,
+    description: "categories.sports.description"
   },
 ]
 

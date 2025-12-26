@@ -60,6 +60,14 @@ export const enTranslations = {
       metaDescription:
         "Free math calculators for algebra, geometry, trigonometry, calculus, and statistics. Solve equations, compute values, and simplify steps instantly.",
     },
+    sports: {
+      metaTitle: "Sports Calculators – All Sports Calculation Tools Online",
+      name: "Sports Calculators",
+      description:
+        "Track your performance and fitness with our sports calculators. Whether you're calculating your running pace, estimating calories burned, or planning your training schedule, VastCalculator helps you stay on top of your game.",
+      metaDescription:
+        "Free sports calculators to calculate scores, stats, fitness data and performance results for all types of sports online.",
+    },
     all: "All Calculators",
   },
   aboutsection: {
@@ -5298,6 +5306,103 @@ export const enTranslations = {
           q: "Why are decimal calculations important in real life?",
           a: "Decimal calculations are used in pricing, measurements, averages, and scientific data. Accurate decimal math supports better decisions and reduces mistakes in everyday numerical tasks"
         }
+      ]
+    },
+  },
+
+  sports: {
+
+    batting: {
+      metaTitle: "Batting Average Calculator – Check Your Stats Fast",
+      metaDescription: "Track your batting performance instantly. Get clear, accurate averages with our easy Batting Average Calculator.",
+      title: "Batting Average Calculator",
+      desc: "Track your batting performance instantly. Get clear, accurate averages with our easy Batting Average Calculator.",
+      heading: "Batting Average Calculator",
+      hits: "Hits",
+      atBats: "At Bats",
+      result: "Batting Average Result",
+      battingAverage: "Batting Average",
+      resultExplain: "The batting average is calculated by dividing the total number of hits by the total number of at-bats. This value represents how often a player gets a hit per official at-bat.",
+      tocTitle: "Table of Contents",
+      tocwhat: "What Is a Baseball Batting Average Calculator?",
+      tocunderstanding: "Understanding Batting Average in Baseball",
+      tocformula: "Batting Average Calculator Formula",
+      tochowhits: "How Hits and At-Bats Are Counted",
+      tocstepbystep: "Step-by-Step Calculation Logic Used by the Calculator",
+
+      introTitle: "About the Batting Average Calculator",
+      whattitle: "What Is a Baseball Batting Average Calculator?",
+      whatContent1: "A Baseball Batting Average Calculator helps measure how often a player gets a hit during official at-bats. In baseball, batting average is one of the most common statistics used to evaluate a hitter’s consistency. It shows how successful a player is when stepping up to the plate.",
+      whatContent2: "This calculator is designed for USA baseball fans, players, and analysts who want quick and accurate results. Instead of manual math, it gives a clear batting average value that follows official baseball scoring rules.",
+
+
+      understandingtitle: "Understanding Batting Average in Baseball",
+      understandingpara1: "In baseball, batting average focuses only on hits and at-bats. It does not include walks, hit-by-pitches, or sacrifices. This keeps the statistic clean and focused on actual hitting performance.",
+      understandingpara2: "For example, if a player records 30 hits in 100 at-bats, the batting average is .300. This format makes it easy to compare players across teams, seasons, and leagues while reviewing overall performance trends.",
+
+      howtitle: "How the Baseball Batting Average Calculator Works",
+      howpara1: "This calculator uses a simple and accurate method. You enter the total number of hits and total at-bats. The tool divides hits by at-bats and displays the result as a decimal, which is the standard baseball format.",
+      howpara2: "Because it follows official scoring logic, the calculator works for youth baseball, high school, college, and professional levels. It helps users avoid calculation mistakes and keeps performance analysis consistent.",
+
+      whytitle: "Why Batting Average Matters in Baseball Analysis",
+      whypara1: "Batting average helps show how reliable a hitter is over time. While it does not measure power or plate discipline, it remains a key stat for comparing contact ability. Coaches and analysts often review batting average alongside other metrics during game and season evaluations.",
+      whypara2: "In number-based performance analysis, averages sometimes pair with validation or threshold checks during statistical reviews, and supporting tools like the ",
+      whylink: "Magic Number Calculator.",
+
+      imageUrl: "/Batting-Average-Calculator.jpg",
+      imageAlt: "Batting Average Calculator",
+
+      formulaTitle: "Batting Average Calculator Formula",
+      formulaIntro: "In baseball, the batting average follows a fixed and widely accepted formula. It measures how often a player records a hit during official at-bats.",
+      mainFormula: "Batting Average = Hits ÷ At-Bats",
+      mainformulatext: "Only two values matter in this formula. Hits include singles, doubles, triples, and home runs. At-bats include plate appearances where the batter has a chance to hit, excluding walks, hit-by-pitches, and sacrifices. This keeps the calculation focused on pure hitting ability.",
+      howhitsTitle: "How Hits and At-Bats Are Counted",
+      howhitstext1: "A hit is counted when the batter safely reaches base after striking the ball into fair territory. Every official at-bat gives the player one opportunity to record a hit. Walks and certain other outcomes do not count as at-bats, which is why they do not affect batting average.",
+      howhitstext2: "This clear separation makes batting average a reliable indicator of contact consistency. It avoids inflating or lowering results due to plate appearances that do not involve actual hitting.",
+      stepTitle: "Step-by-Step Calculation Logic Used by the Calculator",
+      stepList: [
+        "Take the total number of hits",
+        "Take the total number of at-bats",
+        "Divide hits by at-bats",
+        "Display the result as a decimal value",
+      ],
+      stepEnd: "For example, 45 hits divided by 150 at-bats equals 0.300. The calculator formats this correctly to match standard baseball stat presentation.",
+
+      decimaltitle: "Decimal Format and Rounding in Batting Average",
+      decimalcontent1: "Baseball batting averages are shown as decimals, usually rounded to three places. The calculator applies standard rounding rules so the result stays accurate and consistent with official scorekeeping practices.",
+      decimalcontent2: "This precision matters when comparing players with similar performance levels, especially over long seasons where small differences can be meaningful.",
+
+      performancetitle: "Using Batting Average in Performance Evaluation",
+      performancecontent1: "Batting average helps identify how often a player succeeds at the plate, but it works best when used with other metrics. Analysts often review it alongside on-base and slugging measures to understand overall offensive value.",
+      performancecontent2: "During statistical reviews, averages sometimes form part of broader numeric checks and thresholds at the end of evaluations, supported by tools like the Magic Number Calculator.",
+
+
+      faqTitle: "Frequently Asked Questions",
+      faq: [
+        {
+          q: "What is a batting average in baseball?",
+          a: "Batting average in baseball shows how often a player gets a hit during official at-bats. It is calculated by dividing total hits by total at-bats. The result appears as a decimal, such as .275 or .300, which makes comparison between players simple and clear."
+        },
+        {
+          q: " What counts as a hit in batting average?",
+          a: "A hit includes singles, doubles, triples, and home runs. Any time a batter reaches base safely by hitting the ball into fair territory, it counts as a hit. Errors by fielders do not count as hits."
+        },
+        {
+          q: "Are walks included in batting average?",
+          a: "No, walks are not included. Walks do not count as hits or at-bats, so they have no effect on batting average. This rule keeps the statistic focused only on hitting success rather than plate discipline."
+        },
+        {
+          q: "How many decimal places are used in batting average?",
+          a: "Batting averages are usually shown to three decimal places. For example, a calculated value of 0.2865 is rounded to .287. This standard formatting helps maintain consistency across scorecards and player statistics."
+        },
+        {
+          q: "Is batting average enough to judge a hitter’s performance?",
+          a: "Batting average shows consistency but does not measure power or on-base ability. Coaches and analysts often review it alongside other statistics to get a fuller picture of offensive performance across a season."
+        },
+        {
+          q: "Can this calculator be used with other baseball analysis tools?",
+          a: "Yes, batting average calculations often appear as part of broader statistical reviews. After evaluating player performance, analysts may apply additional number-based checks to identify patterns or thresholds at the end of analysis using tools like the Magic Number Calculator."
+        },
       ]
     },
   },

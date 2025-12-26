@@ -20,6 +20,10 @@ export async function GET() {
     <loc>${baseUrl}/es_maths_category.xml</loc>
     <lastmod>${lastmod}</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>${baseUrl}/es_sports_category.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
 </sitemapindex>`;
 
   return new Response(sitemap, {

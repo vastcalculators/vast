@@ -10,8 +10,9 @@ import type { Locale } from "@/lib/i18n"
 import { CalculatorResult } from "./CalculatorResult"
 import { educationFormulas } from "@/lib/calculators/formulas/education-formulas"
 import { mathFormulas } from "@/lib/calculators/formulas/math-formulas"
+import { sportsFormulas } from "@/lib/calculators/formulas/sports-formulas"
 
-const allFormulas = { ...healthFormulas, ...financeFormulas, ...educationFormulas, ...mathFormulas }
+const allFormulas = { ...healthFormulas, ...financeFormulas, ...educationFormulas, ...mathFormulas, ...sportsFormulas }
 
 interface CalculatorClientProps {
   calc: any

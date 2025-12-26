@@ -71,7 +71,14 @@ export const esTranslations = {
       metaDescription:
         "Calculadoras de matemáticas gratuitas para álgebra, geometría, trigonometría, cálculo y estadísticas. Resuelve ecuaciones, calcula valores y simplifica pasos al instante.",
     },
-
+    sports: {
+      metaTitle: "Calculadoras deportivas – Todas las herramientas de cálculo deportivo en línea",
+      name: "Calculadoras deportivas",
+      description:
+        "Realiza un seguimiento de tu rendimiento y estado físico con nuestras calculadoras deportivas. Ya sea que calcules tu ritmo de carrera, estimes las calorías quemadas o planifiques tu programa de entrenamiento, VastCalculator te ayuda a mantenerte en lo más alto de tu rendimiento.",
+      metaDescription:
+        "Calculadoras deportivas gratuitas para calcular puntuaciones, estadísticas, datos de fitness y resultados de rendimiento para todo tipo de deportes en línea.",
+    },
     all: "Todas las Calculadoras",
   },
   categoriespage: {
@@ -5028,183 +5035,183 @@ export const esTranslations = {
     },
 
     digitalroot: {
-    metaTitle: "Calculadora de Raíz Digital Instantánea – Resultados Rápidos",
-    metaDescription: "Obtén la raíz digital de cualquier número en segundos. Resultados simples, claros y precisos—prueba hoy la Calculadora de Raíz Digital.",
-    title: "Calculadora de Raíz Digital",
-    desc: "Obtén la raíz digital de cualquier número en segundos. Resultados simples, claros y precisos—prueba hoy la Calculadora de Raíz Digital.",
-    heading: "Calculadora de Raíz Digital",
+      metaTitle: "Calculadora de Raíz Digital Instantánea – Resultados Rápidos",
+      metaDescription: "Obtén la raíz digital de cualquier número en segundos. Resultados simples, claros y precisos—prueba hoy la Calculadora de Raíz Digital.",
+      title: "Calculadora de Raíz Digital",
+      desc: "Obtén la raíz digital de cualquier número en segundos. Resultados simples, claros y precisos—prueba hoy la Calculadora de Raíz Digital.",
+      heading: "Calculadora de Raíz Digital",
 
-    number: "Número",
+      number: "Número",
 
-    result: "Resultado de la Raíz Digital",
-    digitalRoot: "Raíz Digital",
+      result: "Resultado de la Raíz Digital",
+      digitalRoot: "Raíz Digital",
 
-    resultExplain:
-      "La raíz digital se calcula sumando repetidamente los dígitos de un número hasta obtener un valor de un solo dígito.",
+      resultExplain:
+        "La raíz digital se calcula sumando repetidamente los dígitos de un número hasta obtener un valor de un solo dígito.",
 
-    tocTitle: "Tabla de Contenidos",
-    tocwhat: "¿Qué es una Calculadora de Raíz Digital?",
-    tocunderstanding: "Cómo Funciona el Concepto de Raíz Digital",
-    tochow: "Cómo Funciona Esta Calculadora de Raíz Digital",
-    tocformula: "Fórmula de la Calculadora de Raíz Digital",
-    tocmainformula: "Método Módulo 9 para la Raíz Digital",
-    tocwhy: "Por Qué la Fórmula Produce Resultados Precisos",
+      tocTitle: "Tabla de Contenidos",
+      tocwhat: "¿Qué es una Calculadora de Raíz Digital?",
+      tocunderstanding: "Cómo Funciona el Concepto de Raíz Digital",
+      tochow: "Cómo Funciona Esta Calculadora de Raíz Digital",
+      tocformula: "Fórmula de la Calculadora de Raíz Digital",
+      tocmainformula: "Método Módulo 9 para la Raíz Digital",
+      tocwhy: "Por Qué la Fórmula Produce Resultados Precisos",
 
-    introTitle: "Acerca de la Calculadora de Raíz Digital",
+      introTitle: "Acerca de la Calculadora de Raíz Digital",
 
-    whatTitle: "¿Qué es una Calculadora de Raíz Digital?",
-    whatContent: "Una Calculadora de Raíz Digital te ayuda a reducir cualquier número a un solo dígito sumando repetidamente sus dígitos. Este dígito final se conoce como la raíz digital. Por ejemplo, si comienzas con 456, la suma de los dígitos es 4 + 5 + 6 = 15, y luego 1 + 5 = 6. El resultado, 6, es la raíz digital.",
-    whatContent2: "Este tipo de buscador de raíz digital es útil para comprobaciones rápidas, aprender el comportamiento de los números y comprender conceptos básicos de teoría de números. Funciona con todos los números en base 10 y produce un resultado de un solo dígito que refleja patrones numéricos subyacentes.",
+      whatTitle: "¿Qué es una Calculadora de Raíz Digital?",
+      whatContent: "Una Calculadora de Raíz Digital te ayuda a reducir cualquier número a un solo dígito sumando repetidamente sus dígitos. Este dígito final se conoce como la raíz digital. Por ejemplo, si comienzas con 456, la suma de los dígitos es 4 + 5 + 6 = 15, y luego 1 + 5 = 6. El resultado, 6, es la raíz digital.",
+      whatContent2: "Este tipo de buscador de raíz digital es útil para comprobaciones rápidas, aprender el comportamiento de los números y comprender conceptos básicos de teoría de números. Funciona con todos los números en base 10 y produce un resultado de un solo dígito que refleja patrones numéricos subyacentes.",
 
-    understandingTitle: "Cómo Funciona el Concepto de Raíz Digital",
-    understandingContent: "La raíz digital se basa en sumar repetidamente los dígitos hasta que solo quede un dígito. Este proceso también se llama reducción numérica. Forma la base de muchos patrones matemáticos utilizados en comprobaciones aritméticas y cálculo mental.",
-    understandingcontent2: "Detrás de este método hay un cálculo algorítmico explícito vinculado a la operación módulo, especialmente módulo 9. Debido a esto, las raíces digitales aparecen a menudo en el aprendizaje matemático, pasos de verificación y propiedades aritméticas relacionadas con sumas y múltiplos.",
+      understandingTitle: "Cómo Funciona el Concepto de Raíz Digital",
+      understandingContent: "La raíz digital se basa en sumar repetidamente los dígitos hasta que solo quede un dígito. Este proceso también se llama reducción numérica. Forma la base de muchos patrones matemáticos utilizados en comprobaciones aritméticas y cálculo mental.",
+      understandingcontent2: "Detrás de este método hay un cálculo algorítmico explícito vinculado a la operación módulo, especialmente módulo 9. Debido a esto, las raíces digitales aparecen a menudo en el aprendizaje matemático, pasos de verificación y propiedades aritméticas relacionadas con sumas y múltiplos.",
 
-    howtitle: "Cómo Funciona Esta Calculadora de Raíz Digital",
-    howcontent: "Esta calculadora de suma de dígitos lee el número ingresado y lo divide en dígitos individuales. Luego suma los dígitos. Si el resultado tiene más de un dígito, la calculadora repite el proceso hasta alcanzar un solo dígito. Este enfoque hace que la herramienta sea tanto una calculadora de suma repetida de dígitos como una calculadora de suma digital. Ayuda a los usuarios a entender cómo se comportan los números cuando se reducen y por qué ciertas sumas se repiten de manera predecible.",
+      howtitle: "Cómo Funciona Esta Calculadora de Raíz Digital",
+      howcontent: "Esta calculadora de suma de dígitos lee el número ingresado y lo divide en dígitos individuales. Luego suma los dígitos. Si el resultado tiene más de un dígito, la calculadora repite el proceso hasta alcanzar un solo dígito. Este enfoque hace que la herramienta sea tanto una calculadora de suma repetida de dígitos como una calculadora de suma digital. Ayuda a los usuarios a entender cómo se comportan los números cuando se reducen y por qué ciertas sumas se repiten de manera predecible.",
 
-    whentousetitle: "Cuándo y Por Qué Usar una Calculadora de Raíz Digital",
-    whentousecontent: "Una calculadora matemática de dígitos es útil para verificar cálculos, aprender atajos o explorar el comportamiento de los números. Las raíces digitales se usan a menudo en pasos básicos de verificación, estudios de numerología y reconocimiento de patrones. Para una resolución de problemas numéricos más amplia, las raíces digitales suelen trabajar junto con otros conceptos matemáticos. Ayudan a confirmar resultados y respaldan comprobaciones rápidas después de operaciones complejas, y herramientas como la",
-    interlink: "Calculadora de Raíz Cúbica",
+      whentousetitle: "Cuándo y Por Qué Usar una Calculadora de Raíz Digital",
+      whentousecontent: "Una calculadora matemática de dígitos es útil para verificar cálculos, aprender atajos o explorar el comportamiento de los números. Las raíces digitales se usan a menudo en pasos básicos de verificación, estudios de numerología y reconocimiento de patrones. Para una resolución de problemas numéricos más amplia, las raíces digitales suelen trabajar junto con otros conceptos matemáticos. Ayudan a confirmar resultados y respaldan comprobaciones rápidas después de operaciones complejas, y herramientas como la",
+      interlink: "Calculadora de Raíz Cúbica",
 
-    imageurl: "/Digital-Root-Calculator.jpg",
-    imagealttext: "Digital root calculator",
+      imageurl: "/Digital-Root-Calculator.jpg",
+      imagealttext: "Digital root calculator",
 
-    formulaTitle: "Fórmula de la Calculadora de Raíz Digital",
-    formulasubtitle: "Fórmula Básica de la Raíz Digital Explicada",
-    formulasubcontent: "La raíz digital de un número se obtiene sumando repetidamente sus dígitos hasta que solo quede un dígito. Este proceso se basa en la suma repetida y se aplica a todos los números en base 10. El objetivo es siempre un resultado de un solo dígito entre 1 y 9, a menos que el número original sea cero. Por ejemplo, si el número es 789, la suma de los dígitos es 7 + 8 + 9 = 24. Como este resultado tiene dos dígitos, el proceso se repite como 2 + 4 = 6. El valor final, 6, es la raíz digital.",
+      formulaTitle: "Fórmula de la Calculadora de Raíz Digital",
+      formulasubtitle: "Fórmula Básica de la Raíz Digital Explicada",
+      formulasubcontent: "La raíz digital de un número se obtiene sumando repetidamente sus dígitos hasta que solo quede un dígito. Este proceso se basa en la suma repetida y se aplica a todos los números en base 10. El objetivo es siempre un resultado de un solo dígito entre 1 y 9, a menos que el número original sea cero. Por ejemplo, si el número es 789, la suma de los dígitos es 7 + 8 + 9 = 24. Como este resultado tiene dos dígitos, el proceso se repite como 2 + 4 = 6. El valor final, 6, es la raíz digital.",
 
-    mainFormulatitle: "Método Módulo 9 para la Raíz Digital",
-    mainFormulacontent: "Las raíces digitales también están fuertemente relacionadas con la operación módulo, especialmente módulo 9. En teoría de números, cualquier número reducido usando módulo 9 produce el mismo resultado que su raíz digital, excepto cuando el resultado es nueve en lugar de 0.",
-    mainformula: "Digital Root = 1 + (Number − 1) mod 9",
-    mainformulaend: "Este método explica por qué las raíces digitales se repiten en ciclos y forman patrones matemáticos claros. También muestra cómo las raíces digitales se relacionan con propiedades aritméticas más profundas de los números",
+      mainFormulatitle: "Método Módulo 9 para la Raíz Digital",
+      mainFormulacontent: "Las raíces digitales también están fuertemente relacionadas con la operación módulo, especialmente módulo 9. En teoría de números, cualquier número reducido usando módulo 9 produce el mismo resultado que su raíz digital, excepto cuando el resultado es nueve en lugar de 0.",
+      mainformula: "Digital Root = 1 + (Number − 1) mod 9",
+      mainformulaend: "Este método explica por qué las raíces digitales se repiten en ciclos y forman patrones matemáticos claros. También muestra cómo las raíces digitales se relacionan con propiedades aritméticas más profundas de los números",
 
-    stepTitle: "Lógica de Cálculo Paso a Paso Usada por la Calculadora",
-    stepcontent: "La calculadora de suma de dígitos sigue un proceso confiable y sencillo. Primero, separa el número en dígitos individuales. Luego los suma. Si la suma tiene más de un dígito, la calculadora repite la suma. Este cálculo algorítmico continúa hasta que solo queda un dígito. Debido a que los pasos son claros y fijos, la calculadora ofrece resultados consistentes para valores pequeños y grandes",
+      stepTitle: "Lógica de Cálculo Paso a Paso Usada por la Calculadora",
+      stepcontent: "La calculadora de suma de dígitos sigue un proceso confiable y sencillo. Primero, separa el número en dígitos individuales. Luego los suma. Si la suma tiene más de un dígito, la calculadora repite la suma. Este cálculo algorítmico continúa hasta que solo queda un dígito. Debido a que los pasos son claros y fijos, la calculadora ofrece resultados consistentes para valores pequeños y grandes",
 
-    whyformulatitle: "Por Qué la Fórmula Produce Resultados Precisos",
-    whyformulacontent: "El método de la raíz digital funciona porque se basa en reglas numéricas estables en lugar de estimaciones. Cada paso sigue una lógica matemática definida, lo que hace que el resultado sea predecible y confiable. Por eso las raíces digitales se usan a menudo para comprobaciones rápidas y pasos de validación. Cuando las raíces digitales aparecen junto a otras operaciones matemáticas, ayudan a confirmar si los resultados anteriores tienen sentido. En flujos de trabajo más amplios, los usuarios pueden verificar resultados de cálculos basados en potencias y luego continuar el análisis con herramientas como la Calculadora de Raíz Cúbica.",
+      whyformulatitle: "Por Qué la Fórmula Produce Resultados Precisos",
+      whyformulacontent: "El método de la raíz digital funciona porque se basa en reglas numéricas estables en lugar de estimaciones. Cada paso sigue una lógica matemática definida, lo que hace que el resultado sea predecible y confiable. Por eso las raíces digitales se usan a menudo para comprobaciones rápidas y pasos de validación. Cuando las raíces digitales aparecen junto a otras operaciones matemáticas, ayudan a confirmar si los resultados anteriores tienen sentido. En flujos de trabajo más amplios, los usuarios pueden verificar resultados de cálculos basados en potencias y luego continuar el análisis con herramientas como la Calculadora de Raíz Cúbica.",
 
-    faqTitle: "Preguntas Frecuentes",
-    faq: [
-      {
-        q: "¿Qué es una raíz digital en términos simples?",
-        a: "Una raíz digital es el último dígito único que se obtiene después de sumar todos los dígitos de un número una y otra vez. Este proceso continúa hasta que solo queda un dígito. Ayuda a mostrar patrones básicos en los números y a menudo se usa para comprobaciones rápidas."
-      },
-      {
-        q: "¿En qué se diferencia la raíz digital de una suma normal de dígitos?",
-        a: "Una suma normal de dígitos agrega los dígitos solo una vez. Una raíz digital va más allá repitiendo la suma hasta que aparece un resultado de un solo dígito. Este paso adicional la hace útil para la reducción numérica y el análisis de patrones."
-      },
-      {
-        q: "¿Funciona el método de la raíz digital para números grandes?",
-        a: "Sí, el método de la raíz digital funciona tanto para números pequeños como muy grandes. Debido a que se basa en cálculos algorítmicos y reglas fijas, el tamaño del número no afecta la precisión. La calculadora maneja entradas grandes sin problemas."
-      },
-      {
-        q: "¿Por qué se utiliza módulo 9 en los cálculos de la raíz digital?",
-        a: "Las raíces digitales están estrechamente relacionadas con el concepto de la calculadora módulo 9. En teoría de números, reducir un número usando módulo 9 da el mismo resultado que su raíz digital en la mayoría de los casos. Esto explica por qué las raíces digitales se repiten en ciclos predecibles"
-      },
-      {
-        q: "¿Se utilizan las raíces digitales fuera de las matemáticas básicas?",
-        a: "Sí, las raíces digitales aparecen en ejercicios de aprendizaje, cálculo mental y métodos de calculadoras de numerología. También ayudan a verificar trabajos aritméticos y a comprender patrones matemáticos en los números."
-      },
-      {
-        q: "¿Se puede usar esta calculadora de raíz digital con otras herramientas matemáticas?",
-        a: "Sí, las raíces digitales suelen respaldar otros cálculos actuando como un paso rápido de verificación. Después de trabajar con raíces, potencias o ecuaciones, los usuarios pueden continuar el análisis numérico con herramientas como la Calculadora de Raíz Cúbica."
-      }
-    ]
-  },
-
-  division: {
-  metaTitle: "Calculadora de División Instantánea – Resuelve en Segundos",
-  metaDescription: "Resuelve problemas de división en línea en segundos. Precisa, simple y confiable, usa nuestra Calculadora de División hoy.",
-  title: "Calculadora de División",
-  desc: "Resuelve problemas de división en línea en segundos. Precisa, simple y confiable, usa nuestra Calculadora de División hoy.",
-  heading: "Calculadora de División",
-
-  dividend: "Dividendo",
-  divisor: "Divisor",
-
-  result: "Resultado de la División",
-
-  resultExplain: "La división se calcula dividiendo el dividendo entre el divisor. El divisor no debe ser cero, ya que la división entre cero no está definida.",
-
-  tocTitle: "Tabla de Contenidos",
-  tocwhat: "¿Qué es una Calculadora de División?",
-  tocunderstanding: "Comprender la División en Términos Simples",
-  tochow: "Cómo Funciona la Calculadora de División",
-  tocformula: "Fórmula de la Calculadora de División",
-  tocfraction: "Método de División de Fracciones",
-  tocresults: "Cómo la Calculadora Garantiza Resultados Precisos",
-
-  introTitle: "Acerca de la Calculadora de División",
-
-  whatTitle: "¿Qué es una Calculadora de División?",
-  whatContent: "Una Calculadora de División es una herramienta que ayuda a dividir un número entre otro y mostrar el resultado de forma clara. La división es una de las cuatro operaciones aritméticas básicas utilizadas en las matemáticas cotidianas. Responde cuántas veces un número cabe dentro de otro.",
-  whatContent2: "Esta calculadora funciona como una calculadora para dividir números enteros, decimales y fracciones. Ofrece resultados rápidos manteniendo la precisión matemática, lo que la hace útil para estudiantes, profesionales y cualquier persona que trabaje con números.",
-
-  understandingTitle: "Comprender la División en Términos Simples",
-  understandingContent: "La división consta de tres partes principales: el dividendo, el divisor y el resultado. El dividendo es el número que se divide. El divisor es el número que se utiliza para dividirlo. La respuesta se llama cociente, y a veces hay un residuo.",
-  understandingcontent2: "Por ejemplo, al dividir 17 entre 5, el cociente es 3 y el residuo es 2. Una calculadora de cociente y una calculadora de residuo ayudan a mostrar ambos valores claramente, especialmente cuando la división no da como resultado un número entero.",
-
-  howtitle: "Cómo Funciona la Calculadora de División",
-  howcontent: "Esta herramienta de división en línea sigue las reglas matemáticas estándar para garantizar resultados correctos. Primero, verifica el dividendo y el divisor. Luego aplica el método de división correcto según el tipo de entrada. Para números enteros, puede usar el método de división larga. Para decimales, realiza división decimal. Para fracciones, aplica las reglas de división de fracciones. La calculadora procesa cada paso cuidadosamente para ofrecer un cálculo numérico limpio y confiable sin esfuerzo manual.",
-
-  whentousetitle: "Cuándo Usar una Calculadora de División",
-  whentousecontent: "Una calculadora matemática de división es útil para resolver tareas, verificar respuestas o trabajar con números de la vida real como presupuestos, mediciones o promedios. Ayuda a evitar errores que pueden ocurrir durante la división manual. La división a menudo conduce a resultados decimales, especialmente cuando el cociente no es un número entero. En tales casos, los usuarios pueden continuar los cálculos o comparaciones utilizando herramientas como la ",
-  interlink: "Calculadora Decimal.",
-
-  imageurl: "/Division-Calculator.jpg",
-  imagealttext: "Division Calculator",
-
-  formulaTitle: "Fórmula de la Calculadora de División",
-
-  mainFormulatitle: "Fórmula Básica de División Explicada",
-  mainformula: "Cociente = Dividendo ÷ Divisor",
-  mainformulaend: "El dividendo es el número que deseas dividir. El divisor es el número por el cual divides. El resultado de esta operación se llama cociente. Esta fórmula constituye la base de todos los cálculos numéricos basados en la división en matemáticas. Cuando el dividendo no se divide de manera uniforme entre el divisor, aparece un residuo. Este residuo muestra lo que queda después de que finaliza el proceso de división.",
-
-  howtoTitle: "Cómo Funciona el Método de División Larga",
-  howtocontent: "El método de división larga divide la operación en pasos pequeños y fáciles. Primero, el divisor se compara con el primer dígito o grupo de dígitos del dividendo. Luego, el cociente se construye paso a paso mientras se restan resultados parciales. Este método ayuda a mostrar claramente tanto el cociente como el residuo. Una calculadora de división larga sigue la misma lógica pero realiza cada paso instantáneamente, lo que reduce errores y ahorra tiempo.",
-
-  whyformulatitle: "Fórmula de División Decimal",
-  whyformulacontent: "Cuando la división da como resultado valores menores que uno o números no enteros, la calculadora utiliza la división decimal. El proceso sigue siendo el mismo, pero el cociente se extiende más allá del punto decimal. En la división decimal, la calculadora ajusta el dividendo y el divisor por igual para eliminar los decimales. Esto mantiene la división precisa y conserva la exactitud matemática durante todo el cálculo.",
-
-  fractiontitle: "Método de División de Fracciones",
-  fractionformula: "División de Fracciones = Primera Fracción × Recíproco de la Segunda Fracción",
-  fractionformulaend: "Para la división de fracciones, la calculadora utiliza una regla matemática estándar. Multiplica la primera fracción por el recíproco de la segunda fracción. Este método permite que la calculadora maneje entradas fraccionarias sin problemas y ofrezca resultados correctos durante operaciones aritméticas complejas.",
-
-  resultstitle: "Cómo la Calculadora Garantiza Resultados Precisos",
-  resultscontent: "La calculadora matemática de división aplica la fórmula correcta según el tipo de entrada. Verifica si los números requieren división larga, manejo de decimales o reglas de fracciones. Cada paso sigue una lógica matemática fija para mantener la coherencia. Los resultados de la división a menudo conducen a valores decimales. Cuando los usuarios necesitan seguir trabajando con esos valores, pueden refinarlos o convertirlos aún más utilizando herramientas como la Calculadora Decimal.",
-
-  faqTitle: "Preguntas Frecuentes",
-  faq: [
-    {
-      q: "¿Qué hace una calculadora de división?",
-      a: "Una calculadora de división divide un número entre otro y muestra el resultado claramente. Muestra el cociente y, cuando es necesario, el residuo. Esto ayuda a los usuarios a comprender cómo se dividen los números sin realizar pasos manuales."
+      faqTitle: "Preguntas Frecuentes",
+      faq: [
+        {
+          q: "¿Qué es una raíz digital en términos simples?",
+          a: "Una raíz digital es el último dígito único que se obtiene después de sumar todos los dígitos de un número una y otra vez. Este proceso continúa hasta que solo queda un dígito. Ayuda a mostrar patrones básicos en los números y a menudo se usa para comprobaciones rápidas."
+        },
+        {
+          q: "¿En qué se diferencia la raíz digital de una suma normal de dígitos?",
+          a: "Una suma normal de dígitos agrega los dígitos solo una vez. Una raíz digital va más allá repitiendo la suma hasta que aparece un resultado de un solo dígito. Este paso adicional la hace útil para la reducción numérica y el análisis de patrones."
+        },
+        {
+          q: "¿Funciona el método de la raíz digital para números grandes?",
+          a: "Sí, el método de la raíz digital funciona tanto para números pequeños como muy grandes. Debido a que se basa en cálculos algorítmicos y reglas fijas, el tamaño del número no afecta la precisión. La calculadora maneja entradas grandes sin problemas."
+        },
+        {
+          q: "¿Por qué se utiliza módulo 9 en los cálculos de la raíz digital?",
+          a: "Las raíces digitales están estrechamente relacionadas con el concepto de la calculadora módulo 9. En teoría de números, reducir un número usando módulo 9 da el mismo resultado que su raíz digital en la mayoría de los casos. Esto explica por qué las raíces digitales se repiten en ciclos predecibles"
+        },
+        {
+          q: "¿Se utilizan las raíces digitales fuera de las matemáticas básicas?",
+          a: "Sí, las raíces digitales aparecen en ejercicios de aprendizaje, cálculo mental y métodos de calculadoras de numerología. También ayudan a verificar trabajos aritméticos y a comprender patrones matemáticos en los números."
+        },
+        {
+          q: "¿Se puede usar esta calculadora de raíz digital con otras herramientas matemáticas?",
+          a: "Sí, las raíces digitales suelen respaldar otros cálculos actuando como un paso rápido de verificación. Después de trabajar con raíces, potencias o ecuaciones, los usuarios pueden continuar el análisis numérico con herramientas como la Calculadora de Raíz Cúbica."
+        }
+      ]
     },
-    {
-      q: "¿Cuál es la diferencia entre cociente y residuo?",
-      a: "El cociente es el resultado principal de una división. El residuo es lo que queda cuando el dividendo no se divide de manera uniforme entre el divisor. Por ejemplo, dividir 17 entre 5 da un cociente de 3 y un residuo de 2."
-    },
-    {
-      q: "¿Puede esta calculadora manejar la división larga?",
-      a: "Sí, esta calculadora admite el método de división larga. Sigue la misma lógica paso a paso que se enseña en las clases de matemáticas, pero completa el cálculo instantáneamente y muestra resultados precisos."
-    },
-    {
-      q: "¿La calculadora funciona con decimales?",
-      a: "Sí, la calculadora admite la división decimal. Cuando la división no termina en un número entero, muestra valores decimales claramente mientras mantiene la precisión matemática en cada paso."
-    },
-    {
-      q: "¿Puedo dividir fracciones usando esta calculadora?",
-      a: "Sí, la calculadora admite la división de fracciones. Aplica reglas aritméticas estándar para dividir fracciones correctamente, lo que la hace útil para tareas y resolución práctica de problemas"
-    },
-    {
-      q: "¿Por qué es importante la división en la aritmética básica?",
-      a: "La división es una parte fundamental de las operaciones aritméticas. Ayuda a compartir cantidades, encontrar promedios y resolver problemas de la vida real relacionados con mediciones, finanzas y análisis de datos."
-    }
-  ]
-},
 
-decimal: {
+    division: {
+      metaTitle: "Calculadora de División Instantánea – Resuelve en Segundos",
+      metaDescription: "Resuelve problemas de división en línea en segundos. Precisa, simple y confiable, usa nuestra Calculadora de División hoy.",
+      title: "Calculadora de División",
+      desc: "Resuelve problemas de división en línea en segundos. Precisa, simple y confiable, usa nuestra Calculadora de División hoy.",
+      heading: "Calculadora de División",
+
+      dividend: "Dividendo",
+      divisor: "Divisor",
+
+      result: "Resultado de la División",
+
+      resultExplain: "La división se calcula dividiendo el dividendo entre el divisor. El divisor no debe ser cero, ya que la división entre cero no está definida.",
+
+      tocTitle: "Tabla de Contenidos",
+      tocwhat: "¿Qué es una Calculadora de División?",
+      tocunderstanding: "Comprender la División en Términos Simples",
+      tochow: "Cómo Funciona la Calculadora de División",
+      tocformula: "Fórmula de la Calculadora de División",
+      tocfraction: "Método de División de Fracciones",
+      tocresults: "Cómo la Calculadora Garantiza Resultados Precisos",
+
+      introTitle: "Acerca de la Calculadora de División",
+
+      whatTitle: "¿Qué es una Calculadora de División?",
+      whatContent: "Una Calculadora de División es una herramienta que ayuda a dividir un número entre otro y mostrar el resultado de forma clara. La división es una de las cuatro operaciones aritméticas básicas utilizadas en las matemáticas cotidianas. Responde cuántas veces un número cabe dentro de otro.",
+      whatContent2: "Esta calculadora funciona como una calculadora para dividir números enteros, decimales y fracciones. Ofrece resultados rápidos manteniendo la precisión matemática, lo que la hace útil para estudiantes, profesionales y cualquier persona que trabaje con números.",
+
+      understandingTitle: "Comprender la División en Términos Simples",
+      understandingContent: "La división consta de tres partes principales: el dividendo, el divisor y el resultado. El dividendo es el número que se divide. El divisor es el número que se utiliza para dividirlo. La respuesta se llama cociente, y a veces hay un residuo.",
+      understandingcontent2: "Por ejemplo, al dividir 17 entre 5, el cociente es 3 y el residuo es 2. Una calculadora de cociente y una calculadora de residuo ayudan a mostrar ambos valores claramente, especialmente cuando la división no da como resultado un número entero.",
+
+      howtitle: "Cómo Funciona la Calculadora de División",
+      howcontent: "Esta herramienta de división en línea sigue las reglas matemáticas estándar para garantizar resultados correctos. Primero, verifica el dividendo y el divisor. Luego aplica el método de división correcto según el tipo de entrada. Para números enteros, puede usar el método de división larga. Para decimales, realiza división decimal. Para fracciones, aplica las reglas de división de fracciones. La calculadora procesa cada paso cuidadosamente para ofrecer un cálculo numérico limpio y confiable sin esfuerzo manual.",
+
+      whentousetitle: "Cuándo Usar una Calculadora de División",
+      whentousecontent: "Una calculadora matemática de división es útil para resolver tareas, verificar respuestas o trabajar con números de la vida real como presupuestos, mediciones o promedios. Ayuda a evitar errores que pueden ocurrir durante la división manual. La división a menudo conduce a resultados decimales, especialmente cuando el cociente no es un número entero. En tales casos, los usuarios pueden continuar los cálculos o comparaciones utilizando herramientas como la ",
+      interlink: "Calculadora Decimal.",
+
+      imageurl: "/Division-Calculator.jpg",
+      imagealttext: "Division Calculator",
+
+      formulaTitle: "Fórmula de la Calculadora de División",
+
+      mainFormulatitle: "Fórmula Básica de División Explicada",
+      mainformula: "Cociente = Dividendo ÷ Divisor",
+      mainformulaend: "El dividendo es el número que deseas dividir. El divisor es el número por el cual divides. El resultado de esta operación se llama cociente. Esta fórmula constituye la base de todos los cálculos numéricos basados en la división en matemáticas. Cuando el dividendo no se divide de manera uniforme entre el divisor, aparece un residuo. Este residuo muestra lo que queda después de que finaliza el proceso de división.",
+
+      howtoTitle: "Cómo Funciona el Método de División Larga",
+      howtocontent: "El método de división larga divide la operación en pasos pequeños y fáciles. Primero, el divisor se compara con el primer dígito o grupo de dígitos del dividendo. Luego, el cociente se construye paso a paso mientras se restan resultados parciales. Este método ayuda a mostrar claramente tanto el cociente como el residuo. Una calculadora de división larga sigue la misma lógica pero realiza cada paso instantáneamente, lo que reduce errores y ahorra tiempo.",
+
+      whyformulatitle: "Fórmula de División Decimal",
+      whyformulacontent: "Cuando la división da como resultado valores menores que uno o números no enteros, la calculadora utiliza la división decimal. El proceso sigue siendo el mismo, pero el cociente se extiende más allá del punto decimal. En la división decimal, la calculadora ajusta el dividendo y el divisor por igual para eliminar los decimales. Esto mantiene la división precisa y conserva la exactitud matemática durante todo el cálculo.",
+
+      fractiontitle: "Método de División de Fracciones",
+      fractionformula: "División de Fracciones = Primera Fracción × Recíproco de la Segunda Fracción",
+      fractionformulaend: "Para la división de fracciones, la calculadora utiliza una regla matemática estándar. Multiplica la primera fracción por el recíproco de la segunda fracción. Este método permite que la calculadora maneje entradas fraccionarias sin problemas y ofrezca resultados correctos durante operaciones aritméticas complejas.",
+
+      resultstitle: "Cómo la Calculadora Garantiza Resultados Precisos",
+      resultscontent: "La calculadora matemática de división aplica la fórmula correcta según el tipo de entrada. Verifica si los números requieren división larga, manejo de decimales o reglas de fracciones. Cada paso sigue una lógica matemática fija para mantener la coherencia. Los resultados de la división a menudo conducen a valores decimales. Cuando los usuarios necesitan seguir trabajando con esos valores, pueden refinarlos o convertirlos aún más utilizando herramientas como la Calculadora Decimal.",
+
+      faqTitle: "Preguntas Frecuentes",
+      faq: [
+        {
+          q: "¿Qué hace una calculadora de división?",
+          a: "Una calculadora de división divide un número entre otro y muestra el resultado claramente. Muestra el cociente y, cuando es necesario, el residuo. Esto ayuda a los usuarios a comprender cómo se dividen los números sin realizar pasos manuales."
+        },
+        {
+          q: "¿Cuál es la diferencia entre cociente y residuo?",
+          a: "El cociente es el resultado principal de una división. El residuo es lo que queda cuando el dividendo no se divide de manera uniforme entre el divisor. Por ejemplo, dividir 17 entre 5 da un cociente de 3 y un residuo de 2."
+        },
+        {
+          q: "¿Puede esta calculadora manejar la división larga?",
+          a: "Sí, esta calculadora admite el método de división larga. Sigue la misma lógica paso a paso que se enseña en las clases de matemáticas, pero completa el cálculo instantáneamente y muestra resultados precisos."
+        },
+        {
+          q: "¿La calculadora funciona con decimales?",
+          a: "Sí, la calculadora admite la división decimal. Cuando la división no termina en un número entero, muestra valores decimales claramente mientras mantiene la precisión matemática en cada paso."
+        },
+        {
+          q: "¿Puedo dividir fracciones usando esta calculadora?",
+          a: "Sí, la calculadora admite la división de fracciones. Aplica reglas aritméticas estándar para dividir fracciones correctamente, lo que la hace útil para tareas y resolución práctica de problemas"
+        },
+        {
+          q: "¿Por qué es importante la división en la aritmética básica?",
+          a: "La división es una parte fundamental de las operaciones aritméticas. Ayuda a compartir cantidades, encontrar promedios y resolver problemas de la vida real relacionados con mediciones, finanzas y análisis de datos."
+        }
+      ]
+    },
+
+    decimal: {
       metaTitle: "Calculadora Decimal en Línea – Herramienta Matemática Simple",
       metaDescription: "Calcula decimales al instante con resultados precisos. Suma, resta, multiplica o divide, usa la Calculadora Decimal ahora",
       title: "Calculadora Decimal",
@@ -5293,6 +5300,102 @@ decimal: {
       ]
     }
 
+
+  },
+
+  sports: {
+
+    batting: {
+      metaTitle: "Calculadora de Promedio de Bateo – Revisa tus estadísticas rápidamente",
+      metaDescription: "Sigue tu rendimiento de bateo al instante. Obtén promedios claros y precisos con nuestra Calculadora de Promedio de Bateo fácil de usar.",
+      title: "Calculadora de Promedio de Bateo",
+      desc: "Sigue tu rendimiento de bateo al instante. Obtén promedios claros y precisos con nuestra Calculadora de Promedio de Bateo fácil de usar.",
+      heading: "Calculadora de Promedio de Bateo",
+      hits: "Hits",
+      atBats: "Turnos al Bate",
+      result: "Resultado del Promedio de Bateo",
+      battingAverage: "Promedio de Bateo",
+      resultExplain: "El promedio de bateo se calcula dividiendo el número total de hits entre el número total de turnos al bate. Este valor representa la frecuencia con la que un jugador consigue un hit por cada turno oficial al bate.",
+      tocTitle: "Tabla de Contenidos",
+      tocwhat: "¿Qué es una Calculadora de Promedio de Bateo en Béisbol?",
+      tocunderstanding: "Comprender el Promedio de Bateo en el Béisbol",
+      tocformula: "Fórmula de la Calculadora de Promedio de Bateo",
+      tochowhits: "Cómo se cuentan los Hits y los Turnos al Bate",
+      tocstepbystep: "Lógica de cálculo paso a paso utilizada por la calculadora",
+
+      introTitle: "Sobre la Calculadora de Promedio de Bateo",
+      whattitle: "¿Qué es una Calculadora de Promedio de Bateo en Béisbol?",
+      whatContent1: "Una Calculadora de Promedio de Bateo en Béisbol ayuda a medir con qué frecuencia un jugador consigue un hit durante los turnos oficiales al bate. En el béisbol, el promedio de bateo es una de las estadísticas más comunes utilizadas para evaluar la consistencia de un bateador. Muestra qué tan exitoso es un jugador cuando se presenta a batear.",
+      whatContent2: "Esta calculadora está diseñada para fanáticos del béisbol en Estados Unidos, jugadores y analistas que desean resultados rápidos y precisos. En lugar de realizar cálculos manuales, ofrece un valor claro del promedio de bateo que sigue las reglas oficiales de anotación del béisbol.",
+
+      understandingtitle: "Comprender el Promedio de Bateo en el Béisbol",
+      understandingpara1: "En el béisbol, el promedio de bateo se centra únicamente en los hits y los turnos al bate. No incluye bases por bolas, golpes por lanzamiento ni sacrificios. Esto mantiene la estadística limpia y enfocada en el rendimiento real de bateo.",
+      understandingpara2: "Por ejemplo, si un jugador registra 30 hits en 100 turnos al bate, el promedio de bateo es .300. Este formato facilita la comparación de jugadores entre equipos, temporadas y ligas al revisar las tendencias generales de rendimiento.",
+
+      howtitle: "Cómo funciona la Calculadora de Promedio de Bateo en Béisbol",
+      howpara1: "Esta calculadora utiliza un método simple y preciso. Introduces el número total de hits y el número total de turnos al bate. La herramienta divide los hits entre los turnos al bate y muestra el resultado como un valor decimal, que es el formato estándar en el béisbol.",
+      howpara2: "Debido a que sigue la lógica oficial de anotación, la calculadora funciona para béisbol juvenil, escolar, universitario y profesional. Ayuda a los usuarios a evitar errores de cálculo y mantiene un análisis de rendimiento consistente.",
+
+      whytitle: "Por qué el Promedio de Bateo es importante en el análisis de béisbol",
+      whypara1: "El promedio de bateo ayuda a mostrar qué tan confiable es un bateador a lo largo del tiempo. Aunque no mide la potencia ni la disciplina en el plato, sigue siendo una estadística clave para comparar la capacidad de contacto. Entrenadores y analistas suelen revisar el promedio de bateo junto con otras métricas durante las evaluaciones de juegos y temporadas.",
+      whypara2: "En el análisis de rendimiento basado en números, los promedios a veces se combinan con validaciones o verificaciones de umbrales durante las revisiones estadísticas, y se apoyan en herramientas como la ",
+      whylink: "Calculadora de Número Mágico.",
+
+      imageUrl: "/Batting-Average-Calculator.jpg",
+      imageAlt: "Batting Average Calculator",
+
+      formulaTitle: "Fórmula de la Calculadora de Promedio de Bateo",
+      formulaIntro: "En el béisbol, el promedio de bateo sigue una fórmula fija y ampliamente aceptada. Mide con qué frecuencia un jugador registra un hit durante los turnos oficiales al bate.",
+      mainFormula: "Promedio de Bateo = Hits ÷ Turnos al Bate",
+      mainformulatext: "Solo dos valores importan en esta fórmula. Los hits incluyen sencillos, dobles, triples y jonrones. Los turnos al bate incluyen apariciones en el plato donde el bateador tiene oportunidad de batear, excluyendo bases por bolas, golpes por lanzamiento y sacrificios. Esto mantiene el cálculo enfocado en la capacidad pura de bateo.",
+      howhitsTitle: "Cómo se cuentan los Hits y los Turnos al Bate",
+      howhitstext1: "Un hit se cuenta cuando el bateador llega a base de forma segura después de golpear la pelota en territorio fair. Cada turno oficial al bate le da al jugador una oportunidad de registrar un hit. Las bases por bolas y ciertos otros resultados no cuentan como turnos al bate, por lo que no afectan el promedio de bateo.",
+      howhitstext2: "Esta separación clara hace que el promedio de bateo sea un indicador confiable de la consistencia de contacto. Evita inflar o reducir los resultados debido a apariciones en el plato que no implican bateo real.",
+      stepTitle: "Lógica de cálculo paso a paso utilizada por la calculadora",
+      stepList: [
+        "Tomar el número total de hits",
+        "Tomar el número total de turnos al bate",
+        "Dividir los hits entre los turnos al bate",
+        "Mostrar el resultado como un valor decimal",
+      ],
+      stepEnd: "Por ejemplo, 45 hits divididos entre 150 turnos al bate equivalen a 0.300. La calculadora formatea esto correctamente para que coincida con la presentación estándar de estadísticas de béisbol.",
+
+      decimaltitle: "Formato decimal y redondeo en el Promedio de Bateo",
+      decimalcontent1: "Los promedios de bateo en el béisbol se muestran como valores decimales, generalmente redondeados a tres cifras. La calculadora aplica reglas de redondeo estándar para que el resultado se mantenga preciso y consistente con las prácticas oficiales de anotación.",
+      decimalcontent2: "Esta precisión es importante al comparar jugadores con niveles de rendimiento similares, especialmente durante temporadas largas donde pequeñas diferencias pueden ser significativas.",
+
+      performancetitle: "Uso del Promedio de Bateo en la evaluación del rendimiento",
+      performancecontent1: "El promedio de bateo ayuda a identificar con qué frecuencia un jugador tiene éxito en el plato, pero funciona mejor cuando se utiliza junto con otras métricas. Los analistas suelen revisarlo junto con medidas de embasarse y slugging para comprender el valor ofensivo general.",
+      performancecontent2: "Durante las revisiones estadísticas, los promedios a veces forman parte de verificaciones numéricas más amplias y umbrales al final de las evaluaciones, respaldadas por herramientas como la Calculadora de Número Mágico.",
+
+      faqTitle: "Preguntas Frecuentes",
+      faq: [
+        {
+          q: "¿Qué es el promedio de bateo en el béisbol?",
+          a: "El promedio de bateo en el béisbol muestra con qué frecuencia un jugador consigue un hit durante los turnos oficiales al bate. Se calcula dividiendo el total de hits entre el total de turnos al bate. El resultado aparece como un valor decimal, como .275 o .300, lo que hace que la comparación entre jugadores sea simple y clara."
+        },
+        {
+          q: " ¿Qué cuenta como un hit en el promedio de bateo?",
+          a: "Un hit incluye sencillos, dobles, triples y jonrones. Cada vez que un bateador llega a base de forma segura al golpear la pelota en territorio fair, cuenta como un hit. Los errores de los fildeadores no cuentan como hits."
+        },
+        {
+          q: "¿Las bases por bolas se incluyen en el promedio de bateo?",
+          a: "No, las bases por bolas no se incluyen. Las bases por bolas no cuentan como hits ni como turnos al bate, por lo que no tienen efecto en el promedio de bateo. Esta regla mantiene la estadística enfocada únicamente en el éxito de bateo y no en la disciplina en el plato."
+        },
+        {
+          q: "¿Cuántos decimales se utilizan en el promedio de bateo?",
+          a: "Los promedios de bateo generalmente se muestran con tres decimales. Por ejemplo, un valor calculado de 0.2865 se redondea a .287. Este formato estándar ayuda a mantener la consistencia en las tarjetas de puntuación y las estadísticas de los jugadores."
+        },
+        {
+          q: "¿Es suficiente el promedio de bateo para juzgar el rendimiento de un bateador?",
+          a: "El promedio de bateo muestra consistencia, pero no mide la potencia ni la capacidad de embasarse. Entrenadores y analistas suelen revisarlo junto con otras estadísticas para obtener una imagen más completa del rendimiento ofensivo a lo largo de una temporada."
+        },
+        {
+          q: "¿Se puede usar esta calculadora con otras herramientas de análisis de béisbol?",
+          a: "Sí, los cálculos del promedio de bateo a menudo aparecen como parte de revisiones estadísticas más amplias. Después de evaluar el rendimiento del jugador, los analistas pueden aplicar verificaciones numéricas adicionales para identificar patrones o umbrales al final del análisis utilizando herramientas como la Calculadora de Número Mágico."
+        },
+      ]
+    },
 
   },
 

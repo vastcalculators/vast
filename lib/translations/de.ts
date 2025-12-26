@@ -71,6 +71,14 @@ export const deTranslations = {
       metaDescription:
         "Kostenlose Mathe-Rechner für Algebra, Geometrie, Trigonometrie, Analysis und Statistik. Gleichungen lösen, Werte berechnen und Schritte sofort vereinfachen.",
     },
+    sports: {
+      metaTitle: "Sportrechner – Alle Sport-Berechnungstools online",
+      name: "Sportrechner",
+      description:
+        "Verfolge deine Leistung und Fitness mit unseren Sportrechnern. Egal, ob du dein Lauftempo berechnest, verbrannte Kalorien schätzt oder deinen Trainingsplan planst – VastCalculator hilft dir, stets auf dem neuesten Stand zu bleiben.",
+      metaDescription:
+        "Kostenlose Sportrechner zur Berechnung von Ergebnissen, Statistiken, Fitnessdaten und Leistungswerten für alle Sportarten online.",
+    },
 
     all: "Alle Rechner",
   },
@@ -176,7 +184,6 @@ export const deTranslations = {
     btn: "Berechnen",
   },
 
-  // Gesundheitsrechner
   health: {
     bodyFat: {
       metaTitle:
@@ -4992,184 +4999,184 @@ export const deTranslations = {
     },
 
     digitalroot: {
-    metaTitle: "Sofortiger Digitalwurzel-Rechner – Schnelle Ergebnisse",
-    metaDescription: "Ermitteln Sie die Digitalwurzel jeder Zahl in Sekunden. Einfach, klar und genau – probieren Sie den Digitalwurzel-Rechner noch heute aus.",
-    title: "Digitalwurzel-Rechner",
-    desc: "Ermitteln Sie die Digitalwurzel jeder Zahl in Sekunden. Einfach, klar und genau – probieren Sie den Digitalwurzel-Rechner noch heute aus.",
-    heading: "Digitalwurzel-Rechner",
+      metaTitle: "Sofortiger Digitalwurzel-Rechner – Schnelle Ergebnisse",
+      metaDescription: "Ermitteln Sie die Digitalwurzel jeder Zahl in Sekunden. Einfach, klar und genau – probieren Sie den Digitalwurzel-Rechner noch heute aus.",
+      title: "Digitalwurzel-Rechner",
+      desc: "Ermitteln Sie die Digitalwurzel jeder Zahl in Sekunden. Einfach, klar und genau – probieren Sie den Digitalwurzel-Rechner noch heute aus.",
+      heading: "Digitalwurzel-Rechner",
 
-    number: "Zahl",
+      number: "Zahl",
 
-    result: "Ergebnis der Digitalwurzel",
-    digitalRoot: "Digitalwurzel",
+      result: "Ergebnis der Digitalwurzel",
+      digitalRoot: "Digitalwurzel",
 
-    resultExplain:
-      "Die Digitalwurzel wird berechnet, indem die Ziffern einer Zahl wiederholt addiert werden, bis ein einstelliger Wert erreicht ist.",
+      resultExplain:
+        "Die Digitalwurzel wird berechnet, indem die Ziffern einer Zahl wiederholt addiert werden, bis ein einstelliger Wert erreicht ist.",
 
-    tocTitle: "Inhaltsverzeichnis",
-    tocwhat: "Was ist ein Digitalwurzel-Rechner?",
-    tocunderstanding: "Wie das Konzept der Digitalwurzel funktioniert",
-    tochow: "Wie dieser Digitalwurzel-Rechner funktioniert",
-    tocformula: "Formel des Digitalwurzel-Rechners",
-    tocmainformula: "Modulo-9-Methode für die Digitalwurzel",
-    tocwhy: "Warum die Formel genaue Ergebnisse liefert",
+      tocTitle: "Inhaltsverzeichnis",
+      tocwhat: "Was ist ein Digitalwurzel-Rechner?",
+      tocunderstanding: "Wie das Konzept der Digitalwurzel funktioniert",
+      tochow: "Wie dieser Digitalwurzel-Rechner funktioniert",
+      tocformula: "Formel des Digitalwurzel-Rechners",
+      tocmainformula: "Modulo-9-Methode für die Digitalwurzel",
+      tocwhy: "Warum die Formel genaue Ergebnisse liefert",
 
-    introTitle: "Über den Digitalwurzel-Rechner",
+      introTitle: "Über den Digitalwurzel-Rechner",
 
-    whatTitle: "Was ist ein Digitalwurzel-Rechner?",
-    whatContent: "Ein Digitalwurzel-Rechner hilft Ihnen, jede Zahl durch wiederholtes Addieren ihrer Ziffern auf eine einzelne Ziffer zu reduzieren. Diese letzte Ziffer wird als Digitalwurzel bezeichnet. Wenn Sie beispielsweise mit 456 beginnen, ergibt die Summe der Ziffern 4 + 5 + 6 = 15 und dann 1 + 5 = 6. Das Ergebnis, 6, ist die Digitalwurzel.",
-    whatContent2: "Diese Art von Digitalwurzel-Finder ist hilfreich für schnelle Überprüfungen, das Erlernen des Zahlenverhaltens und das Verständnis grundlegender zahlentheoretischer Konzepte. Er funktioniert mit allen Dezimalzahlen und liefert ein einstelliges Ergebnis, das zugrunde liegende numerische Muster widerspiegelt.",
+      whatTitle: "Was ist ein Digitalwurzel-Rechner?",
+      whatContent: "Ein Digitalwurzel-Rechner hilft Ihnen, jede Zahl durch wiederholtes Addieren ihrer Ziffern auf eine einzelne Ziffer zu reduzieren. Diese letzte Ziffer wird als Digitalwurzel bezeichnet. Wenn Sie beispielsweise mit 456 beginnen, ergibt die Summe der Ziffern 4 + 5 + 6 = 15 und dann 1 + 5 = 6. Das Ergebnis, 6, ist die Digitalwurzel.",
+      whatContent2: "Diese Art von Digitalwurzel-Finder ist hilfreich für schnelle Überprüfungen, das Erlernen des Zahlenverhaltens und das Verständnis grundlegender zahlentheoretischer Konzepte. Er funktioniert mit allen Dezimalzahlen und liefert ein einstelliges Ergebnis, das zugrunde liegende numerische Muster widerspiegelt.",
 
-    understandingTitle: "Wie das Konzept der Digitalwurzel funktioniert",
-    understandingContent: "Die Digitalwurzel basiert auf dem wiederholten Addieren von Ziffern, bis nur noch eine Ziffer übrig bleibt. Dieser Prozess wird auch als numerische Reduktion bezeichnet. Er bildet die Grundlage vieler mathematischer Muster, die bei arithmetischen Prüfungen und im Kopfrechnen verwendet werden.",
-    understandingcontent2: "Hinter dieser Methode steht eine explizite algorithmische Berechnung, die mit der Modulo-Operation verbunden ist, insbesondere mit Modulo 9. Aus diesem Grund erscheinen Digitalwurzeln häufig im Mathematikunterricht, bei Verifikationsschritten und bei arithmetischen Eigenschaften in Bezug auf Summen und Vielfache.",
+      understandingTitle: "Wie das Konzept der Digitalwurzel funktioniert",
+      understandingContent: "Die Digitalwurzel basiert auf dem wiederholten Addieren von Ziffern, bis nur noch eine Ziffer übrig bleibt. Dieser Prozess wird auch als numerische Reduktion bezeichnet. Er bildet die Grundlage vieler mathematischer Muster, die bei arithmetischen Prüfungen und im Kopfrechnen verwendet werden.",
+      understandingcontent2: "Hinter dieser Methode steht eine explizite algorithmische Berechnung, die mit der Modulo-Operation verbunden ist, insbesondere mit Modulo 9. Aus diesem Grund erscheinen Digitalwurzeln häufig im Mathematikunterricht, bei Verifikationsschritten und bei arithmetischen Eigenschaften in Bezug auf Summen und Vielfache.",
 
-    howtitle: "Wie dieser Digitalwurzel-Rechner funktioniert",
-    howcontent: "Dieser Ziffernsummen-Rechner liest die eingegebene Zahl und zerlegt sie in einzelne Ziffern. Anschließend werden die Ziffern addiert. Wenn das Ergebnis mehr als eine Ziffer hat, wiederholt der Rechner den Vorgang, bis eine einzelne Ziffer erreicht ist. Dieser Ansatz macht das Tool sowohl zu einem Rechner für wiederholte Ziffernsummen als auch zu einem digitalen Summenrechner. Er hilft Benutzern zu verstehen, wie sich Zahlen bei der Reduktion verhalten und warum sich bestimmte Summen auf vorhersehbare Weise wiederholen.",
+      howtitle: "Wie dieser Digitalwurzel-Rechner funktioniert",
+      howcontent: "Dieser Ziffernsummen-Rechner liest die eingegebene Zahl und zerlegt sie in einzelne Ziffern. Anschließend werden die Ziffern addiert. Wenn das Ergebnis mehr als eine Ziffer hat, wiederholt der Rechner den Vorgang, bis eine einzelne Ziffer erreicht ist. Dieser Ansatz macht das Tool sowohl zu einem Rechner für wiederholte Ziffernsummen als auch zu einem digitalen Summenrechner. Er hilft Benutzern zu verstehen, wie sich Zahlen bei der Reduktion verhalten und warum sich bestimmte Summen auf vorhersehbare Weise wiederholen.",
 
-    whentousetitle: "Wann und warum man einen Digitalwurzel-Rechner verwenden sollte",
-    whentousecontent: "Ein mathematischer Ziffernrechner ist hilfreich beim Überprüfen von Berechnungen, beim Erlernen von Abkürzungen oder beim Erkunden des Zahlenverhaltens. Digitalwurzeln werden häufig bei grundlegenden Verifikationsschritten, in der Numerologie und bei der Mustererkennung verwendet. Für eine umfassendere zahlenbasierte Problemlösung arbeiten Digitalwurzeln oft mit anderen mathematischen Konzepten zusammen. Sie helfen, Ergebnisse zu bestätigen und unterstützen schnelle Überprüfungen nach komplexen Operationen, sowie Tools wie der",
-    interlink: "Kubikwurzel-Rechner",
+      whentousetitle: "Wann und warum man einen Digitalwurzel-Rechner verwenden sollte",
+      whentousecontent: "Ein mathematischer Ziffernrechner ist hilfreich beim Überprüfen von Berechnungen, beim Erlernen von Abkürzungen oder beim Erkunden des Zahlenverhaltens. Digitalwurzeln werden häufig bei grundlegenden Verifikationsschritten, in der Numerologie und bei der Mustererkennung verwendet. Für eine umfassendere zahlenbasierte Problemlösung arbeiten Digitalwurzeln oft mit anderen mathematischen Konzepten zusammen. Sie helfen, Ergebnisse zu bestätigen und unterstützen schnelle Überprüfungen nach komplexen Operationen, sowie Tools wie der",
+      interlink: "Kubikwurzel-Rechner",
 
-    imageurl: "/Digital-Root-Calculator.jpg",
-    imagealttext: "Digital root calculator",
+      imageurl: "/Digital-Root-Calculator.jpg",
+      imagealttext: "Digital root calculator",
 
-    formulaTitle: "Formel des Digitalwurzel-Rechners",
-    formulasubtitle: "Grundlegende Digitalwurzel-Formel erklärt",
-    formulasubcontent: "Die Digitalwurzel einer Zahl wird durch wiederholtes Addieren ihrer Ziffern ermittelt, bis nur noch eine Ziffer übrig bleibt. Dieser Prozess basiert auf wiederholter Addition und gilt für alle Dezimalzahlen. Das Ziel ist immer ein einstelliges Ergebnis zwischen 1 und 9, es sei denn, die ursprüngliche Zahl ist null. Wenn die Zahl beispielsweise 789 ist, beträgt die Summe der Ziffern 7 + 8 + 9 = 24. Da dieses Ergebnis zwei Ziffern hat, wird der Vorgang als 2 + 4 = 6 wiederholt. Der Endwert 6 ist die Digitalwurzel.",
+      formulaTitle: "Formel des Digitalwurzel-Rechners",
+      formulasubtitle: "Grundlegende Digitalwurzel-Formel erklärt",
+      formulasubcontent: "Die Digitalwurzel einer Zahl wird durch wiederholtes Addieren ihrer Ziffern ermittelt, bis nur noch eine Ziffer übrig bleibt. Dieser Prozess basiert auf wiederholter Addition und gilt für alle Dezimalzahlen. Das Ziel ist immer ein einstelliges Ergebnis zwischen 1 und 9, es sei denn, die ursprüngliche Zahl ist null. Wenn die Zahl beispielsweise 789 ist, beträgt die Summe der Ziffern 7 + 8 + 9 = 24. Da dieses Ergebnis zwei Ziffern hat, wird der Vorgang als 2 + 4 = 6 wiederholt. Der Endwert 6 ist die Digitalwurzel.",
 
-    mainFormulatitle: "Modulo-9-Methode für die Digitalwurzel",
-    mainFormulacontent: "Digitalwurzeln stehen auch in engem Zusammenhang mit der Modulo-Operation, insbesondere mit Modulo 9. In der Zahlentheorie ergibt jede Zahl, die mit Modulo 9 reduziert wird, dasselbe Ergebnis wie ihre Digitalwurzel, außer wenn das Ergebnis neun statt 0 ist.",
-    mainformula: "Digital Root = 1 + (Number − 1) mod 9",
-    mainformulaend: "Diese Methode erklärt, warum sich Digitalwurzeln in Zyklen wiederholen und klare mathematische Muster bilden. Sie zeigt auch, wie Digitalwurzeln mit tieferen arithmetischen Eigenschaften von Zahlen zusammenhängen",
+      mainFormulatitle: "Modulo-9-Methode für die Digitalwurzel",
+      mainFormulacontent: "Digitalwurzeln stehen auch in engem Zusammenhang mit der Modulo-Operation, insbesondere mit Modulo 9. In der Zahlentheorie ergibt jede Zahl, die mit Modulo 9 reduziert wird, dasselbe Ergebnis wie ihre Digitalwurzel, außer wenn das Ergebnis neun statt 0 ist.",
+      mainformula: "Digital Root = 1 + (Number − 1) mod 9",
+      mainformulaend: "Diese Methode erklärt, warum sich Digitalwurzeln in Zyklen wiederholen und klare mathematische Muster bilden. Sie zeigt auch, wie Digitalwurzeln mit tieferen arithmetischen Eigenschaften von Zahlen zusammenhängen",
 
-    stepTitle: "Schritt-für-Schritt-Berechnungslogik des Rechners",
-    stepcontent: "Der Ziffernsummen-Rechner folgt einem zuverlässigen und einfachen Prozess. Zuerst wird die Zahl in einzelne Ziffern zerlegt. Anschließend werden diese addiert. Wenn die Summe mehr als eine Ziffer enthält, wiederholt der Rechner die Addition. Diese algorithmische Berechnung wird fortgesetzt, bis nur noch eine Ziffer übrig bleibt. Da die Schritte klar und fest definiert sind, liefert der Rechner konsistente Ergebnisse für kleine und große Werte",
+      stepTitle: "Schritt-für-Schritt-Berechnungslogik des Rechners",
+      stepcontent: "Der Ziffernsummen-Rechner folgt einem zuverlässigen und einfachen Prozess. Zuerst wird die Zahl in einzelne Ziffern zerlegt. Anschließend werden diese addiert. Wenn die Summe mehr als eine Ziffer enthält, wiederholt der Rechner die Addition. Diese algorithmische Berechnung wird fortgesetzt, bis nur noch eine Ziffer übrig bleibt. Da die Schritte klar und fest definiert sind, liefert der Rechner konsistente Ergebnisse für kleine und große Werte",
 
-    whyformulatitle: "Warum die Formel genaue Ergebnisse liefert",
-    whyformulacontent: "Die Digitalwurzel-Methode funktioniert, weil sie auf stabilen Zahlenregeln und nicht auf Schätzungen beruht. Jeder Schritt folgt einer definierten mathematischen Logik, wodurch das Ergebnis vorhersehbar und zuverlässig ist. Deshalb werden Digitalwurzeln häufig für schnelle Überprüfungen und Validierungsschritte verwendet. Wenn Digitalwurzeln zusammen mit anderen mathematischen Operationen auftreten, helfen sie zu bestätigen, ob frühere Ergebnisse sinnvoll sind. In umfassenderen Arbeitsabläufen können Benutzer Ergebnisse aus potenzbasierten Berechnungen überprüfen und die Analyse dann mit Tools wie dem Kubikwurzel-Rechner fortsetzen.",
+      whyformulatitle: "Warum die Formel genaue Ergebnisse liefert",
+      whyformulacontent: "Die Digitalwurzel-Methode funktioniert, weil sie auf stabilen Zahlenregeln und nicht auf Schätzungen beruht. Jeder Schritt folgt einer definierten mathematischen Logik, wodurch das Ergebnis vorhersehbar und zuverlässig ist. Deshalb werden Digitalwurzeln häufig für schnelle Überprüfungen und Validierungsschritte verwendet. Wenn Digitalwurzeln zusammen mit anderen mathematischen Operationen auftreten, helfen sie zu bestätigen, ob frühere Ergebnisse sinnvoll sind. In umfassenderen Arbeitsabläufen können Benutzer Ergebnisse aus potenzbasierten Berechnungen überprüfen und die Analyse dann mit Tools wie dem Kubikwurzel-Rechner fortsetzen.",
 
-    faqTitle: "Häufig gestellte Fragen",
-    faq: [
-      {
-        q: "Was ist eine Digitalwurzel in einfachen Worten?",
-        a: "Eine Digitalwurzel ist die letzte einzelne Ziffer, die man erhält, nachdem man alle Ziffern einer Zahl immer wieder addiert hat. Dieser Vorgang wird fortgesetzt, bis nur noch eine Ziffer übrig bleibt. Sie hilft, grundlegende Muster in Zahlen zu erkennen und wird häufig für schnelle Überprüfungen verwendet."
-      },
-      {
-        q: "Wie unterscheidet sich die Digitalwurzel von einer normalen Ziffernsumme?",
-        a: "Eine normale Ziffernsumme addiert die Ziffern nur einmal. Eine Digitalwurzel geht weiter, indem sie die Addition wiederholt, bis ein einstelliges Ergebnis erscheint. Dieser zusätzliche Schritt macht sie nützlich für numerische Reduktion und Musteranalyse."
-      },
-      {
-        q: "Funktioniert die Digitalwurzel-Methode auch bei großen Zahlen?",
-        a: "Ja, die Digitalwurzel-Methode funktioniert sowohl für kleine als auch für sehr große Zahlen. Da sie auf algorithmischer Berechnung und festen Regeln basiert, beeinflusst die Größe der Zahl die Genauigkeit nicht. Der Rechner verarbeitet große Eingaben reibungslos."
-      },
-      {
-        q: "Warum wird Modulo 9 bei Digitalwurzel-Berechnungen verwendet?",
-        a: "Digitalwurzeln stehen in engem Zusammenhang mit dem Modulo-9-Rechnerkonzept. In der Zahlentheorie ergibt das Reduzieren einer Zahl mit Modulo 9 in den meisten Fällen dasselbe Ergebnis wie ihre Digitalwurzel. Dies erklärt, warum sich Digitalwurzeln in vorhersehbaren Zyklen wiederholen"
-      },
-      {
-        q: "Werden Digitalwurzeln auch außerhalb der Grundmathematik verwendet?",
-        a: "Ja, Digitalwurzeln kommen in Lernübungen, im Kopfrechnen und in numerologischen Rechner-Methoden vor. Sie helfen auch bei der Überprüfung von Rechenarbeiten und beim Verständnis mathematischer Muster über Zahlen hinweg."
-      },
-      {
-        q: "Kann dieser Digitalwurzel-Rechner mit anderen Mathematik-Tools verwendet werden?",
-        a: "Ja, Digitalwurzeln unterstützen häufig andere Berechnungen, indem sie als schneller Verifikationsschritt dienen. Nach der Arbeit mit Wurzeln, Potenzen oder Gleichungen können Benutzer die Zahlenanalyse mit Tools wie dem Kubikwurzel-Rechner fortsetzen."
-      }
-    ]
-  },
-
-  division: {
-  metaTitle: "Sofortiger Divisionsrechner – In Sekunden lösen",
-  metaDescription: "Lösen Sie Divisionsaufgaben online in Sekunden. Genau, einfach und zuverlässig – nutzen Sie noch heute unseren Divisionsrechner.",
-  title: "Divisionsrechner",
-  desc: "Lösen Sie Divisionsaufgaben online in Sekunden. Genau, einfach und zuverlässig – nutzen Sie noch heute unseren Divisionsrechner.",
-  heading: "Divisionsrechner",
-
-  dividend: "Dividend",
-  divisor: "Divisor",
-
-  result: "Divisionsergebnis",
-
-  resultExplain: "Die Division wird berechnet, indem der Dividend durch den Divisor geteilt wird. Der Divisor darf nicht null sein, da eine Division durch null nicht definiert ist.",
-
-  tocTitle: "Inhaltsverzeichnis",
-  tocwhat: "Was ist ein Divisionsrechner?",
-  tocunderstanding: "Division einfach erklärt",
-  tochow: "Wie der Divisionsrechner funktioniert",
-  tocformula: "Formel des Divisionsrechners",
-  tocfraction: "Methode zur Division von Brüchen",
-  tocresults: "Wie der Rechner genaue Ergebnisse sicherstellt",
-
-  introTitle: "Über den Divisionsrechner",
-
-  whatTitle: "Was ist ein Divisionsrechner?",
-  whatContent: "Ein Divisionsrechner ist ein Werkzeug, das dabei hilft, eine Zahl durch eine andere zu teilen und das Ergebnis übersichtlich anzuzeigen. Die Division ist eine der vier grundlegenden arithmetischen Operationen, die in der alltäglichen Mathematik verwendet werden. Sie beantwortet die Frage, wie oft eine Zahl in eine andere passt.",
-  whatContent2: "Dieser Rechner funktioniert als Zahlen-Divisionsrechner für ganze Zahlen, Dezimalzahlen und Brüche. Er liefert schnelle Ergebnisse bei gleichbleibender mathematischer Genauigkeit und ist daher nützlich für Schüler, Berufstätige und alle, die mit Zahlen arbeiten.",
-
-  understandingTitle: "Division einfach erklärt",
-  understandingContent: "Die Division besteht aus drei Hauptteilen: dem Dividend, dem Divisor und dem Ergebnis. Der Dividend ist die Zahl, die geteilt wird. Der Divisor ist die Zahl, durch die geteilt wird. Das Ergebnis wird Quotient genannt, und manchmal gibt es einen Rest.",
-  understandingcontent2: "Zum Beispiel ergibt die Division von 17 durch 5 einen Quotienten von 3 und einen Rest von 2. Ein Quotientenrechner und ein Restrechner helfen dabei, beide Werte klar darzustellen, insbesondere wenn die Division kein ganzzahliges Ergebnis liefert.",
-
-  howtitle: "Wie der Divisionsrechner funktioniert",
-  howcontent: "Dieses Online-Divisionswerkzeug folgt den standardmäßigen mathematischen Regeln, um korrekte Ergebnisse sicherzustellen. Zuerst überprüft es den Dividend und den Divisor. Anschließend wendet es die passende Divisionsmethode basierend auf dem Eingabetyp an. Für ganze Zahlen kann die schriftliche Division verwendet werden. Für Dezimalzahlen wird die Dezimaldivision durchgeführt. Für Brüche werden die Regeln der Bruchdivision angewendet. Der Rechner verarbeitet jeden Schritt sorgfältig, um eine saubere und zuverlässige numerische Berechnung ohne manuellen Aufwand zu liefern.",
-
-  whentousetitle: "Wann man einen Divisionsrechner verwenden sollte",
-  whentousecontent: "Ein mathematischer Divisionsrechner ist nützlich beim Lösen von Hausaufgaben, beim Überprüfen von Antworten oder beim Arbeiten mit Zahlen aus dem Alltag wie Budgets, Messungen oder Durchschnittswerten. Er hilft, Fehler zu vermeiden, die bei manueller Division auftreten können. Division führt häufig zu dezimalen Ergebnissen, insbesondere wenn der Quotient keine ganze Zahl ist. In solchen Fällen können Benutzer Berechnungen oder Vergleiche mit Tools wie dem ",
-  interlink: "Dezimalrechner.",
-
-  imageurl: "/Division-Calculator.jpg",
-  imagealttext: "Division Calculator",
-
-  formulaTitle: "Formel des Divisionsrechners",
-
-  mainFormulatitle: "Grundlegende Divisionsformel erklärt",
-  mainformula: "Quotient = Dividend ÷ Divisor",
-  mainformulaend: "Der Dividend ist die Zahl, die Sie teilen möchten. Der Divisor ist die Zahl, durch die Sie teilen. Das Ergebnis dieser Operation wird Quotient genannt. Diese Formel bildet die Grundlage aller divisionsbasierten numerischen Berechnungen in der Mathematik. Wenn der Dividend nicht gleichmäßig durch den Divisor teilbar ist, entsteht ein Rest. Dieser Rest zeigt, was nach Abschluss des Divisionsprozesses übrig bleibt.",
-
-  howtoTitle: "Wie die Methode der schriftlichen Division funktioniert",
-  howtocontent: "Die Methode der schriftlichen Division zerlegt die Division in kleine, leicht verständliche Schritte. Zuerst wird der Divisor mit der ersten Ziffer oder Zifferngruppe des Dividenden verglichen. Anschließend wird der Quotient schrittweise aufgebaut, während Zwischenergebnisse subtrahiert werden. Diese Methode hilft, sowohl den Quotienten als auch den Rest klar darzustellen. Ein Rechner für schriftliche Division folgt derselben Logik, führt jedoch jeden Schritt sofort aus, was Fehler reduziert und Zeit spart.",
-
-  whyformulatitle: "Formel der Dezimaldivision",
-  whyformulacontent: "Wenn die Division zu Werten kleiner als eins oder zu nicht ganzzahligen Ergebnissen führt, verwendet der Rechner die Dezimaldivision. Der Prozess bleibt gleich, aber der Quotient setzt sich hinter dem Dezimalpunkt fort. Bei der Dezimaldivision passt der Rechner Dividend und Divisor gleichermaßen an, um Dezimalstellen zu entfernen. Dadurch bleibt die Division genau und die mathematische Genauigkeit während der gesamten Berechnung erhalten.",
-
-  fractiontitle: "Methode zur Division von Brüchen",
-  fractionformula: "Bruchdivision = Erster Bruch × Kehrwert des zweiten Bruchs",
-  fractionformulaend: "Bei der Bruchdivision verwendet der Rechner eine standardmäßige mathematische Regel. Er multipliziert den ersten Bruch mit dem Kehrwert des zweiten Bruchs. Diese Methode ermöglicht es dem Rechner, Bruchwerte reibungslos zu verarbeiten und korrekte Ergebnisse bei komplexen arithmetischen Operationen zu liefern.",
-
-  resultstitle: "Wie der Rechner genaue Ergebnisse sicherstellt",
-  resultscontent: "Der mathematische Divisionsrechner wendet die korrekte Formel basierend auf dem Eingabetyp an. Er prüft, ob die Zahlen eine schriftliche Division, eine Dezimalverarbeitung oder Bruchregeln erfordern. Jeder Schritt folgt einer festen mathematischen Logik, um Konsistenz zu gewährleisten. Divisionsergebnisse führen häufig zu Dezimalwerten. Wenn Benutzer mit diesen Werten weiterarbeiten müssen, können sie diese mithilfe von Tools wie dem Dezimalrechner weiter verfeinern oder umwandeln.",
-
-  faqTitle: "Häufig gestellte Fragen",
-  faq: [
-    {
-      q: "Was macht ein Divisionsrechner?",
-      a: "Ein Divisionsrechner teilt eine Zahl durch eine andere und zeigt das Ergebnis übersichtlich an. Er stellt den Quotienten und bei Bedarf den Rest dar. Dies hilft Benutzern zu verstehen, wie Zahlen bei der Division aufgeteilt werden, ohne manuelle Schritte auszuführen."
+      faqTitle: "Häufig gestellte Fragen",
+      faq: [
+        {
+          q: "Was ist eine Digitalwurzel in einfachen Worten?",
+          a: "Eine Digitalwurzel ist die letzte einzelne Ziffer, die man erhält, nachdem man alle Ziffern einer Zahl immer wieder addiert hat. Dieser Vorgang wird fortgesetzt, bis nur noch eine Ziffer übrig bleibt. Sie hilft, grundlegende Muster in Zahlen zu erkennen und wird häufig für schnelle Überprüfungen verwendet."
+        },
+        {
+          q: "Wie unterscheidet sich die Digitalwurzel von einer normalen Ziffernsumme?",
+          a: "Eine normale Ziffernsumme addiert die Ziffern nur einmal. Eine Digitalwurzel geht weiter, indem sie die Addition wiederholt, bis ein einstelliges Ergebnis erscheint. Dieser zusätzliche Schritt macht sie nützlich für numerische Reduktion und Musteranalyse."
+        },
+        {
+          q: "Funktioniert die Digitalwurzel-Methode auch bei großen Zahlen?",
+          a: "Ja, die Digitalwurzel-Methode funktioniert sowohl für kleine als auch für sehr große Zahlen. Da sie auf algorithmischer Berechnung und festen Regeln basiert, beeinflusst die Größe der Zahl die Genauigkeit nicht. Der Rechner verarbeitet große Eingaben reibungslos."
+        },
+        {
+          q: "Warum wird Modulo 9 bei Digitalwurzel-Berechnungen verwendet?",
+          a: "Digitalwurzeln stehen in engem Zusammenhang mit dem Modulo-9-Rechnerkonzept. In der Zahlentheorie ergibt das Reduzieren einer Zahl mit Modulo 9 in den meisten Fällen dasselbe Ergebnis wie ihre Digitalwurzel. Dies erklärt, warum sich Digitalwurzeln in vorhersehbaren Zyklen wiederholen"
+        },
+        {
+          q: "Werden Digitalwurzeln auch außerhalb der Grundmathematik verwendet?",
+          a: "Ja, Digitalwurzeln kommen in Lernübungen, im Kopfrechnen und in numerologischen Rechner-Methoden vor. Sie helfen auch bei der Überprüfung von Rechenarbeiten und beim Verständnis mathematischer Muster über Zahlen hinweg."
+        },
+        {
+          q: "Kann dieser Digitalwurzel-Rechner mit anderen Mathematik-Tools verwendet werden?",
+          a: "Ja, Digitalwurzeln unterstützen häufig andere Berechnungen, indem sie als schneller Verifikationsschritt dienen. Nach der Arbeit mit Wurzeln, Potenzen oder Gleichungen können Benutzer die Zahlenanalyse mit Tools wie dem Kubikwurzel-Rechner fortsetzen."
+        }
+      ]
     },
-    {
-      q: "Was ist der Unterschied zwischen Quotient und Rest?",
-      a: "Der Quotient ist das Hauptergebnis einer Division. Der Rest ist das, was übrig bleibt, wenn der Dividend nicht gleichmäßig durch den Divisor teilbar ist. Zum Beispiel ergibt die Division von 17 durch 5 einen Quotienten von 3 und einen Rest von 2."
+
+    division: {
+      metaTitle: "Sofortiger Divisionsrechner – In Sekunden lösen",
+      metaDescription: "Lösen Sie Divisionsaufgaben online in Sekunden. Genau, einfach und zuverlässig – nutzen Sie noch heute unseren Divisionsrechner.",
+      title: "Divisionsrechner",
+      desc: "Lösen Sie Divisionsaufgaben online in Sekunden. Genau, einfach und zuverlässig – nutzen Sie noch heute unseren Divisionsrechner.",
+      heading: "Divisionsrechner",
+
+      dividend: "Dividend",
+      divisor: "Divisor",
+
+      result: "Divisionsergebnis",
+
+      resultExplain: "Die Division wird berechnet, indem der Dividend durch den Divisor geteilt wird. Der Divisor darf nicht null sein, da eine Division durch null nicht definiert ist.",
+
+      tocTitle: "Inhaltsverzeichnis",
+      tocwhat: "Was ist ein Divisionsrechner?",
+      tocunderstanding: "Division einfach erklärt",
+      tochow: "Wie der Divisionsrechner funktioniert",
+      tocformula: "Formel des Divisionsrechners",
+      tocfraction: "Methode zur Division von Brüchen",
+      tocresults: "Wie der Rechner genaue Ergebnisse sicherstellt",
+
+      introTitle: "Über den Divisionsrechner",
+
+      whatTitle: "Was ist ein Divisionsrechner?",
+      whatContent: "Ein Divisionsrechner ist ein Werkzeug, das dabei hilft, eine Zahl durch eine andere zu teilen und das Ergebnis übersichtlich anzuzeigen. Die Division ist eine der vier grundlegenden arithmetischen Operationen, die in der alltäglichen Mathematik verwendet werden. Sie beantwortet die Frage, wie oft eine Zahl in eine andere passt.",
+      whatContent2: "Dieser Rechner funktioniert als Zahlen-Divisionsrechner für ganze Zahlen, Dezimalzahlen und Brüche. Er liefert schnelle Ergebnisse bei gleichbleibender mathematischer Genauigkeit und ist daher nützlich für Schüler, Berufstätige und alle, die mit Zahlen arbeiten.",
+
+      understandingTitle: "Division einfach erklärt",
+      understandingContent: "Die Division besteht aus drei Hauptteilen: dem Dividend, dem Divisor und dem Ergebnis. Der Dividend ist die Zahl, die geteilt wird. Der Divisor ist die Zahl, durch die geteilt wird. Das Ergebnis wird Quotient genannt, und manchmal gibt es einen Rest.",
+      understandingcontent2: "Zum Beispiel ergibt die Division von 17 durch 5 einen Quotienten von 3 und einen Rest von 2. Ein Quotientenrechner und ein Restrechner helfen dabei, beide Werte klar darzustellen, insbesondere wenn die Division kein ganzzahliges Ergebnis liefert.",
+
+      howtitle: "Wie der Divisionsrechner funktioniert",
+      howcontent: "Dieses Online-Divisionswerkzeug folgt den standardmäßigen mathematischen Regeln, um korrekte Ergebnisse sicherzustellen. Zuerst überprüft es den Dividend und den Divisor. Anschließend wendet es die passende Divisionsmethode basierend auf dem Eingabetyp an. Für ganze Zahlen kann die schriftliche Division verwendet werden. Für Dezimalzahlen wird die Dezimaldivision durchgeführt. Für Brüche werden die Regeln der Bruchdivision angewendet. Der Rechner verarbeitet jeden Schritt sorgfältig, um eine saubere und zuverlässige numerische Berechnung ohne manuellen Aufwand zu liefern.",
+
+      whentousetitle: "Wann man einen Divisionsrechner verwenden sollte",
+      whentousecontent: "Ein mathematischer Divisionsrechner ist nützlich beim Lösen von Hausaufgaben, beim Überprüfen von Antworten oder beim Arbeiten mit Zahlen aus dem Alltag wie Budgets, Messungen oder Durchschnittswerten. Er hilft, Fehler zu vermeiden, die bei manueller Division auftreten können. Division führt häufig zu dezimalen Ergebnissen, insbesondere wenn der Quotient keine ganze Zahl ist. In solchen Fällen können Benutzer Berechnungen oder Vergleiche mit Tools wie dem ",
+      interlink: "Dezimalrechner.",
+
+      imageurl: "/Division-Calculator.jpg",
+      imagealttext: "Division Calculator",
+
+      formulaTitle: "Formel des Divisionsrechners",
+
+      mainFormulatitle: "Grundlegende Divisionsformel erklärt",
+      mainformula: "Quotient = Dividend ÷ Divisor",
+      mainformulaend: "Der Dividend ist die Zahl, die Sie teilen möchten. Der Divisor ist die Zahl, durch die Sie teilen. Das Ergebnis dieser Operation wird Quotient genannt. Diese Formel bildet die Grundlage aller divisionsbasierten numerischen Berechnungen in der Mathematik. Wenn der Dividend nicht gleichmäßig durch den Divisor teilbar ist, entsteht ein Rest. Dieser Rest zeigt, was nach Abschluss des Divisionsprozesses übrig bleibt.",
+
+      howtoTitle: "Wie die Methode der schriftlichen Division funktioniert",
+      howtocontent: "Die Methode der schriftlichen Division zerlegt die Division in kleine, leicht verständliche Schritte. Zuerst wird der Divisor mit der ersten Ziffer oder Zifferngruppe des Dividenden verglichen. Anschließend wird der Quotient schrittweise aufgebaut, während Zwischenergebnisse subtrahiert werden. Diese Methode hilft, sowohl den Quotienten als auch den Rest klar darzustellen. Ein Rechner für schriftliche Division folgt derselben Logik, führt jedoch jeden Schritt sofort aus, was Fehler reduziert und Zeit spart.",
+
+      whyformulatitle: "Formel der Dezimaldivision",
+      whyformulacontent: "Wenn die Division zu Werten kleiner als eins oder zu nicht ganzzahligen Ergebnissen führt, verwendet der Rechner die Dezimaldivision. Der Prozess bleibt gleich, aber der Quotient setzt sich hinter dem Dezimalpunkt fort. Bei der Dezimaldivision passt der Rechner Dividend und Divisor gleichermaßen an, um Dezimalstellen zu entfernen. Dadurch bleibt die Division genau und die mathematische Genauigkeit während der gesamten Berechnung erhalten.",
+
+      fractiontitle: "Methode zur Division von Brüchen",
+      fractionformula: "Bruchdivision = Erster Bruch × Kehrwert des zweiten Bruchs",
+      fractionformulaend: "Bei der Bruchdivision verwendet der Rechner eine standardmäßige mathematische Regel. Er multipliziert den ersten Bruch mit dem Kehrwert des zweiten Bruchs. Diese Methode ermöglicht es dem Rechner, Bruchwerte reibungslos zu verarbeiten und korrekte Ergebnisse bei komplexen arithmetischen Operationen zu liefern.",
+
+      resultstitle: "Wie der Rechner genaue Ergebnisse sicherstellt",
+      resultscontent: "Der mathematische Divisionsrechner wendet die korrekte Formel basierend auf dem Eingabetyp an. Er prüft, ob die Zahlen eine schriftliche Division, eine Dezimalverarbeitung oder Bruchregeln erfordern. Jeder Schritt folgt einer festen mathematischen Logik, um Konsistenz zu gewährleisten. Divisionsergebnisse führen häufig zu Dezimalwerten. Wenn Benutzer mit diesen Werten weiterarbeiten müssen, können sie diese mithilfe von Tools wie dem Dezimalrechner weiter verfeinern oder umwandeln.",
+
+      faqTitle: "Häufig gestellte Fragen",
+      faq: [
+        {
+          q: "Was macht ein Divisionsrechner?",
+          a: "Ein Divisionsrechner teilt eine Zahl durch eine andere und zeigt das Ergebnis übersichtlich an. Er stellt den Quotienten und bei Bedarf den Rest dar. Dies hilft Benutzern zu verstehen, wie Zahlen bei der Division aufgeteilt werden, ohne manuelle Schritte auszuführen."
+        },
+        {
+          q: "Was ist der Unterschied zwischen Quotient und Rest?",
+          a: "Der Quotient ist das Hauptergebnis einer Division. Der Rest ist das, was übrig bleibt, wenn der Dividend nicht gleichmäßig durch den Divisor teilbar ist. Zum Beispiel ergibt die Division von 17 durch 5 einen Quotienten von 3 und einen Rest von 2."
+        },
+        {
+          q: "Kann dieser Rechner die schriftliche Division durchführen?",
+          a: "Ja, dieser Rechner unterstützt die Methode der schriftlichen Division. Er folgt derselben schrittweisen Logik, die im Mathematikunterricht gelehrt wird, führt die Berechnung jedoch sofort aus und zeigt genaue Ergebnisse an."
+        },
+        {
+          q: "Funktioniert der Rechner mit Dezimalzahlen?",
+          a: "Ja, der Rechner unterstützt die Dezimaldivision. Wenn die Division nicht in einer ganzen Zahl endet, zeigt er Dezimalwerte übersichtlich an und bewahrt dabei in jedem Schritt die mathematische Genauigkeit."
+        },
+        {
+          q: "Kann ich mit diesem Rechner Brüche dividieren?",
+          a: "Ja, der Rechner unterstützt die Division von Brüchen. Er wendet standardmäßige arithmetische Regeln an, um Brüche korrekt zu dividieren, was ihn für Hausaufgaben und praktische Problemlösungen nützlich macht"
+        },
+        {
+          q: "Warum ist die Division in der Grundrechenart wichtig?",
+          a: "Die Division ist ein zentraler Bestandteil der arithmetischen Operationen. Sie hilft beim Aufteilen von Mengen, beim Finden von Durchschnittswerten und beim Lösen realer Probleme in den Bereichen Messung, Finanzen und Datenanalyse."
+        }
+      ]
     },
-    {
-      q: "Kann dieser Rechner die schriftliche Division durchführen?",
-      a: "Ja, dieser Rechner unterstützt die Methode der schriftlichen Division. Er folgt derselben schrittweisen Logik, die im Mathematikunterricht gelehrt wird, führt die Berechnung jedoch sofort aus und zeigt genaue Ergebnisse an."
-    },
-    {
-      q: "Funktioniert der Rechner mit Dezimalzahlen?",
-      a: "Ja, der Rechner unterstützt die Dezimaldivision. Wenn die Division nicht in einer ganzen Zahl endet, zeigt er Dezimalwerte übersichtlich an und bewahrt dabei in jedem Schritt die mathematische Genauigkeit."
-    },
-    {
-      q: "Kann ich mit diesem Rechner Brüche dividieren?",
-      a: "Ja, der Rechner unterstützt die Division von Brüchen. Er wendet standardmäßige arithmetische Regeln an, um Brüche korrekt zu dividieren, was ihn für Hausaufgaben und praktische Problemlösungen nützlich macht"
-    },
-    {
-      q: "Warum ist die Division in der Grundrechenart wichtig?",
-      a: "Die Division ist ein zentraler Bestandteil der arithmetischen Operationen. Sie hilft beim Aufteilen von Mengen, beim Finden von Durchschnittswerten und beim Lösen realer Probleme in den Bereichen Messung, Finanzen und Datenanalyse."
-    }
-  ]
-},
 
 
-decimal: {
+    decimal: {
       metaTitle: "Online-Dezimalrechner – Einfaches Mathematik-Tool",
       metaDescription: "Berechnen Sie Dezimalzahlen sofort mit genauen Ergebnissen. Addieren, subtrahieren, multiplizieren oder dividieren Sie jetzt mit dem Dezimalrechner",
       title: "Dezimalrechner",
@@ -5257,6 +5264,101 @@ decimal: {
         }
       ]
     },
+  },
+
+  sports: {
+
+ batting: {
+  metaTitle: "Schlagdurchschnittsrechner – Überprüfen Sie Ihre Statistiken schnell",
+  metaDescription: "Verfolgen Sie Ihre Schlagleistung sofort. Erhalten Sie klare, genaue Durchschnittswerte mit unserem einfachen Schlagdurchschnittsrechner.",
+  title: "Schlagdurchschnittsrechner",
+  desc: "Verfolgen Sie Ihre Schlagleistung sofort. Erhalten Sie klare, genaue Durchschnittswerte mit unserem einfachen Schlagdurchschnittsrechner.",
+  heading: "Schlagdurchschnittsrechner",
+  hits: "Treffer",
+  atBats: "Schlagversuche",
+  result: "Ergebnis des Schlagdurchschnitts",
+  battingAverage: "Schlagdurchschnitt",
+  resultExplain: "Der Schlagdurchschnitt wird berechnet, indem die Gesamtzahl der Treffer durch die Gesamtzahl der Schlagversuche geteilt wird. Dieser Wert stellt dar, wie oft ein Spieler pro offiziellem Schlagversuch einen Treffer erzielt.",
+  tocTitle: "Inhaltsverzeichnis",
+  tocwhat: "Was ist ein Baseball-Schlagdurchschnittsrechner?",
+  tocunderstanding: "Verständnis des Schlagdurchschnitts im Baseball",
+  tocformula: "Formel des Schlagdurchschnittsrechners",
+  tochowhits: "Wie Treffer und Schlagversuche gezählt werden",
+  tocstepbystep: "Schritt-für-Schritt-Berechnungslogik des Rechners",
+
+  introTitle: "Über den Schlagdurchschnittsrechner",
+  whattitle: "Was ist ein Baseball-Schlagdurchschnittsrechner?",
+  whatContent1: "Ein Baseball-Schlagdurchschnittsrechner hilft dabei zu messen, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt. Im Baseball ist der Schlagdurchschnitt eine der am häufigsten verwendeten Statistiken zur Bewertung der Konstanz eines Schlagmanns. Er zeigt, wie erfolgreich ein Spieler ist, wenn er an die Schlagplatte tritt.",
+  whatContent2: "Dieser Rechner ist für Baseballfans, Spieler und Analysten in den USA konzipiert, die schnelle und genaue Ergebnisse wünschen. Anstelle manueller Berechnungen liefert er einen klaren Schlagdurchschnittswert, der den offiziellen Baseball-Wertungsregeln entspricht.",
+
+  understandingtitle: "Verständnis des Schlagdurchschnitts im Baseball",
+  understandingpara1: "Im Baseball konzentriert sich der Schlagdurchschnitt ausschließlich auf Treffer und Schlagversuche. Spaziergänge, Treffer durch Würfe oder Opfer zählen nicht dazu. Dadurch bleibt die Statistik sauber und auf die tatsächliche Schlagleistung fokussiert.",
+  understandingpara2: "Wenn ein Spieler beispielsweise 30 Treffer in 100 Schlagversuchen erzielt, beträgt der Schlagdurchschnitt .300. Dieses Format erleichtert den Vergleich von Spielern über Teams, Saisons und Ligen hinweg bei der Betrachtung allgemeiner Leistungstrends.",
+
+  howtitle: "Wie der Baseball-Schlagdurchschnittsrechner funktioniert",
+  howpara1: "Dieser Rechner verwendet eine einfache und genaue Methode. Sie geben die Gesamtzahl der Treffer und die Gesamtzahl der Schlagversuche ein. Das Tool teilt die Treffer durch die Schlagversuche und zeigt das Ergebnis als Dezimalwert an, was dem Standardformat im Baseball entspricht.",
+  howpara2: "Da er der offiziellen Wertungslogik folgt, funktioniert der Rechner für Jugend-, Schul-, College- und Profibaseball. Er hilft den Nutzern, Rechenfehler zu vermeiden, und sorgt für eine konsistente Leistungsanalyse.",
+
+  whytitle: "Warum der Schlagdurchschnitt in der Baseballanalyse wichtig ist",
+  whypara1: "Der Schlagdurchschnitt hilft dabei zu zeigen, wie zuverlässig ein Schlagmann im Laufe der Zeit ist. Obwohl er weder Schlagkraft noch Plattendisziplin misst, bleibt er eine zentrale Kennzahl zum Vergleich der Kontaktfähigkeit. Trainer und Analysten betrachten den Schlagdurchschnitt häufig zusammen mit anderen Metriken bei Spiel- und Saisonbewertungen.",
+  whypara2: "In zahlenbasierter Leistungsanalyse werden Durchschnittswerte manchmal mit Validierungen oder Schwellenwertprüfungen während statistischer Überprüfungen kombiniert und durch unterstützende Tools wie den ",
+  whylink: "Magic-Number-Rechner.",
+
+  imageUrl: "/Batting-Average-Calculator.jpg",
+  imageAlt: "Batting Average Calculator",
+
+  formulaTitle: "Formel des Schlagdurchschnittsrechners",
+  formulaIntro: "Im Baseball folgt der Schlagdurchschnitt einer festen und weithin anerkannten Formel. Er misst, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt.",
+  mainFormula: "Schlagdurchschnitt = Treffer ÷ Schlagversuche",
+  mainformulatext: "In dieser Formel sind nur zwei Werte relevant. Treffer umfassen Singles, Doubles, Triples und Home Runs. Schlagversuche umfassen Schlagauftritte, bei denen der Batter eine Schlagchance hat, ausgenommen Spaziergänge, Treffer durch Würfe und Opfer. Dadurch bleibt die Berechnung auf die reine Schlagfähigkeit fokussiert.",
+  howhitsTitle: "Wie Treffer und Schlagversuche gezählt werden",
+  howhitstext1: "Ein Treffer wird gezählt, wenn der Schlagmann die Base sicher erreicht, nachdem er den Ball in faires Gebiet geschlagen hat. Jeder offizielle Schlagversuch gibt dem Spieler eine Gelegenheit, einen Treffer zu erzielen. Spaziergänge und bestimmte andere Ergebnisse zählen nicht als Schlagversuche, weshalb sie den Schlagdurchschnitt nicht beeinflussen.",
+  howhitstext2: "Diese klare Trennung macht den Schlagdurchschnitt zu einem zuverlässigen Indikator für Kontaktkonstanz. Sie vermeidet eine künstliche Erhöhung oder Verringerung der Ergebnisse durch Schlagauftritte, die kein tatsächliches Schlagen beinhalten.",
+  stepTitle: "Schritt-für-Schritt-Berechnungslogik des Rechners",
+  stepList: [
+    "Gesamtzahl der Treffer erfassen",
+    "Gesamtzahl der Schlagversuche erfassen",
+    "Treffer durch Schlagversuche teilen",
+    "Ergebnis als Dezimalwert anzeigen",
+  ],
+  stepEnd: "Zum Beispiel ergeben 45 Treffer geteilt durch 150 Schlagversuche 0.300. Der Rechner formatiert dies korrekt, um der standardmäßigen Darstellung von Baseball-Statistiken zu entsprechen.",
+
+  decimaltitle: "Dezimalformat und Rundung beim Schlagdurchschnitt",
+  decimalcontent1: "Baseball-Schlagdurchschnitte werden als Dezimalzahlen angezeigt und in der Regel auf drei Stellen gerundet. Der Rechner wendet standardmäßige Rundungsregeln an, damit das Ergebnis genau bleibt und den offiziellen Wertungspraktiken entspricht.",
+  decimalcontent2: "Diese Präzision ist wichtig beim Vergleich von Spielern mit ähnlichem Leistungsniveau, insbesondere über lange Saisons hinweg, bei denen kleine Unterschiede bedeutsam sein können.",
+
+  performancetitle: "Verwendung des Schlagdurchschnitts bei der Leistungsbewertung",
+  performancecontent1: "Der Schlagdurchschnitt hilft dabei zu erkennen, wie oft ein Spieler an der Schlagplatte erfolgreich ist, funktioniert jedoch am besten in Kombination mit anderen Kennzahlen. Analysten betrachten ihn häufig zusammen mit On-Base- und Slugging-Werten, um den gesamten offensiven Wert zu verstehen.",
+  performancecontent2: "Während statistischer Überprüfungen sind Durchschnittswerte manchmal Teil umfassenderer numerischer Prüfungen und Schwellenwerte am Ende von Bewertungen, unterstützt durch Tools wie den Magic-Number-Rechner.",
+
+  faqTitle: "Häufig gestellte Fragen",
+  faq: [
+    {
+      q: "Was ist ein Schlagdurchschnitt im Baseball?",
+      a: "Der Schlagdurchschnitt im Baseball zeigt, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt. Er wird berechnet, indem die Gesamtzahl der Treffer durch die Gesamtzahl der Schlagversuche geteilt wird. Das Ergebnis erscheint als Dezimalzahl, z. B. .275 oder .300, was den Vergleich zwischen Spielern einfach und klar macht."
+    },
+    {
+      q: " Was zählt als Treffer im Schlagdurchschnitt?",
+      a: "Ein Treffer umfasst Singles, Doubles, Triples und Home Runs. Jedes Mal, wenn ein Schlagmann die Base sicher erreicht, indem er den Ball in faires Gebiet schlägt, zählt dies als Treffer. Fehler von Feldspielern zählen nicht als Treffer."
+    },
+    {
+      q: "Sind Spaziergänge im Schlagdurchschnitt enthalten?",
+      a: "Nein, Spaziergänge sind nicht enthalten. Spaziergänge zählen weder als Treffer noch als Schlagversuche und haben daher keinen Einfluss auf den Schlagdurchschnitt. Diese Regel hält die Statistik ausschließlich auf den Schlagerfolg fokussiert und nicht auf die Plattendisziplin."
+    },
+    {
+      q: "Wie viele Dezimalstellen werden beim Schlagdurchschnitt verwendet?",
+      a: "Schlagdurchschnitte werden in der Regel mit drei Dezimalstellen angezeigt. Zum Beispiel wird ein berechneter Wert von 0.2865 auf .287 gerundet. Diese Standardformatierung trägt zur Konsistenz über Spielberichte und Spielerstatistiken hinweg bei."
+    },
+    {
+      q: "Reicht der Schlagdurchschnitt aus, um die Leistung eines Schlagmanns zu beurteilen?",
+      a: "Der Schlagdurchschnitt zeigt Konstanz, misst jedoch weder Schlagkraft noch On-Base-Fähigkeit. Trainer und Analysten betrachten ihn häufig zusammen mit anderen Statistiken, um ein vollständigeres Bild der offensiven Leistung über eine Saison hinweg zu erhalten."
+    },
+    {
+      q: "Kann dieser Rechner mit anderen Baseball-Analysewerkzeugen verwendet werden?",
+      a: "Ja, Schlagdurchschnittsberechnungen erscheinen häufig als Teil umfassenderer statistischer Überprüfungen. Nach der Bewertung der Spielerleistung können Analysten zusätzliche zahlenbasierte Prüfungen anwenden, um Muster oder Schwellenwerte am Ende der Analyse mit Tools wie dem Magic-Number-Rechner zu identifizieren."
+    },
+  ]
+},
 
 
   },
