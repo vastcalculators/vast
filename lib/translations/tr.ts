@@ -5320,6 +5320,102 @@ export const trTranslations = {
   ]
 },
 
+magicnumber: {
+  metaTitle: "Sihirli Numara Hesaplayıcı – Numaranızı Keşfedin",
+  metaDescription: "Sihirli numaranızı doğru sonuçlarla anında bulun. Basit, eğlenceli ve hızlı, Sihirli Numara Hesaplayıcısını şimdi kullanın.",
+  title: "Sihirli Numara Hesaplayıcı",
+  desc: "Sihirli numaranızı doğru sonuçlarla anında bulun. Basit, eğlenceli ve hızlı, Sihirli Numara Hesaplayıcısını şimdi kullanın.",
+  heading: "Sihirli Numara Hesaplayıcı",
+
+  totalGames: "Sezondaki Toplam Oyun Sayısı",
+  teamWins: "Takımınızın Kazandığı Oyunlar",
+  opponentLosses: "En Yakın Rakibin Kaybettiği Oyunlar",
+
+  result: "Sihirli Numara Sonucu",
+  magicNumber: "Sihirli Numara",
+
+  resultExplain: "Sihirli numara, playoff veya şampiyonluk için gerekli olan, takımınızın kazandığı oyunlar ve en yakın rakibin kaybettiği oyunların toplamını gösterir. Sezonun toplam oyun sayısı kullanılarak hesaplanır.",
+
+  tocTitle: "İçindekiler",
+  tocwhat: "Beyzbol’da Sihirli Numara Nedir?",
+  tocwhy: "Sihirli Numara Sezon Boyunca Neden Önemlidir",
+  tocformula: "Sihirli Numara Hesaplayıcı Formülü",
+  tocstepbystep: "Adım Adım Örnek Hesaplama",
+  tochow: "Hesaplayıcı Formülü Nasıl Uygular",
+
+  introTitle: "Sihirli Numara Hesaplayıcısı Hakkında",
+  whattitle: "Beyzbol’da Sihirli Numara Nedir?",
+  whatContent1: "Beyzbolda sihirli numara, bir takımın bir bölge şampiyonluğunu kazanma veya playoff için hak kazanma derecesine ne kadar yakın olduğunu gösterir. Bu, takımınızın kazanması gereken oyun sayısı ile en yakın rakibin kaybetmesi gereken oyun sayısının toplamını temsil eder.",
+  whatContent2: "Takımınızın her zaferi sihirli numarayı bir azaltır. Aynı şekilde, en yakın rakibin her kaybı da numarayı bir azaltır. Sihirli numara sıfıra ulaştığında, playoff hakkı veya şampiyonluk matematiksel olarak kesinleşir.",
+
+  understandingtitle: "Sihirli Numara Sezon Boyunca Neden Önemlidir",
+  understandingpara1: "Sihirli numara, takımların, analistlerin ve taraftarların ilerlemeyi sadece sıralamaya bağlı kalmadan takip etmesine yardımcı olur. Tahminleri ortadan kaldırır ve hak kazanmanın resmi olarak gerçekleşmesi için kaç sonuç kaldığını gösterir.",
+  understandingpara2: "Major League Baseball takımları uzun sezonlar oynadığından, sihirli numara yılın sonlarında özellikle önemlidir. Baskı anlarını öne çıkarır ve belirli oyunların sezon bitmeden neden kritik göründüğünü açıklar.",
+
+  howtitle: "Sihirli Numara Hesaplayıcı Nasıl Yardımcı Olur",
+  howpara1: "Sihirli Numara Hesaplayıcı, mevcut sezon verilerini kullanarak bu süreci basitleştirir. Zafer ve mağlubiyetleri manuel olarak takip etmek yerine, kullanıcılar takımınızın kazandığı oyunları ve en yakın rakibin kaybettiği oyunları girerek anında sonuç alabilir.",
+  howpara2: "Bu, maç planlaması, taraftar analizi ve medya tartışmalarında yardımcı olur. Sihirli numaralar genellikle oyuncu ve takım performans metrikleri ile birlikte incelenir ve sezon analizi ayrıca ",
+  howlink: "Vuruş Ortalaması Hesaplayıcısı.",
+
+  imageUrl: "/Magic-Number-Calculator.jpg",
+  imageAlt: "Magic Number Calculator",
+
+  formulaTitle: "Sihirli Numara Hesaplayıcı Formülü",
+  formulaIntro: "Beyzbolda sihirli numara, sezon uzunluğu ve mevcut sıralamaya dayalı sabit bir formül kullanılarak hesaplanır. Bu formül, bir takımın kazanması ve en yakın rakibin kaybetmesi gereken oyunların sayısını gösterir.",
+  mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
+  mainformulatext: "Major League Baseball’da normal sezon toplam oyun sayısı 162’dir. Ek +1, eşitlik durumlarını hesaba katar; bu nedenle birçok açıklamada başlangıç referansı olarak 163 kullanılır.",
+
+  understandingTitle: "Formülün Her Parçasını Anlamak",
+  understandingList: [
+    "Toplam Oyunlar: Normal sezonda planlanan toplam oyun sayısı, genellikle 162",
+    "Takım Kazanımları: Takımınızın kazandığı oyun sayısı",
+    "Rakip Kaybı: En yakın rakip takımın kaybettiği oyun sayısı",
+  ],
+  understandingEnd: "Kazançları ve rakip kayıplarını toplamdan çıkardığınızda, formül hak kazanmanın garanti olabilmesi için kaç belirleyici sonucun kaldığını gösterir.",
+
+  stepTitle: "Adım Adım Örnek Hesaplama",
+  steptext1: "Bir takımın 61 zaferi ve en yakın rakibin 56 mağlubiyeti olduğunu varsayalım. Formülü kullanarak:",
+  stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
+  howhitstext2: "Bu, takımın playoff pozisyonunu güvenceye almak için kendi 46 zaferinin veya rakibin kayıplarının herhangi bir kombinasyonuna ihtiyaç duyduğu anlamına gelir. Her zafer veya mağlubiyet numarayı bir azaltır.",
+
+  howtotitle: "Hesaplayıcı Formülü Nasıl Uygular",
+  howtocontent1: "Sihirli Numara Hesaplayıcı bu süreci otomatikleştirir. Takımınızın mevcut kazançlarını ve rakibin kayıplarını girersiniz. Hesaplayıcı formülü anında uygular ve manuel izleme olmadan sonucu gösterir.",
+  howtocontent2: "Bu yaklaşım, sezonun sonlarında sıralamalar hızlı değiştiğinde hataları önlemeye yardımcı olur. Ayrıca birden fazla takım aynı pozisyon için yarışırken karşılaştırmaları kolaylaştırır.",
+
+  magictitle: "Sihirli Numara ve Diğer Sıralama Ölçütleri",
+  magiccontent1: "Sihirli numara, geçmiş performansa değil, gelecekteki sonuçlara odaklandığı için kazanma yüzdesinden farklıdır. Kazanma yüzdesi, bir takımın şimdiye kadar ne kadar iyi oynadığını gösterir. Sihirli numara, takımın yarışı bitirmeye ne kadar yakın olduğunu gösterir.",
+  magiccontent2: "Bu nedenle, sezon ilerledikçe sihirli numara daha anlamlı hale gelir, özellikle sıkı bölge veya wild card yarışlarında.",
+
+  faqTitle: "Sıkça Sorulan Sorular",
+  faq: [
+    {
+      q: "Beyzbol’da sihirli numara ne anlama gelir?",
+      a: "Beyzbolda sihirli numara, bir takımın bir bölge şampiyonluğunu kazanma veya playoff için hak kazanma derecesine ne kadar yakın olduğunu gösterir. Bu, takımınızın kazandığı oyunlar ile en yakın rakibin kaybetmesi gereken oyunların toplamını temsil eder."
+    },
+    {
+      q: "Sihirli numara neden 163’ten başlar?",
+      a: "MLB takımları 162 normal sezon oyunu oynar. Ek bir oyun, eşitlik kurallarından gelir. Bu nedenle, hesaplamalar sıklıkla sihirli numaranın matematiksel olarak nasıl çalıştığını açıklarken 163 referansını kullanır."
+    },
+    {
+      q: "Sihirli numara her oyundan sonra değişir mi?",
+      a: "Evet, sihirli numara her ilgili oyundan sonra güncellenir. Takımınız kazandığında numara bir azalır. En yakın rakip kaybettiğinde numara da bir azalır. Başka herhangi bir sonuç numarayı değiştirmez."
+    },
+    {
+      q: "Birden fazla rakip varsa sihirli numara nasıl hesaplanır?",
+      a: "Birden fazla takım aynı pozisyon için yarışıyorsa, sihirli numara sıralamada en yakın rakibe göre hesaplanır. Takımlar genellikle konumlarına göre en az kayba sahip rakibe odaklanır."
+    },
+    {
+      q: "Sihirli numara ile kazanma yüzdesi arasındaki fark nedir?",
+      a: "Kazanma yüzdesi geçmiş performansı gösterir. Sihirli numara, bir takımın bir pozisyonu garantilemeden önce kaç belirleyici sonucun kaldığını göstererek geleceğe odaklanır."
+    },
+    {
+      q: "Beyzbol’da trajik sayı nedir?",
+      a: "Trajik sayı, aynı zamanda eleme sayısı olarak da adlandırılır, bir takımın playoff yarışından ne kadar yakın elenmekte olduğunu gösterir. Sihirli sayının tersidir ve takımınızın kayıpları ile rakip kazançlarının toplamının hak kazanma şansını nasıl bitireceğini gösterir."
+    },
+  ]
+},
+
+
   },
 
   footer: {

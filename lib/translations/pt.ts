@@ -5243,7 +5243,7 @@ export const ptTranslations = {
 
   },
 
-sports: {
+  sports: {
 
     batting: {
       metaTitle: "Calcolatore della Media Battuta – Controlla le tue statistiche rapidamente",
@@ -5336,6 +5336,102 @@ sports: {
         },
       ]
     },
+
+    magicnumber: {
+      metaTitle: "Calculadora do Número Mágico – Descubra seu número",
+      metaDescription: "Encontre seu número mágico instantaneamente com resultados precisos. Simples, divertida e rápida, use a Calculadora do Número Mágico agora.",
+      title: "Calculadora do Número Mágico",
+      desc: "Encontre seu número mágico instantaneamente com resultados precisos. Simples, divertida e rápida, use a Calculadora do Número Mágico agora.",
+      heading: "Calculadora do Número Mágico",
+
+      totalGames: "Total de jogos na temporada",
+      teamWins: "Vitórias do seu time",
+      opponentLosses: "Derrotas do adversário mais próximo",
+
+      result: "Resultado do Número Mágico",
+      magicNumber: "Número Mágico",
+
+      resultExplain: "O número mágico mostra quantas vitórias combinadas do seu time e derrotas do adversário mais próximo são necessárias para garantir uma vaga nos playoffs ou um campeonato. Ele é calculado usando o número total de jogos da temporada.",
+
+      tocTitle: "Tabela de conteúdos",
+      tocwhat: "O que é um Número Mágico no beisebol?",
+      tocwhy: "Por que o Número Mágico é importante durante a temporada",
+      tocformula: "Fórmula da Calculadora do Número Mágico",
+      tocstepbystep: "Exemplo de cálculo passo a passo",
+      tochow: "Como a calculadora aplica a fórmula",
+
+      introTitle: "Sobre a Calculadora do Número Mágico",
+      whattitle: "O que é um Número Mágico no beisebol?",
+      whatContent1: "No beisebol, um número mágico mostra o quão perto um time está de conquistar um título de divisão ou garantir uma vaga nos playoffs. Ele representa o número combinado de jogos que seu time precisa vencer e de jogos que o time concorrente mais próximo precisa perder para que a classificação seja garantida.",
+      whatContent2: "Cada vitória do seu time reduz o número mágico em um. Da mesma forma, cada derrota do concorrente mais próximo também o reduz em um. Quando o número mágico chega a zero, a vaga nos playoffs ou o título se tornam matematicamente certos.",
+
+      understandingtitle: "Por que o Número Mágico é importante durante a temporada",
+      understandingpara1: "O número mágico ajuda times, analistas e torcedores a acompanhar o progresso sem depender apenas da classificação. Ele elimina suposições e mostra exatamente quantos resultados ainda faltam antes que a classificação se torne oficial.",
+      understandingpara2: "Como os times da Major League Baseball jogam temporadas longas, o número mágico se torna especialmente importante no final do ano. Ele destaca momentos de pressão e ajuda a explicar por que certos jogos parecem decisivos mesmo antes do fim da temporada.",
+
+      howtitle: "Como a Calculadora do Número Mágico ajuda",
+      howpara1: "A Calculadora do Número Mágico simplifica esse processo usando dados da temporada atual. Em vez de acompanhar vitórias e derrotas manualmente, os usuários podem inserir as vitórias do seu time e as derrotas do adversário mais próximo para obter um resultado instantâneo.",
+      howpara2: "Isso ajuda no planejamento de partidas, na análise dos torcedores e na discussão na mídia. Os números mágicos costumam ser analisados junto com métricas de desempenho de jogadores e equipes, e uma análise mais ampla da temporada também pode envolver ferramentas como a ",
+      howlink: "Calculadora de Média de Rebatidas.",
+
+      imageUrl: "/Magic-Number-Calculator.jpg",
+      imageAlt: "Magic Number Calculator",
+
+      formulaTitle: "Fórmula da Calculadora do Número Mágico",
+      formulaIntro: "O número mágico no beisebol é calculado usando uma fórmula fixa que depende da duração da temporada e da classificação atual. Essa fórmula mostra quantas vitórias combinadas do seu time e derrotas do concorrente mais próximo são necessárias para garantir um título ou uma vaga nos playoffs.",
+      mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
+      mainformulatext: "Na Major League Baseball, o número total de jogos da temporada regular é 162. O +1 adicional considera cenários de desempate, razão pela qual muitas explicações se referem a 163 como ponto de partida.",
+
+      understandingTitle: "Compreendendo cada parte da fórmula",
+      understandingList: [
+        "Total de jogos: O total de jogos programados na temporada regular, geralmente 162",
+        "Vitórias do time: O número de jogos que seu time já venceu",
+        "Derrotas do adversário: O número de jogos que o time concorrente mais próximo perdeu",
+      ],
+      understandingEnd: "Ao subtrair as vitórias e as derrotas do adversário do total, a fórmula mostra quantos resultados decisivos ainda restam antes que a classificação seja garantida.",
+
+      stepTitle: "Exemplo de cálculo passo a passo",
+      steptext1: "Suponha que um time tenha 61 vitórias e que o concorrente mais próximo tenha 56 derrotas. Usando a fórmula:",
+      stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
+      howhitstext2: "Isso significa que o time precisa de qualquer combinação de 46 vitórias próprias ou derrotas do concorrente para garantir a vaga nos playoffs. Cada vitória ou derrota reduz o número em um.",
+
+      howtotitle: "Como a calculadora aplica a fórmula",
+      howtocontent1: "A Calculadora do Número Mágico automatiza esse processo. Você insere as vitórias atuais do seu time e as derrotas do adversário. A calculadora aplica a fórmula instantaneamente e mostra o resultado sem acompanhamento manual.",
+      howtocontent2: "Essa abordagem ajuda a evitar erros no final da temporada, quando as classificações mudam rapidamente. Também facilita comparações quando várias equipes competem pela mesma vaga.",
+
+      magictitle: "Número Mágico vs. outras métricas de classificação",
+      magiccontent1: "O número mágico difere da porcentagem de vitórias porque se concentra em resultados futuros em vez de desempenho passado. A porcentagem de vitórias mostra o quão bem um time jogou até agora. O número mágico mostra o quão perto o time está de concluir a disputa.",
+      magiccontent2: "Por isso, o número mágico se torna mais significativo à medida que a temporada avança, especialmente em disputas apertadas de divisão ou wild card.",
+
+      faqTitle: "Perguntas frequentes",
+      faq: [
+        {
+          q: "O que o número mágico significa no beisebol?",
+          a: "No beisebol, o número mágico mostra o quão perto um time está de garantir um título de divisão ou uma vaga nos playoffs. Ele representa o número combinado de vitórias do seu time e derrotas do concorrente mais próximo necessárias para tornar a classificação certa."
+        },
+        {
+          q: "Por que o número mágico começa em 163?",
+          a: "Os times da Major League Baseball jogam 162 jogos de temporada regular. O um adicional vem das regras de desempate. É por isso que os cálculos frequentemente se referem a 163 ao explicar como o número mágico funciona matematicamente."
+        },
+        {
+          q: "O número mágico muda após cada jogo?",
+          a: "Sim, o número mágico é atualizado após cada jogo relevante. Quando seu time vence, o número diminui em um. Quando o concorrente mais próximo perde, ele também diminui em um. Qualquer outro resultado mantém o número inalterado."
+        },
+        {
+          q: "Como calcular o número mágico com múltiplos concorrentes?",
+          a: "Quando mais de um time compete pela mesma vaga, o número mágico é calculado em relação ao concorrente mais próximo na classificação. Os times geralmente se concentram no adversário com o menor número de derrotas em relação à sua posição."
+        },
+        {
+          q: "Qual é a diferença entre número mágico e porcentagem de vitórias?",
+          a: "A porcentagem de vitórias reflete o desempenho passado mostrando com que frequência um time venceu jogos. O número mágico se concentra em resultados futuros mostrando quantos resultados decisivos ainda restam antes que um time garanta uma vaga."
+        },
+        {
+          q: "O que é um número trágico no beisebol?",
+          a: "Um número trágico, também chamado de número de eliminação, mostra o quão perto um time está de ser eliminado da disputa pelos playoffs. Ele funciona de forma oposta ao número mágico e destaca quantas derrotas combinadas do seu time e vitórias de um concorrente encerrariam as chances de classificação."
+        },
+      ]
+    },
+
 
   },
 

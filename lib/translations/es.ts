@@ -5397,6 +5397,102 @@ export const esTranslations = {
       ]
     },
 
+    magicnumber: {
+      metaTitle: "Calculadora de Número Mágico – Descubre tu número",
+      metaDescription: "Encuentra tu número mágico al instante con resultados precisos. Simple, divertida y rápida, usa ahora la Calculadora de Número Mágico.",
+      title: "Calculadora de Número Mágico",
+      desc: "Encuentra tu número mágico al instante con resultados precisos. Simple, divertida y rápida, usa ahora la Calculadora de Número Mágico.",
+      heading: "Calculadora de Número Mágico",
+
+      totalGames: "Total de juegos en la temporada",
+      teamWins: "Victorias de tu equipo",
+      opponentLosses: "Derrotas del rival más cercano",
+
+      result: "Resultado del Número Mágico",
+      magicNumber: "Número Mágico",
+
+      resultExplain: "El número mágico muestra cuántas victorias combinadas de tu equipo y derrotas del rival más cercano se necesitan para asegurar un lugar en los playoffs o un campeonato. Se calcula usando el número total de juegos de la temporada.",
+
+      tocTitle: "Tabla de contenidos",
+      tocwhat: "¿Qué es un Número Mágico en el béisbol?",
+      tocwhy: "Por qué el Número Mágico importa durante la temporada",
+      tocformula: "Fórmula de la Calculadora de Número Mágico",
+      tocstepbystep: "Ejemplo de cálculo paso a paso",
+      tochow: "Cómo la calculadora aplica la fórmula",
+
+      introTitle: "Sobre la Calculadora de Número Mágico",
+      whattitle: "¿Qué es un Número Mágico en el béisbol?",
+      whatContent1: "En el béisbol, un número mágico muestra qué tan cerca está un equipo de asegurar un título divisional o un lugar en los playoffs. Representa el número combinado de juegos que tu equipo necesita ganar y los juegos que el equipo competidor más cercano necesita perder para que la clasificación esté garantizada.",
+      whatContent2: "Cada victoria de tu equipo reduce el número mágico en uno. De la misma manera, cada derrota del competidor más cercano también lo reduce en uno. Cuando el número mágico llega a cero, el lugar en playoffs o el título se vuelve matemáticamente seguro.",
+
+      understandingtitle: "Por qué el Número Mágico importa durante la temporada",
+      understandingpara1: "El número mágico ayuda a equipos, analistas y aficionados a seguir el progreso sin depender únicamente de la tabla de posiciones. Elimina las conjeturas y muestra exactamente cuántos resultados faltan antes de que la clasificación sea oficial.",
+      understandingpara2: "Debido a que los equipos de las Grandes Ligas juegan temporadas largas, el número mágico se vuelve especialmente importante al final del año. Destaca momentos de presión y ayuda a explicar por qué ciertos juegos se sienten decisivos incluso antes de que termine la temporada.",
+
+      howtitle: "Cómo ayuda la Calculadora de Número Mágico",
+      howpara1: "La Calculadora de Número Mágico simplifica este proceso usando datos actuales de la temporada. En lugar de seguir victorias y derrotas manualmente, los usuarios pueden ingresar las victorias de su equipo y las derrotas del rival más cercano para obtener un resultado instantáneo.",
+      howpara2: "Esto ayuda en la planificación de partidos, el análisis de los aficionados y la discusión en los medios. Los números mágicos a menudo se revisan junto con métricas de rendimiento de jugadores y equipos, y un análisis más amplio de la temporada también puede involucrar herramientas como la ",
+      howlink: "Calculadora de Promedio de Bateo.",
+
+      imageUrl: "/Magic-Number-Calculator.jpg",
+      imageAlt: "Magic Number Calculator",
+
+      formulaTitle: "Fórmula de la Calculadora de Número Mágico",
+      formulaIntro: "El número mágico en el béisbol se calcula usando una fórmula fija que depende de la duración de la temporada y la clasificación actual. Esta fórmula muestra cuántas victorias combinadas de tu equipo y derrotas del competidor más cercano se necesitan para asegurar un título o un lugar en los playoffs.",
+      mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
+      mainformulatext: "En las Grandes Ligas, el número total de juegos de la temporada regular es 162. El +1 adicional tiene en cuenta escenarios de desempate, por lo que muchas explicaciones se refieren a 163 como el punto de partida.",
+
+      understandingTitle: "Comprender cada parte de la fórmula",
+      understandingList: [
+        "Total de juegos: El total de juegos programados en la temporada regular, generalmente 162",
+        "Victorias del equipo: El número de juegos que tu equipo ya ha ganado",
+        "Derrotas del rival: El número de juegos que el equipo competidor más cercano ha perdido",
+      ],
+      understandingEnd: "Al restar las victorias y las derrotas del rival del total, la fórmula muestra cuántos resultados decisivos faltan antes de que la clasificación esté garantizada.",
+
+      stepTitle: "Ejemplo de cálculo paso a paso",
+      steptext1: "Supongamos que un equipo tiene 61 victorias y el competidor más cercano tiene 56 derrotas. Usando la fórmula:",
+      stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
+      howhitstext2: "Esto significa que el equipo necesita cualquier combinación de 46 victorias propias o derrotas del competidor para asegurar la posición de playoffs. Cada victoria o derrota reduce el número en uno.",
+
+      howtotitle: "Cómo la calculadora aplica la fórmula",
+      howtocontent1: "La Calculadora de Número Mágico automatiza este proceso. Ingresas las victorias actuales de tu equipo y las derrotas del rival. La calculadora aplica la fórmula al instante y muestra el resultado sin seguimiento manual.",
+      howtocontent2: "Este enfoque ayuda a evitar errores al final de la temporada cuando las posiciones cambian rápidamente. También facilita las comparaciones cuando varios equipos compiten por el mismo lugar.",
+
+      magictitle: "Número Mágico vs. otras métricas de clasificación",
+      magiccontent1: "El número mágico difiere del porcentaje de victorias porque se enfoca en resultados futuros en lugar del rendimiento pasado. El porcentaje de victorias muestra qué tan bien ha jugado un equipo hasta ahora. El número mágico muestra qué tan cerca está el equipo de terminar la carrera.",
+      magiccontent2: "Por ello, el número mágico se vuelve más significativo a medida que avanza la temporada, especialmente en carreras divisionales ajustadas o de comodín.",
+
+      faqTitle: "Preguntas frecuentes",
+      faq: [
+        {
+          q: "¿Qué significa el número mágico en el béisbol?",
+          a: "En el béisbol, el número mágico muestra qué tan cerca está un equipo de asegurar un título divisional o un lugar en los playoffs. Representa el número combinado de victorias de tu equipo y derrotas del competidor más cercano necesarias para hacer segura la clasificación."
+        },
+        {
+          q: "¿Por qué el número mágico comienza en 163?",
+          a: "Los equipos de las Grandes Ligas juegan 162 juegos de temporada regular. El uno adicional proviene de las reglas de desempate. Por eso los cálculos suelen referirse a 163 al explicar cómo funciona matemáticamente el número mágico."
+        },
+        {
+          q: "¿El número mágico cambia después de cada juego?",
+          a: "Sí, el número mágico se actualiza después de cada juego relevante. Cuando tu equipo gana, el número baja en uno. Cuando el competidor más cercano pierde, también baja en uno. Cualquier otro resultado deja el número sin cambios."
+        },
+        {
+          q: "¿Cómo se calcula el número mágico con múltiples competidores?",
+          a: "Cuando más de un equipo compite por el mismo lugar, el número mágico se calcula contra el competidor más cercano en la clasificación. Los equipos suelen centrarse en el rival con menos derrotas en relación con su posición."
+        },
+        {
+          q: "¿Cuál es la diferencia entre el número mágico y el porcentaje de victorias?",
+          a: "El porcentaje de victorias refleja el rendimiento pasado al mostrar con qué frecuencia un equipo ha ganado juegos. El número mágico se enfoca en resultados futuros al mostrar cuántos resultados decisivos faltan antes de que un equipo asegure un lugar."
+        },
+        {
+          q: "¿Qué es un número trágico en el béisbol?",
+          a: "Un número trágico, también llamado número de eliminación, muestra qué tan cerca está un equipo de ser eliminado de la contienda por los playoffs. Funciona de manera opuesta al número mágico y destaca cuántas derrotas combinadas de tu equipo y victorias de un competidor terminarían las posibilidades de clasificación."
+        },
+      ]
+    },
+
+
   },
 
   footer: {

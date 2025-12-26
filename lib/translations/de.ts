@@ -5268,97 +5268,192 @@ export const deTranslations = {
 
   sports: {
 
- batting: {
-  metaTitle: "Schlagdurchschnittsrechner – Überprüfen Sie Ihre Statistiken schnell",
-  metaDescription: "Verfolgen Sie Ihre Schlagleistung sofort. Erhalten Sie klare, genaue Durchschnittswerte mit unserem einfachen Schlagdurchschnittsrechner.",
-  title: "Schlagdurchschnittsrechner",
-  desc: "Verfolgen Sie Ihre Schlagleistung sofort. Erhalten Sie klare, genaue Durchschnittswerte mit unserem einfachen Schlagdurchschnittsrechner.",
-  heading: "Schlagdurchschnittsrechner",
-  hits: "Treffer",
-  atBats: "Schlagversuche",
-  result: "Ergebnis des Schlagdurchschnitts",
-  battingAverage: "Schlagdurchschnitt",
-  resultExplain: "Der Schlagdurchschnitt wird berechnet, indem die Gesamtzahl der Treffer durch die Gesamtzahl der Schlagversuche geteilt wird. Dieser Wert stellt dar, wie oft ein Spieler pro offiziellem Schlagversuch einen Treffer erzielt.",
-  tocTitle: "Inhaltsverzeichnis",
-  tocwhat: "Was ist ein Baseball-Schlagdurchschnittsrechner?",
-  tocunderstanding: "Verständnis des Schlagdurchschnitts im Baseball",
-  tocformula: "Formel des Schlagdurchschnittsrechners",
-  tochowhits: "Wie Treffer und Schlagversuche gezählt werden",
-  tocstepbystep: "Schritt-für-Schritt-Berechnungslogik des Rechners",
+    batting: {
+      metaTitle: "Schlagdurchschnittsrechner – Überprüfen Sie Ihre Statistiken schnell",
+      metaDescription: "Verfolgen Sie Ihre Schlagleistung sofort. Erhalten Sie klare, genaue Durchschnittswerte mit unserem einfachen Schlagdurchschnittsrechner.",
+      title: "Schlagdurchschnittsrechner",
+      desc: "Verfolgen Sie Ihre Schlagleistung sofort. Erhalten Sie klare, genaue Durchschnittswerte mit unserem einfachen Schlagdurchschnittsrechner.",
+      heading: "Schlagdurchschnittsrechner",
+      hits: "Treffer",
+      atBats: "Schlagversuche",
+      result: "Ergebnis des Schlagdurchschnitts",
+      battingAverage: "Schlagdurchschnitt",
+      resultExplain: "Der Schlagdurchschnitt wird berechnet, indem die Gesamtzahl der Treffer durch die Gesamtzahl der Schlagversuche geteilt wird. Dieser Wert stellt dar, wie oft ein Spieler pro offiziellem Schlagversuch einen Treffer erzielt.",
+      tocTitle: "Inhaltsverzeichnis",
+      tocwhat: "Was ist ein Baseball-Schlagdurchschnittsrechner?",
+      tocunderstanding: "Verständnis des Schlagdurchschnitts im Baseball",
+      tocformula: "Formel des Schlagdurchschnittsrechners",
+      tochowhits: "Wie Treffer und Schlagversuche gezählt werden",
+      tocstepbystep: "Schritt-für-Schritt-Berechnungslogik des Rechners",
 
-  introTitle: "Über den Schlagdurchschnittsrechner",
-  whattitle: "Was ist ein Baseball-Schlagdurchschnittsrechner?",
-  whatContent1: "Ein Baseball-Schlagdurchschnittsrechner hilft dabei zu messen, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt. Im Baseball ist der Schlagdurchschnitt eine der am häufigsten verwendeten Statistiken zur Bewertung der Konstanz eines Schlagmanns. Er zeigt, wie erfolgreich ein Spieler ist, wenn er an die Schlagplatte tritt.",
-  whatContent2: "Dieser Rechner ist für Baseballfans, Spieler und Analysten in den USA konzipiert, die schnelle und genaue Ergebnisse wünschen. Anstelle manueller Berechnungen liefert er einen klaren Schlagdurchschnittswert, der den offiziellen Baseball-Wertungsregeln entspricht.",
+      introTitle: "Über den Schlagdurchschnittsrechner",
+      whattitle: "Was ist ein Baseball-Schlagdurchschnittsrechner?",
+      whatContent1: "Ein Baseball-Schlagdurchschnittsrechner hilft dabei zu messen, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt. Im Baseball ist der Schlagdurchschnitt eine der am häufigsten verwendeten Statistiken zur Bewertung der Konstanz eines Schlagmanns. Er zeigt, wie erfolgreich ein Spieler ist, wenn er an die Schlagplatte tritt.",
+      whatContent2: "Dieser Rechner ist für Baseballfans, Spieler und Analysten in den USA konzipiert, die schnelle und genaue Ergebnisse wünschen. Anstelle manueller Berechnungen liefert er einen klaren Schlagdurchschnittswert, der den offiziellen Baseball-Wertungsregeln entspricht.",
 
-  understandingtitle: "Verständnis des Schlagdurchschnitts im Baseball",
-  understandingpara1: "Im Baseball konzentriert sich der Schlagdurchschnitt ausschließlich auf Treffer und Schlagversuche. Spaziergänge, Treffer durch Würfe oder Opfer zählen nicht dazu. Dadurch bleibt die Statistik sauber und auf die tatsächliche Schlagleistung fokussiert.",
-  understandingpara2: "Wenn ein Spieler beispielsweise 30 Treffer in 100 Schlagversuchen erzielt, beträgt der Schlagdurchschnitt .300. Dieses Format erleichtert den Vergleich von Spielern über Teams, Saisons und Ligen hinweg bei der Betrachtung allgemeiner Leistungstrends.",
+      understandingtitle: "Verständnis des Schlagdurchschnitts im Baseball",
+      understandingpara1: "Im Baseball konzentriert sich der Schlagdurchschnitt ausschließlich auf Treffer und Schlagversuche. Spaziergänge, Treffer durch Würfe oder Opfer zählen nicht dazu. Dadurch bleibt die Statistik sauber und auf die tatsächliche Schlagleistung fokussiert.",
+      understandingpara2: "Wenn ein Spieler beispielsweise 30 Treffer in 100 Schlagversuchen erzielt, beträgt der Schlagdurchschnitt .300. Dieses Format erleichtert den Vergleich von Spielern über Teams, Saisons und Ligen hinweg bei der Betrachtung allgemeiner Leistungstrends.",
 
-  howtitle: "Wie der Baseball-Schlagdurchschnittsrechner funktioniert",
-  howpara1: "Dieser Rechner verwendet eine einfache und genaue Methode. Sie geben die Gesamtzahl der Treffer und die Gesamtzahl der Schlagversuche ein. Das Tool teilt die Treffer durch die Schlagversuche und zeigt das Ergebnis als Dezimalwert an, was dem Standardformat im Baseball entspricht.",
-  howpara2: "Da er der offiziellen Wertungslogik folgt, funktioniert der Rechner für Jugend-, Schul-, College- und Profibaseball. Er hilft den Nutzern, Rechenfehler zu vermeiden, und sorgt für eine konsistente Leistungsanalyse.",
+      howtitle: "Wie der Baseball-Schlagdurchschnittsrechner funktioniert",
+      howpara1: "Dieser Rechner verwendet eine einfache und genaue Methode. Sie geben die Gesamtzahl der Treffer und die Gesamtzahl der Schlagversuche ein. Das Tool teilt die Treffer durch die Schlagversuche und zeigt das Ergebnis als Dezimalwert an, was dem Standardformat im Baseball entspricht.",
+      howpara2: "Da er der offiziellen Wertungslogik folgt, funktioniert der Rechner für Jugend-, Schul-, College- und Profibaseball. Er hilft den Nutzern, Rechenfehler zu vermeiden, und sorgt für eine konsistente Leistungsanalyse.",
 
-  whytitle: "Warum der Schlagdurchschnitt in der Baseballanalyse wichtig ist",
-  whypara1: "Der Schlagdurchschnitt hilft dabei zu zeigen, wie zuverlässig ein Schlagmann im Laufe der Zeit ist. Obwohl er weder Schlagkraft noch Plattendisziplin misst, bleibt er eine zentrale Kennzahl zum Vergleich der Kontaktfähigkeit. Trainer und Analysten betrachten den Schlagdurchschnitt häufig zusammen mit anderen Metriken bei Spiel- und Saisonbewertungen.",
-  whypara2: "In zahlenbasierter Leistungsanalyse werden Durchschnittswerte manchmal mit Validierungen oder Schwellenwertprüfungen während statistischer Überprüfungen kombiniert und durch unterstützende Tools wie den ",
-  whylink: "Magic-Number-Rechner.",
+      whytitle: "Warum der Schlagdurchschnitt in der Baseballanalyse wichtig ist",
+      whypara1: "Der Schlagdurchschnitt hilft dabei zu zeigen, wie zuverlässig ein Schlagmann im Laufe der Zeit ist. Obwohl er weder Schlagkraft noch Plattendisziplin misst, bleibt er eine zentrale Kennzahl zum Vergleich der Kontaktfähigkeit. Trainer und Analysten betrachten den Schlagdurchschnitt häufig zusammen mit anderen Metriken bei Spiel- und Saisonbewertungen.",
+      whypara2: "In zahlenbasierter Leistungsanalyse werden Durchschnittswerte manchmal mit Validierungen oder Schwellenwertprüfungen während statistischer Überprüfungen kombiniert und durch unterstützende Tools wie den ",
+      whylink: "Magic-Number-Rechner.",
 
-  imageUrl: "/Batting-Average-Calculator.jpg",
-  imageAlt: "Batting Average Calculator",
+      imageUrl: "/Batting-Average-Calculator.jpg",
+      imageAlt: "Batting Average Calculator",
 
-  formulaTitle: "Formel des Schlagdurchschnittsrechners",
-  formulaIntro: "Im Baseball folgt der Schlagdurchschnitt einer festen und weithin anerkannten Formel. Er misst, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt.",
-  mainFormula: "Schlagdurchschnitt = Treffer ÷ Schlagversuche",
-  mainformulatext: "In dieser Formel sind nur zwei Werte relevant. Treffer umfassen Singles, Doubles, Triples und Home Runs. Schlagversuche umfassen Schlagauftritte, bei denen der Batter eine Schlagchance hat, ausgenommen Spaziergänge, Treffer durch Würfe und Opfer. Dadurch bleibt die Berechnung auf die reine Schlagfähigkeit fokussiert.",
-  howhitsTitle: "Wie Treffer und Schlagversuche gezählt werden",
-  howhitstext1: "Ein Treffer wird gezählt, wenn der Schlagmann die Base sicher erreicht, nachdem er den Ball in faires Gebiet geschlagen hat. Jeder offizielle Schlagversuch gibt dem Spieler eine Gelegenheit, einen Treffer zu erzielen. Spaziergänge und bestimmte andere Ergebnisse zählen nicht als Schlagversuche, weshalb sie den Schlagdurchschnitt nicht beeinflussen.",
-  howhitstext2: "Diese klare Trennung macht den Schlagdurchschnitt zu einem zuverlässigen Indikator für Kontaktkonstanz. Sie vermeidet eine künstliche Erhöhung oder Verringerung der Ergebnisse durch Schlagauftritte, die kein tatsächliches Schlagen beinhalten.",
-  stepTitle: "Schritt-für-Schritt-Berechnungslogik des Rechners",
-  stepList: [
-    "Gesamtzahl der Treffer erfassen",
-    "Gesamtzahl der Schlagversuche erfassen",
-    "Treffer durch Schlagversuche teilen",
-    "Ergebnis als Dezimalwert anzeigen",
-  ],
-  stepEnd: "Zum Beispiel ergeben 45 Treffer geteilt durch 150 Schlagversuche 0.300. Der Rechner formatiert dies korrekt, um der standardmäßigen Darstellung von Baseball-Statistiken zu entsprechen.",
+      formulaTitle: "Formel des Schlagdurchschnittsrechners",
+      formulaIntro: "Im Baseball folgt der Schlagdurchschnitt einer festen und weithin anerkannten Formel. Er misst, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt.",
+      mainFormula: "Schlagdurchschnitt = Treffer ÷ Schlagversuche",
+      mainformulatext: "In dieser Formel sind nur zwei Werte relevant. Treffer umfassen Singles, Doubles, Triples und Home Runs. Schlagversuche umfassen Schlagauftritte, bei denen der Batter eine Schlagchance hat, ausgenommen Spaziergänge, Treffer durch Würfe und Opfer. Dadurch bleibt die Berechnung auf die reine Schlagfähigkeit fokussiert.",
+      howhitsTitle: "Wie Treffer und Schlagversuche gezählt werden",
+      howhitstext1: "Ein Treffer wird gezählt, wenn der Schlagmann die Base sicher erreicht, nachdem er den Ball in faires Gebiet geschlagen hat. Jeder offizielle Schlagversuch gibt dem Spieler eine Gelegenheit, einen Treffer zu erzielen. Spaziergänge und bestimmte andere Ergebnisse zählen nicht als Schlagversuche, weshalb sie den Schlagdurchschnitt nicht beeinflussen.",
+      howhitstext2: "Diese klare Trennung macht den Schlagdurchschnitt zu einem zuverlässigen Indikator für Kontaktkonstanz. Sie vermeidet eine künstliche Erhöhung oder Verringerung der Ergebnisse durch Schlagauftritte, die kein tatsächliches Schlagen beinhalten.",
+      stepTitle: "Schritt-für-Schritt-Berechnungslogik des Rechners",
+      stepList: [
+        "Gesamtzahl der Treffer erfassen",
+        "Gesamtzahl der Schlagversuche erfassen",
+        "Treffer durch Schlagversuche teilen",
+        "Ergebnis als Dezimalwert anzeigen",
+      ],
+      stepEnd: "Zum Beispiel ergeben 45 Treffer geteilt durch 150 Schlagversuche 0.300. Der Rechner formatiert dies korrekt, um der standardmäßigen Darstellung von Baseball-Statistiken zu entsprechen.",
 
-  decimaltitle: "Dezimalformat und Rundung beim Schlagdurchschnitt",
-  decimalcontent1: "Baseball-Schlagdurchschnitte werden als Dezimalzahlen angezeigt und in der Regel auf drei Stellen gerundet. Der Rechner wendet standardmäßige Rundungsregeln an, damit das Ergebnis genau bleibt und den offiziellen Wertungspraktiken entspricht.",
-  decimalcontent2: "Diese Präzision ist wichtig beim Vergleich von Spielern mit ähnlichem Leistungsniveau, insbesondere über lange Saisons hinweg, bei denen kleine Unterschiede bedeutsam sein können.",
+      decimaltitle: "Dezimalformat und Rundung beim Schlagdurchschnitt",
+      decimalcontent1: "Baseball-Schlagdurchschnitte werden als Dezimalzahlen angezeigt und in der Regel auf drei Stellen gerundet. Der Rechner wendet standardmäßige Rundungsregeln an, damit das Ergebnis genau bleibt und den offiziellen Wertungspraktiken entspricht.",
+      decimalcontent2: "Diese Präzision ist wichtig beim Vergleich von Spielern mit ähnlichem Leistungsniveau, insbesondere über lange Saisons hinweg, bei denen kleine Unterschiede bedeutsam sein können.",
 
-  performancetitle: "Verwendung des Schlagdurchschnitts bei der Leistungsbewertung",
-  performancecontent1: "Der Schlagdurchschnitt hilft dabei zu erkennen, wie oft ein Spieler an der Schlagplatte erfolgreich ist, funktioniert jedoch am besten in Kombination mit anderen Kennzahlen. Analysten betrachten ihn häufig zusammen mit On-Base- und Slugging-Werten, um den gesamten offensiven Wert zu verstehen.",
-  performancecontent2: "Während statistischer Überprüfungen sind Durchschnittswerte manchmal Teil umfassenderer numerischer Prüfungen und Schwellenwerte am Ende von Bewertungen, unterstützt durch Tools wie den Magic-Number-Rechner.",
+      performancetitle: "Verwendung des Schlagdurchschnitts bei der Leistungsbewertung",
+      performancecontent1: "Der Schlagdurchschnitt hilft dabei zu erkennen, wie oft ein Spieler an der Schlagplatte erfolgreich ist, funktioniert jedoch am besten in Kombination mit anderen Kennzahlen. Analysten betrachten ihn häufig zusammen mit On-Base- und Slugging-Werten, um den gesamten offensiven Wert zu verstehen.",
+      performancecontent2: "Während statistischer Überprüfungen sind Durchschnittswerte manchmal Teil umfassenderer numerischer Prüfungen und Schwellenwerte am Ende von Bewertungen, unterstützt durch Tools wie den Magic-Number-Rechner.",
 
-  faqTitle: "Häufig gestellte Fragen",
-  faq: [
-    {
-      q: "Was ist ein Schlagdurchschnitt im Baseball?",
-      a: "Der Schlagdurchschnitt im Baseball zeigt, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt. Er wird berechnet, indem die Gesamtzahl der Treffer durch die Gesamtzahl der Schlagversuche geteilt wird. Das Ergebnis erscheint als Dezimalzahl, z. B. .275 oder .300, was den Vergleich zwischen Spielern einfach und klar macht."
+      faqTitle: "Häufig gestellte Fragen",
+      faq: [
+        {
+          q: "Was ist ein Schlagdurchschnitt im Baseball?",
+          a: "Der Schlagdurchschnitt im Baseball zeigt, wie oft ein Spieler während offizieller Schlagversuche einen Treffer erzielt. Er wird berechnet, indem die Gesamtzahl der Treffer durch die Gesamtzahl der Schlagversuche geteilt wird. Das Ergebnis erscheint als Dezimalzahl, z. B. .275 oder .300, was den Vergleich zwischen Spielern einfach und klar macht."
+        },
+        {
+          q: " Was zählt als Treffer im Schlagdurchschnitt?",
+          a: "Ein Treffer umfasst Singles, Doubles, Triples und Home Runs. Jedes Mal, wenn ein Schlagmann die Base sicher erreicht, indem er den Ball in faires Gebiet schlägt, zählt dies als Treffer. Fehler von Feldspielern zählen nicht als Treffer."
+        },
+        {
+          q: "Sind Spaziergänge im Schlagdurchschnitt enthalten?",
+          a: "Nein, Spaziergänge sind nicht enthalten. Spaziergänge zählen weder als Treffer noch als Schlagversuche und haben daher keinen Einfluss auf den Schlagdurchschnitt. Diese Regel hält die Statistik ausschließlich auf den Schlagerfolg fokussiert und nicht auf die Plattendisziplin."
+        },
+        {
+          q: "Wie viele Dezimalstellen werden beim Schlagdurchschnitt verwendet?",
+          a: "Schlagdurchschnitte werden in der Regel mit drei Dezimalstellen angezeigt. Zum Beispiel wird ein berechneter Wert von 0.2865 auf .287 gerundet. Diese Standardformatierung trägt zur Konsistenz über Spielberichte und Spielerstatistiken hinweg bei."
+        },
+        {
+          q: "Reicht der Schlagdurchschnitt aus, um die Leistung eines Schlagmanns zu beurteilen?",
+          a: "Der Schlagdurchschnitt zeigt Konstanz, misst jedoch weder Schlagkraft noch On-Base-Fähigkeit. Trainer und Analysten betrachten ihn häufig zusammen mit anderen Statistiken, um ein vollständigeres Bild der offensiven Leistung über eine Saison hinweg zu erhalten."
+        },
+        {
+          q: "Kann dieser Rechner mit anderen Baseball-Analysewerkzeugen verwendet werden?",
+          a: "Ja, Schlagdurchschnittsberechnungen erscheinen häufig als Teil umfassenderer statistischer Überprüfungen. Nach der Bewertung der Spielerleistung können Analysten zusätzliche zahlenbasierte Prüfungen anwenden, um Muster oder Schwellenwerte am Ende der Analyse mit Tools wie dem Magic-Number-Rechner zu identifizieren."
+        },
+      ]
     },
-    {
-      q: " Was zählt als Treffer im Schlagdurchschnitt?",
-      a: "Ein Treffer umfasst Singles, Doubles, Triples und Home Runs. Jedes Mal, wenn ein Schlagmann die Base sicher erreicht, indem er den Ball in faires Gebiet schlägt, zählt dies als Treffer. Fehler von Feldspielern zählen nicht als Treffer."
+
+    magicnumber: {
+      metaTitle: "Magic-Number-Rechner – Entdecke deine Zahl",
+      metaDescription: "Finde deine Magic Number sofort mit genauen Ergebnissen. Einfach, unterhaltsam und schnell – nutze jetzt den Magic-Number-Rechner.",
+      title: "Magic-Number-Rechner",
+      desc: "Finde deine Magic Number sofort mit genauen Ergebnissen. Einfach, unterhaltsam und schnell – nutze jetzt den Magic-Number-Rechner.",
+      heading: "Magic-Number-Rechner",
+
+      totalGames: "Gesamtspiele der Saison",
+      teamWins: "Siege deines Teams",
+      opponentLosses: "Niederlagen des nächsten Gegners",
+
+      result: "Magic-Number-Ergebnis",
+      magicNumber: "Magic Number",
+
+      resultExplain: "Die Magic Number zeigt, wie viele kombinierte Siege deines Teams und Niederlagen des nächsten Gegners erforderlich sind, um einen Playoff-Platz oder eine Meisterschaft zu sichern. Sie wird anhand der Gesamtzahl der Saisonspiele berechnet.",
+
+      tocTitle: "Inhaltsverzeichnis",
+      tocwhat: "Was ist eine Magic Number im Baseball?",
+      tocwhy: "Warum die Magic Number während der Saison wichtig ist",
+      tocformula: "Formel des Magic-Number-Rechners",
+      tocstepbystep: "Schritt-für-Schritt-Beispielrechnung",
+      tochow: "Wie der Rechner die Formel anwendet",
+
+      introTitle: "Über den Magic-Number-Rechner",
+      whattitle: "Was ist eine Magic Number im Baseball?",
+      whatContent1: "Im Baseball zeigt eine Magic Number, wie nah ein Team daran ist, einen Divisionstitel zu holen oder sich einen Playoff-Platz zu sichern. Sie stellt die kombinierte Anzahl der Siege dar, die dein Team benötigt, und der Niederlagen, die das nächstgelegene konkurrierende Team braucht, damit die Qualifikation garantiert ist.",
+      whatContent2: "Jeder Sieg deines Teams reduziert die Magic Number um eins. Ebenso reduziert jede Niederlage des nächsten Konkurrenten sie um eins. Wenn die Magic Number null erreicht, ist der Playoff-Platz oder Titel mathematisch sicher.",
+
+      understandingtitle: "Warum die Magic Number während der Saison wichtig ist",
+      understandingpara1: "Die Magic Number hilft Teams, Analysten und Fans, den Fortschritt zu verfolgen, ohne sich nur auf die Tabelle zu verlassen. Sie beseitigt Rätselraten und zeigt genau, wie viele Ergebnisse noch fehlen, bis die Qualifikation offiziell wird.",
+      understandingpara2: "Da Teams der Major League Baseball lange Saisons spielen, wird die Magic Number besonders gegen Ende des Jahres wichtig. Sie hebt Druckmomente hervor und erklärt, warum sich bestimmte Spiele entscheidend anfühlen, noch bevor die Saison endet.",
+
+      howtitle: "Wie der Magic-Number-Rechner hilft",
+      howpara1: "Der Magic-Number-Rechner vereinfacht diesen Prozess durch die Nutzung aktueller Saisondaten. Anstatt Siege und Niederlagen manuell zu verfolgen, können Nutzer die Siege ihres Teams und die Niederlagen des nächsten Gegners eingeben und sofort ein Ergebnis erhalten.",
+      howpara2: "Dies hilft bei Spielplanung, Fan-Analyse und medialer Diskussion. Magic Numbers werden häufig zusammen mit Leistungskennzahlen von Spielern und Teams betrachtet, und eine umfassendere Saisonanalyse kann auch Tools wie den ",
+      howlink: "Batting-Average-Rechner.",
+
+      imageUrl: "/Magic-Number-Calculator.jpg",
+      imageAlt: "Magic Number Calculator",
+
+      formulaTitle: "Formel des Magic-Number-Rechners",
+      formulaIntro: "Die Magic Number im Baseball wird mit einer festen Formel berechnet, die auf der Saisonlänge und dem aktuellen Tabellenstand basiert. Diese Formel zeigt, wie viele kombinierte Siege deines Teams und Niederlagen des nächsten Konkurrenten erforderlich sind, um einen Titel oder Playoff-Platz zu sichern.",
+      mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
+      mainformulatext: "In der Major League Baseball beträgt die Gesamtzahl der regulären Saisonspiele 162. Das zusätzliche +1 berücksichtigt Tie-Breaker-Szenarien, weshalb viele Erklärungen 163 als Ausgangsreferenz nennen.",
+
+      understandingTitle: "Verständnis der einzelnen Teile der Formel",
+      understandingList: [
+        "Gesamtspiele: Die Gesamtzahl der in der regulären Saison angesetzten Spiele, normalerweise 162",
+        "Team-Siege: Die Anzahl der Spiele, die dein Team bereits gewonnen hat",
+        "Niederlagen des Gegners: Die Anzahl der Spiele, die das nächstgelegene konkurrierende Team verloren hat",
+      ],
+      understandingEnd: "Durch das Subtrahieren von Siegen und gegnerischen Niederlagen von der Gesamtzahl zeigt die Formel, wie viele entscheidende Ergebnisse noch fehlen, bevor die Qualifikation garantiert ist.",
+
+      stepTitle: "Schritt-für-Schritt-Beispielrechnung",
+      steptext1: "Angenommen, ein Team hat 61 Siege und der nächste Konkurrent 56 Niederlagen. Mit der Formel:",
+      stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
+      howhitstext2: "Das bedeutet, dass das Team eine beliebige Kombination aus 46 eigenen Siegen oder Niederlagen des Konkurrenten benötigt, um den Playoff-Platz zu sichern. Jeder Sieg oder jede Niederlage reduziert die Zahl um eins.",
+
+      howtotitle: "Wie der Rechner die Formel anwendet",
+      howtocontent1: "Der Magic-Number-Rechner automatisiert diesen Prozess. Du gibst die aktuellen Siege deines Teams und die Niederlagen des Gegners ein. Der Rechner wendet die Formel sofort an und zeigt das Ergebnis ohne manuelle Nachverfolgung.",
+      howtocontent2: "Dieser Ansatz hilft, Fehler am Ende der Saison zu vermeiden, wenn sich die Tabellen schnell ändern. Er erleichtert auch Vergleiche, wenn mehrere Teams um denselben Platz kämpfen.",
+
+      magictitle: "Magic Number vs. andere Tabellenmetriken",
+      magiccontent1: "Die Magic Number unterscheidet sich von der Siegquote, da sie sich auf zukünftige Ergebnisse statt auf vergangene Leistungen konzentriert. Die Siegquote zeigt, wie gut ein Team bisher gespielt hat. Die Magic Number zeigt, wie nah das Team am Abschluss des Rennens ist.",
+      magiccontent2: "Aus diesem Grund wird die Magic Number mit fortschreitender Saison bedeutender, insbesondere bei engen Divisions- oder Wildcard-Rennen.",
+
+      faqTitle: "Häufig gestellte Fragen",
+      faq: [
+        {
+          q: "Was bedeutet die Magic Number im Baseball?",
+          a: "Im Baseball zeigt die Magic Number, wie nah ein Team daran ist, einen Divisionstitel oder einen Playoff-Platz zu sichern. Sie stellt die kombinierte Anzahl der Siege deines Teams und der Niederlagen des nächsten Konkurrenten dar, die erforderlich sind, um die Qualifikation sicher zu machen."
+        },
+        {
+          q: "Warum beginnt die Magic Number bei 163?",
+          a: "Teams der Major League Baseball spielen 162 reguläre Saisonspiele. Die zusätzliche Eins ergibt sich aus Tie-Breaker-Regeln. Deshalb beziehen sich Berechnungen häufig auf 163, wenn erklärt wird, wie die Magic Number mathematisch funktioniert."
+        },
+        {
+          q: "Ändert sich die Magic Number nach jedem Spiel?",
+          a: "Ja, die Magic Number wird nach jedem relevanten Spiel aktualisiert. Wenn dein Team gewinnt, sinkt die Zahl um eins. Wenn der nächste Konkurrent verliert, sinkt sie ebenfalls um eins. Jedes andere Ergebnis lässt die Zahl unverändert."
+        },
+        {
+          q: "Wie berechnet man die Magic Number bei mehreren Konkurrenten?",
+          a: "Wenn mehr als ein Team um denselben Platz kämpft, wird die Magic Number gegen den nächstgelegenen Konkurrenten in der Tabelle berechnet. Teams konzentrieren sich in der Regel auf den Gegner mit den wenigsten Niederlagen relativ zu seiner Position."
+        },
+        {
+          q: "Was ist der Unterschied zwischen einer Magic Number und der Siegquote?",
+          a: "Die Siegquote spiegelt die vergangene Leistung wider, indem sie zeigt, wie oft ein Team Spiele gewonnen hat. Die Magic Number konzentriert sich auf zukünftige Ergebnisse, indem sie zeigt, wie viele entscheidende Resultate noch fehlen, bevor ein Team einen Platz sichert."
+        },
+        {
+          q: "Was ist eine Tragic Number im Baseball?",
+          a: "Eine Tragic Number, auch Eliminationszahl genannt, zeigt, wie nah ein Team daran ist, aus dem Playoff-Rennen ausgeschlossen zu werden. Sie funktioniert entgegengesetzt zur Magic Number und hebt hervor, wie viele kombinierte Niederlagen deines Teams und Siege eines Konkurrenten die Qualifikationschancen beenden würden."
+        },
+      ]
     },
-    {
-      q: "Sind Spaziergänge im Schlagdurchschnitt enthalten?",
-      a: "Nein, Spaziergänge sind nicht enthalten. Spaziergänge zählen weder als Treffer noch als Schlagversuche und haben daher keinen Einfluss auf den Schlagdurchschnitt. Diese Regel hält die Statistik ausschließlich auf den Schlagerfolg fokussiert und nicht auf die Plattendisziplin."
-    },
-    {
-      q: "Wie viele Dezimalstellen werden beim Schlagdurchschnitt verwendet?",
-      a: "Schlagdurchschnitte werden in der Regel mit drei Dezimalstellen angezeigt. Zum Beispiel wird ein berechneter Wert von 0.2865 auf .287 gerundet. Diese Standardformatierung trägt zur Konsistenz über Spielberichte und Spielerstatistiken hinweg bei."
-    },
-    {
-      q: "Reicht der Schlagdurchschnitt aus, um die Leistung eines Schlagmanns zu beurteilen?",
-      a: "Der Schlagdurchschnitt zeigt Konstanz, misst jedoch weder Schlagkraft noch On-Base-Fähigkeit. Trainer und Analysten betrachten ihn häufig zusammen mit anderen Statistiken, um ein vollständigeres Bild der offensiven Leistung über eine Saison hinweg zu erhalten."
-    },
-    {
-      q: "Kann dieser Rechner mit anderen Baseball-Analysewerkzeugen verwendet werden?",
-      a: "Ja, Schlagdurchschnittsberechnungen erscheinen häufig als Teil umfassenderer statistischer Überprüfungen. Nach der Bewertung der Spielerleistung können Analysten zusätzliche zahlenbasierte Prüfungen anwenden, um Muster oder Schwellenwerte am Ende der Analyse mit Tools wie dem Magic-Number-Rechner zu identifizieren."
-    },
-  ]
-},
 
 
   },

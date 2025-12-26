@@ -5354,6 +5354,102 @@ export const itTranslations = {
       ]
     },
 
+    magicnumber: {
+      metaTitle: "Calcolatore del Numero Magico – Scopri il tuo numero",
+      metaDescription: "Trova immediatamente il tuo numero magico con risultati accurati. Semplice, divertente e veloce, usa ora il Calcolatore del Numero Magico.",
+      title: "Calcolatore del Numero Magico",
+      desc: "Trova immediatamente il tuo numero magico con risultati accurati. Semplice, divertente e veloce, usa ora il Calcolatore del Numero Magico.",
+      heading: "Calcolatore del Numero Magico",
+
+      totalGames: "Totale partite della stagione",
+      teamWins: "Vittorie della tua squadra",
+      opponentLosses: "Sconfitte dell'avversario più vicino",
+
+      result: "Risultato del Numero Magico",
+      magicNumber: "Numero Magico",
+
+      resultExplain: "Il numero magico mostra quante vittorie combinate della tua squadra e sconfitte dell'avversario più vicino sono necessarie per assicurare un posto nei playoff o un campionato. Viene calcolato utilizzando il numero totale di partite della stagione.",
+
+      tocTitle: "Indice dei contenuti",
+      tocwhat: "Cos'è il Numero Magico nel baseball?",
+      tocwhy: "Perché il Numero Magico è importante durante la stagione",
+      tocformula: "Formula del Calcolatore del Numero Magico",
+      tocstepbystep: "Esempio di calcolo passo dopo passo",
+      tochow: "Come il calcolatore applica la formula",
+
+      introTitle: "Informazioni sul Calcolatore del Numero Magico",
+      whattitle: "Cos'è il Numero Magico nel baseball?",
+      whatContent1: "Nel baseball, il numero magico mostra quanto una squadra sia vicina a conquistare un titolo di divisione o ad assicurarsi un posto nei playoff. Rappresenta il numero combinato di partite che la tua squadra deve vincere e di partite che la squadra concorrente più vicina deve perdere affinché la qualificazione sia garantita.",
+      whatContent2: "Ogni vittoria della tua squadra riduce il numero magico di uno. Allo stesso modo, ogni sconfitta del concorrente più vicino lo riduce di uno. Quando il numero magico raggiunge zero, il posto nei playoff o il titolo diventano matematicamente certi.",
+
+      understandingtitle: "Perché il Numero Magico è importante durante la stagione",
+      understandingpara1: "Il numero magico aiuta squadre, analisti e tifosi a monitorare i progressi senza fare affidamento esclusivamente sulla classifica. Elimina le supposizioni e mostra esattamente quanti risultati restano prima che la qualificazione diventi ufficiale.",
+      understandingpara2: "Poiché le squadre della Major League Baseball giocano stagioni lunghe, il numero magico diventa particolarmente importante verso la fine dell'anno. Evidenzia i momenti di pressione e aiuta a spiegare perché alcune partite sembrano decisive anche prima della fine della stagione.",
+
+      howtitle: "Come aiuta il Calcolatore del Numero Magico",
+      howpara1: "Il Calcolatore del Numero Magico semplifica questo processo utilizzando i dati della stagione corrente. Invece di tracciare manualmente vittorie e sconfitte, gli utenti possono inserire le vittorie della propria squadra e le sconfitte dell'avversario più vicino per ottenere un risultato immediato.",
+      howpara2: "Questo aiuta nella pianificazione delle partite, nell'analisi dei tifosi e nelle discussioni mediatiche. I numeri magici vengono spesso esaminati insieme alle metriche di prestazione di giocatori e squadre, e un'analisi più ampia della stagione può coinvolgere anche strumenti come il ",
+      howlink: "Calcolatore della media battuta.",
+
+      imageUrl: "/Magic-Number-Calculator.jpg",
+      imageAlt: "Magic Number Calculator",
+
+      formulaTitle: "Formula del Calcolatore del Numero Magico",
+      formulaIntro: "Il numero magico nel baseball viene calcolato utilizzando una formula fissa che si basa sulla durata della stagione e sulla classifica attuale. Questa formula mostra quante vittorie combinate della tua squadra e sconfitte del concorrente più vicino sono necessarie per assicurare un titolo o un posto nei playoff.",
+      mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
+      mainformulatext: "Nella Major League Baseball, il numero totale di partite della stagione regolare è 162. Il +1 aggiuntivo tiene conto degli scenari di spareggio, motivo per cui molte spiegazioni fanno riferimento a 163 come punto di partenza.",
+
+      understandingTitle: "Comprendere ogni parte della formula",
+      understandingList: [
+        "Totale partite: Il numero totale di partite programmate nella stagione regolare, solitamente 162",
+        "Vittorie della squadra: Il numero di partite che la tua squadra ha già vinto",
+        "Sconfitte dell'avversario: Il numero di partite che la squadra concorrente più vicina ha perso",
+      ],
+      understandingEnd: "Sottraendo le vittorie e le sconfitte dell'avversario dal totale, la formula mostra quanti risultati decisivi restano prima che la qualificazione sia garantita.",
+
+      stepTitle: "Esempio di calcolo passo dopo passo",
+      steptext1: "Supponiamo che una squadra abbia 61 vittorie e che il concorrente più vicino abbia 56 sconfitte. Utilizzando la formula:",
+      stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
+      howhitstext2: "Ciò significa che la squadra ha bisogno di qualsiasi combinazione di 46 vittorie proprie o sconfitte del concorrente per assicurarsi il posto nei playoff. Ogni vittoria o sconfitta riduce il numero di uno.",
+
+      howtotitle: "Come il calcolatore applica la formula",
+      howtocontent1: "Il Calcolatore del Numero Magico automatizza questo processo. Inserisci le vittorie attuali della tua squadra e le sconfitte dell'avversario. Il calcolatore applica immediatamente la formula e mostra il risultato senza tracciamento manuale.",
+      howtocontent2: "Questo approccio aiuta a evitare errori alla fine della stagione quando le classifiche cambiano rapidamente. Rende anche più facili i confronti quando più squadre competono per lo stesso posto.",
+
+      magictitle: "Numero Magico vs altre metriche di classifica",
+      magiccontent1: "Il numero magico differisce dalla percentuale di vittorie perché si concentra sui risultati futuri piuttosto che sulle prestazioni passate. La percentuale di vittorie mostra quanto bene una squadra ha giocato finora. Il numero magico mostra quanto la squadra sia vicina a concludere la corsa.",
+      magiccontent2: "Per questo motivo, il numero magico diventa più significativo man mano che la stagione avanza, soprattutto nelle corse serrate di divisione o wild card.",
+
+      faqTitle: "Domande frequenti",
+      faq: [
+        {
+          q: "Cosa significa il numero magico nel baseball?",
+          a: "Nel baseball, il numero magico mostra quanto una squadra sia vicina ad assicurarsi un titolo di divisione o un posto nei playoff. Rappresenta il numero combinato di vittorie della tua squadra e sconfitte del concorrente più vicino necessarie per rendere certa la qualificazione."
+        },
+        {
+          q: "Perché il numero magico inizia da 163?",
+          a: "Le squadre della Major League Baseball giocano 162 partite di stagione regolare. L'una aggiuntiva deriva dalle regole di spareggio. Per questo motivo i calcoli fanno spesso riferimento a 163 quando spiegano come funziona matematicamente il numero magico."
+        },
+        {
+          q: "Il numero magico cambia dopo ogni partita?",
+          a: "Sì, il numero magico si aggiorna dopo ogni partita rilevante. Quando la tua squadra vince, il numero diminuisce di uno. Quando il concorrente più vicino perde, diminuisce anch'esso di uno. Qualsiasi altro risultato lascia il numero invariato."
+        },
+        {
+          q: "Come si calcola il numero magico con più concorrenti?",
+          a: "Quando più di una squadra compete per lo stesso posto, il numero magico viene calcolato rispetto al concorrente più vicino in classifica. Le squadre di solito si concentrano sull'avversario con il minor numero di sconfitte rispetto alla propria posizione."
+        },
+        {
+          q: "Qual è la differenza tra numero magico e percentuale di vittorie?",
+          a: "La percentuale di vittorie riflette le prestazioni passate mostrando quanto spesso una squadra ha vinto le partite. Il numero magico si concentra sui risultati futuri mostrando quanti risultati decisivi restano prima che una squadra assicuri un posto."
+        },
+        {
+          q: "Cos'è un numero tragico nel baseball?",
+          a: "Un numero tragico, chiamato anche numero di eliminazione, mostra quanto una squadra sia vicina a essere eliminata dalla corsa ai playoff. Funziona in modo opposto al numero magico e mette in evidenza quante sconfitte combinate della tua squadra e vittorie di un concorrente porrebbero fine alle possibilità di qualificazione."
+        },
+      ]
+    },
+
+
   },
 
 

@@ -141,4 +141,142 @@ export const sportsCalculators: Calculator[] = [
   ]
 },
 
+{
+  slug: "magic-number-calculator",
+  metaTitleKey: "sports.magicnumber.metaTitle",
+  metaDescriptionKey: "sports.magicnumber.metaDescription",
+  titleKey: "sports.magicnumber.title",
+  category: "Sports",
+  descriptionKey: "sports.magicnumber.desc",
+  heading: "sports.magicnumber.heading",
+  formulaId: "magicnumber",
+
+  inputs: [
+    { 
+      label: "sports.magicnumber.totalGames", 
+      name: "totalGames", 
+      type: "number",
+      placeholder: "Total season games (usually 162)"
+    },
+    { 
+      label: "sports.magicnumber.teamWins", 
+      name: "teamWins", 
+      type: "number",
+      min: 0,
+      placeholder: "Your team's wins"
+    },
+    { 
+      label: "sports.magicnumber.opponentLosses", 
+      name: "opponentLosses", 
+      type: "number",
+      min: 0,
+      placeholder: "Closest opponent's losses"
+    },
+  ],
+
+  result: {
+    label: "sports.magicnumber.result",
+    explainKey: "sports.magicnumber.resultExplain",
+  },
+
+  tocheading: "sports.magicnumber.tocTitle",
+  toc: [
+    { id: "what", labelKey: "sports.magicnumber.tocwhat" },
+    { id: "why", labelKey: "sports.magicnumber.tocwhy" },
+    { id: "formula", labelKey: "sports.magicnumber.tocformula" },
+    { id: "step-by-step", labelKey: "sports.magicnumber.tocstepbystep" },
+    { id: "how-calculator", labelKey: "sports.magicnumber.tochow" },
+  ],
+
+  sections: [
+    {
+      id: "intro",
+      titleKey: "sports.magicnumber.introTitle",
+      subsections: [
+        {
+          id: "what",
+          titleKey: "sports.magicnumber.whattitle",
+          contents: [
+            "sports.magicnumber.whatContent1",
+            "sports.magicnumber.whatContent2",
+          ],
+        },
+        {
+          id: "why",
+          titleKey: "sports.magicnumber.understandingtitle",
+          contents: [
+            "sports.magicnumber.understandingpara1",
+            "sports.magicnumber.understandingpara2",
+          ],
+        },
+        {
+          id: "how-helps",
+          titleKey: "sports.magicnumber.howtitle",
+          contentKey: "sports.magicnumber.howpara1",
+          contentKey2: "sports.magicnumber.howpara2",
+          linkparacontent: "sports.magicnumber.howpara2",
+          linkparaKey: "sports.magicnumber.howlink",
+          linkparaslug: "batting-average-calculator",
+          imageKey: "sports.magicnumber.imageUrl",
+          imageAltKey: "sports.magicnumber.imageAlt",
+        },
+      ]
+    },
+
+    {
+      id: "formula",
+      titleKey: "sports.magicnumber.formulaTitle",
+      introKey: "sports.magicnumber.formulaIntro",
+      subsections: [
+        {
+          id: "main-formula",
+          formulaKey: "sports.magicnumber.mainFormula",
+          type: "formula",
+          endKey: "sports.magicnumber.mainformulatext",
+        },
+        {
+          id: "understanding-parts",
+          titleKey: "sports.magicnumber.understandingTitle",
+          listKey: "sports.magicnumber.understandingList",
+          endKey: "sports.magicnumber.understandingEnd",
+        },
+        {
+          id: "step-by-step",
+          titleKey: "sports.magicnumber.stepTitle",
+          contentKey: "sports.magicnumber.steptext1",
+          formulaKey: "sports.magicnumber.stepformula",
+          type: "formula",
+          endKey: "sports.magicnumber.howhitstext2",
+        },
+        {
+          id: "how-calculator",
+          titleKey: "sports.magicnumber.howtotitle",
+          contents: [
+            "sports.magicnumber.howtocontent1",
+            "sports.magicnumber.howtocontent2",
+          ],
+        },
+        {
+          id: "vs-metrics",
+          titleKey: "sports.magicnumber.magictitle",
+          contents: [
+            "sports.magicnumber.magiccontent1",
+            "sports.magicnumber.magiccontent2",
+          ],
+        },
+      ]
+    },
+  ],
+
+  faqTitleKey: "sports.magicnumber.faqTitle",
+  faqs: [
+    { qKey: "sports.magicnumber.faq.0.q", aKey: "sports.magicnumber.faq.0.a" },
+    { qKey: "sports.magicnumber.faq.1.q", aKey: "sports.magicnumber.faq.1.a" },
+    { qKey: "sports.magicnumber.faq.2.q", aKey: "sports.magicnumber.faq.2.a" },
+    { qKey: "sports.magicnumber.faq.3.q", aKey: "sports.magicnumber.faq.3.a" },
+    { qKey: "sports.magicnumber.faq.4.q", aKey: "sports.magicnumber.faq.4.a" },
+    { qKey: "sports.magicnumber.faq.5.q", aKey: "sports.magicnumber.faq.5.a" },
+  ]
+},
+
 ];

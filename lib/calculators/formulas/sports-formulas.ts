@@ -18,4 +18,27 @@ At-Bats: ${atBats}
 },
 
 
+magicnumber: (inputs: Record<string, any>) => {
+  const totalGames = Number(inputs.totalGames);
+  const teamWins = Number(inputs.teamWins);
+  const opponentLosses = Number(inputs.opponentLosses);
+
+  if (
+    isNaN(totalGames) ||
+    isNaN(teamWins) ||
+    isNaN(opponentLosses) ||
+    totalGames <= 0
+  ) {
+    return "0 | Invalid input";
+  }
+
+  const magicNumber =
+    totalGames + 1 - teamWins - opponentLosses;
+
+  return `
+Magic Number: ${magicNumber}
+  `.trim();
+},
+
+
 };

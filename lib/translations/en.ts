@@ -5405,6 +5405,104 @@ export const enTranslations = {
         },
       ]
     },
+
+    magicnumber: {
+      metaTitle: "Magic Number Calculator – Discover Your Number",
+      metaDescription: "Find your magic number instantly with accurate results. Simple, fun, and fast, use the Magic Number Calculator now.",
+      title: "Magic Number Calculator",
+      desc: "Find your magic number instantly with accurate results. Simple, fun, and fast, use the Magic Number Calculator now.",
+      heading: "Magic Number Calculator",
+
+      totalGames: "Total Games in Season",
+      teamWins: "Your Team Wins",
+      opponentLosses: "Closest Opponent Losses",
+
+      result: "Magic Number Result",
+      magicNumber: "Magic Number",
+
+      resultExplain:"The magic number shows how many combined wins by your team and losses by the closest opponent are needed to clinch a playoff spot or championship. It is calculated using the total number of games in the season.",
+
+
+      tocTitle: "Table of Contents",
+      tocwhat: "What Is a Magic Number in Baseball?",
+      tocwhy: "Why the Magic Number Matters During the Season",
+      tocformula: "Magic Number Calculator Formula",
+      tocstepbystep: "Step-by-Step Example Calculation",
+      tochow: "How the Calculator Applies the Formula",
+
+      introTitle: "About the Magic Number Calculator",
+      whattitle: "What Is a Magic Number in Baseball?",
+      whatContent1: "In baseball, a magic number shows how close a team is to clinching a division title or securing a playoff spot. It represents the combined number of games your team needs to win and games the closest competing team needs to lose for qualification to be guaranteed.",
+      whatContent2: "Every win by your team reduces the magic number by one. In the same way, every loss by the nearest competitor also reduces it by one. When the magic number reaches zero, the playoff spot or title becomes mathematically certain.",
+
+
+      understandingtitle: "Why the Magic Number Matters During the Season",
+      understandingpara1: "The magic number helps teams, analysts, and fans track progress without relying on standings alone. It removes guesswork and shows exactly how many results remain before qualification becomes official.",
+      understandingpara2: "Because Major League Baseball teams play long seasons, the magic number becomes especially important late in the year. It highlights pressure moments and helps explain why certain games feel decisive even before the season ends.",
+
+      howtitle: "How the Magic Number Calculator Helps",
+      howpara1: "The Magic Number Calculator simplifies this process by using current season data. Instead of tracking wins and losses manually, users can enter their team’s wins and the closest opponent’s losses to get an instant result.",
+      howpara2: "This helps with match planning, fan analysis, and media discussion. Magic numbers are often reviewed alongside player and team performance metrics, and broader season analysis may also involve tools like the ",
+      howlink: "Batting Average Calculator.",
+
+      imageUrl: "/Magic-Number-Calculator.jpg",
+      imageAlt: "Magic Number Calculator",
+
+      formulaTitle: "Magic Number Calculator Formula",
+      formulaIntro: "The magic number in baseball is calculated using a fixed formula that relies on season length and current standings. This formula shows how many combined wins by your team and losses by the closest competitor are needed to clinch a title or playoff spot.",
+      mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
+      mainformulatext: "In Major League Baseball, the total number of regular-season games is 162. The extra +1 accounts for tie-breaking scenarios, which is why many explanations refer to 163 as the starting reference.",
+
+      understandingTitle: "Understanding Each Part of the Formula",
+      understandingList: [
+        "Total Games: The total games scheduled in the regular season, usually 162",
+        "Team Wins: The number of games your team has already won",
+        "Opponent Losses: The number of games the closest competing team has lost",
+      ],
+      understandingEnd: "By subtracting wins and opponent losses from the total, the formula shows how many decisive results remain before qualification becomes guaranteed.",
+
+      stepTitle: "Step-by-Step Example Calculation",
+      steptext1: "Assume one team has 61 wins, and the closest competitor has 56 losses. Using the formula:",
+      stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
+      howhitstext2: "This means the team needs any combination of 46 wins by itself or losses by the competitor to secure the playoff position. Each win or loss reduces the number by one.",
+
+      howtotitle: "How the Calculator Applies the Formula",
+      howtocontent1: "The Magic Number Calculator automates this process. You enter your team’s current wins and the opponent’s losses. The calculator applies the formula instantly and shows the result without manual tracking.",
+      howtocontent2: "This approach helps avoid errors late in the season when standings change quickly. It also makes comparisons easier when multiple teams compete for the same spot.",
+
+      magictitle: "Magic Number vs. Other Standings Metrics",
+      magiccontent1: "The magic number differs from winning percentage because it focuses on future outcomes rather than past performance. Winning percentage shows how well a team has played so far. The magic number shows how close the team is to finishing the race.",
+      magiccontent2: "Because of this, the magic number becomes more meaningful as the season progresses, especially in tight division or wild card races.",
+
+
+      faqTitle: "Frequently Asked Questions",
+      faq: [
+        {
+          q: "What does the magic number mean in baseball?",
+          a: "In baseball, the magic number shows how close a team is to clinching a division title or a playoff spot. It represents the combined number of wins by your team and losses by the closest competitor needed to make qualification certain."
+        },
+        {
+          q: "Why does the magic number start from 163?",
+          a: "Major League Baseball teams play 162 regular-season games. The extra one comes from tie-breaking rules. That is why calculations often reference 163 when explaining how the magic number works mathematically."
+        },
+        {
+          q: "Does the magic number change after every game?",
+          a: "Yes, the magic number updates after each relevant game. When your team wins, the number drops by one. When the closest competitor loses, it also drops by one. Any other result leaves the number unchanged."
+        },
+        {
+          q: "How do you calculate the magic number with multiple competitors?",
+          a: "When more than one team competes for the same spot, the magic number is calculated against the closest competitor in the standings. Teams usually focus on the opponent with the fewest losses relative to their position."
+        },
+        {
+          q: "What is the difference between a magic number and winning percentage?",
+          a: "Winning percentage reflects past performance by showing how often a team has won games. The magic number focuses on future outcomes by showing how many decisive results remain before a team clinches a spot."
+        },
+        {
+          q: "What is a tragic number in baseball?",
+          a: "A tragic number, also called an elimination number, shows how close a team is to being eliminated from playoff contention. It works opposite to the magic number and highlights how many combined losses by your team and wins by a competitor would end qualification chances."
+        },
+      ]
+    },
   },
 
   footer: {
