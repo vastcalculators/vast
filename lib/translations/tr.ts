@@ -5415,6 +5415,223 @@ magicnumber: {
   ]
 },
 
+fielding: {
+  metaTitle: "Online Savunma Yüzdesi Hesaplayıcı – Hızlı ve Kolay",
+  metaDescription: "Savunma yüzdenizi saniyeler içinde tam olarak bulun. Kolay girişler, doğru istatistikler, Savunma Yüzdesi Hesaplayıcıyı şimdi kullanın.",
+  title: "Savunma Yüzdesi Hesaplayıcı",
+  desc: "Savunma yüzdenizi saniyeler içinde tam olarak bulun. Kolay girişler, doğru istatistikler, Savunma Yüzdesi Hesaplayıcıyı şimdi kullanın.",
+  heading: "Savunma Yüzdesi Hesaplayıcı",
+
+  putouts: "Outlar",
+  assists: "Asistler",
+  errors: "Hatalar",
+
+  result: "Savunma Yüzdesi",
+
+  resultExplain:
+    "Savunma yüzdesi, outlar ve asistler toplanarak ve bu toplam hatalar dahil tüm savunma şanslarına bölünerek hesaplanır. Bir oyuncunun topu ne kadar güvenilir şekilde savunduğunu gösterir.",
+
+  tocTitle: "İçindekiler",
+  tocwhat: "Savunma Yüzdesi Hesaplayıcı Nedir?",
+  tocwhy: "Beyzbolda Savunma Yüzdesini Anlamak",
+  tocformula: "Savunma Yüzdesi Hesaplayıcı Formülü",
+  tocstepbystep: "Adım Adım Örnek Hesaplama",
+  tochow: "Hesaplayıcı Formülü Nasıl Uygular",
+
+  introTitle: "Savunma Yüzdesi Hesaplayıcı Hakkında",
+  whattitle: "Savunma Yüzdesi Hesaplayıcı Nedir?",
+  whatContent1: "Bir Savunma Yüzdesi Hesaplayıcı, bir beyzbol oyuncusunun savunmada ne kadar iyi performans gösterdiğini ölçmeye yardımcı olur. Savunma yüzdesi, bir oyuncunun hata yapmadan topu ne sıklıkla başarılı şekilde kontrol ettiğini gösterir. Sahadaki güvenilirliği değerlendirmek için beyzbolda kullanılan temel savunma istatistiklerinden biridir.",
+  whatContent2: "Bu beyzbol savunma yüzdesi hesaplayıcı hızlı ve net sonuçlar sunar. Oyuncuların, antrenörlerin ve taraftarların savunma performansını manuel hesaplama yapmadan anlamasına yardımcı olur.",
+
+  understandingtitle: "Beyzbolda Savunma Yüzdesini Anlamak",
+  understandingpara1: "Savunma yüzdesi dört değere dayanır: outlar, asistler, hatalar ve toplam şanslar. Outlar, bir savunma oyuncusunun bir out kaydettiği durumlarda oluşur. Asistler, bir oyuncu bir outun tamamlanmasına yardımcı olduğunda gerçekleşir. Hatalar ise rutin bir oyunun başarıyla tamamlanmadığı durumları kapsar.",
+  understandingpara2: "Toplam şanslar, outlar, asistler ve hataların toplamıdır. Savunma yüzdesi, bu şansların kaçının doğru şekilde değerlendirildiğini gösterir. Bu da onu savunma performansını incelemek için basit ama faydalı bir yöntem yapar.",
+
+  howtitle: "Savunma Yüzdesi Hesaplayıcı Nasıl Çalışır",
+  howpara1: "Hesaplayıcı, girdiğiniz savunma istatistiklerini alır ve standart beyzbol yöntemini uygular. Outlar ve asistleri toplar, ardından bu toplamı genel şanslara böler. Sonuç, bir oyuncunun savunma oyunlarındaki verimliliğini gösterir.",
+  howpara2: "Resmi beyzbol skor kurallarını takip ettiği için, hesaplayıcı maç analizlerinde adil karşılaştırmaları ve oyunlar ile sezonlar boyunca doğru savunma kayıtlarını destekler.",
+  howlink: "Vuruş Ortalaması Hesaplayıcı.",
+
+  whytitle: "Savunma Analizinde Savunma Yüzdesi Neden Önemlidir",
+  whypara1: "Savunma yüzdesi, farklı pozisyonlar ve takımlar arasındaki savunma oyuncularını karşılaştırmaya yardımcı olur. Daha yüksek bir değer genellikle oyunlar sırasında daha az hata yapıldığını gösterir. Alan kapsaması veya tepki hızını ölçmese de, savunma verimliliğini değerlendirmek için temel bir beyzbol metriği olmaya devam eder.",
+  whypara2: "Savunma istatistikleri, performansın tam bir görünümünü elde etmek için genellikle hücum verileriyle birlikte incelenir ve sezon analizleri ayrıca şu gibi araçları da içerebilir:",
+  whylink: "Slugging Yüzdesi Hesaplayıcı.",
+
+  imageUrl: "/Fielding-Percentage-Calculator.jpg",
+  imageAlt: "Fielding Percentage Calculator",
+
+  formulaTitle: "Savunma Yüzdesi Hesaplayıcı Formülü",
+  formulasubtitle: "Beyzbolda Resmi Savunma Yüzdesi Formülü",
+  formulasubIntro: "Beyzbolda savunma yüzdesi açık ve basit bir formülü takip eder. Bir oyuncunun kaç savunma şansını başarıyla değerlendirdiğini ölçer.",
+  mainFormula: "Savunma Yüzdesi = (Outlar + Asistler) ÷ Toplam Şanslar",
+  formulasubtext: "Bu formül yalnızca savunma hareketlerine odaklanır. Vuruş veya atış istatistiklerini içermez. Sonuç, top oyuncuya yöneldiğinde ne kadar güvenilir olduğunu gösterir.",
+
+  whatTitle: "Toplam Şanslar Neleri Kapsar?",
+  whatList: [
+    "Outlar: Bir oyuncunun doğrudan bir out kaydettiği durumlar",
+    "Asistler: Bir oyuncunun bir outun tamamlanmasına yardımcı olduğu durumlar",
+    "Hatalar: Rutin bir oyunun başarıyla tamamlanmadığı durumlar",
+  ],
+  whatEnd: "Bunların toplamı, bir oyuncunun maçlar boyunca savunmada ne sıklıkla test edildiğini gösterir.",
+
+  stepTitle: "Adım Adım Hesaplama Örneği",
+  stepList: [
+    "Outlar: 90",
+    "Asistler: 40",
+    "Hatalar: 5",
+  ],
+  stepformula:
+    "Toplam Şanslar = 90 + 40 + 5 = 135 Savunma Yüzdesi = (90 + 40) ÷ 135 Savunma Yüzdesi = 130 ÷ 135 = 0.963",
+  stepend: "Bu sonuç, oyuncunun savunma şanslarının yaklaşık %96,3’ünü başarıyla değerlendirdiği anlamına gelir.",
+
+  howtotitle: "Hesaplayıcı Formülü Nasıl Uygular",
+  howtocontent1: "Savunma Yüzdesi Hesaplayıcı bu süreci otomatikleştirir. Outları, asistleri ve hataları girersiniz. Hesaplayıcı değerleri toplar, formülü uygular ve sonucu anında gösterir.",
+  howtocontent2: "Bu, hesaplama hatalarını ortadan kaldırır ve savunma analizini net tutar. Ayrıca aynı yöntemi kullanarak oyuncuları maçlar, pozisyonlar ve sezonlar arasında karşılaştırmayı kolaylaştırır.",
+
+  whyformulatitle: "Bu Formül Beyzbolda Neden Kullanılır",
+  whyformulacontent1: "Bu formül basit ve tutarlı olduğu için yaygın olarak kullanılır. Farklı oyuncular ve takımlar arasında savunma performansının adil şekilde karşılaştırılmasına olanak tanır. Bir oyuncunun ne kadar alan kapladığını ölçmese de, savunma istatistiklerinin güvenilir bir parçası olmaya devam eder.",
+  whyformulacontent2: "Resmi skor verilerine dayandığı için, maç analizleri ve uzun vadeli savunma kayıtlarının incelenmesi sırasında doğru değerlendirmeleri destekler.",
+
+  faqTitle: "Sıkça Sorulan Sorular",
+  faq: [
+    {
+      q: "Beyzbolda savunma yüzdesi nedir?",
+      a: "Savunma yüzdesi, bir oyuncunun topu ne sıklıkla başarıyla kontrol ettiğini gösteren bir savunma istatistiğidir. Outlar, asistler ve hatalar dahil olmak üzere başarılı oyunları toplam şanslarla karşılaştırır. Daha yüksek bir yüzde, sahada daha az hata yapıldığını gösterir."
+    },
+    {
+      q: "İyi bir savunma yüzdesi neyi gösterir?",
+      a: "İyi bir savunma yüzdesi genellikle güvenilirliği gösterir. Oyuncunun savunma şanslarının çoğunu outa çevirdiği anlamına gelir. Antrenörler bunu özellikle iç saha oyuncuları ve catcher’lar için tutarlılığı değerlendirmede kullanır."
+    },
+    {
+      q: "Hatalar savunma yüzdesindeki tek olumsuz faktör müdür?",
+      a: "Evet, hatalar savunma yüzdesini düşüren ana faktördür. Her hata, başarılı oyunları artırmadan toplam şansları artırır ve bu da nihai değeri düşürür. Bu yüzden temiz oyun savunmada önemlidir."
+    },
+    {
+      q: "Savunma yüzdesi savunma alanını ölçer mi?",
+      a: "Hayır, savunma yüzdesi bir oyuncunun ne kadar alan kapladığını ölçmez. Sadece ulaştığı topları ne kadar iyi değerlendirdiğini ölçer. Alan kapsaması ve tepki hızı farklı savunma metrikleri gerektirir."
+    },
+    {
+      q: "Savunma yüzdesi pozisyona göre değişebilir mi?",
+      a: "Evet, savunma yüzdesi pozisyona göre değişebilir. Birinci kaleciler ve catcher’lar genellikle daha yüksek yüzdelere sahiptir çünkü sık sık rutin oyunlarla karşılaşırlar. Dış saha oyuncularının daha az şansı olabilir ancak farklı savunma durumlarıyla karşılaşırlar."
+    },
+    {
+      q: "Savunma yüzdesi savunma performansını değerlendirmek için yeterli midir?",
+      a: "Savunma yüzdesi faydalıdır ancak yeterli değildir. Topu kontrol etme becerisini gösterir ancak genel savunma etkisini göstermez. Analistler, oyuncu performansının daha kapsamlı bir görünümü için genellikle diğer savunma istatistikleriyle birlikte kullanır."
+    },
+  ]
+},
+
+slugging: {
+      metaTitle: "Slugging Yüzdesi Hesaplayıcı – Doğru Beyzbol İstatistikleri",
+      metaDescription: "Slugging yüzdesini anında doğru sonuçlarla hesaplayın. Oyuncular ve taraftarlar için mükemmel, hemen hesaplayıcıyı kullanın.",
+      title: "Slugging Yüzdesi Hesaplayıcı",
+      desc: "Slugging yüzdesini anında doğru sonuçlarla hesaplayın. Oyuncular ve taraftarlar için mükemmel, hemen hesaplayıcıyı kullanın.",
+      heading: "Slugging Yüzdesi Hesaplayıcı",
+
+      singles: "Tekli Vuruşlar",
+      doubles: "İkili Vuruşlar",
+      triples: "Üçlü Vuruşlar",
+      homeRuns: "Home Run’lar",
+      atBats: "At-Bats",
+
+      result: "Slugging Yüzdesi",
+      resultExplain: "Slugging yüzdesi, bir oyuncunun at-bat başına kazandığı toplam üs sayısını ölçer. Hesaplama: (Singles + 2×Doubles + 3×Triples + 4×Home Runs) ÷ At-Bats.",
+
+      tocTitle: "İçindekiler",
+      tocwhat: "Slugging Yüzdesi Hesaplayıcı Nedir?",
+      tocwhy: "Beyzbol’da Slugging Yüzdesini Anlamak",
+      tocformula: "Slugging Yüzdesi Hesaplayıcı Formülü",
+      tocstepbystep: "Adım Adım Örnek Hesaplama",
+      tochow: "Hesaplayıcı Formülü Nasıl Uygular",
+
+      introTitle: "Slugging Yüzdesi Hesaplayıcı Hakkında",
+      whattitle: "Slugging Yüzdesi Hesaplayıcı Nedir?",
+      whatContent1: "Slugging Yüzdesi Hesaplayıcı, bir beyzbol oyuncusunun plaktaki gücünü ölçmeye yardımcı olur. Slugging yüzdesi, bir oyuncunun at-bat başına kazandığı toplam üsleri gösterir. Basit ortalamaların aksine, ekstra üs vuruşlarına daha fazla ağırlık verir ve güç vuruşunu değerlendirmek için faydalıdır.",
+      whatContent2: "Bu hesaplayıcı, ham vuruş verilerini tek bir sayıya dönüştürerek net oyuncu analizi sağlar. Antrenörler, analistler ve taraftarlar, bir vuruşçunun güçlü temasla koşu üretme konusunda ne kadar etkili olduğunu anlamak için kullanır.",
+
+      understandingtitle: "Beyzbol’da Slugging Yüzdesini Anlamak",
+      understandingpara1: "Slugging yüzdesi, toplam üsler ve at-bats üzerine odaklanır. Her vuruş türünün farklı bir değeri vardır. Singles, doubles, triples ve home run’lar sayılır, ancak ekstra üs vuruşları toplamı daha fazla artırır. Bu, bir vuruşçunun temasta ne kadar etkili olduğunu gösterir.",
+      understandingpara2: "Vuruş kalitesini yansıttığı için slugging yüzdesi, hücum istatistiklerinin temel bir parçasıdır. İki oyuncunun aynı batting ortalamasına sahip olmasına rağmen oyuna farklı etkiler yapabilmesini açıklar.",
+
+      howtitle: "Slugging Yüzdesi Hesaplayıcı Nasıl Çalışır",
+      howpara1: "Hesaplayıcı resmi beyzbol skor kurallarını kullanır. Bir oyuncunun kaç singles, doubles, triples ve home run’a sahip olduğunu ve toplam at-bats sayısını girersiniz. Araç, toplam üsleri hesaplar ve bunları at-bats ile bölerek slugging yüzdesini üretir.",
+      howpara2: "Bu yöntem sonuçları tutarlı ve oyunlar ile sezonlar arasında karşılaştırmayı kolay hale getirir. Manuel hesaplama hataları olmadan vuruş verimliliğinin doğru bir şekilde incelenmesini sağlar.",
+
+      whytitle: "Performans Değerlendirmesinde Slugging Yüzdesi Neden Önemlidir",
+      whypara1: "Slugging yüzdesi, bir oyuncunun güç vuruşu yapabilme yeteneğini vurgular. Maç istatistikleri incelemelerinde hücum katkısını anlamak için diğer beyzbol metrikleriyle birlikte sıkça kullanılır.",
+      whypara2: "Bir oyuncuyu dengeli değerlendirmek için, hücum gücü istatistikleri genellikle savunma değerlendirme araçlarıyla birlikte dikkate alınır, örneğin",
+      whylink: "Fielding Yüzdesi Hesaplayıcı.",
+
+      imageUrl: "/Slugging-Percentage-Calculator.jpg",
+      imageAlt: "Slugging-Percentage-Calculator",
+
+      formulaTitle: "Slugging Yüzdesi Hesaplayıcı Formülü",
+      formulasubtitle: "Beyzbol’da Resmi Slugging Yüzdesi Formülü",
+      formulasubIntro: "Slugging yüzdesi, bir oyuncunun vuruşlarla üs kazanma yeteneğine odaklanan açık bir formülü takip eder. Sadece temas değil, güç ölçer.",
+      mainFormula: "Slugging Yüzdesi = Toplam Üsler ÷ At-Bats",
+      formulasubtext: "Bu formül, ekstra üs vuruşlarına daha fazla değer verir; bu yüzden basit vuruş sıklığından ziyade güç perspektifinden batting performansını değerlendirmek için kullanılır.",
+
+      whatTitle: "Toplam Üsler Nasıl Hesaplanır",
+      whatList: [
+        "Single = 1 üs",
+        "Double = 2 üs",
+        "Triple = 3 üs",
+        "Home run = 4 üs",
+      ],
+      whatEnd: "Toplam üsleri bulmak için her vuruş türünü baz değer ile çarpın ve ardından sonuçları toplayın. Bu yöntem, oyunlar sırasında güç vuruşunun etkisini vurgular.",
+
+      roleformulatitle: "Formülde At-Bats’in Rolü",
+      roleformulacontent1: "Slugging yüzdesi hesaplamalarında yalnızca at-bats kullanılır. Walk, hit-by-pitch ve sacrifices dahil edilmez. Bu, formülün gerçek vuruş sonuçlarına odaklanmasını sağlar.",
+      roleformulacontent2: "Sadece at-bats kullanarak, slugging yüzdesi bir vuruşçunun gerçek bir şansı olduğunda ne kadar üretken olduğunu yansıtır.",
+
+      stepTitle: "Adım Adım Hesaplama Örneği",
+      stepList: [
+        "Singles: 20",
+        "Doubles: 10",
+        "Triples: 2",
+        "Home runs: 8",
+        "At-bats: 160",
+      ],
+      stepformula: "Toplam üsler = (20 × 1) + (10 × 2) + (2 × 3) + (8 × 4)  Toplam üsler = 20 + 20 + 6 + 32 = 78 Slugging Yüzdesi = 78 ÷ 160 = 0.488",
+      stepend: "Bu sonuç, özellikle ekstra üs üretiminde yüksek vuruş verimliliğini gösterir.",
+
+      howtotitle: "Hesaplayıcı Formülü Nasıl Uygular",
+      howtocontent1: "Slugging Yüzdesi Hesaplayıcı bu süreci otomatikleştirir. Vuruş toplamlarını ve at-bats’i girersiniz, hesaplayıcı baz değerlerini ve bölmeyi otomatik olarak yönetir.",
+      howtocontent2: "Bu, manuel hataları ortadan kaldırır ve farklı oyunlar, sezonlar ve rekabet seviyeleri arasında doğru oyuncu analizi sağlar.",
+
+      whytotitle: "Bu Formül Beyzbol Metriklerinde Neden Önemlidir",
+      whytocontent1: "Slugging yüzdesi, temas vuruşçularını güç vuruşçulardan ayırmaya yardımcı olur. İki oyuncunun batting ortalaması aynı olabilir, ancak daha fazla ekstra üs vuruşu olan oyuncunun slugging yüzdesi daha yüksek olur.",
+      whytocontent2: "Bu nedenle slugging yüzdesi, scouting, koçluk kararları ve maç istatistiklerinin değerlendirilmesinde kullanılan temel bir metrik olmaya devam eder.",
+
+      faqTitle: "Sıkça Sorulan Sorular",
+      faq: [
+        {
+          q: "Beyzbol’da slugging yüzdesi nedir?",
+          a: "Slugging yüzdesi, bir oyuncunun at-bat başına kazandığı toplam üsleri gösteren bir hücum istatistiğidir. Ekstra üs vuruşlarına daha fazla değer verir ve sadece temas değil, gücü ölçmeye yardımcı olur."
+        },
+        {
+          q: "Slugging yüzdesi batting ortalamasından nasıl farklıdır?",
+          a: "Batting ortalaması bir oyuncunun ne sıklıkla vuruş yaptığını sayar. Slugging yüzdesi, bu vuruşların ne kadar güçlü olduğunu göstererek daha ileri gider. Bir home run, bir singleden daha fazla slugging yüzdesini etkiler."
+        },
+        {
+          q: "Walk’lar slugging yüzdesine dahil edilir mi?",
+          a: "Hayır, walk’lar dahil edilmez. Slugging yüzdesi yalnızca vuruşları ve at-bats’i kullanır. Bu, dikkati gerçek vuruş sonuçlarına odaklar."
+        },
+        {
+          q: "Slugging yüzdesinde ekstra üs vuruşları neden önemlidir?",
+          a: "Duplar, tripler ve home run’lar gibi ekstra üs vuruşları toplam üsleri hızla artırır. Güç vuruşunu gösterir ve bir oyuncunun oyunu tek bir vuruşla değiştirme yeteneğini açıklar."
+        },
+        {
+          q: "İyi bir slugging yüzdesi nedir?",
+          a: "Yaklaşık .400 slugging yüzdesi genellikle ortalama olarak kabul edilir. .500’ün üzerindeki değerler genellikle güçlü vuruşçuları gösterir. Kesin anlam lig ve sezon bağlamına göre değişebilir."
+        },
+        {
+          q: "Slugging yüzdesi bir vuruşçuyu değerlendirmek için yeterli mi?",
+          a: "Slugging yüzdesi önemlidir, ancak her şeyi göstermez. Walk veya base-on skills ölçmez. Analistler genellikle bunu diğer beyzbol metrikleriyle birleştirirler ve vuruş performansının tam bir görünümünü elde ederler."
+        },
+      ]
+    }
+
 
   },
 

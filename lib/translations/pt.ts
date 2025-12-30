@@ -5432,6 +5432,225 @@ export const ptTranslations = {
       ]
     },
 
+    fielding: {
+  metaTitle: "Calculadora de Percentual de Defesa Online – Rápida e Precisa",
+  metaDescription: "Calcule o seu percentual de defesa exato em segundos. Insira os dados facilmente e obtenha estatísticas confiáveis com a Calculadora de Percentual de Defesa.",
+  title: "Calculadora de Percentual de Defesa",
+  desc: "Calcule o seu percentual de defesa exato em segundos. Insira os dados facilmente e obtenha estatísticas confiáveis com a Calculadora de Percentual de Defesa.",
+  heading: "Calculadora de Percentual de Defesa",
+
+  putouts: "Eliminações",
+  assists: "Assistências",
+  errors: "Erros",
+
+  result: "Percentual de Defesa",
+
+  resultExplain:
+    "O percentual de defesa é calculado somando eliminações e assistências e dividindo pelo total de chances defensivas, incluindo erros. Ele mostra o quão confiável um jogador é defensivamente.",
+
+  tocTitle: "Índice",
+  tocwhat: "O que é uma Calculadora de Percentual de Defesa?",
+  tocwhy: "Entendendo o Percentual de Defesa no Beisebol",
+  tocformula: "Fórmula do Percentual de Defesa",
+  tocstepbystep: "Exemplo de Cálculo Passo a Passo",
+  tochow: "Como a Calculadora Aplica a Fórmula",
+
+  introTitle: "Sobre a Calculadora de Percentual de Defesa",
+  whattitle: "O que é uma Calculadora de Percentual de Defesa?",
+  whatContent1: "Uma Calculadora de Percentual de Defesa ajuda a medir o desempenho defensivo de um jogador de beisebol. Ela mostra com que frequência o jogador executa jogadas corretas sem cometer erros, sendo uma estatística essencial para avaliar a confiabilidade defensiva.",
+  whatContent2: "Esta calculadora de percentual de defesa no beisebol fornece resultados rápidos e claros, ajudando jogadores, treinadores e fãs a entender o desempenho defensivo sem cálculos manuais.",
+
+  understandingtitle: "Entendendo o Percentual de Defesa no Beisebol",
+  understandingpara1: "O percentual de defesa é baseado em eliminações, assistências e erros. Eliminações ocorrem quando um defensor registra um out, assistências quando ajuda a completar um out, e erros quando uma jogada de rotina não é executada corretamente.",
+  understandingpara2: "O total de chances é a soma de eliminações, assistências e erros. O percentual mostra quantas dessas chances foram convertidas com sucesso, tornando-se uma métrica simples e eficaz.",
+
+  howtitle: "Como Funciona a Calculadora de Percentual de Defesa",
+  howpara1: "A calculadora usa as estatísticas defensivas inseridas e aplica o método padrão do beisebol. Ela soma eliminações e assistências e divide pelo total de chances defensivas.",
+  howpara2: "Como segue as regras oficiais de pontuação do beisebol, a calculadora permite análises justas e acompanhamento preciso do desempenho defensivo ao longo das partidas e temporadas.",
+  howlink: "Calculadora de Média de Rebatidas.",
+
+  whytitle: "Por Que o Percentual de Defesa é Importante",
+  whypara1: "O percentual de defesa ajuda a comparar jogadores de diferentes posições e equipes. Um valor mais alto geralmente indica menos erros durante as jogadas defensivas.",
+  whypara2: "As estatísticas defensivas são analisadas junto com dados ofensivos para uma visão completa do desempenho do jogador, incluindo métricas como a",
+  whylink: "Calculadora de Percentual de Slugging.",
+
+  imageUrl: "/Fielding-Percentage-Calculator.jpg",
+  imageAlt: "Fielding Percentage Calculator",
+
+  formulaTitle: "Fórmula do Percentual de Defesa",
+  formulasubtitle: "Fórmula Oficial do Percentual de Defesa no Beisebol",
+  formulasubIntro: "O percentual de defesa no beisebol segue uma fórmula simples e clara que mede a eficiência defensiva.",
+  mainFormula: "Percentual de Defesa = (Eliminações + Assistências) ÷ Total de Chances",
+  formulasubtext: "Essa fórmula foca apenas nas ações defensivas e mostra o quão confiável um jogador é quando a bola é direcionada a ele.",
+
+  whatTitle: "O Que Conta Como Total de Chances?",
+  whatList: [
+    "Eliminações: quando um jogador registra diretamente um out",
+    "Assistências: quando um jogador ajuda a completar um out",
+    "Erros: quando uma jogada de rotina não é concluída corretamente",
+  ],
+  whatEnd: "A soma desses fatores representa quantas vezes um jogador foi exigido defensivamente durante o jogo.",
+
+  stepTitle: "Exemplo de Cálculo Passo a Passo",
+  stepList: [
+    "Eliminações: 90",
+    "Assistências: 40",
+    "Erros: 5",
+  ],
+  stepformula:
+    "Total de Chances = 90 + 40 + 5 = 135 Percentual de Defesa = (90 + 40) ÷ 135 Percentual de Defesa = 130 ÷ 135 = 0,963",
+  stepend: "Isso significa que o jogador converteu com sucesso cerca de 96,3% das chances defensivas.",
+
+  howtotitle: "Como a Calculadora Aplica a Fórmula",
+  howtocontent1: "A Calculadora de Percentual de Defesa automatiza todo o processo. Basta inserir eliminações, assistências e erros para obter o resultado instantaneamente.",
+  howtocontent2: "Isso evita erros de cálculo e facilita a comparação entre jogadores, posições e temporadas.",
+
+  whyformulatitle: "Por Que Essa Fórmula é Usada no Beisebol",
+  whyformulacontent1: "Essa fórmula é amplamente utilizada por ser simples e consistente, permitindo comparações justas entre jogadores e equipes.",
+  whyformulacontent2: "Por se basear em dados oficiais de pontuação, ela garante avaliações confiáveis ao analisar jogos e estatísticas defensivas de longo prazo.",
+
+  faqTitle: "Perguntas Frequentes",
+  faq: [
+    {
+      q: "O que é percentual de defesa no beisebol?",
+      a: "O percentual de defesa é uma estatística defensiva que mostra com que frequência um jogador executa jogadas corretamente. Ele compara jogadas bem-sucedidas com o total de chances defensivas."
+    },
+    {
+      q: "O que é considerado um bom percentual de defesa?",
+      a: "Um bom percentual de defesa indica confiabilidade. Significa que o jogador comete poucos erros ao lidar com as bolas rebatidas."
+    },
+    {
+      q: "Os erros são o único fator negativo?",
+      a: "Sim, os erros reduzem diretamente o percentual de defesa, pois aumentam o total de chances sem aumentar as jogadas bem-sucedidas."
+    },
+    {
+      q: "O percentual de defesa mede alcance defensivo?",
+      a: "Não, ele mede apenas a execução das jogadas alcançadas, não o alcance ou a velocidade do jogador."
+    },
+    {
+      q: "O percentual de defesa varia por posição?",
+      a: "Sim, diferentes posições têm diferentes padrões de jogadas, o que influencia o percentual de defesa."
+    },
+    {
+      q: "O percentual de defesa é suficiente para avaliar a defesa?",
+      a: "Ele é útil, mas deve ser combinado com outras métricas defensivas para uma análise completa."
+    },
+  ]
+},
+
+slugging: {
+      metaTitle: "Calcolatore della Percentuale di Slugging – Statistiche di Baseball Accurate",
+      metaDescription: "Calcola istantaneamente la percentuale di slugging con risultati accurati. Perfetto per giocatori e fan, usa subito il calcolatore.",
+      title: "Calcolatore della Percentuale di Slugging",
+      desc: "Calcola istantaneamente la percentuale di slugging con risultati accurati. Perfetto per giocatori e fan, usa subito il calcolatore.",
+      heading: "Calcolatore della Percentuale di Slugging",
+
+      singles: "Singoli",
+      doubles: "Doppi",
+      triples: "Tripli",
+      homeRuns: "Fuoricampo",
+      atBats: "At-Bats",
+
+      result: "Percentuale di Slugging",
+      resultExplain: "La percentuale di slugging misura il numero totale di basi che un giocatore ottiene per ogni turno in battuta. Si calcola come: (Singles + 2×Doubles + 3×Triples + 4×Home Runs) ÷ At-Bats.",
+
+      tocTitle: "Indice",
+      tocwhat: "Cos'è un Calcolatore della Percentuale di Slugging?",
+      tocwhy: "Comprendere la Percentuale di Slugging nel Baseball",
+      tocformula: "Formula del Calcolatore della Percentuale di Slugging",
+      tocstepbystep: "Esempio di Calcolo Passo Passo",
+      tochow: "Come il Calcolatore Applica la Formula",
+
+      introTitle: "Informazioni sul Calcolatore della Percentuale di Slugging",
+      whattitle: "Cos'è un Calcolatore della Percentuale di Slugging?",
+      whatContent1: "Un calcolatore della percentuale di slugging aiuta a misurare la potenza di un giocatore di baseball al piatto. La percentuale di slugging mostra quante basi totali un giocatore ottiene per turno in battuta. A differenza delle medie semplici, dà più peso ai colpi extra base, rendendolo utile per valutare la potenza di battuta.",
+      whatContent2: "Questo calcolatore supporta un'analisi chiara dei giocatori trasformando i dati di battuta grezzi in un singolo numero. Allenatori, analisti e fan lo utilizzano per capire quanto un battitore sia efficace nel produrre punti con contatti potenti.",
+
+      understandingtitle: "Comprendere la Percentuale di Slugging nel Baseball",
+      understandingpara1: "La percentuale di slugging si concentra sulle basi totali e sugli at-bats. Ogni tipo di colpo ha un valore diverso. Singles, doubles, triples e home runs contano tutti, ma i colpi extra base aumentano di più il totale. Ciò mostra quanto danno un battitore può infliggere quando colpisce.",
+      understandingpara2: "Poiché riflette la qualità del colpo, la percentuale di slugging è una parte centrale delle statistiche offensive. Aiuta a spiegare perché due giocatori con la stessa media battuta possono avere impatti molto diversi su una partita.",
+
+      howtitle: "Come Funziona il Calcolatore della Percentuale di Slugging",
+      howpara1: "Il calcolatore utilizza le regole ufficiali di punteggio del baseball. Inserisci quanti singles, doubles, triples e home runs ha un giocatore, insieme al totale degli at-bats. Lo strumento calcola quindi le basi totali e le divide per gli at-bats per produrre la percentuale di slugging.",
+      howpara2: "Questo metodo mantiene i risultati coerenti e facili da confrontare tra partite e stagioni. Supporta una revisione accurata dell'efficienza alla battuta senza errori di calcolo manuali.",
+
+      whytitle: "Perché la Percentuale di Slugging è Importante nella Valutazione delle Prestazioni",
+      whypara1: "La percentuale di slugging evidenzia la capacità di un giocatore di colpire con potenza. Viene spesso utilizzata insieme ad altre metriche di baseball per comprendere il contributo offensivo durante le revisioni statistiche delle partite.",
+      whypara2: "Per avere una visione equilibrata di un giocatore, le statistiche della potenza offensiva vengono spesso considerate insieme agli strumenti di valutazione difensiva, come il",
+      whylink: "Calcolatore della Percentuale di Fielding.",
+
+      imageUrl: "/Slugging-Percentage-Calculator.jpg",
+      imageAlt: "Slugging-Percentage-Calculator",
+
+      formulaTitle: "Formula del Calcolatore della Percentuale di Slugging",
+      formulasubtitle: "Formula Ufficiale della Percentuale di Slugging nel Baseball",
+      formulasubIntro: "La percentuale di slugging segue una formula chiara che si concentra sulla capacità di un giocatore di ottenere basi tramite i colpi. Misura la potenza, non solo il contatto.",
+      mainFormula: "Percentuale di Slugging = Basi Totali ÷ At-Bats",
+      formulasubtext: "Questa formula dà più valore ai colpi extra base, motivo per cui viene utilizzata per valutare le prestazioni di battuta dal punto di vista della potenza piuttosto che dalla semplice frequenza di colpi.",
+
+      whatTitle: "Come vengono Calcolate le Basi Totali",
+      whatList: [
+        "Single = 1 base",
+        "Double = 2 basi",
+        "Triple = 3 basi",
+        "Home run = 4 basi",
+      ],
+      whatEnd: "Per trovare le basi totali, moltiplica ogni tipo di colpo per il suo valore base e poi somma i risultati. Questo metodo evidenzia l'impatto dei colpi potenti durante le partite.",
+
+      roleformulatitle: "Ruolo degli At-Bats nella Formula",
+      roleformulacontent1: "Solo gli at-bats vengono utilizzati nei calcoli della percentuale di slugging. Walk, hit-by-pitch e sacrifices non sono inclusi. Questo mantiene la formula concentrata sui risultati reali della battuta.",
+      roleformulacontent2: "Utilizzando solo gli at-bats, la percentuale di slugging riflette quanto sia produttivo un battitore quando ha una vera opportunità di colpire.",
+
+      stepTitle: "Esempio di Calcolo Passo Passo",
+      stepList: [
+        "Singles: 20",
+        "Doubles: 10",
+        "Triples: 2",
+        "Home runs: 8",
+        "At-bats: 160",
+      ],
+      stepformula: "Basi totali = (20 × 1) + (10 × 2) + (2 × 3) + (8 × 4)  Basi totali = 20 + 20 + 6 + 32 = 78 Percentuale di Slugging = 78 ÷ 160 = 0.488",
+      stepend: "Questo risultato mostra un'elevata efficienza alla battuta, specialmente nella produzione di colpi extra base.",
+
+      howtotitle: "Come il Calcolatore Applica la Formula",
+      howtocontent1: "Il Calcolatore della Percentuale di Slugging automatizza questo processo. Inserisci i totali dei colpi e gli at-bats, e il calcolatore gestisce automaticamente i valori base e la divisione.",
+      howtocontent2: "Questo elimina errori manuali e supporta un'analisi precisa del giocatore attraverso diverse partite, stagioni e livelli di competizione.",
+
+      whytotitle: "Perché Questa Formula è Importante nelle Metriche del Baseball",
+      whytocontent1: "La percentuale di slugging aiuta a distinguere i battitori da contatto da quelli di potenza. Due giocatori possono avere la stessa media battuta, ma chi ha più colpi extra base avrà una percentuale di slugging più alta.",
+      whytocontent2: "Per questo motivo, la percentuale di slugging rimane una parte centrale delle metriche del baseball utilizzate nello scouting, nelle decisioni di coaching e nella valutazione delle statistiche di partita.",
+
+      faqTitle: "Domande Frequenti",
+      faq: [
+        {
+          q: "Cos'è la percentuale di slugging nel baseball?",
+          a: "La percentuale di slugging è una statistica offensiva che mostra quante basi totali un giocatore ottiene per ogni turno in battuta. Dà più valore ai colpi extra base, aiutando a misurare la potenza piuttosto che il solo contatto."
+        },
+        {
+          q: "In cosa la percentuale di slugging differisce dalla media battuta?",
+          a: "La media battuta conta quante volte un giocatore ottiene un colpo. La percentuale di slugging va oltre mostrando quanto siano potenti quei colpi. Un fuoricampo influisce più della singola sullo slugging."
+        },
+        {
+          q: "I walk contano nella percentuale di slugging?",
+          a: "No, i walk non contano. La percentuale di slugging utilizza solo colpi e at-bats. Questo mantiene il focus sui risultati reali della battuta."
+        },
+        {
+          q: "Perché i colpi extra base sono importanti nello slugging?",
+          a: "I colpi extra base come doppi, tripli e fuoricampo aumentano rapidamente le basi totali. Mostrano la potenza del battitore e aiutano a spiegare la capacità di cambiare una partita con un solo colpo."
+        },
+        {
+          q: "Qual è considerata una buona percentuale di slugging?",
+          a: "Una percentuale di slugging intorno a .400 è di solito media. Valori superiori a .500 spesso indicano battitori potenti. Il significato esatto può variare a seconda della lega e della stagione."
+        },
+        {
+          q: "La percentuale di slugging è sufficiente per giudicare un battitore?",
+          a: "La percentuale di slugging è importante, ma non mostra tutto. Non misura walk o abilità di arrivare in base. Gli analisti spesso la combinano con altre metriche del baseball per avere una visione completa della prestazione alla battuta."
+        },
+      ]
+    }
+
+
+
 
   },
 

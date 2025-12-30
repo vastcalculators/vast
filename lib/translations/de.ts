@@ -5455,6 +5455,224 @@ export const deTranslations = {
       ]
     },
 
+    fielding: {
+      metaTitle: "Online-Feldspielquote-Rechner – Schnell & Einfach",
+      metaDescription: "Berechnen Sie Ihre genaue Feldspielquote in Sekunden. Einfache Eingaben, präzise Statistiken – nutzen Sie jetzt den Feldspielquote-Rechner.",
+      title: "Feldspielquote-Rechner",
+      desc: "Berechnen Sie Ihre genaue Feldspielquote in Sekunden. Einfache Eingaben, präzise Statistiken – nutzen Sie jetzt den Feldspielquote-Rechner.",
+      heading: "Feldspielquote-Rechner",
+
+      putouts: "Aus",
+      assists: "Vorlagen",
+      errors: "Fehler",
+
+      result: "Feldspielquote",
+
+      resultExplain:
+        "Die Feldspielquote wird berechnet, indem Aus und Vorlagen addiert und anschließend durch alle defensiven Chancen einschließlich Fehler geteilt werden. Sie misst, wie zuverlässig ein Spieler den Ball im Feld verarbeitet.",
+
+      tocTitle: "Inhaltsverzeichnis",
+      tocwhat: "Was ist ein Feldspielquote-Rechner?",
+      tocwhy: "Feldspielquote im Baseball verstehen",
+      tocformula: "Formel des Feldspielquote-Rechners",
+      tocstepbystep: "Schritt-für-Schritt-Beispielrechnung",
+      tochow: "Wie der Rechner die Formel anwendet",
+
+      introTitle: "Über den Feldspielquote-Rechner",
+      whattitle: "Was ist ein Feldspielquote-Rechner?",
+      whatContent1: "Ein Feldspielquote-Rechner hilft dabei zu messen, wie gut ein Baseballspieler defensiv spielt. Die Feldspielquote zeigt, wie oft ein Spieler den Ball erfolgreich verarbeitet, ohne einen Fehler zu machen. Sie ist ein zentraler Bestandteil defensiver Statistiken im Baseball zur Bewertung der Zuverlässigkeit im Feld.",
+      whatContent2: "Dieser Baseball-Feldspielquote-Rechner liefert schnelle und klare Ergebnisse. Er hilft Spielern, Trainern und Fans, die Defensivleistung zu verstehen, ohne manuelle Berechnungen durchführen zu müssen.",
+
+      understandingtitle: "Feldspielquote im Baseball verstehen",
+      understandingpara1: "Die Feldspielquote basiert auf vier Werten: Aus, Vorlagen, Fehler und Gesamtchancen. Aus entstehen, wenn ein Feldspieler ein Out erzielt. Vorlagen erfolgen, wenn ein Spieler beim Erzielen eines Outs hilft. Fehler zählen Spielzüge, bei denen ein Feldspieler einen routinemäßigen Spielzug nicht erfolgreich ausführt.",
+      understandingpara2: "Die Gesamtchancen sind die Summe aus Aus, Vorlagen und Fehlern. Die Feldspielquote zeigt, wie viele dieser Chancen korrekt verarbeitet wurden. Dadurch ist sie eine einfache, aber nützliche Methode zur Bewertung der defensiven Leistung.",
+
+      howtitle: "Wie der Feldspielquote-Rechner funktioniert",
+      howpara1: "Der Rechner verwendet die eingegebenen defensiven Statistiken und wendet die standardisierte Baseball-Methode an. Er addiert Aus und Vorlagen und teilt diese Summe durch die Gesamtchancen. Das Ergebnis zeigt, wie effizient ein Spieler bei defensiven Spielzügen ist.",
+      howpara2: "Da er den offiziellen Baseball-Wertungsregeln folgt, unterstützt der Rechner eine faire Spielanalyse und eine genaue Nachverfolgung von Feldspielstatistiken über Spiele und Saisons hinweg.",
+      howlink: "Schlagdurchschnitt-Rechner.",
+
+      whytitle: "Warum die Feldspielquote in der Defensivanalyse wichtig ist",
+      whypara1: "Die Feldspielquote hilft dabei, defensive Spieler über Positionen und Teams hinweg zu vergleichen. Ein höherer Wert bedeutet in der Regel weniger Fehler während der Spielzüge. Obwohl sie Reichweite oder Reaktionsgeschwindigkeit nicht misst, bleibt sie eine grundlegende Baseball-Kennzahl zur Beurteilung der defensiven Effizienz.",
+      whypara2: "Defensive Statistiken werden häufig zusammen mit offensiven Zahlen betrachtet, um ein vollständiges Leistungsbild zu erhalten, und die Saisonanalyse kann auch Werkzeuge wie den",
+      whylink: "Slugging-Prozentsatz-Rechner.",
+
+      imageUrl: "/Fielding-Percentage-Calculator.jpg",
+      imageAlt: "Fielding Percentage Calculator",
+
+      formulaTitle: "Formel des Feldspielquote-Rechners",
+      formulasubtitle: "Offizielle Feldspielquote-Formel im Baseball",
+      formulasubIntro: "Die Feldspielquote im Baseball folgt einer klaren und einfachen Formel. Sie misst, wie viele defensive Chancen ein Spieler erfolgreich verarbeitet.",
+      mainFormula: "Fielding Percentage = (Putouts + Assists) ÷ Total Chances",
+      formulasubtext: "Diese Formel konzentriert sich ausschließlich auf defensive Aktionen. Schlag- oder Wurfstatistiken werden nicht einbezogen. Das Ergebnis zeigt, wie zuverlässig ein Spieler ist, wenn der Ball zu ihm gespielt wird.",
+
+      whatTitle: "Was zählt als Gesamtchancen?",
+      whatList: [
+        "Aus: Wenn ein Spieler direkt ein Out erzielt",
+        "Vorlagen: Wenn ein Spieler beim Erzielen eines Outs hilft",
+        "Fehler: Wenn ein routinemäßiger Spielzug nicht erfolgreich abgeschlossen wird",
+      ],
+      whatEnd: "Durch das Addieren dieser Werte zeigen die Gesamtchancen, wie oft ein Spieler während der Spiele defensiv gefordert war.",
+
+      stepTitle: "Schritt-für-Schritt-Rechenbeispiel",
+      stepList: [
+        "Aus: 90",
+        "Vorlagen: 40",
+        "Fehler: 5",
+      ],
+      stepformula: "Gesamtchancen = 90 + 40 + 5 = 135 Feldspielquote = (90 + 40) ÷ 135 Feldspielquote = 130 ÷ 135 = 0.963",
+      stepend: "Dieses Ergebnis bedeutet, dass der Spieler etwa 96,3 % der defensiven Chancen erfolgreich verarbeitet hat.",
+
+      howtotitle: "Wie der Rechner die Formel anwendet",
+      howtocontent1: "Der Feldspielquote-Rechner automatisiert diesen Prozess. Sie geben Aus, Vorlagen und Fehler ein. Der Rechner addiert die Werte, wendet die Formel an und zeigt das Ergebnis sofort an.",
+      howtocontent2: "Dies vermeidet Rechenfehler und hält die Defensivanalyse übersichtlich. Außerdem erleichtert es den Vergleich von Spielern über Spiele, Positionen und Saisons hinweg mit derselben Methode.",
+
+      whyformulatitle: "Warum diese Formel im Baseball verwendet wird",
+      whyformulacontent1: "Diese Formel wird häufig verwendet, da sie einfach und konsistent ist. Sie ermöglicht einen fairen Vergleich der defensiven Leistung verschiedener Spieler und Teams. Obwohl sie nicht misst, wie viel Raum ein Spieler abdeckt, ist sie ein bewährter Bestandteil defensiver Statistiken.",
+      whyformulacontent2: "Da sie auf offiziellen Wertungsdaten basiert, unterstützt die Formel eine genaue Bewertung bei Spielanalysen und langfristigen Überprüfungen von Feldspielaufzeichnungen.",
+
+      faqTitle: "Häufig gestellte Fragen",
+      faq: [
+        {
+          q: "Was ist die Feldspielquote im Baseball?",
+          a: "Die Feldspielquote ist eine defensive Statistik, die zeigt, wie oft ein Spieler den Ball erfolgreich verarbeitet. Sie vergleicht erfolgreiche Spielzüge mit den Gesamtchancen, die Aus, Vorlagen und Fehler umfassen. Eine höhere Quote bedeutet weniger Fehler im Feld."
+        },
+        {
+          q: "Was zeigt eine gute Feldspielquote an?",
+          a: "Eine gute Feldspielquote steht in der Regel für Zuverlässigkeit. Sie bedeutet, dass der Spieler die meisten defensiven Chancen in Outs umwandelt. Trainer nutzen sie häufig zur Beurteilung der Konstanz, insbesondere bei Infieldern und Catchern."
+        },
+        {
+          q: "Sind Fehler der einzige negative Faktor bei der Feldspielquote?",
+          a: "Ja, Fehler sind der Hauptfaktor, der die Feldspielquote senkt. Jeder Fehler erhöht die Gesamtchancen, ohne erfolgreiche Spielzüge hinzuzufügen, was den Endwert reduziert. Deshalb ist sauberes Handling im Defensivspiel wichtig."
+        },
+        {
+          q: "Misst die Feldspielquote die defensive Reichweite?",
+          a: "Nein, die Feldspielquote misst nicht, wie viel Boden ein Spieler abdeckt. Sie misst nur, wie gut ein Spieler Bälle verarbeitet, die er erreicht. Reichweite und Reaktionsgeschwindigkeit erfordern andere defensive Kennzahlen."
+        },
+        {
+          q: "Kann die Feldspielquote je nach Position variieren?",
+          a: "Ja, die Feldspielquote variiert oft je nach Position. First Basemen und Catcher haben in der Regel höhere Quoten aufgrund häufiger routinemäßiger Spielzüge. Outfielder haben möglicherweise weniger Chancen, stehen jedoch vor anderen defensiven Situationen."
+        },
+        {
+          q: "Reicht die Feldspielquote aus, um die defensive Leistung zu bewerten?",
+          a: "Die Feldspielquote ist hilfreich, aber nicht vollständig. Sie zeigt die Ballsicherheit, jedoch nicht die gesamte defensive Wirkung. Analysten kombinieren sie häufig mit anderen defensiven Statistiken, um ein umfassenderes Bild der Spielerleistung zu erhalten."
+        },
+      ]
+    },
+
+    slugging: {
+      metaTitle: "Slugging-Prozentsatz Rechner – Genaue Baseball-Statistiken",
+      metaDescription: "Berechnen Sie den Slugging-Prozentsatz sofort mit genauen Ergebnissen. Perfekt für Spieler und Fans, nutzen Sie jetzt den Rechner.",
+      title: "Slugging-Prozentsatz Rechner",
+      desc: "Berechnen Sie den Slugging-Prozentsatz sofort mit genauen Ergebnissen. Perfekt für Spieler und Fans, nutzen Sie jetzt den Rechner.",
+      heading: "Slugging-Prozentsatz Rechner",
+
+      singles: "Einzel",
+      doubles: "Doppel",
+      triples: "Dreifach",
+      homeRuns: "Home Runs",
+      atBats: "At-Bats",
+
+      result: "Slugging-Prozentsatz",
+      resultExplain: "Der Slugging-Prozentsatz misst die Gesamtanzahl der Bases, die ein Spieler pro At-Bat erzielt. Berechnet wird: (Singles + 2×Doubles + 3×Triples + 4×Home Runs) ÷ At-Bats.",
+
+      tocTitle: "Inhaltsverzeichnis",
+      tocwhat: "Was ist ein Slugging-Prozentsatz Rechner?",
+      tocwhy: "Verstehen des Slugging-Prozentsatzes im Baseball",
+      tocformula: "Formel für den Slugging-Prozentsatz Rechner",
+      tocstepbystep: "Schritt-für-Schritt Beispielberechnung",
+      tochow: "Wie der Rechner die Formel anwendet",
+
+      introTitle: "Über den Slugging-Prozentsatz Rechner",
+      whattitle: "Was ist ein Slugging-Prozentsatz Rechner?",
+      whatContent1: "Ein Slugging-Prozentsatz Rechner hilft, die Schlagkraft eines Baseballspielers zu messen. Der Slugging-Prozentsatz zeigt, wie viele Bases ein Spieler pro At-Bat erzielt. Im Gegensatz zu einfachen Durchschnitten erhalten Extra-Base-Hits mehr Gewicht, was ihn nützlich macht, um die Schlagkraft zu bewerten.",
+      whatContent2: "Dieser Rechner unterstützt eine klare Spieleranalyse, indem rohe Schlagdaten in eine einzelne Zahl umgewandelt werden. Trainer, Analysten und Fans nutzen ihn, um zu verstehen, wie effektiv ein Schlagmann beim Erzielen von Runs ist.",
+
+      understandingtitle: "Verstehen des Slugging-Prozentsatzes im Baseball",
+      understandingpara1: "Der Slugging-Prozentsatz konzentriert sich auf Gesamt-Bases und At-Bats. Jeder Schlagtyp hat einen anderen Wert. Singles, Doubles, Triples und Home Runs zählen alle, aber Extra-Base-Hits erhöhen die Gesamtsumme stärker. Dies zeigt, wie viel Schaden ein Schlagmann anrichtet, wenn er trifft.",
+      understandingpara2: "Da er die Schlagqualität widerspiegelt, ist der Slugging-Prozentsatz ein Kernbestandteil der Offensivstatistiken. Er hilft zu erklären, warum zwei Spieler mit demselben Batting Average sehr unterschiedliche Auswirkungen auf ein Spiel haben können.",
+
+      howtitle: "Wie der Slugging-Prozentsatz Rechner funktioniert",
+      howpara1: "Der Rechner verwendet die offiziellen Baseball-Punktregeln. Sie geben ein, wie viele Singles, Doubles, Triples und Home Runs ein Spieler hat, sowie die Gesamt-At-Bats. Das Tool berechnet dann die Gesamt-Bases und teilt sie durch die At-Bats, um den Slugging-Prozentsatz zu ermitteln.",
+      howpara2: "Diese Methode sorgt für konsistente Ergebnisse und erleichtert den Vergleich zwischen Spielen und Saisons. Sie unterstützt eine genaue Überprüfung der Schlag-Effizienz ohne manuelle Rechenfehler.",
+
+      whytitle: "Warum der Slugging-Prozentsatz bei der Leistungsbewertung wichtig ist",
+      whypara1: "Der Slugging-Prozentsatz hebt die Fähigkeit eines Spielers hervor, kraftvoll zu schlagen. Er wird oft zusammen mit anderen Baseball-Metriken verwendet, um den Offensivbeitrag während der Spielstatistiken zu verstehen.",
+      whypara2: "Um ein ausgewogenes Bild eines Spielers zu erhalten, werden Offensivkraft-Statistiken oft zusammen mit defensiven Bewertungstools berücksichtigt, wie dem",
+      whylink: "Fielding-Prozentsatz Rechner.",
+
+      imageUrl: "/Slugging-Percentage-Calculator.jpg",
+      imageAlt: "Slugging-Percentage-Calculator",
+
+      formulaTitle: "Formel für den Slugging-Prozentsatz Rechner",
+      formulasubtitle: "Offizielle Slugging-Prozentsatz Formel im Baseball",
+      formulasubIntro: "Der Slugging-Prozentsatz folgt einer klaren Formel, die die Fähigkeit eines Spielers misst, Bases durch Schläge zu erzielen. Sie misst Kraft, nicht nur Kontakt.",
+      mainFormula: "Slugging-Prozentsatz = Gesamt-Bases ÷ At-Bats",
+      formulasubtext: "Diese Formel gibt Extra-Base-Hits mehr Gewicht, weshalb sie zur Bewertung der Schlagleistung aus Kraftperspektive und nicht nur nach Trefferhäufigkeit verwendet wird.",
+
+      whatTitle: "Wie Gesamt-Bases berechnet werden",
+      whatList: [
+        "Single = 1 Base",
+        "Double = 2 Bases",
+        "Triple = 3 Bases",
+        "Home run = 4 Bases",
+      ],
+      whatEnd: "Um die Gesamt-Bases zu finden, multiplizieren Sie jeden Schlagtyp mit seinem Base-Wert und addieren die Ergebnisse. Diese Methode hebt die Wirkung von Power-Hits im Spiel hervor.",
+
+      roleformulatitle: "Rolle der At-Bats in der Formel",
+      roleformulacontent1: "Nur At-Bats werden in der Berechnung des Slugging-Prozentsatzes verwendet. Walks, Hit-by-Pitches und Sacrifices werden nicht einbezogen. Dies hält die Formel auf tatsächliche Schlagresultate fokussiert.",
+      roleformulacontent2: "Durch die Verwendung nur von At-Bats spiegelt der Slugging-Prozentsatz wider, wie produktiv ein Schlagmann ist, wenn er eine echte Chance zum Schlagen bekommt.",
+
+      stepTitle: "Schritt-für-Schritt Berechnungsbeispiel",
+      stepList: [
+        "Singles: 20",
+        "Doubles: 10",
+        "Triples: 2",
+        "Home runs: 8",
+        "At-bats: 160",
+      ],
+      stepformula: "Gesamt-Bases = (20 × 1) + (10 × 2) + (2 × 3) + (8 × 4)  Gesamt-Bases = 20 + 20 + 6 + 32 = 78 Slugging-Prozentsatz = 78 ÷ 160 = 0.488",
+      stepend: "Dieses Ergebnis zeigt eine starke Schlag-Effizienz, insbesondere bei Extra-Base-Ergebnissen.",
+
+      howtotitle: "Wie der Rechner die Formel anwendet",
+      howtocontent1: "Der Slugging-Prozentsatz Rechner automatisiert diesen Prozess. Sie geben die Trefferzahlen und At-Bats ein, und der Rechner verarbeitet Base-Werte und Division automatisch.",
+      howtocontent2: "Dies beseitigt manuelle Fehler und unterstützt eine genaue Spieleranalyse über verschiedene Spiele, Saisons und Wettbewerbsebenen hinweg.",
+
+      whytotitle: "Warum diese Formel in Baseball-Metriken wichtig ist",
+      whytocontent1: "Der Slugging-Prozentsatz hilft, Kontakt-Schläger von Power-Schlägern zu unterscheiden. Zwei Spieler können denselben Batting Average haben, aber derjenige mit mehr Extra-Base-Hits hat einen höheren Slugging-Prozentsatz.",
+      whytocontent2: "Deshalb bleibt der Slugging-Prozentsatz ein Kernbestandteil der Baseball-Metriken, die beim Scouting, bei Coaching-Entscheidungen und der Spielstatistikevaluation verwendet werden.",
+
+      faqTitle: "Häufig gestellte Fragen",
+      faq: [
+        {
+          q: "Was ist der Slugging-Prozentsatz im Baseball?",
+          a: "Der Slugging-Prozentsatz ist eine Offensivstatistik, die zeigt, wie viele Gesamt-Bases ein Spieler pro At-Bat erzielt. Extra-Base-Hits haben mehr Gewicht, was die Schlagkraft statt nur den Kontakt misst."
+        },
+        {
+          q: "Wie unterscheidet sich der Slugging-Prozentsatz vom Batting Average?",
+          a: "Der Batting Average zählt, wie oft ein Spieler einen Treffer erzielt. Der Slugging-Prozentsatz geht weiter, indem er zeigt, wie stark diese Treffer sind. Ein Home Run wirkt sich stärker auf den Slugging-Prozentsatz aus als ein Single."
+        },
+        {
+          q: "Zählen Walks im Slugging-Prozentsatz?",
+          a: "Nein, Walks zählen nicht. Der Slugging-Prozentsatz verwendet nur Treffer und At-Bats. So bleibt der Fokus auf den tatsächlichen Schlagresultaten."
+        },
+        {
+          q: "Warum sind Extra-Base-Hits im Slugging-Prozentsatz wichtig?",
+          a: "Extra-Base-Hits wie Doubles, Triples und Home Runs erhöhen die Gesamt-Bases schnell. Sie zeigen Power-Hitting und erklären, wie ein Spieler ein Spiel mit einem Schlag verändern kann."
+        },
+        {
+          q: "Was gilt als guter Slugging-Prozentsatz?",
+          a: "Ein Slugging-Prozentsatz von etwa .400 gilt als durchschnittlich. Werte über .500 deuten oft auf starke Power-Schläger hin. Die genaue Bedeutung kann je nach Liga und Saison variieren."
+        },
+        {
+          q: "Reicht der Slugging-Prozentsatz aus, um einen Schlagmann zu bewerten?",
+          a: "Der Slugging-Prozentsatz ist wichtig, zeigt aber nicht alles. Walks oder On-Base-Fähigkeiten werden nicht gemessen. Analysten kombinieren ihn oft mit anderen Baseball-Metriken, um ein vollständiges Bild der Schlagleistung zu erhalten."
+        },
+      ]
+    }
+
+
+
 
   },
 

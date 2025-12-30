@@ -5420,7 +5420,7 @@ export const enTranslations = {
       result: "Magic Number Result",
       magicNumber: "Magic Number",
 
-      resultExplain:"The magic number shows how many combined wins by your team and losses by the closest opponent are needed to clinch a playoff spot or championship. It is calculated using the total number of games in the season.",
+      resultExplain: "The magic number shows how many combined wins by your team and losses by the closest opponent are needed to clinch a playoff spot or championship. It is calculated using the total number of games in the season.",
 
 
       tocTitle: "Table of Contents",
@@ -5503,6 +5503,232 @@ export const enTranslations = {
         },
       ]
     },
+
+    fielding: {
+      metaTitle: "Online Fielding Percentage Calculator – Fast & Easy",
+      metaDescription: "Find your exact fielding percentage in seconds. Easy inputs, accurate stats, use the Fielding Percentage Calculator now.",
+      title: "Fielding Percentage Calculator",
+      desc: "Find your exact fielding percentage in seconds. Easy inputs, accurate stats, use the Fielding Percentage Calculator now.",
+      heading: "Fielding Percentage Calculator",
+
+      putouts: "Putouts",
+      assists: "Assists",
+      errors: "Errors",
+
+      result: "Fielding Percentage",
+
+      resultExplain:
+        "Fielding percentage is calculated by adding putouts and assists, then dividing the total by all defensive chances, including errors. It measures how reliably a player fields the ball.",
+
+
+      tocTitle: "Table of Contents",
+      tocwhat: "What Is a Fielding Percentage Calculator?",
+      tocwhy: "Understanding Fielding Percentage in Baseball",
+      tocformula: "Fielding Percentage Calculator Formula",
+      tocstepbystep: "Step-by-Step Example Calculation",
+      tochow: "How the Calculator Applies the Formula",
+
+      introTitle: "About the Fielding Percentage Calculator",
+      whattitle: "What Is a Fielding Percentage Calculator?",
+      whatContent1: "A Fielding Percentage Calculator helps measure how well a baseball player performs on defense. Fielding percentage shows how often a player successfully handles the ball without making an error. It is a key part of defensive statistics used in baseball to evaluate reliability in the field.",
+      whatContent2: "This baseball fielding percentage calculator gives quick and clear results. It helps players, coaches, and fans understand defensive performance without doing manual math.",
+
+
+      understandingtitle: "Understanding Fielding Percentage in Baseball",
+      understandingpara1: "Fielding percentage is based on four values: putouts, assists, errors, and total chances. Putouts occur when a fielder records an out. Assists happen when a player helps complete an out. Errors count plays where a fielder fails to make a routine play.",
+      understandingpara2: "Total chances are the sum of putouts, assists, and errors. Fielding percentage shows how many of those chances were handled correctly. This makes it a simple but useful way to review player performance on defense.",
+
+      howtitle: "How the Fielding Percentage Calculator Works",
+      howpara1: "The calculator takes the defensive stats you enter and applies the standard baseball method. It adds putouts and assists, then divides that total by overall chances. The result shows how efficient a player is during defensive plays.",
+      howpara2: "Because it follows official baseball scoring rules, the calculator supports fair match analysis and accurate fielding record tracking across games and seasons.",
+
+      whytitle: "Why Fielding Percentage Matters in Defensive Analysis",
+      whypara1: "Fielding percentage helps compare defensive players across positions and teams. A higher value usually means fewer mistakes during plays. While it does not measure range or reaction speed, it remains a core baseball metric for judging defensive efficiency.",
+      whypara2: "Defensive stats are often reviewed alongside offensive numbers for a complete view of performance, and season analysis may also include tools like the",
+      whylink: "Slugging Percentage Calculator.",
+
+      imageUrl: "/Fielding-Percentage-Calculator.jpg",
+      imageAlt: "Fielding Percentage Calculator",
+
+      formulaTitle: "Fielding Percentage Calculator Formula",
+      formulasubtitle: "Official Fielding Percentage Formula in Baseball",
+      formulasubIntro: "Fielding percentage in baseball follows a clear and simple formula. It measures how many defensive chances a player handles successfully.",
+      mainFormula: "Fielding Percentage = (Putouts + Assists) ÷ Total Chances",
+      formulasubtext: "This formula focuses only on defensive actions. It does not involve batting or pitching stats. The result shows how reliable a player is when the ball is hit toward them.",
+
+      whatTitle: "What Counts as Total Chances?",
+      whatList: [
+        "Putouts: When a player directly records an out",
+        "Assists: When a player helps complete an out",
+        "Errors: When a routine play is not completed successfully",
+      ],
+      whatEnd: "By adding these together, total chances show how often a player was tested on defense during games.",
+
+      stepTitle: "Step-by-Step Calculation Example",
+      stepList: [
+        "Putouts: 90",
+        "Assists: 40",
+        "Errors: 5",
+      ],
+      stepformula: "Total chances = 90 + 40 + 5 = 135 Fielding Percentage = (90 + 40) ÷ 135 Fielding Percentage = 130 ÷ 135 = 0.963",
+      stepend: "This result means the player successfully handled about 96.3% of defensive chances.",
+
+      howtotitle: "How the Calculator Applies the Formula",
+      howtocontent1: "The Fielding Percentage Calculator automates this process. You enter putouts, assists, and errors. The calculator adds the values, applies the formula, and shows the result instantly.",
+      howtocontent2: "This removes calculation mistakes and keeps defensive analysis clear. It also makes it easier to compare players across games, positions, and seasons using the same method.",
+
+      whyformulatitle: "Why This Formula Is Used in Baseball",
+      whyformulacontent1: "This formula is widely used because it is simple and consistent. It allows fair comparison of defensive performance across different players and teams. While it does not measure how much ground a player covers, it remains a trusted part of defensive statistics.",
+      whyformulacontent2: "Because it relies on official scoring data, the formula supports accurate evaluation during match analysis and long-term fielding record reviews.",
+
+
+      faqTitle: "Frequently Asked Questions",
+      faq: [
+        {
+          q: "What is fielding percentage in baseball?",
+          a: "Fielding percentage is a defensive statistic that shows how often a player successfully handles the ball. It compares successful plays to total chances, which include putouts, assists, and errors. A higher percentage means fewer mistakes in the field."
+        },
+        {
+          q: "What does a good fielding percentage indicate?",
+          a: "A good fielding percentage usually shows reliability. It means the player converts most defensive chances into outs. Coaches often use it to judge consistency, especially for infielders and catchers."
+        },
+        {
+          q: "Are errors the only negative factor in fielding percentage?",
+          a: "Yes, errors are the main factor that lowers fielding percentage. Each error increases total chances without increasing successful plays, which reduces the final value. That is why clean handling is important in defensive play."
+        },
+        {
+          q: "Does fielding percentage measure defensive range?",
+          a: "No, fielding percentage does not measure how much ground a player covers. It only measures how well a player handles balls they reach. Range and reaction speed require different defensive metrics."
+        },
+        {
+          q: "Can fielding percentage vary by position?",
+          a: "Yes, fielding percentage often varies by position. First basemen and catchers usually have higher percentages because of frequent routine plays. Outfielders may have fewer chances but face different defensive situations."
+        },
+        {
+          q: "Is fielding percentage enough to judge defensive performance?",
+          a: "Fielding percentage is helpful but not complete. It shows handling ability but not overall defensive impact. Analysts often combine it with other defensive statistics for a fuller view of player performance."
+        },
+      ]
+    },
+
+    slugging: {
+      metaTitle: "Slugging Percentage Calculator – Accurate Baseball Stats",
+      metaDescription: "Calculate slugging percentage instantly with accurate results. Perfect for players and fans, use the calculator now.",
+      title: "Slugging Percentage Calculator",
+      desc: "Calculate slugging percentage instantly with accurate results. Perfect for players and fans, use the calculator now.",
+      heading: "Slugging Percentage Calculator",
+
+      singles: "Singles",
+      doubles: "Doubles",
+      triples: "Triples",
+      homeRuns: "Home Runs",
+      atBats: "At-Bats",
+
+      result: "Slugging Percentage",
+      resultExplain: "Slugging percentage measures the total number of bases a player records per at-bat. It is calculated as: (Singles + 2×Doubles + 3×Triples + 4×Home Runs) ÷ At-Bats.",
+
+
+
+      tocTitle: "Table of Contents",
+      tocwhat: "What Is a Slugging Percentage Calculator?",
+      tocwhy: "Understanding Slugging Percentage in Baseball",
+      tocformula: "Slugging Percentage Calculator Formula",
+      tocstepbystep: "Step-by-Step Example Calculation",
+      tochow: "How the Calculator Applies the Formula",
+
+      introTitle: "About the Slugging Percentage Calculator",
+      whattitle: "What Is a Slugging Percentage Calculator?",
+      whatContent1: "A Slugging Percentage Calculator helps measure a baseball player’s power at the plate. Slugging percentage shows how many total bases a player earns per at-bat. Unlike basic averages, it gives more weight to extra-base hits, which makes it useful for evaluating power hitting.",
+      whatContent2: "This calculator supports clear player analysis by turning raw hitting data into a single number. Coaches, analysts, and fans use it to understand how effective a hitter is at producing runs through strong contact.",
+
+
+      understandingtitle: "Understanding Slugging Percentage in Baseball",
+      understandingpara1: "Slugging percentage focuses on total bases and at-bats. Each hit type has a different value. Singles, doubles, triples, and home runs all count, but extra-base hits increase the total more. This shows how much damage a hitter does when they make contact.",
+      understandingpara2: "Because it reflects hit quality, slugging percentage is a core part of offensive statistics. It helps explain why two players with the same batting average can have very different impacts on a game.",
+
+      howtitle: "How the Slugging Percentage Calculator Works",
+      howpara1: "The calculator uses official baseball scoring rules. You enter how many singles, doubles, triples, and home runs a player has, along with total at-bats. The tool then calculates total bases and divides them by at-bats to produce the slugging percentage.",
+      howpara2: "This method keeps results consistent and easy to compare across games and seasons. It supports accurate review of hitting efficiency without manual calculation errors",
+
+      whytitle: "Why Slugging Percentage Matters in Performance Review",
+      whypara1: "Slugging percentage highlights a player’s ability to hit for power. It is often used alongside other baseball metrics to understand offensive contribution during match statistics reviews.",
+      whypara2: "To get a balanced view of a player, offensive power stats are often considered together with defensive evaluation tools, such as the",
+      whylink: "Fielding Percentage Calculator.",
+
+      imageUrl: "/Slugging-Percentage-Calculator.jpg",
+      imageAlt: "Slugging-Percentage-Calculator",
+
+      formulaTitle: "Slugging Percentage Calculator Formula",
+      formulasubtitle: "Official Slugging Percentage Formula in Baseball",
+      formulasubIntro: "Slugging percentage follows a clear formula that focuses on a player’s ability to gain bases through hits. It measures power, not just contact.",
+      mainFormula: "Slugging Percentage = Total Bases ÷ At-Bats",
+      formulasubtext: "This formula gives more value to extra-base hits, which is why it is used to evaluate batting performance from a power perspective rather than simple hit frequency.",
+
+      whatTitle: "How Total Bases Are Calculated",
+      whatList: [
+        "Single = 1 base",
+        "Double = 2 bases",
+        "Triple = 3 bases",
+        "Home run = 4 bases",
+      ],
+      whatEnd: "To find total bases, you multiply each hit type by its base value and then add the results together. This method highlights the impact of power hitting during games.",
+
+      roleformulatitle: "Role of At-Bats in the Formula",
+      roleformulacontent1: "Only at-bats are used in slugging percentage calculations. Walks, hit-by-pitches, and sacrifices are not included. This keeps the formula focused on actual hitting outcomes.",
+      roleformulacontent2: "By using at-bats only, slugging percentage reflects how productive a hitter is when they get a real chance to swing.",
+
+      stepTitle: "Step-by-Step Calculation Example",
+      stepList: [
+        "Singles: 20",
+        "Doubles: 10",
+        "Triples: 2",
+        "Home runs: 8",
+        "At-bats: 160",
+      ],
+      stepformula: "Total bases = (20 × 1) + (10 × 2) + (2 × 3) + (8 × 4)  Total bases = 20 + 20 + 6 + 32 = 78 Slugging Percentage = 78 ÷ 160 = 0.488",
+      stepend: "This result shows strong hitting efficiency, especially for extra-base production.",
+
+      howtotitle: "How the Calculator Applies the Formula",
+      howtocontent1: "The Slugging Percentage Calculator automates this process. You enter hit totals and at-bats, and the calculator handles base values and division automatically.",
+      howtocontent2: "This removes manual errors and supports accurate player analysis across different games, seasons, and competition levels.",
+
+      whytotitle: "Why This Formula Matters in Baseball Metrics",
+      whytocontent1: "Slugging percentage helps separate contact hitters from power hitters. Two players may have the same batting average, but the one with more extra-base hits will have a higher slugging percentage.",
+      whytocontent2: "Because of this, slugging percentage remains a core part of baseball metrics used in scouting, coaching decisions, and match statistics evaluation.",
+
+
+
+
+      faqTitle: "Frequently Asked Questions",
+      faq: [
+        {
+          q: "What is the slugging percentage in baseball?",
+          a: "Slugging percentage is an offensive statistic that shows how many total bases a player earns per at-bat. It gives more value to extra-base hits, which helps measure power rather than just contact."
+        },
+        {
+          q: "How is slugging percentage different from batting average?",
+          a: "Batting average counts how often a player gets a hit. Slugging percentage goes further by showing how strong those hits are. A home run impacts slugging percentage more than a single"
+        },
+        {
+          q: "Do walks count in slugging percentage?",
+          a: "No, walks do not count. Slugging percentage uses only hits and at-bats. This keeps the focus on actual hitting results instead of plate discipline."
+        },
+        {
+          q: "Why are extra-base hits important in slugging percentage?",
+          a: "Extra-base hits like doubles, triples, and home runs increase total bases quickly. They show power hitting and help explain a player’s ability to change a game with one swing"
+        },
+        {
+          q: "What is considered a good slugging percentage?",
+          a: "A slugging percentage around .400 is usually average. Values above .500 often indicate strong power hitters. The exact meaning can vary by league and season context."
+        },
+        {
+          q: "Is slugging percentage enough to judge a hitter?",
+          a: "Slugging percentage is important, but it does not show everything. It does not measure walks or on-base skills. Analysts often combine it with other baseball metrics for a complete view of batting performance."
+        },
+      ]
+    },
+
+
   },
 
   footer: {
