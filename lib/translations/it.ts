@@ -4621,19 +4621,14 @@ export const itTranslations = {
       desc: "Calcola le percentuali istantaneamente con risultati accurati. Facile, veloce e affidabile—usa ora il nostro Calcolatore di Percentuale e risparmia tempo.",
       heading: "Calcolatore di Percentuale",
 
-      part: "Valore della Parte",
-      whole: "Valore Totale",
+      percentageValue: "Percentuale",
+      baseValue: "Valore",
 
-      calculationType: "Tipo di Calcolo",
-      basic: "Percentuale Base",
-      change: "Variazione Percentuale",
-      difference: "Differenza Percentuale",
+      result: "Risultato del calcolo della percentuale",
+      calculatedValue: "Valore calcolato",
 
-      result: "Risultato Percentuale",
-      resultValue: "Percentuale Calcolata",
+      resultExplain: "Il valore viene calcolato dividendo la percentuale per 100 e moltiplicandola per il numero fornito.",
 
-      resultExplain:
-        "La percentuale viene calcolata in base al metodo selezionato. La percentuale base divide la parte per il totale e moltiplica per 100. La variazione percentuale misura l’aumento o la diminuzione rispetto a un valore originale. La differenza percentuale confronta la differenza relativa tra due valori.",
 
       tocTitle: "Indice dei Contenuti",
       tocwhat: "Cos’è un Calcolatore di Percentuale?",
@@ -5450,111 +5445,111 @@ export const itTranslations = {
     },
 
     fielding: {
-  metaTitle: "Calcolatore di Percentuale di Difesa Online – Veloce e Facile",
-  metaDescription: "Calcola la tua percentuale di difesa esatta in pochi secondi. Inserimenti semplici, statistiche accurate, usa subito il Calcolatore di Percentuale di Difesa.",
-  title: "Calcolatore di Percentuale di Difesa",
-  desc: "Calcola la tua percentuale di difesa esatta in pochi secondi. Inserimenti semplici, statistiche accurate, usa subito il Calcolatore di Percentuale di Difesa.",
-  heading: "Calcolatore di Percentuale di Difesa",
+      metaTitle: "Calcolatore di Percentuale di Difesa Online – Veloce e Facile",
+      metaDescription: "Calcola la tua percentuale di difesa esatta in pochi secondi. Inserimenti semplici, statistiche accurate, usa subito il Calcolatore di Percentuale di Difesa.",
+      title: "Calcolatore di Percentuale di Difesa",
+      desc: "Calcola la tua percentuale di difesa esatta in pochi secondi. Inserimenti semplici, statistiche accurate, usa subito il Calcolatore di Percentuale di Difesa.",
+      heading: "Calcolatore di Percentuale di Difesa",
 
-  putouts: "Eliminazioni",
-  assists: "Assist",
-  errors: "Errori",
+      putouts: "Eliminazioni",
+      assists: "Assist",
+      errors: "Errori",
 
-  result: "Percentuale di Difesa",
+      result: "Percentuale di Difesa",
 
-  resultExplain:
-    "La percentuale di difesa viene calcolata sommando le eliminazioni e gli assist, quindi dividendo il totale per tutte le occasioni difensive, inclusi gli errori. Misura quanto un giocatore è affidabile nel difendere la palla.",
+      resultExplain:
+        "La percentuale di difesa viene calcolata sommando le eliminazioni e gli assist, quindi dividendo il totale per tutte le occasioni difensive, inclusi gli errori. Misura quanto un giocatore è affidabile nel difendere la palla.",
 
-  tocTitle: "Indice dei Contenuti",
-  tocwhat: "Cos’è un Calcolatore di Percentuale di Difesa?",
-  tocwhy: "Comprendere la Percentuale di Difesa nel Baseball",
-  tocformula: "Formula del Calcolatore di Percentuale di Difesa",
-  tocstepbystep: "Esempio di Calcolo Passo per Passo",
-  tochow: "Come il Calcolatore Applica la Formula",
+      tocTitle: "Indice dei Contenuti",
+      tocwhat: "Cos’è un Calcolatore di Percentuale di Difesa?",
+      tocwhy: "Comprendere la Percentuale di Difesa nel Baseball",
+      tocformula: "Formula del Calcolatore di Percentuale di Difesa",
+      tocstepbystep: "Esempio di Calcolo Passo per Passo",
+      tochow: "Come il Calcolatore Applica la Formula",
 
-  introTitle: "Informazioni sul Calcolatore di Percentuale di Difesa",
-  whattitle: "Cos’è un Calcolatore di Percentuale di Difesa?",
-  whatContent1: "Un Calcolatore di Percentuale di Difesa aiuta a misurare quanto bene un giocatore di baseball si comporta in difesa. La percentuale di difesa mostra quanto spesso un giocatore gestisce correttamente la palla senza commettere errori. È una parte fondamentale delle statistiche difensive utilizzate nel baseball per valutare l’affidabilità in campo.",
-  whatContent2: "Questo calcolatore di percentuale di difesa nel baseball fornisce risultati rapidi e chiari. Aiuta giocatori, allenatori e tifosi a comprendere le prestazioni difensive senza effettuare calcoli manuali.",
+      introTitle: "Informazioni sul Calcolatore di Percentuale di Difesa",
+      whattitle: "Cos’è un Calcolatore di Percentuale di Difesa?",
+      whatContent1: "Un Calcolatore di Percentuale di Difesa aiuta a misurare quanto bene un giocatore di baseball si comporta in difesa. La percentuale di difesa mostra quanto spesso un giocatore gestisce correttamente la palla senza commettere errori. È una parte fondamentale delle statistiche difensive utilizzate nel baseball per valutare l’affidabilità in campo.",
+      whatContent2: "Questo calcolatore di percentuale di difesa nel baseball fornisce risultati rapidi e chiari. Aiuta giocatori, allenatori e tifosi a comprendere le prestazioni difensive senza effettuare calcoli manuali.",
 
-  understandingtitle: "Comprendere la Percentuale di Difesa nel Baseball",
-  understandingpara1: "La percentuale di difesa si basa su quattro valori: eliminazioni, assist, errori e occasioni totali. Le eliminazioni si verificano quando un difensore registra un out. Gli assist avvengono quando un giocatore aiuta a completare un out. Gli errori contano le azioni in cui un difensore non riesce a completare una giocata di routine.",
-  understandingpara2: "Le occasioni totali sono la somma di eliminazioni, assist ed errori. La percentuale di difesa mostra quante di queste occasioni sono state gestite correttamente. Questo la rende un modo semplice ma utile per valutare le prestazioni difensive.",
+      understandingtitle: "Comprendere la Percentuale di Difesa nel Baseball",
+      understandingpara1: "La percentuale di difesa si basa su quattro valori: eliminazioni, assist, errori e occasioni totali. Le eliminazioni si verificano quando un difensore registra un out. Gli assist avvengono quando un giocatore aiuta a completare un out. Gli errori contano le azioni in cui un difensore non riesce a completare una giocata di routine.",
+      understandingpara2: "Le occasioni totali sono la somma di eliminazioni, assist ed errori. La percentuale di difesa mostra quante di queste occasioni sono state gestite correttamente. Questo la rende un modo semplice ma utile per valutare le prestazioni difensive.",
 
-  howtitle: "Come Funziona il Calcolatore di Percentuale di Difesa",
-  howpara1: "Il calcolatore prende le statistiche difensive inserite e applica il metodo standard del baseball. Somma eliminazioni e assist, quindi divide il totale per le occasioni complessive. Il risultato mostra quanto è efficiente un giocatore durante le azioni difensive.",
-  howpara2: "Poiché segue le regole ufficiali di assegnazione dei punteggi del baseball, il calcolatore supporta un’analisi equa delle partite e un tracciamento accurato dei record difensivi tra partite e stagioni.",
-  howlink: "Calcolatore della Media di Battuta.",
+      howtitle: "Come Funziona il Calcolatore di Percentuale di Difesa",
+      howpara1: "Il calcolatore prende le statistiche difensive inserite e applica il metodo standard del baseball. Somma eliminazioni e assist, quindi divide il totale per le occasioni complessive. Il risultato mostra quanto è efficiente un giocatore durante le azioni difensive.",
+      howpara2: "Poiché segue le regole ufficiali di assegnazione dei punteggi del baseball, il calcolatore supporta un’analisi equa delle partite e un tracciamento accurato dei record difensivi tra partite e stagioni.",
+      howlink: "Calcolatore della Media di Battuta.",
 
-  whytitle: "Perché la Percentuale di Difesa è Importante nell’Analisi Difensiva",
-  whypara1: "La percentuale di difesa aiuta a confrontare i giocatori difensivi tra posizioni e squadre. Un valore più alto di solito indica meno errori durante le azioni. Sebbene non misuri l’estensione o la velocità di reazione, rimane una metrica fondamentale del baseball per giudicare l’efficienza difensiva.",
-  whypara2: "Le statistiche difensive vengono spesso analizzate insieme ai numeri offensivi per ottenere una visione completa delle prestazioni, e l’analisi stagionale può includere anche strumenti come il",
-  whylink: "Calcolatore della Percentuale di Slugging.",
+      whytitle: "Perché la Percentuale di Difesa è Importante nell’Analisi Difensiva",
+      whypara1: "La percentuale di difesa aiuta a confrontare i giocatori difensivi tra posizioni e squadre. Un valore più alto di solito indica meno errori durante le azioni. Sebbene non misuri l’estensione o la velocità di reazione, rimane una metrica fondamentale del baseball per giudicare l’efficienza difensiva.",
+      whypara2: "Le statistiche difensive vengono spesso analizzate insieme ai numeri offensivi per ottenere una visione completa delle prestazioni, e l’analisi stagionale può includere anche strumenti come il",
+      whylink: "Calcolatore della Percentuale di Slugging.",
 
-  imageUrl: "/Fielding-Percentage-Calculator.jpg",
-  imageAlt: "Fielding Percentage Calculator",
+      imageUrl: "/Fielding-Percentage-Calculator.jpg",
+      imageAlt: "Fielding Percentage Calculator",
 
-  formulaTitle: "Formula del Calcolatore di Percentuale di Difesa",
-  formulasubtitle: "Formula Ufficiale della Percentuale di Difesa nel Baseball",
-  formulasubIntro: "La percentuale di difesa nel baseball segue una formula chiara e semplice. Misura quante occasioni difensive un giocatore gestisce con successo.",
-  mainFormula: "Fielding Percentage = (Putouts + Assists) ÷ Total Chances",
-  formulasubtext: "Questa formula si concentra esclusivamente sulle azioni difensive. Non coinvolge statistiche di battuta o di lancio. Il risultato mostra quanto un giocatore è affidabile quando la palla viene colpita verso di lui.",
+      formulaTitle: "Formula del Calcolatore di Percentuale di Difesa",
+      formulasubtitle: "Formula Ufficiale della Percentuale di Difesa nel Baseball",
+      formulasubIntro: "La percentuale di difesa nel baseball segue una formula chiara e semplice. Misura quante occasioni difensive un giocatore gestisce con successo.",
+      mainFormula: "Fielding Percentage = (Putouts + Assists) ÷ Total Chances",
+      formulasubtext: "Questa formula si concentra esclusivamente sulle azioni difensive. Non coinvolge statistiche di battuta o di lancio. Il risultato mostra quanto un giocatore è affidabile quando la palla viene colpita verso di lui.",
 
-  whatTitle: "Cosa Conta come Occasioni Totali?",
-  whatList: [
-    "Eliminazioni: Quando un giocatore registra direttamente un out",
-    "Assist: Quando un giocatore aiuta a completare un out",
-    "Errori: Quando una giocata di routine non viene completata con successo",
-  ],
-  whatEnd: "Sommando questi elementi, le occasioni totali mostrano quanto spesso un giocatore è stato messo alla prova in difesa durante le partite.",
+      whatTitle: "Cosa Conta come Occasioni Totali?",
+      whatList: [
+        "Eliminazioni: Quando un giocatore registra direttamente un out",
+        "Assist: Quando un giocatore aiuta a completare un out",
+        "Errori: Quando una giocata di routine non viene completata con successo",
+      ],
+      whatEnd: "Sommando questi elementi, le occasioni totali mostrano quanto spesso un giocatore è stato messo alla prova in difesa durante le partite.",
 
-  stepTitle: "Esempio di Calcolo Passo per Passo",
-  stepList: [
-    "Eliminazioni: 90",
-    "Assist: 40",
-    "Errori: 5",
-  ],
-  stepformula: "Occasioni totali = 90 + 40 + 5 = 135 Percentuale di Difesa = (90 + 40) ÷ 135 Percentuale di Difesa = 130 ÷ 135 = 0.963",
-  stepend: "Questo risultato significa che il giocatore ha gestito con successo circa il 96,3% delle occasioni difensive.",
+      stepTitle: "Esempio di Calcolo Passo per Passo",
+      stepList: [
+        "Eliminazioni: 90",
+        "Assist: 40",
+        "Errori: 5",
+      ],
+      stepformula: "Occasioni totali = 90 + 40 + 5 = 135 Percentuale di Difesa = (90 + 40) ÷ 135 Percentuale di Difesa = 130 ÷ 135 = 0.963",
+      stepend: "Questo risultato significa che il giocatore ha gestito con successo circa il 96,3% delle occasioni difensive.",
 
-  howtotitle: "Come il Calcolatore Applica la Formula",
-  howtocontent1: "Il Calcolatore di Percentuale di Difesa automatizza questo processo. Inserisci eliminazioni, assist ed errori. Il calcolatore somma i valori, applica la formula e mostra il risultato immediatamente.",
-  howtocontent2: "Questo elimina errori di calcolo e mantiene chiara l’analisi difensiva. Rende inoltre più facile confrontare i giocatori tra partite, posizioni e stagioni utilizzando lo stesso metodo.",
+      howtotitle: "Come il Calcolatore Applica la Formula",
+      howtocontent1: "Il Calcolatore di Percentuale di Difesa automatizza questo processo. Inserisci eliminazioni, assist ed errori. Il calcolatore somma i valori, applica la formula e mostra il risultato immediatamente.",
+      howtocontent2: "Questo elimina errori di calcolo e mantiene chiara l’analisi difensiva. Rende inoltre più facile confrontare i giocatori tra partite, posizioni e stagioni utilizzando lo stesso metodo.",
 
-  whyformulatitle: "Perché Questa Formula è Utilizzata nel Baseball",
-  whyformulacontent1: "Questa formula è ampiamente utilizzata perché è semplice e coerente. Consente un confronto equo delle prestazioni difensive tra diversi giocatori e squadre. Sebbene non misuri quanto terreno copre un giocatore, rimane una parte affidabile delle statistiche difensive.",
-  whyformulacontent2: "Poiché si basa su dati ufficiali di assegnazione dei punteggi, la formula supporta una valutazione accurata durante l’analisi delle partite e le revisioni a lungo termine dei record difensivi.",
+      whyformulatitle: "Perché Questa Formula è Utilizzata nel Baseball",
+      whyformulacontent1: "Questa formula è ampiamente utilizzata perché è semplice e coerente. Consente un confronto equo delle prestazioni difensive tra diversi giocatori e squadre. Sebbene non misuri quanto terreno copre un giocatore, rimane una parte affidabile delle statistiche difensive.",
+      whyformulacontent2: "Poiché si basa su dati ufficiali di assegnazione dei punteggi, la formula supporta una valutazione accurata durante l’analisi delle partite e le revisioni a lungo termine dei record difensivi.",
 
-  faqTitle: "Domande Frequenti",
-  faq: [
-    {
-      q: "Cos’è la percentuale di difesa nel baseball?",
-      a: "La percentuale di difesa è una statistica difensiva che mostra quanto spesso un giocatore gestisce correttamente la palla. Confronta le giocate riuscite con le occasioni totali, che includono eliminazioni, assist ed errori. Una percentuale più alta significa meno errori in campo."
+      faqTitle: "Domande Frequenti",
+      faq: [
+        {
+          q: "Cos’è la percentuale di difesa nel baseball?",
+          a: "La percentuale di difesa è una statistica difensiva che mostra quanto spesso un giocatore gestisce correttamente la palla. Confronta le giocate riuscite con le occasioni totali, che includono eliminazioni, assist ed errori. Una percentuale più alta significa meno errori in campo."
+        },
+        {
+          q: "Cosa indica una buona percentuale di difesa?",
+          a: "Una buona percentuale di difesa indica generalmente affidabilità. Significa che il giocatore trasforma la maggior parte delle occasioni difensive in eliminazioni. Gli allenatori la utilizzano spesso per valutare la costanza, soprattutto per interni e ricevitori."
+        },
+        {
+          q: "Gli errori sono l’unico fattore negativo nella percentuale di difesa?",
+          a: "Sì, gli errori sono il principale fattore che riduce la percentuale di difesa. Ogni errore aumenta le occasioni totali senza aumentare le giocate riuscite, riducendo così il valore finale. Per questo una gestione pulita è importante nella difesa."
+        },
+        {
+          q: "La percentuale di difesa misura la copertura difensiva?",
+          a: "No, la percentuale di difesa non misura quanto terreno copre un giocatore. Misura solo quanto bene gestisce le palle che riesce a raggiungere. La copertura e la velocità di reazione richiedono metriche difensive diverse."
+        },
+        {
+          q: "La percentuale di difesa può variare in base alla posizione?",
+          a: "Sì, la percentuale di difesa varia spesso in base alla posizione. I prima base e i ricevitori hanno generalmente percentuali più alte a causa delle frequenti giocate di routine. Gli esterni possono avere meno occasioni ma affrontare situazioni difensive diverse."
+        },
+        {
+          q: "La percentuale di difesa è sufficiente per giudicare le prestazioni difensive?",
+          a: "La percentuale di difesa è utile ma non completa. Mostra la capacità di gestione, ma non l’impatto difensivo complessivo. Gli analisti la combinano spesso con altre statistiche difensive per ottenere una visione più completa delle prestazioni di un giocatore."
+        },
+      ]
     },
-    {
-      q: "Cosa indica una buona percentuale di difesa?",
-      a: "Una buona percentuale di difesa indica generalmente affidabilità. Significa che il giocatore trasforma la maggior parte delle occasioni difensive in eliminazioni. Gli allenatori la utilizzano spesso per valutare la costanza, soprattutto per interni e ricevitori."
-    },
-    {
-      q: "Gli errori sono l’unico fattore negativo nella percentuale di difesa?",
-      a: "Sì, gli errori sono il principale fattore che riduce la percentuale di difesa. Ogni errore aumenta le occasioni totali senza aumentare le giocate riuscite, riducendo così il valore finale. Per questo una gestione pulita è importante nella difesa."
-    },
-    {
-      q: "La percentuale di difesa misura la copertura difensiva?",
-      a: "No, la percentuale di difesa non misura quanto terreno copre un giocatore. Misura solo quanto bene gestisce le palle che riesce a raggiungere. La copertura e la velocità di reazione richiedono metriche difensive diverse."
-    },
-    {
-      q: "La percentuale di difesa può variare in base alla posizione?",
-      a: "Sì, la percentuale di difesa varia spesso in base alla posizione. I prima base e i ricevitori hanno generalmente percentuali più alte a causa delle frequenti giocate di routine. Gli esterni possono avere meno occasioni ma affrontare situazioni difensive diverse."
-    },
-    {
-      q: "La percentuale di difesa è sufficiente per giudicare le prestazioni difensive?",
-      a: "La percentuale di difesa è utile ma non completa. Mostra la capacità di gestione, ma non l’impatto difensivo complessivo. Gli analisti la combinano spesso con altre statistiche difensive per ottenere una visione più completa delle prestazioni di un giocatore."
-    },
-  ]
-},
 
-slugging: {
+    slugging: {
       metaTitle: "Calcolatore della Percentuale di Slugging – Statistiche di Baseball Accurate",
       metaDescription: "Calcola istantaneamente la percentuale di slugging con risultati accurati. Perfetto per giocatori e fan, usa subito il calcolatore.",
       title: "Calcolatore della Percentuale di Slugging",

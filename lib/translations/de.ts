@@ -4720,19 +4720,14 @@ export const deTranslations = {
       desc: "Berechnen Sie Prozentsätze sofort mit genauen Ergebnissen. Einfach, schnell und zuverlässig—nutzen Sie jetzt unseren Prozentrechner und sparen Sie Zeit.",
       heading: "Prozentrechner",
 
-      part: "Teilwert",
-      whole: "Gesamtwert",
+      percentageValue: "Prozentsatz",
+      baseValue: "Wert",
 
-      calculationType: "Berechnungstyp",
-      basic: "Grundlegender Prozentsatz",
-      change: "Prozentuale Veränderung",
-      difference: "Prozentualer Unterschied",
+      result: "Ergebnis der Prozentberechnung",
+      calculatedValue: "Berechneter Wert",
 
-      result: "Prozentergebnis",
-      resultValue: "Berechneter Prozentsatz",
+      resultExplain: "Der Wert wird berechnet, indem der Prozentsatz durch 100 geteilt und mit der angegebenen Zahl multipliziert wird.",
 
-      resultExplain:
-        "Der Prozentsatz wird basierend auf der ausgewählten Methode berechnet. Der grundlegende Prozentsatz teilt den Teil durch das Ganze und multipliziert mit 100. Die prozentuale Veränderung misst die Zu- oder Abnahme gegenüber einem ursprünglichen Wert. Der prozentuale Unterschied vergleicht den relativen Unterschied zwischen zwei Werten.",
 
       tocTitle: "Inhaltsverzeichnis",
       tocwhat: "Was ist ein Prozentrechner?",

@@ -755,30 +755,22 @@ export const mathsCalculators: Calculator[] = [
     heading: "maths.percent.heading",
     formulaId: "percentagecalculator",
 
-    inputs: [
-      {
-        label: "maths.percent.part",
-        name: "part",
-        type: "number",
-        placeholder: "Enter part value"
-      },
-      {
-        label: "maths.percent.whole",
-        name: "whole",
-        type: "number",
-        placeholder: "Enter whole value"
-      },
-      {
-        label: "maths.percent.calculationType",
-        name: "calculationType",
-        type: "select",
-        options: [
-          { value: "basic", label: "maths.percent.basic" },
-          { value: "change", label: "maths.percent.change" },
-          { value: "difference", label: "maths.percent.difference" },
-        ]
-      },
-    ],
+   inputs: [
+  {
+    label: "maths.percent.percentageValue",
+    name: "percentage",
+    type: "number",
+    unit: "%",
+    min: 0
+  },
+  {
+    label: "maths.percent.baseValue",
+    name: "value",
+    type: "number",
+    min: 0
+  }
+],
+
 
     result: {
       label: "maths.percent.result",

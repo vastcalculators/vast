@@ -4489,19 +4489,14 @@ export const trTranslations = {
       desc: "Yüzdeleri anında doğru sonuçlarla hesaplayın. Kolay, hızlı ve güvenilir—yüzde hesaplayıcımızı şimdi kullanın ve zaman kazanın.",
       heading: "Yüzde Hesaplayıcı",
 
-      part: "Parça Değeri",
-      whole: "Toplam Değer",
+      percentageValue: "Yüzde",
+      baseValue: "Değer",
 
-      calculationType: "Hesaplama Türü",
-      basic: "Temel Yüzde",
-      change: "Yüzde Değişimi",
-      difference: "Yüzde Farkı",
+      result: "Yüzde Hesaplama Sonucu",
+      calculatedValue: "Hesaplanan Değer",
 
-      result: "Yüzde Sonucu",
-      resultValue: "Hesaplanan Yüzde",
+      resultExplain: "Değer, yüzdeyi 100'e bölerek ve verilen sayı ile çarparak hesaplanır.",
 
-      resultExplain:
-        "Yüzde, seçilen yönteme göre hesaplanır. Temel yüzde, parçayı bütüne böler ve 100 ile çarpar. Yüzde değişimi, orijinal değere göre artışı veya azalışı ölçer. Yüzde farkı, iki değer arasındaki göreli farkı karşılaştırır.",
 
       tocTitle: "İçindekiler",
       tocwhat: "Yüzde Hesaplayıcı Nedir?",
@@ -5226,302 +5221,302 @@ export const trTranslations = {
 
   },
 
-   sports: {
+  sports: {
 
- batting: {
-  metaTitle: "Vuruş Ortalaması Hesaplayıcı – İstatistiklerinizi Hızlıca Kontrol Edin",
-  metaDescription: "Vuruş performansınızı anında takip edin. Kolay Vuruş Ortalaması Hesaplayıcımız ile net ve doğru ortalamalar elde edin.",
-  title: "Vuruş Ortalaması Hesaplayıcı",
-  desc: "Vuruş performansınızı anında takip edin. Kolay Vuruş Ortalaması Hesaplayıcımız ile net ve doğru ortalamalar elde edin.",
-  heading: "Vuruş Ortalaması Hesaplayıcı",
-  hits: "Vuruşlar",
-  atBats: "Vuruş Denemeleri",
-  result: "Vuruş Ortalaması Sonucu",
-  battingAverage: "Vuruş Ortalaması",
-  resultExplain: "Vuruş ortalaması, toplam vuruş sayısının toplam vuruş denemesi sayısına bölünmesiyle hesaplanır. Bu değer, bir oyuncunun her resmi vuruş denemesinde ne sıklıkla vuruş yaptığına karşılık gelir.",
-  tocTitle: "İçindekiler",
-  tocwhat: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nedir?",
-  tocunderstanding: "Beyzbolda Vuruş Ortalamasını Anlamak",
-  tocformula: "Vuruş Ortalaması Hesaplayıcı Formülü",
-  tochowhits: "Vuruşlar ve Vuruş Denemeleri Nasıl Sayılır",
-  tocstepbystep: "Hesaplayıcı Tarafından Kullanılan Adım Adım Hesaplama Mantığı",
+    batting: {
+      metaTitle: "Vuruş Ortalaması Hesaplayıcı – İstatistiklerinizi Hızlıca Kontrol Edin",
+      metaDescription: "Vuruş performansınızı anında takip edin. Kolay Vuruş Ortalaması Hesaplayıcımız ile net ve doğru ortalamalar elde edin.",
+      title: "Vuruş Ortalaması Hesaplayıcı",
+      desc: "Vuruş performansınızı anında takip edin. Kolay Vuruş Ortalaması Hesaplayıcımız ile net ve doğru ortalamalar elde edin.",
+      heading: "Vuruş Ortalaması Hesaplayıcı",
+      hits: "Vuruşlar",
+      atBats: "Vuruş Denemeleri",
+      result: "Vuruş Ortalaması Sonucu",
+      battingAverage: "Vuruş Ortalaması",
+      resultExplain: "Vuruş ortalaması, toplam vuruş sayısının toplam vuruş denemesi sayısına bölünmesiyle hesaplanır. Bu değer, bir oyuncunun her resmi vuruş denemesinde ne sıklıkla vuruş yaptığına karşılık gelir.",
+      tocTitle: "İçindekiler",
+      tocwhat: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nedir?",
+      tocunderstanding: "Beyzbolda Vuruş Ortalamasını Anlamak",
+      tocformula: "Vuruş Ortalaması Hesaplayıcı Formülü",
+      tochowhits: "Vuruşlar ve Vuruş Denemeleri Nasıl Sayılır",
+      tocstepbystep: "Hesaplayıcı Tarafından Kullanılan Adım Adım Hesaplama Mantığı",
 
-  introTitle: "Vuruş Ortalaması Hesaplayıcısı Hakkında",
-  whattitle: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nedir?",
-  whatContent1: "Bir Beyzbol Vuruş Ortalaması Hesaplayıcısı, bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını ölçmeye yardımcı olur. Beyzbolda vuruş ortalaması, bir vurucunun tutarlılığını değerlendirmek için kullanılan en yaygın istatistiklerden biridir. Bir oyuncunun plakaya geldiğinde ne kadar başarılı olduğunu gösterir.",
-  whatContent2: "Bu hesaplayıcı, hızlı ve doğru sonuçlar isteyen ABD’li beyzbol hayranları, oyuncular ve analistler için tasarlanmıştır. Manuel hesaplama yerine, resmi beyzbol skor kurallarını izleyen net bir vuruş ortalaması değeri sunar.",
+      introTitle: "Vuruş Ortalaması Hesaplayıcısı Hakkında",
+      whattitle: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nedir?",
+      whatContent1: "Bir Beyzbol Vuruş Ortalaması Hesaplayıcısı, bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını ölçmeye yardımcı olur. Beyzbolda vuruş ortalaması, bir vurucunun tutarlılığını değerlendirmek için kullanılan en yaygın istatistiklerden biridir. Bir oyuncunun plakaya geldiğinde ne kadar başarılı olduğunu gösterir.",
+      whatContent2: "Bu hesaplayıcı, hızlı ve doğru sonuçlar isteyen ABD’li beyzbol hayranları, oyuncular ve analistler için tasarlanmıştır. Manuel hesaplama yerine, resmi beyzbol skor kurallarını izleyen net bir vuruş ortalaması değeri sunar.",
 
-  understandingtitle: "Beyzbolda Vuruş Ortalamasını Anlamak",
-  understandingpara1: "Beyzbolda vuruş ortalaması yalnızca vuruşlara ve vuruş denemelerine odaklanır. Walk’lar, isabet eden atışlar veya fedakarlık vuruşları dahil edilmez. Bu, istatistiği temiz tutar ve gerçek vuruş performansına odaklar.",
-  understandingpara2: "Örneğin, bir oyuncu 100 vuruş denemesinde 30 vuruş kaydederse, vuruş ortalaması .300 olur. Bu format, genel performans eğilimlerini incelerken oyuncuları takımlar, sezonlar ve ligler arasında karşılaştırmayı kolaylaştırır.",
+      understandingtitle: "Beyzbolda Vuruş Ortalamasını Anlamak",
+      understandingpara1: "Beyzbolda vuruş ortalaması yalnızca vuruşlara ve vuruş denemelerine odaklanır. Walk’lar, isabet eden atışlar veya fedakarlık vuruşları dahil edilmez. Bu, istatistiği temiz tutar ve gerçek vuruş performansına odaklar.",
+      understandingpara2: "Örneğin, bir oyuncu 100 vuruş denemesinde 30 vuruş kaydederse, vuruş ortalaması .300 olur. Bu format, genel performans eğilimlerini incelerken oyuncuları takımlar, sezonlar ve ligler arasında karşılaştırmayı kolaylaştırır.",
 
-  howtitle: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nasıl Çalışır",
-  howpara1: "Bu hesaplayıcı basit ve doğru bir yöntem kullanır. Toplam vuruş sayısını ve toplam vuruş denemesi sayısını girersiniz. Araç, vuruşları vuruş denemelerine böler ve sonucu beyzbolda standart format olan ondalık sayı olarak gösterir.",
-  howpara2: "Resmi skor mantığını takip ettiği için, hesaplayıcı gençlik beyzbolu, lise, üniversite ve profesyonel seviyeler için çalışır. Kullanıcıların hesaplama hatalarından kaçınmasına yardımcı olur ve performans analizini tutarlı tutar.",
+      howtitle: "Beyzbol Vuruş Ortalaması Hesaplayıcısı Nasıl Çalışır",
+      howpara1: "Bu hesaplayıcı basit ve doğru bir yöntem kullanır. Toplam vuruş sayısını ve toplam vuruş denemesi sayısını girersiniz. Araç, vuruşları vuruş denemelerine böler ve sonucu beyzbolda standart format olan ondalık sayı olarak gösterir.",
+      howpara2: "Resmi skor mantığını takip ettiği için, hesaplayıcı gençlik beyzbolu, lise, üniversite ve profesyonel seviyeler için çalışır. Kullanıcıların hesaplama hatalarından kaçınmasına yardımcı olur ve performans analizini tutarlı tutar.",
 
-  whytitle: "Beyzbol Analizinde Vuruş Ortalaması Neden Önemlidir",
-  whypara1: "Vuruş ortalaması, bir vurucunun zaman içinde ne kadar güvenilir olduğunu göstermeye yardımcı olur. Gücü veya plaka disiplinini ölçmese de, temas yeteneğini karşılaştırmak için temel bir istatistik olmaya devam eder. Koçlar ve analistler, maç ve sezon değerlendirmeleri sırasında vuruş ortalamasını diğer metriklerle birlikte inceler.",
-  whypara2: "Sayıya dayalı performans analizinde, ortalamalar bazen istatistiksel incelemeler sırasında doğrulama veya eşik kontrolleriyle eşleştirilir ve ",
-  whylink: "Sihirli Sayı Hesaplayıcısı.",
+      whytitle: "Beyzbol Analizinde Vuruş Ortalaması Neden Önemlidir",
+      whypara1: "Vuruş ortalaması, bir vurucunun zaman içinde ne kadar güvenilir olduğunu göstermeye yardımcı olur. Gücü veya plaka disiplinini ölçmese de, temas yeteneğini karşılaştırmak için temel bir istatistik olmaya devam eder. Koçlar ve analistler, maç ve sezon değerlendirmeleri sırasında vuruş ortalamasını diğer metriklerle birlikte inceler.",
+      whypara2: "Sayıya dayalı performans analizinde, ortalamalar bazen istatistiksel incelemeler sırasında doğrulama veya eşik kontrolleriyle eşleştirilir ve ",
+      whylink: "Sihirli Sayı Hesaplayıcısı.",
 
-  imageUrl: "/Batting-Average-Calculator.jpg",
-  imageAlt: "Batting Average Calculator",
+      imageUrl: "/Batting-Average-Calculator.jpg",
+      imageAlt: "Batting Average Calculator",
 
-  formulaTitle: "Vuruş Ortalaması Hesaplayıcı Formülü",
-  formulaIntro: "Beyzbolda vuruş ortalaması sabit ve yaygın olarak kabul edilen bir formülü takip eder. Bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını ölçer.",
-  mainFormula: "Vuruş Ortalaması = Vuruşlar ÷ Vuruş Denemeleri",
-  mainformulatext: "Bu formülde yalnızca iki değer önemlidir. Vuruşlar tekler, çiftler, üçlüler ve home run’ları içerir. Vuruş denemeleri, walk’lar, isabet eden atışlar ve fedakarlıklar hariç olmak üzere, vurucunun topa vurma şansına sahip olduğu plaka görünümlerini içerir. Bu, hesaplamayı saf vuruş yeteneğine odaklar.",
-  howhitsTitle: "Vuruşlar ve Vuruş Denemeleri Nasıl Sayılır",
-  howhitstext1: "Bir vuruş, vurucunun topu adil saha içine vurarak güvenli şekilde base’e ulaşmasıyla sayılır. Her resmi vuruş denemesi, oyuncuya bir vuruş kaydetme fırsatı verir. Walk’lar ve bazı diğer sonuçlar vuruş denemesi sayılmaz, bu nedenle vuruş ortalamasını etkilemez.",
-  howhitstext2: "Bu net ayrım, vuruş ortalamasını temas tutarlılığının güvenilir bir göstergesi haline getirir. Gerçek vuruş içermeyen plaka görünümlerinin sonuçları şişirmesini veya düşürmesini önler.",
-  stepTitle: "Hesaplayıcı Tarafından Kullanılan Adım Adım Hesaplama Mantığı",
-  stepList: [
-    "Toplam vuruş sayısını alın",
-    "Toplam vuruş denemesi sayısını alın",
-    "Vuruşları vuruş denemelerine bölün",
-    "Sonucu ondalık değer olarak gösterin",
-  ],
-  stepEnd: "Örneğin, 45 vuruşun 150 vuruş denemesine bölünmesi 0.300 eder. Hesaplayıcı bunu standart beyzbol istatistik sunumuna uyacak şekilde doğru biçimde formatlar.",
+      formulaTitle: "Vuruş Ortalaması Hesaplayıcı Formülü",
+      formulaIntro: "Beyzbolda vuruş ortalaması sabit ve yaygın olarak kabul edilen bir formülü takip eder. Bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını ölçer.",
+      mainFormula: "Vuruş Ortalaması = Vuruşlar ÷ Vuruş Denemeleri",
+      mainformulatext: "Bu formülde yalnızca iki değer önemlidir. Vuruşlar tekler, çiftler, üçlüler ve home run’ları içerir. Vuruş denemeleri, walk’lar, isabet eden atışlar ve fedakarlıklar hariç olmak üzere, vurucunun topa vurma şansına sahip olduğu plaka görünümlerini içerir. Bu, hesaplamayı saf vuruş yeteneğine odaklar.",
+      howhitsTitle: "Vuruşlar ve Vuruş Denemeleri Nasıl Sayılır",
+      howhitstext1: "Bir vuruş, vurucunun topu adil saha içine vurarak güvenli şekilde base’e ulaşmasıyla sayılır. Her resmi vuruş denemesi, oyuncuya bir vuruş kaydetme fırsatı verir. Walk’lar ve bazı diğer sonuçlar vuruş denemesi sayılmaz, bu nedenle vuruş ortalamasını etkilemez.",
+      howhitstext2: "Bu net ayrım, vuruş ortalamasını temas tutarlılığının güvenilir bir göstergesi haline getirir. Gerçek vuruş içermeyen plaka görünümlerinin sonuçları şişirmesini veya düşürmesini önler.",
+      stepTitle: "Hesaplayıcı Tarafından Kullanılan Adım Adım Hesaplama Mantığı",
+      stepList: [
+        "Toplam vuruş sayısını alın",
+        "Toplam vuruş denemesi sayısını alın",
+        "Vuruşları vuruş denemelerine bölün",
+        "Sonucu ondalık değer olarak gösterin",
+      ],
+      stepEnd: "Örneğin, 45 vuruşun 150 vuruş denemesine bölünmesi 0.300 eder. Hesaplayıcı bunu standart beyzbol istatistik sunumuna uyacak şekilde doğru biçimde formatlar.",
 
-  decimaltitle: "Vuruş Ortalamasında Ondalık Format ve Yuvarlama",
-  decimalcontent1: "Beyzbol vuruş ortalamaları ondalık olarak gösterilir ve genellikle üç basamağa yuvarlanır. Hesaplayıcı, sonucun doğru kalması ve resmi skor tutma uygulamalarıyla tutarlı olması için standart yuvarlama kurallarını uygular.",
-  decimalcontent2: "Bu hassasiyet, özellikle küçük farkların anlamlı olabildiği uzun sezonlar boyunca benzer performans seviyelerine sahip oyuncuları karşılaştırırken önemlidir.",
+      decimaltitle: "Vuruş Ortalamasında Ondalık Format ve Yuvarlama",
+      decimalcontent1: "Beyzbol vuruş ortalamaları ondalık olarak gösterilir ve genellikle üç basamağa yuvarlanır. Hesaplayıcı, sonucun doğru kalması ve resmi skor tutma uygulamalarıyla tutarlı olması için standart yuvarlama kurallarını uygular.",
+      decimalcontent2: "Bu hassasiyet, özellikle küçük farkların anlamlı olabildiği uzun sezonlar boyunca benzer performans seviyelerine sahip oyuncuları karşılaştırırken önemlidir.",
 
-  performancetitle: "Performans Değerlendirmesinde Vuruş Ortalamasının Kullanımı",
-  performancecontent1: "Vuruş ortalaması, bir oyuncunun plakada ne sıklıkla başarılı olduğunu belirlemeye yardımcı olur, ancak diğer metriklerle birlikte kullanıldığında en iyi sonucu verir. Analistler, genel hücum değerini anlamak için bunu sıklıkla on-base ve slugging ölçümleriyle birlikte inceler.",
-  performancecontent2: "İstatistiksel incelemeler sırasında, ortalamalar bazen değerlendirmelerin sonunda daha geniş sayısal kontrollerin ve eşiklerin bir parçası olur ve Sihirli Sayı Hesaplayıcısı gibi araçlarla desteklenir.",
+      performancetitle: "Performans Değerlendirmesinde Vuruş Ortalamasının Kullanımı",
+      performancecontent1: "Vuruş ortalaması, bir oyuncunun plakada ne sıklıkla başarılı olduğunu belirlemeye yardımcı olur, ancak diğer metriklerle birlikte kullanıldığında en iyi sonucu verir. Analistler, genel hücum değerini anlamak için bunu sıklıkla on-base ve slugging ölçümleriyle birlikte inceler.",
+      performancecontent2: "İstatistiksel incelemeler sırasında, ortalamalar bazen değerlendirmelerin sonunda daha geniş sayısal kontrollerin ve eşiklerin bir parçası olur ve Sihirli Sayı Hesaplayıcısı gibi araçlarla desteklenir.",
 
-  faqTitle: "Sıkça Sorulan Sorular",
-  faq: [
-    {
-      q: "Beyzbolda vuruş ortalaması nedir?",
-      a: "Beyzbolda vuruş ortalaması, bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını gösterir. Toplam vuruş sayısının toplam vuruş denemesi sayısına bölünmesiyle hesaplanır. Sonuç .275 veya .300 gibi ondalık olarak görünür ve oyuncular arasında karşılaştırmayı basit ve net hale getirir."
+      faqTitle: "Sıkça Sorulan Sorular",
+      faq: [
+        {
+          q: "Beyzbolda vuruş ortalaması nedir?",
+          a: "Beyzbolda vuruş ortalaması, bir oyuncunun resmi vuruş denemeleri sırasında ne sıklıkla vuruş yaptığını gösterir. Toplam vuruş sayısının toplam vuruş denemesi sayısına bölünmesiyle hesaplanır. Sonuç .275 veya .300 gibi ondalık olarak görünür ve oyuncular arasında karşılaştırmayı basit ve net hale getirir."
+        },
+        {
+          q: "Vuruş ortalamasında ne vuruş olarak sayılır?",
+          a: "Bir vuruş; tekler, çiftler, üçlüler ve home run’ları içerir. Vurucunun topu adil saha içine vurarak güvenli şekilde base’e ulaştığı her durumda vuruş olarak sayılır. Savunma oyuncularının hataları vuruş olarak sayılmaz."
+        },
+        {
+          q: "Walk’lar vuruş ortalamasına dahil midir?",
+          a: "Hayır, walk’lar dahil edilmez. Walk’lar ne vuruş ne de vuruş denemesi olarak sayılır, bu nedenle vuruş ortalamasını etkilemez. Bu kural, istatistiğin plaka disiplininden ziyade yalnızca vuruş başarısına odaklanmasını sağlar."
+        },
+        {
+          q: "Vuruş ortalamasında kaç ondalık basamak kullanılır?",
+          a: "Vuruş ortalamaları genellikle üç ondalık basamakla gösterilir. Örneğin, hesaplanan 0.2865 değeri .287 olarak yuvarlanır. Bu standart format, skor kartları ve oyuncu istatistikleri arasında tutarlılığı korumaya yardımcı olur."
+        },
+        {
+          q: "Vuruş ortalaması bir vurucunun performansını değerlendirmek için yeterli midir?",
+          a: "Vuruş ortalaması tutarlılığı gösterir ancak gücü veya base’e çıkma yeteneğini ölçmez. Koçlar ve analistler, sezon boyunca hücum performansının daha eksiksiz bir resmini elde etmek için bunu genellikle diğer istatistiklerle birlikte inceler."
+        },
+        {
+          q: "Bu hesaplayıcı diğer beyzbol analiz araçlarıyla kullanılabilir mi?",
+          a: "Evet, vuruş ortalaması hesaplamaları genellikle daha geniş istatistiksel incelemelerin bir parçası olarak yer alır. Oyuncu performansı değerlendirildikten sonra, analistler analiz sonunda desenleri veya eşikleri belirlemek için Sihirli Sayı Hesaplayıcısı gibi araçlarla ek sayısal kontroller uygulayabilir."
+        },
+      ]
     },
-    {
-      q: "Vuruş ortalamasında ne vuruş olarak sayılır?",
-      a: "Bir vuruş; tekler, çiftler, üçlüler ve home run’ları içerir. Vurucunun topu adil saha içine vurarak güvenli şekilde base’e ulaştığı her durumda vuruş olarak sayılır. Savunma oyuncularının hataları vuruş olarak sayılmaz."
+
+    magicnumber: {
+      metaTitle: "Sihirli Numara Hesaplayıcı – Numaranızı Keşfedin",
+      metaDescription: "Sihirli numaranızı doğru sonuçlarla anında bulun. Basit, eğlenceli ve hızlı, Sihirli Numara Hesaplayıcısını şimdi kullanın.",
+      title: "Sihirli Numara Hesaplayıcı",
+      desc: "Sihirli numaranızı doğru sonuçlarla anında bulun. Basit, eğlenceli ve hızlı, Sihirli Numara Hesaplayıcısını şimdi kullanın.",
+      heading: "Sihirli Numara Hesaplayıcı",
+
+      totalGames: "Sezondaki Toplam Oyun Sayısı",
+      teamWins: "Takımınızın Kazandığı Oyunlar",
+      opponentLosses: "En Yakın Rakibin Kaybettiği Oyunlar",
+
+      result: "Sihirli Numara Sonucu",
+      magicNumber: "Sihirli Numara",
+
+      resultExplain: "Sihirli numara, playoff veya şampiyonluk için gerekli olan, takımınızın kazandığı oyunlar ve en yakın rakibin kaybettiği oyunların toplamını gösterir. Sezonun toplam oyun sayısı kullanılarak hesaplanır.",
+
+      tocTitle: "İçindekiler",
+      tocwhat: "Beyzbol’da Sihirli Numara Nedir?",
+      tocwhy: "Sihirli Numara Sezon Boyunca Neden Önemlidir",
+      tocformula: "Sihirli Numara Hesaplayıcı Formülü",
+      tocstepbystep: "Adım Adım Örnek Hesaplama",
+      tochow: "Hesaplayıcı Formülü Nasıl Uygular",
+
+      introTitle: "Sihirli Numara Hesaplayıcısı Hakkında",
+      whattitle: "Beyzbol’da Sihirli Numara Nedir?",
+      whatContent1: "Beyzbolda sihirli numara, bir takımın bir bölge şampiyonluğunu kazanma veya playoff için hak kazanma derecesine ne kadar yakın olduğunu gösterir. Bu, takımınızın kazanması gereken oyun sayısı ile en yakın rakibin kaybetmesi gereken oyun sayısının toplamını temsil eder.",
+      whatContent2: "Takımınızın her zaferi sihirli numarayı bir azaltır. Aynı şekilde, en yakın rakibin her kaybı da numarayı bir azaltır. Sihirli numara sıfıra ulaştığında, playoff hakkı veya şampiyonluk matematiksel olarak kesinleşir.",
+
+      understandingtitle: "Sihirli Numara Sezon Boyunca Neden Önemlidir",
+      understandingpara1: "Sihirli numara, takımların, analistlerin ve taraftarların ilerlemeyi sadece sıralamaya bağlı kalmadan takip etmesine yardımcı olur. Tahminleri ortadan kaldırır ve hak kazanmanın resmi olarak gerçekleşmesi için kaç sonuç kaldığını gösterir.",
+      understandingpara2: "Major League Baseball takımları uzun sezonlar oynadığından, sihirli numara yılın sonlarında özellikle önemlidir. Baskı anlarını öne çıkarır ve belirli oyunların sezon bitmeden neden kritik göründüğünü açıklar.",
+
+      howtitle: "Sihirli Numara Hesaplayıcı Nasıl Yardımcı Olur",
+      howpara1: "Sihirli Numara Hesaplayıcı, mevcut sezon verilerini kullanarak bu süreci basitleştirir. Zafer ve mağlubiyetleri manuel olarak takip etmek yerine, kullanıcılar takımınızın kazandığı oyunları ve en yakın rakibin kaybettiği oyunları girerek anında sonuç alabilir.",
+      howpara2: "Bu, maç planlaması, taraftar analizi ve medya tartışmalarında yardımcı olur. Sihirli numaralar genellikle oyuncu ve takım performans metrikleri ile birlikte incelenir ve sezon analizi ayrıca ",
+      howlink: "Vuruş Ortalaması Hesaplayıcısı.",
+
+      imageUrl: "/Magic-Number-Calculator.jpg",
+      imageAlt: "Magic Number Calculator",
+
+      formulaTitle: "Sihirli Numara Hesaplayıcı Formülü",
+      formulaIntro: "Beyzbolda sihirli numara, sezon uzunluğu ve mevcut sıralamaya dayalı sabit bir formül kullanılarak hesaplanır. Bu formül, bir takımın kazanması ve en yakın rakibin kaybetmesi gereken oyunların sayısını gösterir.",
+      mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
+      mainformulatext: "Major League Baseball’da normal sezon toplam oyun sayısı 162’dir. Ek +1, eşitlik durumlarını hesaba katar; bu nedenle birçok açıklamada başlangıç referansı olarak 163 kullanılır.",
+
+      understandingTitle: "Formülün Her Parçasını Anlamak",
+      understandingList: [
+        "Toplam Oyunlar: Normal sezonda planlanan toplam oyun sayısı, genellikle 162",
+        "Takım Kazanımları: Takımınızın kazandığı oyun sayısı",
+        "Rakip Kaybı: En yakın rakip takımın kaybettiği oyun sayısı",
+      ],
+      understandingEnd: "Kazançları ve rakip kayıplarını toplamdan çıkardığınızda, formül hak kazanmanın garanti olabilmesi için kaç belirleyici sonucun kaldığını gösterir.",
+
+      stepTitle: "Adım Adım Örnek Hesaplama",
+      steptext1: "Bir takımın 61 zaferi ve en yakın rakibin 56 mağlubiyeti olduğunu varsayalım. Formülü kullanarak:",
+      stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
+      howhitstext2: "Bu, takımın playoff pozisyonunu güvenceye almak için kendi 46 zaferinin veya rakibin kayıplarının herhangi bir kombinasyonuna ihtiyaç duyduğu anlamına gelir. Her zafer veya mağlubiyet numarayı bir azaltır.",
+
+      howtotitle: "Hesaplayıcı Formülü Nasıl Uygular",
+      howtocontent1: "Sihirli Numara Hesaplayıcı bu süreci otomatikleştirir. Takımınızın mevcut kazançlarını ve rakibin kayıplarını girersiniz. Hesaplayıcı formülü anında uygular ve manuel izleme olmadan sonucu gösterir.",
+      howtocontent2: "Bu yaklaşım, sezonun sonlarında sıralamalar hızlı değiştiğinde hataları önlemeye yardımcı olur. Ayrıca birden fazla takım aynı pozisyon için yarışırken karşılaştırmaları kolaylaştırır.",
+
+      magictitle: "Sihirli Numara ve Diğer Sıralama Ölçütleri",
+      magiccontent1: "Sihirli numara, geçmiş performansa değil, gelecekteki sonuçlara odaklandığı için kazanma yüzdesinden farklıdır. Kazanma yüzdesi, bir takımın şimdiye kadar ne kadar iyi oynadığını gösterir. Sihirli numara, takımın yarışı bitirmeye ne kadar yakın olduğunu gösterir.",
+      magiccontent2: "Bu nedenle, sezon ilerledikçe sihirli numara daha anlamlı hale gelir, özellikle sıkı bölge veya wild card yarışlarında.",
+
+      faqTitle: "Sıkça Sorulan Sorular",
+      faq: [
+        {
+          q: "Beyzbol’da sihirli numara ne anlama gelir?",
+          a: "Beyzbolda sihirli numara, bir takımın bir bölge şampiyonluğunu kazanma veya playoff için hak kazanma derecesine ne kadar yakın olduğunu gösterir. Bu, takımınızın kazandığı oyunlar ile en yakın rakibin kaybetmesi gereken oyunların toplamını temsil eder."
+        },
+        {
+          q: "Sihirli numara neden 163’ten başlar?",
+          a: "MLB takımları 162 normal sezon oyunu oynar. Ek bir oyun, eşitlik kurallarından gelir. Bu nedenle, hesaplamalar sıklıkla sihirli numaranın matematiksel olarak nasıl çalıştığını açıklarken 163 referansını kullanır."
+        },
+        {
+          q: "Sihirli numara her oyundan sonra değişir mi?",
+          a: "Evet, sihirli numara her ilgili oyundan sonra güncellenir. Takımınız kazandığında numara bir azalır. En yakın rakip kaybettiğinde numara da bir azalır. Başka herhangi bir sonuç numarayı değiştirmez."
+        },
+        {
+          q: "Birden fazla rakip varsa sihirli numara nasıl hesaplanır?",
+          a: "Birden fazla takım aynı pozisyon için yarışıyorsa, sihirli numara sıralamada en yakın rakibe göre hesaplanır. Takımlar genellikle konumlarına göre en az kayba sahip rakibe odaklanır."
+        },
+        {
+          q: "Sihirli numara ile kazanma yüzdesi arasındaki fark nedir?",
+          a: "Kazanma yüzdesi geçmiş performansı gösterir. Sihirli numara, bir takımın bir pozisyonu garantilemeden önce kaç belirleyici sonucun kaldığını göstererek geleceğe odaklanır."
+        },
+        {
+          q: "Beyzbol’da trajik sayı nedir?",
+          a: "Trajik sayı, aynı zamanda eleme sayısı olarak da adlandırılır, bir takımın playoff yarışından ne kadar yakın elenmekte olduğunu gösterir. Sihirli sayının tersidir ve takımınızın kayıpları ile rakip kazançlarının toplamının hak kazanma şansını nasıl bitireceğini gösterir."
+        },
+      ]
     },
-    {
-      q: "Walk’lar vuruş ortalamasına dahil midir?",
-      a: "Hayır, walk’lar dahil edilmez. Walk’lar ne vuruş ne de vuruş denemesi olarak sayılır, bu nedenle vuruş ortalamasını etkilemez. Bu kural, istatistiğin plaka disiplininden ziyade yalnızca vuruş başarısına odaklanmasını sağlar."
+
+    fielding: {
+      metaTitle: "Online Savunma Yüzdesi Hesaplayıcı – Hızlı ve Kolay",
+      metaDescription: "Savunma yüzdenizi saniyeler içinde tam olarak bulun. Kolay girişler, doğru istatistikler, Savunma Yüzdesi Hesaplayıcıyı şimdi kullanın.",
+      title: "Savunma Yüzdesi Hesaplayıcı",
+      desc: "Savunma yüzdenizi saniyeler içinde tam olarak bulun. Kolay girişler, doğru istatistikler, Savunma Yüzdesi Hesaplayıcıyı şimdi kullanın.",
+      heading: "Savunma Yüzdesi Hesaplayıcı",
+
+      putouts: "Outlar",
+      assists: "Asistler",
+      errors: "Hatalar",
+
+      result: "Savunma Yüzdesi",
+
+      resultExplain:
+        "Savunma yüzdesi, outlar ve asistler toplanarak ve bu toplam hatalar dahil tüm savunma şanslarına bölünerek hesaplanır. Bir oyuncunun topu ne kadar güvenilir şekilde savunduğunu gösterir.",
+
+      tocTitle: "İçindekiler",
+      tocwhat: "Savunma Yüzdesi Hesaplayıcı Nedir?",
+      tocwhy: "Beyzbolda Savunma Yüzdesini Anlamak",
+      tocformula: "Savunma Yüzdesi Hesaplayıcı Formülü",
+      tocstepbystep: "Adım Adım Örnek Hesaplama",
+      tochow: "Hesaplayıcı Formülü Nasıl Uygular",
+
+      introTitle: "Savunma Yüzdesi Hesaplayıcı Hakkında",
+      whattitle: "Savunma Yüzdesi Hesaplayıcı Nedir?",
+      whatContent1: "Bir Savunma Yüzdesi Hesaplayıcı, bir beyzbol oyuncusunun savunmada ne kadar iyi performans gösterdiğini ölçmeye yardımcı olur. Savunma yüzdesi, bir oyuncunun hata yapmadan topu ne sıklıkla başarılı şekilde kontrol ettiğini gösterir. Sahadaki güvenilirliği değerlendirmek için beyzbolda kullanılan temel savunma istatistiklerinden biridir.",
+      whatContent2: "Bu beyzbol savunma yüzdesi hesaplayıcı hızlı ve net sonuçlar sunar. Oyuncuların, antrenörlerin ve taraftarların savunma performansını manuel hesaplama yapmadan anlamasına yardımcı olur.",
+
+      understandingtitle: "Beyzbolda Savunma Yüzdesini Anlamak",
+      understandingpara1: "Savunma yüzdesi dört değere dayanır: outlar, asistler, hatalar ve toplam şanslar. Outlar, bir savunma oyuncusunun bir out kaydettiği durumlarda oluşur. Asistler, bir oyuncu bir outun tamamlanmasına yardımcı olduğunda gerçekleşir. Hatalar ise rutin bir oyunun başarıyla tamamlanmadığı durumları kapsar.",
+      understandingpara2: "Toplam şanslar, outlar, asistler ve hataların toplamıdır. Savunma yüzdesi, bu şansların kaçının doğru şekilde değerlendirildiğini gösterir. Bu da onu savunma performansını incelemek için basit ama faydalı bir yöntem yapar.",
+
+      howtitle: "Savunma Yüzdesi Hesaplayıcı Nasıl Çalışır",
+      howpara1: "Hesaplayıcı, girdiğiniz savunma istatistiklerini alır ve standart beyzbol yöntemini uygular. Outlar ve asistleri toplar, ardından bu toplamı genel şanslara böler. Sonuç, bir oyuncunun savunma oyunlarındaki verimliliğini gösterir.",
+      howpara2: "Resmi beyzbol skor kurallarını takip ettiği için, hesaplayıcı maç analizlerinde adil karşılaştırmaları ve oyunlar ile sezonlar boyunca doğru savunma kayıtlarını destekler.",
+      howlink: "Vuruş Ortalaması Hesaplayıcı.",
+
+      whytitle: "Savunma Analizinde Savunma Yüzdesi Neden Önemlidir",
+      whypara1: "Savunma yüzdesi, farklı pozisyonlar ve takımlar arasındaki savunma oyuncularını karşılaştırmaya yardımcı olur. Daha yüksek bir değer genellikle oyunlar sırasında daha az hata yapıldığını gösterir. Alan kapsaması veya tepki hızını ölçmese de, savunma verimliliğini değerlendirmek için temel bir beyzbol metriği olmaya devam eder.",
+      whypara2: "Savunma istatistikleri, performansın tam bir görünümünü elde etmek için genellikle hücum verileriyle birlikte incelenir ve sezon analizleri ayrıca şu gibi araçları da içerebilir:",
+      whylink: "Slugging Yüzdesi Hesaplayıcı.",
+
+      imageUrl: "/Fielding-Percentage-Calculator.jpg",
+      imageAlt: "Fielding Percentage Calculator",
+
+      formulaTitle: "Savunma Yüzdesi Hesaplayıcı Formülü",
+      formulasubtitle: "Beyzbolda Resmi Savunma Yüzdesi Formülü",
+      formulasubIntro: "Beyzbolda savunma yüzdesi açık ve basit bir formülü takip eder. Bir oyuncunun kaç savunma şansını başarıyla değerlendirdiğini ölçer.",
+      mainFormula: "Savunma Yüzdesi = (Outlar + Asistler) ÷ Toplam Şanslar",
+      formulasubtext: "Bu formül yalnızca savunma hareketlerine odaklanır. Vuruş veya atış istatistiklerini içermez. Sonuç, top oyuncuya yöneldiğinde ne kadar güvenilir olduğunu gösterir.",
+
+      whatTitle: "Toplam Şanslar Neleri Kapsar?",
+      whatList: [
+        "Outlar: Bir oyuncunun doğrudan bir out kaydettiği durumlar",
+        "Asistler: Bir oyuncunun bir outun tamamlanmasına yardımcı olduğu durumlar",
+        "Hatalar: Rutin bir oyunun başarıyla tamamlanmadığı durumlar",
+      ],
+      whatEnd: "Bunların toplamı, bir oyuncunun maçlar boyunca savunmada ne sıklıkla test edildiğini gösterir.",
+
+      stepTitle: "Adım Adım Hesaplama Örneği",
+      stepList: [
+        "Outlar: 90",
+        "Asistler: 40",
+        "Hatalar: 5",
+      ],
+      stepformula:
+        "Toplam Şanslar = 90 + 40 + 5 = 135 Savunma Yüzdesi = (90 + 40) ÷ 135 Savunma Yüzdesi = 130 ÷ 135 = 0.963",
+      stepend: "Bu sonuç, oyuncunun savunma şanslarının yaklaşık %96,3’ünü başarıyla değerlendirdiği anlamına gelir.",
+
+      howtotitle: "Hesaplayıcı Formülü Nasıl Uygular",
+      howtocontent1: "Savunma Yüzdesi Hesaplayıcı bu süreci otomatikleştirir. Outları, asistleri ve hataları girersiniz. Hesaplayıcı değerleri toplar, formülü uygular ve sonucu anında gösterir.",
+      howtocontent2: "Bu, hesaplama hatalarını ortadan kaldırır ve savunma analizini net tutar. Ayrıca aynı yöntemi kullanarak oyuncuları maçlar, pozisyonlar ve sezonlar arasında karşılaştırmayı kolaylaştırır.",
+
+      whyformulatitle: "Bu Formül Beyzbolda Neden Kullanılır",
+      whyformulacontent1: "Bu formül basit ve tutarlı olduğu için yaygın olarak kullanılır. Farklı oyuncular ve takımlar arasında savunma performansının adil şekilde karşılaştırılmasına olanak tanır. Bir oyuncunun ne kadar alan kapladığını ölçmese de, savunma istatistiklerinin güvenilir bir parçası olmaya devam eder.",
+      whyformulacontent2: "Resmi skor verilerine dayandığı için, maç analizleri ve uzun vadeli savunma kayıtlarının incelenmesi sırasında doğru değerlendirmeleri destekler.",
+
+      faqTitle: "Sıkça Sorulan Sorular",
+      faq: [
+        {
+          q: "Beyzbolda savunma yüzdesi nedir?",
+          a: "Savunma yüzdesi, bir oyuncunun topu ne sıklıkla başarıyla kontrol ettiğini gösteren bir savunma istatistiğidir. Outlar, asistler ve hatalar dahil olmak üzere başarılı oyunları toplam şanslarla karşılaştırır. Daha yüksek bir yüzde, sahada daha az hata yapıldığını gösterir."
+        },
+        {
+          q: "İyi bir savunma yüzdesi neyi gösterir?",
+          a: "İyi bir savunma yüzdesi genellikle güvenilirliği gösterir. Oyuncunun savunma şanslarının çoğunu outa çevirdiği anlamına gelir. Antrenörler bunu özellikle iç saha oyuncuları ve catcher’lar için tutarlılığı değerlendirmede kullanır."
+        },
+        {
+          q: "Hatalar savunma yüzdesindeki tek olumsuz faktör müdür?",
+          a: "Evet, hatalar savunma yüzdesini düşüren ana faktördür. Her hata, başarılı oyunları artırmadan toplam şansları artırır ve bu da nihai değeri düşürür. Bu yüzden temiz oyun savunmada önemlidir."
+        },
+        {
+          q: "Savunma yüzdesi savunma alanını ölçer mi?",
+          a: "Hayır, savunma yüzdesi bir oyuncunun ne kadar alan kapladığını ölçmez. Sadece ulaştığı topları ne kadar iyi değerlendirdiğini ölçer. Alan kapsaması ve tepki hızı farklı savunma metrikleri gerektirir."
+        },
+        {
+          q: "Savunma yüzdesi pozisyona göre değişebilir mi?",
+          a: "Evet, savunma yüzdesi pozisyona göre değişebilir. Birinci kaleciler ve catcher’lar genellikle daha yüksek yüzdelere sahiptir çünkü sık sık rutin oyunlarla karşılaşırlar. Dış saha oyuncularının daha az şansı olabilir ancak farklı savunma durumlarıyla karşılaşırlar."
+        },
+        {
+          q: "Savunma yüzdesi savunma performansını değerlendirmek için yeterli midir?",
+          a: "Savunma yüzdesi faydalıdır ancak yeterli değildir. Topu kontrol etme becerisini gösterir ancak genel savunma etkisini göstermez. Analistler, oyuncu performansının daha kapsamlı bir görünümü için genellikle diğer savunma istatistikleriyle birlikte kullanır."
+        },
+      ]
     },
-    {
-      q: "Vuruş ortalamasında kaç ondalık basamak kullanılır?",
-      a: "Vuruş ortalamaları genellikle üç ondalık basamakla gösterilir. Örneğin, hesaplanan 0.2865 değeri .287 olarak yuvarlanır. Bu standart format, skor kartları ve oyuncu istatistikleri arasında tutarlılığı korumaya yardımcı olur."
-    },
-    {
-      q: "Vuruş ortalaması bir vurucunun performansını değerlendirmek için yeterli midir?",
-      a: "Vuruş ortalaması tutarlılığı gösterir ancak gücü veya base’e çıkma yeteneğini ölçmez. Koçlar ve analistler, sezon boyunca hücum performansının daha eksiksiz bir resmini elde etmek için bunu genellikle diğer istatistiklerle birlikte inceler."
-    },
-    {
-      q: "Bu hesaplayıcı diğer beyzbol analiz araçlarıyla kullanılabilir mi?",
-      a: "Evet, vuruş ortalaması hesaplamaları genellikle daha geniş istatistiksel incelemelerin bir parçası olarak yer alır. Oyuncu performansı değerlendirildikten sonra, analistler analiz sonunda desenleri veya eşikleri belirlemek için Sihirli Sayı Hesaplayıcısı gibi araçlarla ek sayısal kontroller uygulayabilir."
-    },
-  ]
-},
 
-magicnumber: {
-  metaTitle: "Sihirli Numara Hesaplayıcı – Numaranızı Keşfedin",
-  metaDescription: "Sihirli numaranızı doğru sonuçlarla anında bulun. Basit, eğlenceli ve hızlı, Sihirli Numara Hesaplayıcısını şimdi kullanın.",
-  title: "Sihirli Numara Hesaplayıcı",
-  desc: "Sihirli numaranızı doğru sonuçlarla anında bulun. Basit, eğlenceli ve hızlı, Sihirli Numara Hesaplayıcısını şimdi kullanın.",
-  heading: "Sihirli Numara Hesaplayıcı",
-
-  totalGames: "Sezondaki Toplam Oyun Sayısı",
-  teamWins: "Takımınızın Kazandığı Oyunlar",
-  opponentLosses: "En Yakın Rakibin Kaybettiği Oyunlar",
-
-  result: "Sihirli Numara Sonucu",
-  magicNumber: "Sihirli Numara",
-
-  resultExplain: "Sihirli numara, playoff veya şampiyonluk için gerekli olan, takımınızın kazandığı oyunlar ve en yakın rakibin kaybettiği oyunların toplamını gösterir. Sezonun toplam oyun sayısı kullanılarak hesaplanır.",
-
-  tocTitle: "İçindekiler",
-  tocwhat: "Beyzbol’da Sihirli Numara Nedir?",
-  tocwhy: "Sihirli Numara Sezon Boyunca Neden Önemlidir",
-  tocformula: "Sihirli Numara Hesaplayıcı Formülü",
-  tocstepbystep: "Adım Adım Örnek Hesaplama",
-  tochow: "Hesaplayıcı Formülü Nasıl Uygular",
-
-  introTitle: "Sihirli Numara Hesaplayıcısı Hakkında",
-  whattitle: "Beyzbol’da Sihirli Numara Nedir?",
-  whatContent1: "Beyzbolda sihirli numara, bir takımın bir bölge şampiyonluğunu kazanma veya playoff için hak kazanma derecesine ne kadar yakın olduğunu gösterir. Bu, takımınızın kazanması gereken oyun sayısı ile en yakın rakibin kaybetmesi gereken oyun sayısının toplamını temsil eder.",
-  whatContent2: "Takımınızın her zaferi sihirli numarayı bir azaltır. Aynı şekilde, en yakın rakibin her kaybı da numarayı bir azaltır. Sihirli numara sıfıra ulaştığında, playoff hakkı veya şampiyonluk matematiksel olarak kesinleşir.",
-
-  understandingtitle: "Sihirli Numara Sezon Boyunca Neden Önemlidir",
-  understandingpara1: "Sihirli numara, takımların, analistlerin ve taraftarların ilerlemeyi sadece sıralamaya bağlı kalmadan takip etmesine yardımcı olur. Tahminleri ortadan kaldırır ve hak kazanmanın resmi olarak gerçekleşmesi için kaç sonuç kaldığını gösterir.",
-  understandingpara2: "Major League Baseball takımları uzun sezonlar oynadığından, sihirli numara yılın sonlarında özellikle önemlidir. Baskı anlarını öne çıkarır ve belirli oyunların sezon bitmeden neden kritik göründüğünü açıklar.",
-
-  howtitle: "Sihirli Numara Hesaplayıcı Nasıl Yardımcı Olur",
-  howpara1: "Sihirli Numara Hesaplayıcı, mevcut sezon verilerini kullanarak bu süreci basitleştirir. Zafer ve mağlubiyetleri manuel olarak takip etmek yerine, kullanıcılar takımınızın kazandığı oyunları ve en yakın rakibin kaybettiği oyunları girerek anında sonuç alabilir.",
-  howpara2: "Bu, maç planlaması, taraftar analizi ve medya tartışmalarında yardımcı olur. Sihirli numaralar genellikle oyuncu ve takım performans metrikleri ile birlikte incelenir ve sezon analizi ayrıca ",
-  howlink: "Vuruş Ortalaması Hesaplayıcısı.",
-
-  imageUrl: "/Magic-Number-Calculator.jpg",
-  imageAlt: "Magic Number Calculator",
-
-  formulaTitle: "Sihirli Numara Hesaplayıcı Formülü",
-  formulaIntro: "Beyzbolda sihirli numara, sezon uzunluğu ve mevcut sıralamaya dayalı sabit bir formül kullanılarak hesaplanır. Bu formül, bir takımın kazanması ve en yakın rakibin kaybetmesi gereken oyunların sayısını gösterir.",
-  mainFormula: "Magic Number = Total Games − Team Wins − Opponent Losses + 1",
-  mainformulatext: "Major League Baseball’da normal sezon toplam oyun sayısı 162’dir. Ek +1, eşitlik durumlarını hesaba katar; bu nedenle birçok açıklamada başlangıç referansı olarak 163 kullanılır.",
-
-  understandingTitle: "Formülün Her Parçasını Anlamak",
-  understandingList: [
-    "Toplam Oyunlar: Normal sezonda planlanan toplam oyun sayısı, genellikle 162",
-    "Takım Kazanımları: Takımınızın kazandığı oyun sayısı",
-    "Rakip Kaybı: En yakın rakip takımın kaybettiği oyun sayısı",
-  ],
-  understandingEnd: "Kazançları ve rakip kayıplarını toplamdan çıkardığınızda, formül hak kazanmanın garanti olabilmesi için kaç belirleyici sonucun kaldığını gösterir.",
-
-  stepTitle: "Adım Adım Örnek Hesaplama",
-  steptext1: "Bir takımın 61 zaferi ve en yakın rakibin 56 mağlubiyeti olduğunu varsayalım. Formülü kullanarak:",
-  stepformula: "Magic Number = 162 − 61 − 56 + 1 Magic Number = 46",
-  howhitstext2: "Bu, takımın playoff pozisyonunu güvenceye almak için kendi 46 zaferinin veya rakibin kayıplarının herhangi bir kombinasyonuna ihtiyaç duyduğu anlamına gelir. Her zafer veya mağlubiyet numarayı bir azaltır.",
-
-  howtotitle: "Hesaplayıcı Formülü Nasıl Uygular",
-  howtocontent1: "Sihirli Numara Hesaplayıcı bu süreci otomatikleştirir. Takımınızın mevcut kazançlarını ve rakibin kayıplarını girersiniz. Hesaplayıcı formülü anında uygular ve manuel izleme olmadan sonucu gösterir.",
-  howtocontent2: "Bu yaklaşım, sezonun sonlarında sıralamalar hızlı değiştiğinde hataları önlemeye yardımcı olur. Ayrıca birden fazla takım aynı pozisyon için yarışırken karşılaştırmaları kolaylaştırır.",
-
-  magictitle: "Sihirli Numara ve Diğer Sıralama Ölçütleri",
-  magiccontent1: "Sihirli numara, geçmiş performansa değil, gelecekteki sonuçlara odaklandığı için kazanma yüzdesinden farklıdır. Kazanma yüzdesi, bir takımın şimdiye kadar ne kadar iyi oynadığını gösterir. Sihirli numara, takımın yarışı bitirmeye ne kadar yakın olduğunu gösterir.",
-  magiccontent2: "Bu nedenle, sezon ilerledikçe sihirli numara daha anlamlı hale gelir, özellikle sıkı bölge veya wild card yarışlarında.",
-
-  faqTitle: "Sıkça Sorulan Sorular",
-  faq: [
-    {
-      q: "Beyzbol’da sihirli numara ne anlama gelir?",
-      a: "Beyzbolda sihirli numara, bir takımın bir bölge şampiyonluğunu kazanma veya playoff için hak kazanma derecesine ne kadar yakın olduğunu gösterir. Bu, takımınızın kazandığı oyunlar ile en yakın rakibin kaybetmesi gereken oyunların toplamını temsil eder."
-    },
-    {
-      q: "Sihirli numara neden 163’ten başlar?",
-      a: "MLB takımları 162 normal sezon oyunu oynar. Ek bir oyun, eşitlik kurallarından gelir. Bu nedenle, hesaplamalar sıklıkla sihirli numaranın matematiksel olarak nasıl çalıştığını açıklarken 163 referansını kullanır."
-    },
-    {
-      q: "Sihirli numara her oyundan sonra değişir mi?",
-      a: "Evet, sihirli numara her ilgili oyundan sonra güncellenir. Takımınız kazandığında numara bir azalır. En yakın rakip kaybettiğinde numara da bir azalır. Başka herhangi bir sonuç numarayı değiştirmez."
-    },
-    {
-      q: "Birden fazla rakip varsa sihirli numara nasıl hesaplanır?",
-      a: "Birden fazla takım aynı pozisyon için yarışıyorsa, sihirli numara sıralamada en yakın rakibe göre hesaplanır. Takımlar genellikle konumlarına göre en az kayba sahip rakibe odaklanır."
-    },
-    {
-      q: "Sihirli numara ile kazanma yüzdesi arasındaki fark nedir?",
-      a: "Kazanma yüzdesi geçmiş performansı gösterir. Sihirli numara, bir takımın bir pozisyonu garantilemeden önce kaç belirleyici sonucun kaldığını göstererek geleceğe odaklanır."
-    },
-    {
-      q: "Beyzbol’da trajik sayı nedir?",
-      a: "Trajik sayı, aynı zamanda eleme sayısı olarak da adlandırılır, bir takımın playoff yarışından ne kadar yakın elenmekte olduğunu gösterir. Sihirli sayının tersidir ve takımınızın kayıpları ile rakip kazançlarının toplamının hak kazanma şansını nasıl bitireceğini gösterir."
-    },
-  ]
-},
-
-fielding: {
-  metaTitle: "Online Savunma Yüzdesi Hesaplayıcı – Hızlı ve Kolay",
-  metaDescription: "Savunma yüzdenizi saniyeler içinde tam olarak bulun. Kolay girişler, doğru istatistikler, Savunma Yüzdesi Hesaplayıcıyı şimdi kullanın.",
-  title: "Savunma Yüzdesi Hesaplayıcı",
-  desc: "Savunma yüzdenizi saniyeler içinde tam olarak bulun. Kolay girişler, doğru istatistikler, Savunma Yüzdesi Hesaplayıcıyı şimdi kullanın.",
-  heading: "Savunma Yüzdesi Hesaplayıcı",
-
-  putouts: "Outlar",
-  assists: "Asistler",
-  errors: "Hatalar",
-
-  result: "Savunma Yüzdesi",
-
-  resultExplain:
-    "Savunma yüzdesi, outlar ve asistler toplanarak ve bu toplam hatalar dahil tüm savunma şanslarına bölünerek hesaplanır. Bir oyuncunun topu ne kadar güvenilir şekilde savunduğunu gösterir.",
-
-  tocTitle: "İçindekiler",
-  tocwhat: "Savunma Yüzdesi Hesaplayıcı Nedir?",
-  tocwhy: "Beyzbolda Savunma Yüzdesini Anlamak",
-  tocformula: "Savunma Yüzdesi Hesaplayıcı Formülü",
-  tocstepbystep: "Adım Adım Örnek Hesaplama",
-  tochow: "Hesaplayıcı Formülü Nasıl Uygular",
-
-  introTitle: "Savunma Yüzdesi Hesaplayıcı Hakkında",
-  whattitle: "Savunma Yüzdesi Hesaplayıcı Nedir?",
-  whatContent1: "Bir Savunma Yüzdesi Hesaplayıcı, bir beyzbol oyuncusunun savunmada ne kadar iyi performans gösterdiğini ölçmeye yardımcı olur. Savunma yüzdesi, bir oyuncunun hata yapmadan topu ne sıklıkla başarılı şekilde kontrol ettiğini gösterir. Sahadaki güvenilirliği değerlendirmek için beyzbolda kullanılan temel savunma istatistiklerinden biridir.",
-  whatContent2: "Bu beyzbol savunma yüzdesi hesaplayıcı hızlı ve net sonuçlar sunar. Oyuncuların, antrenörlerin ve taraftarların savunma performansını manuel hesaplama yapmadan anlamasına yardımcı olur.",
-
-  understandingtitle: "Beyzbolda Savunma Yüzdesini Anlamak",
-  understandingpara1: "Savunma yüzdesi dört değere dayanır: outlar, asistler, hatalar ve toplam şanslar. Outlar, bir savunma oyuncusunun bir out kaydettiği durumlarda oluşur. Asistler, bir oyuncu bir outun tamamlanmasına yardımcı olduğunda gerçekleşir. Hatalar ise rutin bir oyunun başarıyla tamamlanmadığı durumları kapsar.",
-  understandingpara2: "Toplam şanslar, outlar, asistler ve hataların toplamıdır. Savunma yüzdesi, bu şansların kaçının doğru şekilde değerlendirildiğini gösterir. Bu da onu savunma performansını incelemek için basit ama faydalı bir yöntem yapar.",
-
-  howtitle: "Savunma Yüzdesi Hesaplayıcı Nasıl Çalışır",
-  howpara1: "Hesaplayıcı, girdiğiniz savunma istatistiklerini alır ve standart beyzbol yöntemini uygular. Outlar ve asistleri toplar, ardından bu toplamı genel şanslara böler. Sonuç, bir oyuncunun savunma oyunlarındaki verimliliğini gösterir.",
-  howpara2: "Resmi beyzbol skor kurallarını takip ettiği için, hesaplayıcı maç analizlerinde adil karşılaştırmaları ve oyunlar ile sezonlar boyunca doğru savunma kayıtlarını destekler.",
-  howlink: "Vuruş Ortalaması Hesaplayıcı.",
-
-  whytitle: "Savunma Analizinde Savunma Yüzdesi Neden Önemlidir",
-  whypara1: "Savunma yüzdesi, farklı pozisyonlar ve takımlar arasındaki savunma oyuncularını karşılaştırmaya yardımcı olur. Daha yüksek bir değer genellikle oyunlar sırasında daha az hata yapıldığını gösterir. Alan kapsaması veya tepki hızını ölçmese de, savunma verimliliğini değerlendirmek için temel bir beyzbol metriği olmaya devam eder.",
-  whypara2: "Savunma istatistikleri, performansın tam bir görünümünü elde etmek için genellikle hücum verileriyle birlikte incelenir ve sezon analizleri ayrıca şu gibi araçları da içerebilir:",
-  whylink: "Slugging Yüzdesi Hesaplayıcı.",
-
-  imageUrl: "/Fielding-Percentage-Calculator.jpg",
-  imageAlt: "Fielding Percentage Calculator",
-
-  formulaTitle: "Savunma Yüzdesi Hesaplayıcı Formülü",
-  formulasubtitle: "Beyzbolda Resmi Savunma Yüzdesi Formülü",
-  formulasubIntro: "Beyzbolda savunma yüzdesi açık ve basit bir formülü takip eder. Bir oyuncunun kaç savunma şansını başarıyla değerlendirdiğini ölçer.",
-  mainFormula: "Savunma Yüzdesi = (Outlar + Asistler) ÷ Toplam Şanslar",
-  formulasubtext: "Bu formül yalnızca savunma hareketlerine odaklanır. Vuruş veya atış istatistiklerini içermez. Sonuç, top oyuncuya yöneldiğinde ne kadar güvenilir olduğunu gösterir.",
-
-  whatTitle: "Toplam Şanslar Neleri Kapsar?",
-  whatList: [
-    "Outlar: Bir oyuncunun doğrudan bir out kaydettiği durumlar",
-    "Asistler: Bir oyuncunun bir outun tamamlanmasına yardımcı olduğu durumlar",
-    "Hatalar: Rutin bir oyunun başarıyla tamamlanmadığı durumlar",
-  ],
-  whatEnd: "Bunların toplamı, bir oyuncunun maçlar boyunca savunmada ne sıklıkla test edildiğini gösterir.",
-
-  stepTitle: "Adım Adım Hesaplama Örneği",
-  stepList: [
-    "Outlar: 90",
-    "Asistler: 40",
-    "Hatalar: 5",
-  ],
-  stepformula:
-    "Toplam Şanslar = 90 + 40 + 5 = 135 Savunma Yüzdesi = (90 + 40) ÷ 135 Savunma Yüzdesi = 130 ÷ 135 = 0.963",
-  stepend: "Bu sonuç, oyuncunun savunma şanslarının yaklaşık %96,3’ünü başarıyla değerlendirdiği anlamına gelir.",
-
-  howtotitle: "Hesaplayıcı Formülü Nasıl Uygular",
-  howtocontent1: "Savunma Yüzdesi Hesaplayıcı bu süreci otomatikleştirir. Outları, asistleri ve hataları girersiniz. Hesaplayıcı değerleri toplar, formülü uygular ve sonucu anında gösterir.",
-  howtocontent2: "Bu, hesaplama hatalarını ortadan kaldırır ve savunma analizini net tutar. Ayrıca aynı yöntemi kullanarak oyuncuları maçlar, pozisyonlar ve sezonlar arasında karşılaştırmayı kolaylaştırır.",
-
-  whyformulatitle: "Bu Formül Beyzbolda Neden Kullanılır",
-  whyformulacontent1: "Bu formül basit ve tutarlı olduğu için yaygın olarak kullanılır. Farklı oyuncular ve takımlar arasında savunma performansının adil şekilde karşılaştırılmasına olanak tanır. Bir oyuncunun ne kadar alan kapladığını ölçmese de, savunma istatistiklerinin güvenilir bir parçası olmaya devam eder.",
-  whyformulacontent2: "Resmi skor verilerine dayandığı için, maç analizleri ve uzun vadeli savunma kayıtlarının incelenmesi sırasında doğru değerlendirmeleri destekler.",
-
-  faqTitle: "Sıkça Sorulan Sorular",
-  faq: [
-    {
-      q: "Beyzbolda savunma yüzdesi nedir?",
-      a: "Savunma yüzdesi, bir oyuncunun topu ne sıklıkla başarıyla kontrol ettiğini gösteren bir savunma istatistiğidir. Outlar, asistler ve hatalar dahil olmak üzere başarılı oyunları toplam şanslarla karşılaştırır. Daha yüksek bir yüzde, sahada daha az hata yapıldığını gösterir."
-    },
-    {
-      q: "İyi bir savunma yüzdesi neyi gösterir?",
-      a: "İyi bir savunma yüzdesi genellikle güvenilirliği gösterir. Oyuncunun savunma şanslarının çoğunu outa çevirdiği anlamına gelir. Antrenörler bunu özellikle iç saha oyuncuları ve catcher’lar için tutarlılığı değerlendirmede kullanır."
-    },
-    {
-      q: "Hatalar savunma yüzdesindeki tek olumsuz faktör müdür?",
-      a: "Evet, hatalar savunma yüzdesini düşüren ana faktördür. Her hata, başarılı oyunları artırmadan toplam şansları artırır ve bu da nihai değeri düşürür. Bu yüzden temiz oyun savunmada önemlidir."
-    },
-    {
-      q: "Savunma yüzdesi savunma alanını ölçer mi?",
-      a: "Hayır, savunma yüzdesi bir oyuncunun ne kadar alan kapladığını ölçmez. Sadece ulaştığı topları ne kadar iyi değerlendirdiğini ölçer. Alan kapsaması ve tepki hızı farklı savunma metrikleri gerektirir."
-    },
-    {
-      q: "Savunma yüzdesi pozisyona göre değişebilir mi?",
-      a: "Evet, savunma yüzdesi pozisyona göre değişebilir. Birinci kaleciler ve catcher’lar genellikle daha yüksek yüzdelere sahiptir çünkü sık sık rutin oyunlarla karşılaşırlar. Dış saha oyuncularının daha az şansı olabilir ancak farklı savunma durumlarıyla karşılaşırlar."
-    },
-    {
-      q: "Savunma yüzdesi savunma performansını değerlendirmek için yeterli midir?",
-      a: "Savunma yüzdesi faydalıdır ancak yeterli değildir. Topu kontrol etme becerisini gösterir ancak genel savunma etkisini göstermez. Analistler, oyuncu performansının daha kapsamlı bir görünümü için genellikle diğer savunma istatistikleriyle birlikte kullanır."
-    },
-  ]
-},
-
-slugging: {
+    slugging: {
       metaTitle: "Slugging Yüzdesi Hesaplayıcı – Doğru Beyzbol İstatistikleri",
       metaDescription: "Slugging yüzdesini anında doğru sonuçlarla hesaplayın. Oyuncular ve taraftarlar için mükemmel, hemen hesaplayıcıyı kullanın.",
       title: "Slugging Yüzdesi Hesaplayıcı",

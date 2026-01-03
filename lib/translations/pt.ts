@@ -4605,19 +4605,14 @@ export const ptTranslations = {
       desc: "Calcule porcentagens instantaneamente com resultados precisos. Fácil, rápida e confiável—use agora nossa Calculadora de Porcentagem e economize tempo.",
       heading: "Calculadora de Porcentagem",
 
-      part: "Valor da Parte",
-      whole: "Valor Total",
+      percentageValue: "Percentagem",
+      baseValue: "Valor",
 
-      calculationType: "Tipo de Cálculo",
-      basic: "Porcentagem Básica",
-      change: "Variação Percentual",
-      difference: "Diferença Percentual",
+      result: "Resultado do cálculo da percentagem",
+      calculatedValue: "Valor calculado",
 
-      result: "Resultado da Porcentagem",
-      resultValue: "Porcentagem Calculada",
+      resultExplain: "O valor é calculado dividindo a percentagem por 100 e multiplicando-a pelo número fornecido.",
 
-      resultExplain:
-        "A porcentagem é calculada com base no método selecionado. A porcentagem básica divide a parte pelo total e multiplica por 100. A variação percentual mede o aumento ou a diminuição em relação a um valor original. A diferença percentual compara a diferença relativa entre dois valores.",
 
       tocTitle: "Tabela de Conteúdos",
       tocwhat: "O que é uma Calculadora de Porcentagem?",
@@ -5433,112 +5428,112 @@ export const ptTranslations = {
     },
 
     fielding: {
-  metaTitle: "Calculadora de Percentual de Defesa Online – Rápida e Precisa",
-  metaDescription: "Calcule o seu percentual de defesa exato em segundos. Insira os dados facilmente e obtenha estatísticas confiáveis com a Calculadora de Percentual de Defesa.",
-  title: "Calculadora de Percentual de Defesa",
-  desc: "Calcule o seu percentual de defesa exato em segundos. Insira os dados facilmente e obtenha estatísticas confiáveis com a Calculadora de Percentual de Defesa.",
-  heading: "Calculadora de Percentual de Defesa",
+      metaTitle: "Calculadora de Percentual de Defesa Online – Rápida e Precisa",
+      metaDescription: "Calcule o seu percentual de defesa exato em segundos. Insira os dados facilmente e obtenha estatísticas confiáveis com a Calculadora de Percentual de Defesa.",
+      title: "Calculadora de Percentual de Defesa",
+      desc: "Calcule o seu percentual de defesa exato em segundos. Insira os dados facilmente e obtenha estatísticas confiáveis com a Calculadora de Percentual de Defesa.",
+      heading: "Calculadora de Percentual de Defesa",
 
-  putouts: "Eliminações",
-  assists: "Assistências",
-  errors: "Erros",
+      putouts: "Eliminações",
+      assists: "Assistências",
+      errors: "Erros",
 
-  result: "Percentual de Defesa",
+      result: "Percentual de Defesa",
 
-  resultExplain:
-    "O percentual de defesa é calculado somando eliminações e assistências e dividindo pelo total de chances defensivas, incluindo erros. Ele mostra o quão confiável um jogador é defensivamente.",
+      resultExplain:
+        "O percentual de defesa é calculado somando eliminações e assistências e dividindo pelo total de chances defensivas, incluindo erros. Ele mostra o quão confiável um jogador é defensivamente.",
 
-  tocTitle: "Índice",
-  tocwhat: "O que é uma Calculadora de Percentual de Defesa?",
-  tocwhy: "Entendendo o Percentual de Defesa no Beisebol",
-  tocformula: "Fórmula do Percentual de Defesa",
-  tocstepbystep: "Exemplo de Cálculo Passo a Passo",
-  tochow: "Como a Calculadora Aplica a Fórmula",
+      tocTitle: "Índice",
+      tocwhat: "O que é uma Calculadora de Percentual de Defesa?",
+      tocwhy: "Entendendo o Percentual de Defesa no Beisebol",
+      tocformula: "Fórmula do Percentual de Defesa",
+      tocstepbystep: "Exemplo de Cálculo Passo a Passo",
+      tochow: "Como a Calculadora Aplica a Fórmula",
 
-  introTitle: "Sobre a Calculadora de Percentual de Defesa",
-  whattitle: "O que é uma Calculadora de Percentual de Defesa?",
-  whatContent1: "Uma Calculadora de Percentual de Defesa ajuda a medir o desempenho defensivo de um jogador de beisebol. Ela mostra com que frequência o jogador executa jogadas corretas sem cometer erros, sendo uma estatística essencial para avaliar a confiabilidade defensiva.",
-  whatContent2: "Esta calculadora de percentual de defesa no beisebol fornece resultados rápidos e claros, ajudando jogadores, treinadores e fãs a entender o desempenho defensivo sem cálculos manuais.",
+      introTitle: "Sobre a Calculadora de Percentual de Defesa",
+      whattitle: "O que é uma Calculadora de Percentual de Defesa?",
+      whatContent1: "Uma Calculadora de Percentual de Defesa ajuda a medir o desempenho defensivo de um jogador de beisebol. Ela mostra com que frequência o jogador executa jogadas corretas sem cometer erros, sendo uma estatística essencial para avaliar a confiabilidade defensiva.",
+      whatContent2: "Esta calculadora de percentual de defesa no beisebol fornece resultados rápidos e claros, ajudando jogadores, treinadores e fãs a entender o desempenho defensivo sem cálculos manuais.",
 
-  understandingtitle: "Entendendo o Percentual de Defesa no Beisebol",
-  understandingpara1: "O percentual de defesa é baseado em eliminações, assistências e erros. Eliminações ocorrem quando um defensor registra um out, assistências quando ajuda a completar um out, e erros quando uma jogada de rotina não é executada corretamente.",
-  understandingpara2: "O total de chances é a soma de eliminações, assistências e erros. O percentual mostra quantas dessas chances foram convertidas com sucesso, tornando-se uma métrica simples e eficaz.",
+      understandingtitle: "Entendendo o Percentual de Defesa no Beisebol",
+      understandingpara1: "O percentual de defesa é baseado em eliminações, assistências e erros. Eliminações ocorrem quando um defensor registra um out, assistências quando ajuda a completar um out, e erros quando uma jogada de rotina não é executada corretamente.",
+      understandingpara2: "O total de chances é a soma de eliminações, assistências e erros. O percentual mostra quantas dessas chances foram convertidas com sucesso, tornando-se uma métrica simples e eficaz.",
 
-  howtitle: "Como Funciona a Calculadora de Percentual de Defesa",
-  howpara1: "A calculadora usa as estatísticas defensivas inseridas e aplica o método padrão do beisebol. Ela soma eliminações e assistências e divide pelo total de chances defensivas.",
-  howpara2: "Como segue as regras oficiais de pontuação do beisebol, a calculadora permite análises justas e acompanhamento preciso do desempenho defensivo ao longo das partidas e temporadas.",
-  howlink: "Calculadora de Média de Rebatidas.",
+      howtitle: "Como Funciona a Calculadora de Percentual de Defesa",
+      howpara1: "A calculadora usa as estatísticas defensivas inseridas e aplica o método padrão do beisebol. Ela soma eliminações e assistências e divide pelo total de chances defensivas.",
+      howpara2: "Como segue as regras oficiais de pontuação do beisebol, a calculadora permite análises justas e acompanhamento preciso do desempenho defensivo ao longo das partidas e temporadas.",
+      howlink: "Calculadora de Média de Rebatidas.",
 
-  whytitle: "Por Que o Percentual de Defesa é Importante",
-  whypara1: "O percentual de defesa ajuda a comparar jogadores de diferentes posições e equipes. Um valor mais alto geralmente indica menos erros durante as jogadas defensivas.",
-  whypara2: "As estatísticas defensivas são analisadas junto com dados ofensivos para uma visão completa do desempenho do jogador, incluindo métricas como a",
-  whylink: "Calculadora de Percentual de Slugging.",
+      whytitle: "Por Que o Percentual de Defesa é Importante",
+      whypara1: "O percentual de defesa ajuda a comparar jogadores de diferentes posições e equipes. Um valor mais alto geralmente indica menos erros durante as jogadas defensivas.",
+      whypara2: "As estatísticas defensivas são analisadas junto com dados ofensivos para uma visão completa do desempenho do jogador, incluindo métricas como a",
+      whylink: "Calculadora de Percentual de Slugging.",
 
-  imageUrl: "/Fielding-Percentage-Calculator.jpg",
-  imageAlt: "Fielding Percentage Calculator",
+      imageUrl: "/Fielding-Percentage-Calculator.jpg",
+      imageAlt: "Fielding Percentage Calculator",
 
-  formulaTitle: "Fórmula do Percentual de Defesa",
-  formulasubtitle: "Fórmula Oficial do Percentual de Defesa no Beisebol",
-  formulasubIntro: "O percentual de defesa no beisebol segue uma fórmula simples e clara que mede a eficiência defensiva.",
-  mainFormula: "Percentual de Defesa = (Eliminações + Assistências) ÷ Total de Chances",
-  formulasubtext: "Essa fórmula foca apenas nas ações defensivas e mostra o quão confiável um jogador é quando a bola é direcionada a ele.",
+      formulaTitle: "Fórmula do Percentual de Defesa",
+      formulasubtitle: "Fórmula Oficial do Percentual de Defesa no Beisebol",
+      formulasubIntro: "O percentual de defesa no beisebol segue uma fórmula simples e clara que mede a eficiência defensiva.",
+      mainFormula: "Percentual de Defesa = (Eliminações + Assistências) ÷ Total de Chances",
+      formulasubtext: "Essa fórmula foca apenas nas ações defensivas e mostra o quão confiável um jogador é quando a bola é direcionada a ele.",
 
-  whatTitle: "O Que Conta Como Total de Chances?",
-  whatList: [
-    "Eliminações: quando um jogador registra diretamente um out",
-    "Assistências: quando um jogador ajuda a completar um out",
-    "Erros: quando uma jogada de rotina não é concluída corretamente",
-  ],
-  whatEnd: "A soma desses fatores representa quantas vezes um jogador foi exigido defensivamente durante o jogo.",
+      whatTitle: "O Que Conta Como Total de Chances?",
+      whatList: [
+        "Eliminações: quando um jogador registra diretamente um out",
+        "Assistências: quando um jogador ajuda a completar um out",
+        "Erros: quando uma jogada de rotina não é concluída corretamente",
+      ],
+      whatEnd: "A soma desses fatores representa quantas vezes um jogador foi exigido defensivamente durante o jogo.",
 
-  stepTitle: "Exemplo de Cálculo Passo a Passo",
-  stepList: [
-    "Eliminações: 90",
-    "Assistências: 40",
-    "Erros: 5",
-  ],
-  stepformula:
-    "Total de Chances = 90 + 40 + 5 = 135 Percentual de Defesa = (90 + 40) ÷ 135 Percentual de Defesa = 130 ÷ 135 = 0,963",
-  stepend: "Isso significa que o jogador converteu com sucesso cerca de 96,3% das chances defensivas.",
+      stepTitle: "Exemplo de Cálculo Passo a Passo",
+      stepList: [
+        "Eliminações: 90",
+        "Assistências: 40",
+        "Erros: 5",
+      ],
+      stepformula:
+        "Total de Chances = 90 + 40 + 5 = 135 Percentual de Defesa = (90 + 40) ÷ 135 Percentual de Defesa = 130 ÷ 135 = 0,963",
+      stepend: "Isso significa que o jogador converteu com sucesso cerca de 96,3% das chances defensivas.",
 
-  howtotitle: "Como a Calculadora Aplica a Fórmula",
-  howtocontent1: "A Calculadora de Percentual de Defesa automatiza todo o processo. Basta inserir eliminações, assistências e erros para obter o resultado instantaneamente.",
-  howtocontent2: "Isso evita erros de cálculo e facilita a comparação entre jogadores, posições e temporadas.",
+      howtotitle: "Como a Calculadora Aplica a Fórmula",
+      howtocontent1: "A Calculadora de Percentual de Defesa automatiza todo o processo. Basta inserir eliminações, assistências e erros para obter o resultado instantaneamente.",
+      howtocontent2: "Isso evita erros de cálculo e facilita a comparação entre jogadores, posições e temporadas.",
 
-  whyformulatitle: "Por Que Essa Fórmula é Usada no Beisebol",
-  whyformulacontent1: "Essa fórmula é amplamente utilizada por ser simples e consistente, permitindo comparações justas entre jogadores e equipes.",
-  whyformulacontent2: "Por se basear em dados oficiais de pontuação, ela garante avaliações confiáveis ao analisar jogos e estatísticas defensivas de longo prazo.",
+      whyformulatitle: "Por Que Essa Fórmula é Usada no Beisebol",
+      whyformulacontent1: "Essa fórmula é amplamente utilizada por ser simples e consistente, permitindo comparações justas entre jogadores e equipes.",
+      whyformulacontent2: "Por se basear em dados oficiais de pontuação, ela garante avaliações confiáveis ao analisar jogos e estatísticas defensivas de longo prazo.",
 
-  faqTitle: "Perguntas Frequentes",
-  faq: [
-    {
-      q: "O que é percentual de defesa no beisebol?",
-      a: "O percentual de defesa é uma estatística defensiva que mostra com que frequência um jogador executa jogadas corretamente. Ele compara jogadas bem-sucedidas com o total de chances defensivas."
+      faqTitle: "Perguntas Frequentes",
+      faq: [
+        {
+          q: "O que é percentual de defesa no beisebol?",
+          a: "O percentual de defesa é uma estatística defensiva que mostra com que frequência um jogador executa jogadas corretamente. Ele compara jogadas bem-sucedidas com o total de chances defensivas."
+        },
+        {
+          q: "O que é considerado um bom percentual de defesa?",
+          a: "Um bom percentual de defesa indica confiabilidade. Significa que o jogador comete poucos erros ao lidar com as bolas rebatidas."
+        },
+        {
+          q: "Os erros são o único fator negativo?",
+          a: "Sim, os erros reduzem diretamente o percentual de defesa, pois aumentam o total de chances sem aumentar as jogadas bem-sucedidas."
+        },
+        {
+          q: "O percentual de defesa mede alcance defensivo?",
+          a: "Não, ele mede apenas a execução das jogadas alcançadas, não o alcance ou a velocidade do jogador."
+        },
+        {
+          q: "O percentual de defesa varia por posição?",
+          a: "Sim, diferentes posições têm diferentes padrões de jogadas, o que influencia o percentual de defesa."
+        },
+        {
+          q: "O percentual de defesa é suficiente para avaliar a defesa?",
+          a: "Ele é útil, mas deve ser combinado com outras métricas defensivas para uma análise completa."
+        },
+      ]
     },
-    {
-      q: "O que é considerado um bom percentual de defesa?",
-      a: "Um bom percentual de defesa indica confiabilidade. Significa que o jogador comete poucos erros ao lidar com as bolas rebatidas."
-    },
-    {
-      q: "Os erros são o único fator negativo?",
-      a: "Sim, os erros reduzem diretamente o percentual de defesa, pois aumentam o total de chances sem aumentar as jogadas bem-sucedidas."
-    },
-    {
-      q: "O percentual de defesa mede alcance defensivo?",
-      a: "Não, ele mede apenas a execução das jogadas alcançadas, não o alcance ou a velocidade do jogador."
-    },
-    {
-      q: "O percentual de defesa varia por posição?",
-      a: "Sim, diferentes posições têm diferentes padrões de jogadas, o que influencia o percentual de defesa."
-    },
-    {
-      q: "O percentual de defesa é suficiente para avaliar a defesa?",
-      a: "Ele é útil, mas deve ser combinado com outras métricas defensivas para uma análise completa."
-    },
-  ]
-},
 
-slugging: {
+    slugging: {
       metaTitle: "Calcolatore della Percentuale di Slugging – Statistiche di Baseball Accurate",
       metaDescription: "Calcola istantaneamente la percentuale di slugging con risultati accurati. Perfetto per giocatori e fan, usa subito il calcolatore.",
       title: "Calcolatore della Percentuale di Slugging",

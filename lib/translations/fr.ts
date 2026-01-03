@@ -4652,19 +4652,14 @@ export const frTranslations = {
       desc: "Calculez les pourcentages instantanément avec des résultats précis. Facile, rapide et fiable—utilisez notre Calculateur de Pourcentage dès maintenant et gagnez du temps.",
       heading: "Calculateur de Pourcentage",
 
-      part: "Valeur de la Partie",
-      whole: "Valeur Totale",
+      percentageValue: "Pourcentage",
+      baseValue: "Valeur",
 
-      calculationType: "Type de Calcul",
-      basic: "Pourcentage de Base",
-      change: "Variation en Pourcentage",
-      difference: "Différence en Pourcentage",
+      result: "Résultat du calcul du pourcentage",
+      calculatedValue: "Valeur calculée",
 
-      result: "Résultat en Pourcentage",
-      resultValue: "Pourcentage Calculé",
+      resultExplain: "La valeur est calculée en divisant le pourcentage par 100 puis en le multipliant par le nombre donné.",
 
-      resultExplain:
-        "Le pourcentage est calculé selon la méthode sélectionnée. Le pourcentage de base divise la partie par le total et multiplie par 100. La variation en pourcentage mesure l’augmentation ou la diminution par rapport à une valeur d’origine. La différence en pourcentage compare la différence relative entre deux valeurs.",
 
       tocTitle: "Table des Matières",
       tocwhat: "Qu’est-ce qu’un Calculateur de Pourcentage ?",

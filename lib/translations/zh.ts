@@ -4349,19 +4349,14 @@ export const zhTranslations = {
       desc: "立即计算百分比，获得准确结果。简单、快速且可靠—立即使用我们的百分比计算器，节省时间。",
       heading: "百分比计算器",
 
-      part: "部分值",
-      whole: "整体值",
+      percentageValue: "百分比",
+      baseValue: "数值",
 
-      calculationType: "计算类型",
-      basic: "基础百分比",
-      change: "百分比变化",
-      difference: "百分比差异",
+      result: "百分比计算结果",
+      calculatedValue: "计算后的数值",
 
-      result: "百分比结果",
-      resultValue: "计算出的百分比",
+      resultExplain: "该数值通过将百分比除以100然后乘以给定的数字来计算。",
 
-      resultExplain:
-        "百分比是根据所选方法计算的。基础百分比将部分除以整体并乘以100。百分比变化衡量相对于原始值的增加或减少。百分比差异比较两个值之间的相对差异。",
 
       tocTitle: "目录",
       tocwhat: "什么是百分比计算器？",

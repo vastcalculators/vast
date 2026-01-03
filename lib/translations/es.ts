@@ -4663,19 +4663,14 @@ export const esTranslations = {
       desc: "Calcula porcentajes al instante con resultados precisos. Fácil, rápida y confiable—usa ahora nuestra Calculadora de Porcentaje y ahorra tiempo.",
       heading: "Calculadora de Porcentaje",
 
-      part: "Valor de la Parte",
-      whole: "Valor Total",
+      percentageValue: "Porcentaje",
+      baseValue: "Valor",
 
-      calculationType: "Tipo de Cálculo",
-      basic: "Porcentaje Básico",
-      change: "Cambio Porcentual",
-      difference: "Diferencia Porcentual",
+      result: "Resultado del cálculo del porcentaje",
+      calculatedValue: "Valor calculado",
 
-      result: "Resultado del Porcentaje",
-      resultValue: "Porcentaje Calculado",
+      resultExplain: "El valor se calcula dividiendo el porcentaje entre 100 y multiplicándolo por el número dado.",
 
-      resultExplain:
-        "El porcentaje se calcula según el método seleccionado. El porcentaje básico divide la parte entre el total y la multiplica por 100. El cambio porcentual mide el aumento o la disminución desde un valor original. La diferencia porcentual compara la diferencia relativa entre dos valores.",
 
       tocTitle: "Tabla de Contenidos",
       tocwhat: "¿Qué es una Calculadora de Porcentaje?",
@@ -5493,111 +5488,111 @@ export const esTranslations = {
     },
 
     fielding: {
-  metaTitle: "Calculadora de Porcentaje de Fildeo Online – Rápida y Fácil",
-  metaDescription: "Calcula tu porcentaje de fildeo exacto en segundos. Entradas sencillas, estadísticas precisas, usa la Calculadora de Porcentaje de Fildeo ahora.",
-  title: "Calculadora de Porcentaje de Fildeo",
-  desc: "Calcula tu porcentaje de fildeo exacto en segundos. Entradas sencillas, estadísticas precisas, usa la Calculadora de Porcentaje de Fildeo ahora.",
-  heading: "Calculadora de Porcentaje de Fildeo",
+      metaTitle: "Calculadora de Porcentaje de Fildeo Online – Rápida y Fácil",
+      metaDescription: "Calcula tu porcentaje de fildeo exacto en segundos. Entradas sencillas, estadísticas precisas, usa la Calculadora de Porcentaje de Fildeo ahora.",
+      title: "Calculadora de Porcentaje de Fildeo",
+      desc: "Calcula tu porcentaje de fildeo exacto en segundos. Entradas sencillas, estadísticas precisas, usa la Calculadora de Porcentaje de Fildeo ahora.",
+      heading: "Calculadora de Porcentaje de Fildeo",
 
-  putouts: "Outs",
-  assists: "Asistencias",
-  errors: "Errores",
+      putouts: "Outs",
+      assists: "Asistencias",
+      errors: "Errores",
 
-  result: "Porcentaje de Fildeo",
+      result: "Porcentaje de Fildeo",
 
-  resultExplain:
-    "El porcentaje de fildeo se calcula sumando los outs y las asistencias, y luego dividiendo el total entre todas las oportunidades defensivas, incluidos los errores. Mide qué tan confiable es un jugador al fildear la pelota.",
+      resultExplain:
+        "El porcentaje de fildeo se calcula sumando los outs y las asistencias, y luego dividiendo el total entre todas las oportunidades defensivas, incluidos los errores. Mide qué tan confiable es un jugador al fildear la pelota.",
 
-  tocTitle: "Tabla de Contenidos",
-  tocwhat: "¿Qué es una Calculadora de Porcentaje de Fildeo?",
-  tocwhy: "Comprender el Porcentaje de Fildeo en el Béisbol",
-  tocformula: "Fórmula de la Calculadora de Porcentaje de Fildeo",
-  tocstepbystep: "Ejemplo de Cálculo Paso a Paso",
-  tochow: "Cómo la Calculadora Aplica la Fórmula",
+      tocTitle: "Tabla de Contenidos",
+      tocwhat: "¿Qué es una Calculadora de Porcentaje de Fildeo?",
+      tocwhy: "Comprender el Porcentaje de Fildeo en el Béisbol",
+      tocformula: "Fórmula de la Calculadora de Porcentaje de Fildeo",
+      tocstepbystep: "Ejemplo de Cálculo Paso a Paso",
+      tochow: "Cómo la Calculadora Aplica la Fórmula",
 
-  introTitle: "Acerca de la Calculadora de Porcentaje de Fildeo",
-  whattitle: "¿Qué es una Calculadora de Porcentaje de Fildeo?",
-  whatContent1: "Una Calculadora de Porcentaje de Fildeo ayuda a medir qué tan bien se desempeña un jugador de béisbol en defensa. El porcentaje de fildeo muestra con qué frecuencia un jugador maneja la pelota con éxito sin cometer un error. Es una parte clave de las estadísticas defensivas utilizadas en el béisbol para evaluar la confiabilidad en el campo.",
-  whatContent2: "Esta calculadora de porcentaje de fildeo en béisbol ofrece resultados rápidos y claros. Ayuda a jugadores, entrenadores y aficionados a comprender el rendimiento defensivo sin hacer cálculos manuales.",
+      introTitle: "Acerca de la Calculadora de Porcentaje de Fildeo",
+      whattitle: "¿Qué es una Calculadora de Porcentaje de Fildeo?",
+      whatContent1: "Una Calculadora de Porcentaje de Fildeo ayuda a medir qué tan bien se desempeña un jugador de béisbol en defensa. El porcentaje de fildeo muestra con qué frecuencia un jugador maneja la pelota con éxito sin cometer un error. Es una parte clave de las estadísticas defensivas utilizadas en el béisbol para evaluar la confiabilidad en el campo.",
+      whatContent2: "Esta calculadora de porcentaje de fildeo en béisbol ofrece resultados rápidos y claros. Ayuda a jugadores, entrenadores y aficionados a comprender el rendimiento defensivo sin hacer cálculos manuales.",
 
-  understandingtitle: "Comprender el Porcentaje de Fildeo en el Béisbol",
-  understandingpara1: "El porcentaje de fildeo se basa en cuatro valores: outs, asistencias, errores y oportunidades totales. Los outs ocurren cuando un fildeador registra un out. Las asistencias suceden cuando un jugador ayuda a completar un out. Los errores cuentan las jugadas en las que un fildeador no completa una jugada rutinaria.",
-  understandingpara2: "Las oportunidades totales son la suma de outs, asistencias y errores. El porcentaje de fildeo muestra cuántas de esas oportunidades se manejaron correctamente. Esto lo convierte en una forma simple pero útil de revisar el rendimiento defensivo.",
+      understandingtitle: "Comprender el Porcentaje de Fildeo en el Béisbol",
+      understandingpara1: "El porcentaje de fildeo se basa en cuatro valores: outs, asistencias, errores y oportunidades totales. Los outs ocurren cuando un fildeador registra un out. Las asistencias suceden cuando un jugador ayuda a completar un out. Los errores cuentan las jugadas en las que un fildeador no completa una jugada rutinaria.",
+      understandingpara2: "Las oportunidades totales son la suma de outs, asistencias y errores. El porcentaje de fildeo muestra cuántas de esas oportunidades se manejaron correctamente. Esto lo convierte en una forma simple pero útil de revisar el rendimiento defensivo.",
 
-  howtitle: "Cómo Funciona la Calculadora de Porcentaje de Fildeo",
-  howpara1: "La calculadora toma las estadísticas defensivas que ingresas y aplica el método estándar del béisbol. Suma los outs y las asistencias, y luego divide ese total entre las oportunidades totales. El resultado muestra qué tan eficiente es un jugador durante las jugadas defensivas.",
-  howpara2: "Debido a que sigue las reglas oficiales de anotación del béisbol, la calculadora respalda un análisis justo de los partidos y un seguimiento preciso de los registros de fildeo a lo largo de juegos y temporadas.",
-  howlink: "Calculadora de Promedio de Bateo.",
+      howtitle: "Cómo Funciona la Calculadora de Porcentaje de Fildeo",
+      howpara1: "La calculadora toma las estadísticas defensivas que ingresas y aplica el método estándar del béisbol. Suma los outs y las asistencias, y luego divide ese total entre las oportunidades totales. El resultado muestra qué tan eficiente es un jugador durante las jugadas defensivas.",
+      howpara2: "Debido a que sigue las reglas oficiales de anotación del béisbol, la calculadora respalda un análisis justo de los partidos y un seguimiento preciso de los registros de fildeo a lo largo de juegos y temporadas.",
+      howlink: "Calculadora de Promedio de Bateo.",
 
-  whytitle: "Por Qué el Porcentaje de Fildeo Importa en el Análisis Defensivo",
-  whypara1: "El porcentaje de fildeo ayuda a comparar jugadores defensivos entre posiciones y equipos. Un valor más alto generalmente significa menos errores durante las jugadas. Aunque no mide el alcance ni la velocidad de reacción, sigue siendo una métrica fundamental del béisbol para evaluar la eficiencia defensiva.",
-  whypara2: "Las estadísticas defensivas a menudo se revisan junto con los números ofensivos para obtener una visión completa del rendimiento, y el análisis de temporada también puede incluir herramientas como la",
-  whylink: "Calculadora de Porcentaje de Slugging.",
+      whytitle: "Por Qué el Porcentaje de Fildeo Importa en el Análisis Defensivo",
+      whypara1: "El porcentaje de fildeo ayuda a comparar jugadores defensivos entre posiciones y equipos. Un valor más alto generalmente significa menos errores durante las jugadas. Aunque no mide el alcance ni la velocidad de reacción, sigue siendo una métrica fundamental del béisbol para evaluar la eficiencia defensiva.",
+      whypara2: "Las estadísticas defensivas a menudo se revisan junto con los números ofensivos para obtener una visión completa del rendimiento, y el análisis de temporada también puede incluir herramientas como la",
+      whylink: "Calculadora de Porcentaje de Slugging.",
 
-  imageUrl: "/Fielding-Percentage-Calculator.jpg",
-  imageAlt: "Fielding Percentage Calculator",
+      imageUrl: "/Fielding-Percentage-Calculator.jpg",
+      imageAlt: "Fielding Percentage Calculator",
 
-  formulaTitle: "Fórmula de la Calculadora de Porcentaje de Fildeo",
-  formulasubtitle: "Fórmula Oficial del Porcentaje de Fildeo en el Béisbol",
-  formulasubIntro: "El porcentaje de fildeo en el béisbol sigue una fórmula clara y sencilla. Mide cuántas oportunidades defensivas maneja con éxito un jugador.",
-  mainFormula: "Fielding Percentage = (Putouts + Assists) ÷ Total Chances",
-  formulasubtext: "Esta fórmula se enfoca únicamente en las acciones defensivas. No incluye estadísticas de bateo ni de pitcheo. El resultado muestra qué tan confiable es un jugador cuando la pelota va hacia él.",
+      formulaTitle: "Fórmula de la Calculadora de Porcentaje de Fildeo",
+      formulasubtitle: "Fórmula Oficial del Porcentaje de Fildeo en el Béisbol",
+      formulasubIntro: "El porcentaje de fildeo en el béisbol sigue una fórmula clara y sencilla. Mide cuántas oportunidades defensivas maneja con éxito un jugador.",
+      mainFormula: "Fielding Percentage = (Putouts + Assists) ÷ Total Chances",
+      formulasubtext: "Esta fórmula se enfoca únicamente en las acciones defensivas. No incluye estadísticas de bateo ni de pitcheo. El resultado muestra qué tan confiable es un jugador cuando la pelota va hacia él.",
 
-  whatTitle: "¿Qué Cuenta como Oportunidades Totales?",
-  whatList: [
-    "Outs: Cuando un jugador registra directamente un out",
-    "Asistencias: Cuando un jugador ayuda a completar un out",
-    "Errores: Cuando una jugada rutinaria no se completa con éxito",
-  ],
-  whatEnd: "Al sumar estos valores, las oportunidades totales muestran con qué frecuencia un jugador fue exigido defensivamente durante los juegos.",
+      whatTitle: "¿Qué Cuenta como Oportunidades Totales?",
+      whatList: [
+        "Outs: Cuando un jugador registra directamente un out",
+        "Asistencias: Cuando un jugador ayuda a completar un out",
+        "Errores: Cuando una jugada rutinaria no se completa con éxito",
+      ],
+      whatEnd: "Al sumar estos valores, las oportunidades totales muestran con qué frecuencia un jugador fue exigido defensivamente durante los juegos.",
 
-  stepTitle: "Ejemplo de Cálculo Paso a Paso",
-  stepList: [
-    "Outs: 90",
-    "Asistencias: 40",
-    "Errores: 5",
-  ],
-  stepformula: "Oportunidades totales = 90 + 40 + 5 = 135 Porcentaje de Fildeo = (90 + 40) ÷ 135 Porcentaje de Fildeo = 130 ÷ 135 = 0.963",
-  stepend: "Este resultado significa que el jugador manejó con éxito aproximadamente el 96.3% de las oportunidades defensivas.",
+      stepTitle: "Ejemplo de Cálculo Paso a Paso",
+      stepList: [
+        "Outs: 90",
+        "Asistencias: 40",
+        "Errores: 5",
+      ],
+      stepformula: "Oportunidades totales = 90 + 40 + 5 = 135 Porcentaje de Fildeo = (90 + 40) ÷ 135 Porcentaje de Fildeo = 130 ÷ 135 = 0.963",
+      stepend: "Este resultado significa que el jugador manejó con éxito aproximadamente el 96.3% de las oportunidades defensivas.",
 
-  howtotitle: "Cómo la Calculadora Aplica la Fórmula",
-  howtocontent1: "La Calculadora de Porcentaje de Fildeo automatiza este proceso. Ingresas outs, asistencias y errores. La calculadora suma los valores, aplica la fórmula y muestra el resultado al instante.",
-  howtocontent2: "Esto elimina errores de cálculo y mantiene claro el análisis defensivo. También facilita la comparación de jugadores entre juegos, posiciones y temporadas utilizando el mismo método.",
+      howtotitle: "Cómo la Calculadora Aplica la Fórmula",
+      howtocontent1: "La Calculadora de Porcentaje de Fildeo automatiza este proceso. Ingresas outs, asistencias y errores. La calculadora suma los valores, aplica la fórmula y muestra el resultado al instante.",
+      howtocontent2: "Esto elimina errores de cálculo y mantiene claro el análisis defensivo. También facilita la comparación de jugadores entre juegos, posiciones y temporadas utilizando el mismo método.",
 
-  whyformulatitle: "Por Qué se Usa Esta Fórmula en el Béisbol",
-  whyformulacontent1: "Esta fórmula se utiliza ampliamente porque es simple y consistente. Permite una comparación justa del rendimiento defensivo entre diferentes jugadores y equipos. Aunque no mide cuánto terreno cubre un jugador, sigue siendo una parte confiable de las estadísticas defensivas.",
-  whyformulacontent2: "Debido a que se basa en datos oficiales de anotación, la fórmula respalda una evaluación precisa durante el análisis de partidos y revisiones a largo plazo de los registros de fildeo.",
+      whyformulatitle: "Por Qué se Usa Esta Fórmula en el Béisbol",
+      whyformulacontent1: "Esta fórmula se utiliza ampliamente porque es simple y consistente. Permite una comparación justa del rendimiento defensivo entre diferentes jugadores y equipos. Aunque no mide cuánto terreno cubre un jugador, sigue siendo una parte confiable de las estadísticas defensivas.",
+      whyformulacontent2: "Debido a que se basa en datos oficiales de anotación, la fórmula respalda una evaluación precisa durante el análisis de partidos y revisiones a largo plazo de los registros de fildeo.",
 
-  faqTitle: "Preguntas Frecuentes",
-  faq: [
-    {
-      q: "¿Qué es el porcentaje de fildeo en el béisbol?",
-      a: "El porcentaje de fildeo es una estadística defensiva que muestra con qué frecuencia un jugador maneja la pelota con éxito. Compara las jugadas exitosas con las oportunidades totales, que incluyen outs, asistencias y errores. Un porcentaje más alto significa menos errores en el campo."
+      faqTitle: "Preguntas Frecuentes",
+      faq: [
+        {
+          q: "¿Qué es el porcentaje de fildeo en el béisbol?",
+          a: "El porcentaje de fildeo es una estadística defensiva que muestra con qué frecuencia un jugador maneja la pelota con éxito. Compara las jugadas exitosas con las oportunidades totales, que incluyen outs, asistencias y errores. Un porcentaje más alto significa menos errores en el campo."
+        },
+        {
+          q: "¿Qué indica un buen porcentaje de fildeo?",
+          a: "Un buen porcentaje de fildeo generalmente indica confiabilidad. Significa que el jugador convierte la mayoría de las oportunidades defensivas en outs. Los entrenadores a menudo lo usan para evaluar la consistencia, especialmente en jugadores del cuadro y receptores."
+        },
+        {
+          q: "¿Son los errores el único factor negativo en el porcentaje de fildeo?",
+          a: "Sí, los errores son el principal factor que reduce el porcentaje de fildeo. Cada error aumenta las oportunidades totales sin incrementar las jugadas exitosas, lo que reduce el valor final. Por eso el manejo limpio es importante en la defensa."
+        },
+        {
+          q: "¿El porcentaje de fildeo mide el alcance defensivo?",
+          a: "No, el porcentaje de fildeo no mide cuánto terreno cubre un jugador. Solo mide qué tan bien maneja las pelotas que alcanza. El alcance y la velocidad de reacción requieren métricas defensivas diferentes."
+        },
+        {
+          q: "¿Puede variar el porcentaje de fildeo según la posición?",
+          a: "Sí, el porcentaje de fildeo a menudo varía según la posición. Los jugadores de primera base y los receptores suelen tener porcentajes más altos debido a las jugadas rutinarias frecuentes. Los jardineros pueden tener menos oportunidades pero enfrentan situaciones defensivas diferentes."
+        },
+        {
+          q: "¿Es suficiente el porcentaje de fildeo para juzgar el rendimiento defensivo?",
+          a: "El porcentaje de fildeo es útil pero no completo. Muestra la capacidad de manejo, pero no el impacto defensivo total. Los analistas a menudo lo combinan con otras estadísticas defensivas para obtener una visión más completa del rendimiento del jugador."
+        },
+      ]
     },
-    {
-      q: "¿Qué indica un buen porcentaje de fildeo?",
-      a: "Un buen porcentaje de fildeo generalmente indica confiabilidad. Significa que el jugador convierte la mayoría de las oportunidades defensivas en outs. Los entrenadores a menudo lo usan para evaluar la consistencia, especialmente en jugadores del cuadro y receptores."
-    },
-    {
-      q: "¿Son los errores el único factor negativo en el porcentaje de fildeo?",
-      a: "Sí, los errores son el principal factor que reduce el porcentaje de fildeo. Cada error aumenta las oportunidades totales sin incrementar las jugadas exitosas, lo que reduce el valor final. Por eso el manejo limpio es importante en la defensa."
-    },
-    {
-      q: "¿El porcentaje de fildeo mide el alcance defensivo?",
-      a: "No, el porcentaje de fildeo no mide cuánto terreno cubre un jugador. Solo mide qué tan bien maneja las pelotas que alcanza. El alcance y la velocidad de reacción requieren métricas defensivas diferentes."
-    },
-    {
-      q: "¿Puede variar el porcentaje de fildeo según la posición?",
-      a: "Sí, el porcentaje de fildeo a menudo varía según la posición. Los jugadores de primera base y los receptores suelen tener porcentajes más altos debido a las jugadas rutinarias frecuentes. Los jardineros pueden tener menos oportunidades pero enfrentan situaciones defensivas diferentes."
-    },
-    {
-      q: "¿Es suficiente el porcentaje de fildeo para juzgar el rendimiento defensivo?",
-      a: "El porcentaje de fildeo es útil pero no completo. Muestra la capacidad de manejo, pero no el impacto defensivo total. Los analistas a menudo lo combinan con otras estadísticas defensivas para obtener una visión más completa del rendimiento del jugador."
-    },
-  ]
-},
 
-slugging: {
+    slugging: {
       metaTitle: "Calculadora de Porcentaje de Slugging – Estadísticas de Béisbol Precisas",
       metaDescription: "Calcula el porcentaje de slugging al instante con resultados precisos. Perfecto para jugadores y aficionados, utiliza la calculadora ahora.",
       title: "Calculadora de Porcentaje de Slugging",

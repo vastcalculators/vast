@@ -4848,19 +4848,13 @@ export const enTranslations = {
       desc: "Calculate percentages instantly with accurate results. Easy, fast, and reliable—use our Percentage Calculator now and save time.",
       heading: "Percentage Calculator",
 
-      part: "Part Value",
-      whole: "Whole Value",
+      percentageValue: "Percentage",
+      baseValue: "Value",
 
-      calculationType: "Calculation Type",
-      basic: "Basic Percentage",
-      change: "Percentage Change",
-      difference: "Percentage Difference",
+      result: "Percentage Calculation Result",
+      calculatedValue: "Calculated Value",
 
-      result: "Percentage Result",
-      resultValue: "Calculated Percentage",
-
-      resultExplain:
-        "The percentage is calculated based on the selected method. Basic percentage divides the part by the whole and multiplies by 100. Percentage change measures increase or decrease from an original value. Percentage difference compares the relative difference between two values.",
+      resultExplain:"The value is calculated by dividing the percentage by 100 and multiplying it by the given number.",
 
       tocTitle: "Table of Contents",
       tocwhat: "What Is a Percentage Calculator?",
