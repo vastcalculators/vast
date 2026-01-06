@@ -5713,7 +5713,7 @@ export const esTranslations = {
       "Calculadora Vast – Simplifica las matemáticas con calculadoras en línea gratuitas",
     gridtitle1: "Conoce Calculadora Vast",
     gridtitle2: "Nuestras Calculadoras Populares",
-    copyright: "© 2025 Calculadora Vast. Todos los derechos reservados.",
+    copyright: "© 2026 Calculadora Vast. Todos los derechos reservados.",
     privacy: "Política de privacidad",
     terms: "Términos de servicio",
   },

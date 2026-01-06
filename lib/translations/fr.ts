@@ -5697,7 +5697,7 @@ export const frTranslations = {
       "Vastes calculatrices – Simplifiez les mathématiques avec des calculatrices en ligne gratuites",
     gridtitle1: "Rencontrez Vastes calculatrices",
     gridtitle2: "Nos Calculatrices Populaires",
-    copyright: "© 2025 Vastes calculatrices. Tous droits réservés.",
+    copyright: "© 2026 Vastes calculatrices. Tous droits réservés.",
     privacy: "Politique de confidentialité",
     terms: "Conditions d'utilisation",
   },

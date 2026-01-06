@@ -5635,7 +5635,7 @@ export const trTranslations = {
       "Vast Hesap Makinesi – Ücretsiz Çevrimiçi Hesaplayıcılarla Matematiği Basitleştirin",
     gridtitle1: "Vast Hesap Makinesi ile Tanışın",
     gridtitle2: "Popüler Hesaplayıcılarımız",
-    copyright: "© 2025 Vast Hesap Makinesi. Tüm hakları saklıdır.",
+    copyright: "© 2026 Vast Hesap Makinesi. Tüm hakları saklıdır.",
     privacy: "Gizlilik Politikası",
     terms: "Hizmet Şartları",
   },

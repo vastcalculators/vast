@@ -5676,7 +5676,7 @@ export const deTranslations = {
       "Vast Rechner – Vereinfachen Sie Mathematik mit kostenlosen Online-Rechnern",
     gridtitle1: "Lernen Sie Vast Rechner kennen",
     gridtitle2: "Unsere beliebten Rechner",
-    copyright: "© 2025 Vast Rechner. Alle Rechte vorbehalten.",
+    copyright: "© 2026 Vast Rechner. Alle Rechte vorbehalten.",
     privacy: "Datenschutz-Bestimmungen",
     terms: "Nutzungsbedingungen",
   },

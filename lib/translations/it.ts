@@ -5671,7 +5671,7 @@ export const itTranslations = {
       "Calcolatori Vast – Semplifica la matematica con calcolatrici online gratuite",
     gridtitle1: "Incontra Calcolatori Vast",
     gridtitle2: "Le Nostre Calcolatrici Popolari",
-    copyright: "© 2025 Calcolatori Vast. Tutti i diritti riservati.",
+    copyright: "© 2026 Calcolatori Vast. Tutti i diritti riservati.",
     privacy: "Politica sulla Privacy",
     terms: "Termini di Servizio",
   },

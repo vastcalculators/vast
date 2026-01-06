@@ -5494,7 +5494,7 @@ export const zhTranslations = {
     subtitle: "广阔计算器 – 使用免费的在线计算器简化数学",
     gridtitle1: "认识 广阔计算器",
     gridtitle2: "我们受欢迎的计算器",
-    copyright: "© 2025 广阔计算器。版权所有。",
+    copyright: "© 2026 广阔计算器。版权所有。",
     privacy: "隐私政策",
     terms: "服务条款",
   },

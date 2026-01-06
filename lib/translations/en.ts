@@ -5729,7 +5729,7 @@ export const enTranslations = {
     subtitle: "Vast Calculator – Simplify Math with Free Online Calculators",
     gridtitle1: "Meet Vast Calculator",
     gridtitle2: "Our Popular Calculators",
-    copyright: "© 2025 Vast Calculator. All rights reserved.",
+    copyright: "© 2026 Vast Calculator. All rights reserved.",
     privacy: "Privacy Policy",
     terms: "Terms of Service",
   },
