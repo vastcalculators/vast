@@ -71,6 +71,8 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
 
   return (
     <html lang={htmlLang} dir={isRTL ? "rtl" : "ltr"} suppressHydrationWarning>
+    <meta name="google-site-verification" content="XZo-Tyhr0oPTXceVtmo0IODQJMJRPTJRBzBE6eLRND8" />
+
       <Script
         async
         src="https://www.googletagmanager.com/gtag/js?id=G-NNPB9C2TM5"
